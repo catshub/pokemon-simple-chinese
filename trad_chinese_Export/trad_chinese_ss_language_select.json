@@ -1,0 +1,132 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "trad_chinese_ss_language_select",
+    "hash": -1485582600,
+    "langID": 10,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "SS_language_select_000",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "基本模組中只有英文版。",
+                    "strWidth": 95.390625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "翻譯可能會出現在 Nexus Mods 上。",
+                    "strWidth": 263.828125
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "SS_language_select_003",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "平假名／漢字可以在「設定」",
+                    "strWidth": 394.25
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "隨時進行更改。",
+                    "strWidth": 224.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "SS_language_select_004",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "要以這個語言",
+                    "strWidth": 192.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "開始遊戲嗎？",
+                    "strWidth": 192.0
+                }
+            ]
+        }
+    ]
+}

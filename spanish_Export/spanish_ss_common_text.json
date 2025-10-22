@@ -1,0 +1,178 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "spanish_ss_common_text",
+    "hash": -972630522,
+    "langID": 7,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "SS_common_text_01",
+            "styleInfo": {
+                "styleIndex": 64,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Se han cargado los datos correspondientes a tu",
+                    "strWidth": 613.9375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "copia de seguridad. Ten en cuenta que, cuando",
+                    "strWidth": 618.640625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "guardes la partida, se sobrescribirán los datos.",
+                    "strWidth": 600.671875
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "SS_common_text_02",
+            "styleInfo": {
+                "styleIndex": 64,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "No se pueden cargar los datos porque no existe",
+                    "strWidth": 622.265625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ninguna copia de seguridad.",
+                    "strWidth": 366.21875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Volverás a la pantalla del título.",
+                    "strWidth": 414.671875
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "SS_common_text_03",
+            "styleInfo": {
+                "styleIndex": 86,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 352,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Guardando...",
+                    "strWidth": 170.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 3,
+            "arrayIndex": 3,
+            "labelName": "SS_common_text_04",
+            "styleInfo": {
+                "styleIndex": 64,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Los datos de la partida están dañados.",
+                    "strWidth": 501.453125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Bórralos desde el menú de la consola.",
+                    "strWidth": 491.84375
+                }
+            ]
+        }
+    ]
+}

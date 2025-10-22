@@ -1,0 +1,194 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "korean_ss_common_text",
+    "hash": -972630522,
+    "langID": 8,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "SS_common_text_01",
+            "styleInfo": {
+                "styleIndex": 64,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "백업 데이터를 불러왔습니다",
+                    "strWidth": 405.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "리포트를 작성하면",
+                    "strWidth": 266.65625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "이 데이터가 기록되므로",
+                    "strWidth": 341.3125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "주의해 주십시오",
+                    "strWidth": 234.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "SS_common_text_02",
+            "styleInfo": {
+                "styleIndex": 64,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "백업 데이터가 없어서",
+                    "strWidth": 309.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "불러오지 못했습니다",
+                    "strWidth": 298.65625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "타이틀 화면으로 돌아갑니다",
+                    "strWidth": 405.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "SS_common_text_03",
+            "styleInfo": {
+                "styleIndex": 86,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 352,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "리포트 작성 중...",
+                    "strWidth": 239.09375
+                }
+            ]
+        },
+        {
+            "labelIndex": 3,
+            "arrayIndex": 3,
+            "labelName": "SS_common_text_04",
+            "styleInfo": {
+                "styleIndex": 64,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "리포트가 손상되었습니다",
+                    "strWidth": 362.65625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "본체에서 저장 데이터를",
+                    "strWidth": 341.3125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "삭제해 주십시오",
+                    "strWidth": 234.65625
+                }
+            ]
+        }
+    ]
+}

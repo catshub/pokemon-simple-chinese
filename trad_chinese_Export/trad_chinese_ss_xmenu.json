@@ -1,0 +1,599 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "trad_chinese_ss_xmenu",
+    "hash": 1032469760,
+    "langID": 10,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "SS_xmenu_27",
+            "styleInfo": {
+                "styleIndex": 86,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 352,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "寶可夢",
+                    "strWidth": 96.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "SS_xmenu_28",
+            "styleInfo": {
+                "styleIndex": 86,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 352,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "圖鑑",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "SS_xmenu_29",
+            "styleInfo": {
+                "styleIndex": 86,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 352,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "紀錄",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 3,
+            "arrayIndex": 3,
+            "labelName": "SS_xmenu_30",
+            "styleInfo": {
+                "styleIndex": 86,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 352,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "包包",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 4,
+            "arrayIndex": 4,
+            "labelName": "SS_xmenu_31",
+            "styleInfo": {
+                "styleIndex": 86,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 352,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "城鎮地圖",
+                    "strWidth": 128.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 5,
+            "arrayIndex": 5,
+            "labelName": "SS_xmenu_38",
+            "styleInfo": {
+                "styleIndex": 86,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 352,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "設定",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 6,
+            "arrayIndex": 6,
+            "labelName": "SS_xmenu_40",
+            "styleInfo": {
+                "styleIndex": 86,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 352,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "神秘禮物",
+                    "strWidth": 128.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 7,
+            "arrayIndex": 7,
+            "labelName": "SS_xmenu_42",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "確定",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 8,
+            "arrayIndex": 8,
+            "labelName": "SS_xmenu_43",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "返回",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 9,
+            "arrayIndex": 9,
+            "labelName": "SS_xmenu_44",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "替換",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 10,
+            "arrayIndex": 10,
+            "labelName": "SS_xmenu_46",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "紀錄",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 11,
+            "arrayIndex": 11,
+            "labelName": "SS_xmenu_47",
+            "styleInfo": {
+                "styleIndex": 86,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 352,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "訓練家卡",
+                    "strWidth": 128.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 12,
+            "arrayIndex": 12,
+            "labelName": "SS_xmenu_48",
+            "styleInfo": {
+                "styleIndex": 86,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 352,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "球殼裝飾",
+                    "strWidth": 128.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 13,
+            "arrayIndex": 13,
+            "labelName": "SS_xmenu_49",
+            "styleInfo": {
+                "styleIndex": 86,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 352,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "退出",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 14,
+            "arrayIndex": 14,
+            "labelName": "SS_xmenu_50",
+            "styleInfo": {
+                "styleIndex": 50,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "是",
+                    "strWidth": 32.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 15,
+            "arrayIndex": 15,
+            "labelName": "SS_xmenu_51",
+            "styleInfo": {
+                "styleIndex": 50,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "否",
+                    "strWidth": 32.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 16,
+            "arrayIndex": 16,
+            "labelName": "SS_xmenu_52",
+            "styleInfo": {
+                "styleIndex": 147,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 126,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 17,
+            "arrayIndex": 17,
+            "labelName": "SS_xmenu_53",
+            "styleInfo": {
+                "styleIndex": 146,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 84,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "x",
+                    "strWidth": 15.234375
+                }
+            ]
+        },
+        {
+            "labelIndex": 18,
+            "arrayIndex": 18,
+            "labelName": "SS_xmenu_54",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "退出",
+                    "strWidth": 64.0
+                }
+            ]
+        }
+    ]
+}

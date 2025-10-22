@@ -1,0 +1,1038 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "korean_ss_strinput",
+    "hash": 1422704620,
+    "langID": 8,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "SS_strinput_000",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "당신의 이름은?",
+                    "strWidth": 220.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "SS_strinput_002",
+            "styleInfo": {
+                "styleIndex": 70,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1008,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "그 이름은 사용할 수 없습니다",
+                    "strWidth": 426.625
+                }
+            ]
+        },
+        {
+            "labelIndex": 3,
+            "arrayIndex": 2,
+            "labelName": "SS_strinput_004",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "이름을 입력해 주십시오",
+                    "strWidth": 341.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 4,
+            "arrayIndex": 3,
+            "labelName": "SS_strinput_005",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 1,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "의 닉네임은?",
+                    "strWidth": 188.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 5,
+            "arrayIndex": 4,
+            "labelName": "SS_strinput_006",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 1,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "(♂)의 닉네임은?",
+                    "strWidth": 244.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 6,
+            "arrayIndex": 5,
+            "labelName": "SS_strinput_007",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 1,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "(♀)의 닉네임은?",
+                    "strWidth": 244.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 7,
+            "arrayIndex": 6,
+            "labelName": "SS_strinput_010",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "박스의 이름은?",
+                    "strWidth": 220.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 8,
+            "arrayIndex": 7,
+            "labelName": "SS_strinput_012",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "배틀팀의 이름은?",
+                    "strWidth": 252.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 9,
+            "arrayIndex": 8,
+            "labelName": "SS_strinput_015",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "시리얼 코드/암호를 입력해 주십시오",
+                    "strWidth": 527.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 10,
+            "arrayIndex": 9,
+            "labelName": "SS_strinput_021",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "당신이 태어난 달은?",
+                    "strWidth": 295.09375
+                }
+            ]
+        },
+        {
+            "labelIndex": 11,
+            "arrayIndex": 10,
+            "labelName": "SS_strinput_022",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "당신이 태어난 날은?",
+                    "strWidth": 295.09375
+                }
+            ]
+        },
+        {
+            "labelIndex": 12,
+            "arrayIndex": 11,
+            "labelName": "SS_strinput_026",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "8자리의 패스워드를 설정해 주십시오",
+                    "strWidth": 533.09375
+                }
+            ]
+        },
+        {
+            "labelIndex": 13,
+            "arrayIndex": 12,
+            "labelName": "SS_strinput_028",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "대회 ID를 입력해 주십시오",
+                    "strWidth": 387.25
+                }
+            ]
+        },
+        {
+            "labelIndex": 14,
+            "arrayIndex": 13,
+            "labelName": "SS_strinput_029",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "대전그룹번호를 입력해 주십시오",
+                    "strWidth": 469.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 15,
+            "arrayIndex": 14,
+            "labelName": "SS_strinput_030",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "렌탈할 팀 ID를 입력해 주십시오",
+                    "strWidth": 461.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 16,
+            "arrayIndex": 15,
+            "labelName": "SS_strinput_031",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "패스코드를 입력해 주십시오",
+                    "strWidth": 405.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 17,
+            "arrayIndex": 16,
+            "labelName": "SS_strinput_032",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "대회 이름을 입력해 주십시오",
+                    "strWidth": 415.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 18,
+            "arrayIndex": 17,
+            "labelName": "SS_strinput_033",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "대회의 부제를 입력해 주십시오",
+                    "strWidth": 447.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 19,
+            "arrayIndex": 18,
+            "labelName": "SS_strinput_034",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "입력하지 않아도 대회를 개최할 수 있습니다",
+                    "strWidth": 629.28125
+                }
+            ]
+        },
+        {
+            "labelIndex": 20,
+            "arrayIndex": 19,
+            "labelName": "SS_strinput_035",
+            "styleInfo": {
+                "styleIndex": 70,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1008,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "숫자는 5자리까지 입력할 수 있습니다",
+                    "strWidth": 543.75
+                }
+            ]
+        },
+        {
+            "labelIndex": 21,
+            "arrayIndex": 20,
+            "labelName": "SS_strinput_037",
+            "styleInfo": {
+                "styleIndex": 70,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1008,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "1부터 12까지의",
+                    "strWidth": 234.03125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "숫자를 입력해 주십시오",
+                    "strWidth": 341.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 22,
+            "arrayIndex": 21,
+            "labelName": "SS_strinput_038",
+            "styleInfo": {
+                "styleIndex": 70,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1008,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "1부터 31까지의",
+                    "strWidth": 234.03125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "숫자를 입력해 주십시오",
+                    "strWidth": 341.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 23,
+            "arrayIndex": 22,
+            "labelName": "SS_strinput_039",
+            "styleInfo": {
+                "styleIndex": 70,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1008,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "1부터 30까지의",
+                    "strWidth": 234.03125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "숫자를 입력해 주십시오",
+                    "strWidth": 341.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 24,
+            "arrayIndex": 23,
+            "labelName": "SS_strinput_040",
+            "styleInfo": {
+                "styleIndex": 70,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1008,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "1부터 29까지의",
+                    "strWidth": 234.03125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "숫자를 입력해 주십시오",
+                    "strWidth": 341.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 25,
+            "arrayIndex": 24,
+            "labelName": "SS_strinput_041",
+            "styleInfo": {
+                "styleIndex": 70,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1008,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "유효하지 않은 입력입니다",
+                    "strWidth": 373.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 25,
+            "labelName": "SS_strinput_003",
+            "styleInfo": {
+                "styleIndex": 70,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1008,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 18,
+                    "groupID": 1,
+                    "tagID": 43,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": -1,
+                    "groupID": 25,
+                    "tagID": 0,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 1,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "“",
+                    "strWidth": 13.375
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "”",
+                    "strWidth": 13.375
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": 0.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "사용할 수 없습니다",
+                    "strWidth": 277.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 26,
+            "arrayIndex": 26,
+            "labelName": "SS_strinput_042",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "친구의 이름은?",
+                    "strWidth": 220.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 27,
+            "arrayIndex": 27,
+            "labelName": "SS_strinput_043",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "그룹의 이름은?",
+                    "strWidth": 220.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 28,
+            "arrayIndex": 28,
+            "labelName": "SS_strinput_044",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "고마움을 전하고 싶은 상대는?",
+                    "strWidth": 433.75
+                }
+            ]
+        }
+    ]
+}

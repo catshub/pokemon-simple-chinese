@@ -1,0 +1,140 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "spanish_ss_language_select",
+    "hash": -1485582600,
+    "langID": 7,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "SS_language_select_000",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Gracias por descargar el parche en español.",
+                    "strWidth": 538.28125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 4,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Esta traducción ha sido hecha por la comunidad.",
+                    "strWidth": 7.265625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 4,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Puedes reportar problemas por Discord.",
+                    "strWidth": 7.265625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Más información en Nexus Mods.",
+                    "strWidth": 532.359375
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "SS_language_select_003",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Puedes alternar entre hiragana y kanji",
+                    "strWidth": 487.953125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "cuando quieras en \"Opciones\".",
+                    "strWidth": 398.015625
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "SS_language_select_004",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "¿Seguro que quieres jugar en este idioma?",
+                    "strWidth": 550.140625
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,698 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "korean_dlp_contestwaza_info",
+    "hash": 1016260163,
+    "langID": 8,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "CONTESTWAZA_INFO_000",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "―",
+                    "strWidth": 32.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "―",
+                    "strWidth": 32.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "―",
+                    "strWidth": 32.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "CONTESTWAZA_INFO_001",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "추가 효과 없음",
+                    "strWidth": 213.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "CONTESTWAZA_INFO_002",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "초 동안",
+                    "strWidth": 106.65625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "노트 판정에서 실패가 나오지 않는다",
+                    "strWidth": 522.625
+                }
+            ]
+        },
+        {
+            "labelIndex": 10,
+            "arrayIndex": 3,
+            "labelName": "CONTESTWAZA_INFO_018",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "사용할 수 없는 기술입니다.",
+                    "strWidth": 392.5625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "다시 배우게 할 수 없지만",
+                    "strWidth": 362.625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "기술을 잊게 하는 것을 권장합니다.",
+                    "strWidth": 499.21875
+                }
+            ]
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 3,
+            "arrayIndex": 5,
+            "labelName": "CONTESTWAZA_INFO_005",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "초 동안",
+                    "strWidth": 106.65625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "텐션이 내려가지 않는다",
+                    "strWidth": 341.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 4,
+            "arrayIndex": 8,
+            "labelName": "CONTESTWAZA_INFO_008",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "초 동안",
+                    "strWidth": 106.65625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "하트 게이지가 조금 오르기 쉬워진다",
+                    "strWidth": 522.625
+                }
+            ]
+        },
+        {
+            "labelIndex": 5,
+            "arrayIndex": 9,
+            "labelName": "CONTESTWAZA_INFO_009",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "초 동안",
+                    "strWidth": 106.65625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "하트 게이지가 오르기 쉬워진다",
+                    "strWidth": 447.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 6,
+            "arrayIndex": 10,
+            "labelName": "CONTESTWAZA_INFO_010",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "초 동안",
+                    "strWidth": 106.65625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "하트 게이지가 매우 오르기 쉬워진다",
+                    "strWidth": 522.625
+                }
+            ]
+        },
+        {
+            "labelIndex": 7,
+            "arrayIndex": 11,
+            "labelName": "CONTESTWAZA_INFO_011",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 0,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "포켓몬의 텐션이 플러스인 경우",
+                    "strWidth": 447.96875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "받는 쇼 포인트가 ",
+                    "strWidth": 255.96875
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " 증가한다",
+                    "strWidth": 138.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 8,
+            "arrayIndex": 14,
+            "labelName": "CONTESTWAZA_INFO_014",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 0,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "포켓몬의 텐션이 마이너스인 경우",
+                    "strWidth": 479.96875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "받는 쇼 포인트가 ",
+                    "strWidth": 255.96875
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " 증가한다",
+                    "strWidth": 138.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 9,
+            "arrayIndex": 17,
+            "labelName": "CONTESTWAZA_INFO_017",
+            "styleInfo": {
+                "styleIndex": 109,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 736,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "포켓몬의 텐션에 따라",
+                    "strWidth": 309.3125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "쇼 포인트 1~5를 받는다",
+                    "strWidth": 354.5
+                }
+            ]
+        }
+    ]
+}
