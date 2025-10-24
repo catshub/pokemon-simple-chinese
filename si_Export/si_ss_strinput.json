@@ -1,1038 +1,1038 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 3652094840918934080
-  },
-  "m_Name": "si_ss_strinput",
-  "hash": 1422704620,
-  "langID": 8,
-  "isResident": 0,
-  "isKanji": 0,
-  "labelDataArray": [
-    {
-      "labelIndex": 0,
-      "arrayIndex": 0,
-      "labelName": "SS_strinput_000",
-      "styleInfo": {
-        "styleIndex": 73,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1092,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "您的名字是？",
-          "strWidth": 220.4375
-        }
-      ]
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
     },
-    {
-      "labelIndex": 1,
-      "arrayIndex": 1,
-      "labelName": "SS_strinput_002",
-      "styleInfo": {
-        "styleIndex": 70,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1008,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "無法使用這個名字。",
-          "strWidth": 426.625
-        }
-      ]
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
     },
-    {
-      "labelIndex": 3,
-      "arrayIndex": 2,
-      "labelName": "SS_strinput_004",
-      "styleInfo": {
-        "styleIndex": 73,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1092,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
+    "m_Name": "si_ss_strinput",
+    "hash": 1422704620,
+    "langID": 8,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "請輸入名字。",
-          "strWidth": 341.3125
-        }
-      ]
-    },
-    {
-      "labelIndex": 4,
-      "arrayIndex": 3,
-      "labelName": "SS_strinput_005",
-      "styleInfo": {
-        "styleIndex": 73,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1092,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [
-        {
-          "tagIndex": 0,
-          "groupID": 1,
-          "tagID": 1,
-          "tagPatternID": 0,
-          "forceArticle": 0,
-          "tagParameter": 0,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        }
-      ],
-      "wordDataArray": [
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 0,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": -1.0
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "SS_strinput_000",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "您的名字是？",
+                    "strWidth": 220.4375
+                }
+            ]
         },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "的名字是？",
-          "strWidth": 188.4375
-        }
-      ]
-    },
-    {
-      "labelIndex": 5,
-      "arrayIndex": 4,
-      "labelName": "SS_strinput_006",
-      "styleInfo": {
-        "styleIndex": 73,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1092,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [
-        {
-          "tagIndex": 0,
-          "groupID": 1,
-          "tagID": 1,
-          "tagPatternID": 0,
-          "forceArticle": 0,
-          "tagParameter": 0,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        }
-      ],
-      "wordDataArray": [
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 0,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": -1.0
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "SS_strinput_002",
+            "styleInfo": {
+                "styleIndex": 70,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1008,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "無法使用這個名字。",
+                    "strWidth": 426.625
+                }
+            ]
         },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "（♂）的名字是？",
-          "strWidth": 244.125
-        }
-      ]
-    },
-    {
-      "labelIndex": 6,
-      "arrayIndex": 5,
-      "labelName": "SS_strinput_007",
-      "styleInfo": {
-        "styleIndex": 73,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1092,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [
-        {
-          "tagIndex": 0,
-          "groupID": 1,
-          "tagID": 1,
-          "tagPatternID": 0,
-          "forceArticle": 0,
-          "tagParameter": 0,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        }
-      ],
-      "wordDataArray": [
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 0,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": -1.0
+            "labelIndex": 3,
+            "arrayIndex": 2,
+            "labelName": "SS_strinput_004",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "請輸入名字。",
+                    "strWidth": 341.3125
+                }
+            ]
         },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "（♀）的名字是？",
-          "strWidth": 244.125
-        }
-      ]
-    },
-    {
-      "labelIndex": 7,
-      "arrayIndex": 6,
-      "labelName": "SS_strinput_010",
-      "styleInfo": {
-        "styleIndex": 73,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1092,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "盒子的名字是？",
-          "strWidth": 220.4375
-        }
-      ]
-    },
-    {
-      "labelIndex": 8,
-      "arrayIndex": 7,
-      "labelName": "SS_strinput_012",
-      "styleInfo": {
-        "styleIndex": 73,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1092,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "對戰隊伍的名字是？",
-          "strWidth": 252.4375
-        }
-      ]
-    },
-    {
-      "labelIndex": 9,
-      "arrayIndex": 8,
-      "labelName": "SS_strinput_015",
-      "styleInfo": {
-        "styleIndex": 73,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1092,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "請輸入序號／密語。",
-          "strWidth": 527.96875
-        }
-      ]
-    },
-    {
-      "labelIndex": 10,
-      "arrayIndex": 9,
-      "labelName": "SS_strinput_021",
-      "styleInfo": {
-        "styleIndex": 73,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1092,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "您的出生月份是？",
-          "strWidth": 295.09375
-        }
-      ]
-    },
-    {
-      "labelIndex": 11,
-      "arrayIndex": 10,
-      "labelName": "SS_strinput_022",
-      "styleInfo": {
-        "styleIndex": 73,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1092,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "您的出生日期是？",
-          "strWidth": 295.09375
-        }
-      ]
-    },
-    {
-      "labelIndex": 12,
-      "arrayIndex": 11,
-      "labelName": "SS_strinput_026",
-      "styleInfo": {
-        "styleIndex": 73,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1092,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "請設定８位密碼。",
-          "strWidth": 533.09375
-        }
-      ]
-    },
-    {
-      "labelIndex": 13,
-      "arrayIndex": 12,
-      "labelName": "SS_strinput_028",
-      "styleInfo": {
-        "styleIndex": 73,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1092,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "請輸入大賽ＩＤ。",
-          "strWidth": 387.25
-        }
-      ]
-    },
-    {
-      "labelIndex": 14,
-      "arrayIndex": 13,
-      "labelName": "SS_strinput_029",
-      "styleInfo": {
-        "styleIndex": 73,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1092,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "請輸入對戰團隊編號。",
-          "strWidth": 469.3125
-        }
-      ]
-    },
-    {
-      "labelIndex": 15,
-      "arrayIndex": 14,
-      "labelName": "SS_strinput_030",
-      "styleInfo": {
-        "styleIndex": 73,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1092,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "請輸入想租用的隊伍ＩＤ。",
-          "strWidth": 461.90625
-        }
-      ]
-    },
-    {
-      "labelIndex": 16,
-      "arrayIndex": 15,
-      "labelName": "SS_strinput_031",
-      "styleInfo": {
-        "styleIndex": 73,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1092,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "請輸入密碼。",
-          "strWidth": 405.3125
-        }
-      ]
-    },
-    {
-      "labelIndex": 17,
-      "arrayIndex": 16,
-      "labelName": "SS_strinput_032",
-      "styleInfo": {
-        "styleIndex": 73,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1092,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "請輸入大賽名稱。",
-          "strWidth": 415.96875
-        }
-      ]
-    },
-    {
-      "labelIndex": 18,
-      "arrayIndex": 17,
-      "labelName": "SS_strinput_033",
-      "styleInfo": {
-        "styleIndex": 73,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1092,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "請輸入大賽的副標題。",
-          "strWidth": 447.96875
-        }
-      ]
-    },
-    {
-      "labelIndex": 19,
-      "arrayIndex": 18,
-      "labelName": "SS_strinput_034",
-      "styleInfo": {
-        "styleIndex": 73,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1092,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "不輸入也能舉辦大賽。",
-          "strWidth": 629.28125
-        }
-      ]
-    },
-    {
-      "labelIndex": 20,
-      "arrayIndex": 19,
-      "labelName": "SS_strinput_035",
-      "styleInfo": {
-        "styleIndex": 70,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1008,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "請輸入不超過５位的數字。",
-          "strWidth": 543.75
-        }
-      ]
-    },
-    {
-      "labelIndex": 21,
-      "arrayIndex": 20,
-      "labelName": "SS_strinput_037",
-      "styleInfo": {
-        "styleIndex": 70,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1008,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "請輸入１到１２之間的數字。",
-          "strWidth": 234.03125
+            "labelIndex": 4,
+            "arrayIndex": 3,
+            "labelName": "SS_strinput_005",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 1,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "的名字是？",
+                    "strWidth": 188.4375
+                }
+            ]
         },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "숫자를 입력해 주십시오",
-          "strWidth": 341.3125
-        }
-      ]
-    },
-    {
-      "labelIndex": 22,
-      "arrayIndex": 21,
-      "labelName": "SS_strinput_038",
-      "styleInfo": {
-        "styleIndex": 70,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1008,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "請輸入１到３１之間的數字。",
-          "strWidth": 234.03125
+            "labelIndex": 5,
+            "arrayIndex": 4,
+            "labelName": "SS_strinput_006",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 1,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "（♂）的名字是？",
+                    "strWidth": 244.125
+                }
+            ]
         },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "숫자를 입력해 주십시오",
-          "strWidth": 341.3125
-        }
-      ]
-    },
-    {
-      "labelIndex": 23,
-      "arrayIndex": 22,
-      "labelName": "SS_strinput_039",
-      "styleInfo": {
-        "styleIndex": 70,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1008,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "請輸入１到３０之間的數字。",
-          "strWidth": 234.03125
+            "labelIndex": 6,
+            "arrayIndex": 5,
+            "labelName": "SS_strinput_007",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 1,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "（♀）的名字是？",
+                    "strWidth": 244.125
+                }
+            ]
         },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "숫자를 입력해 주십시오",
-          "strWidth": 341.3125
-        }
-      ]
-    },
-    {
-      "labelIndex": 24,
-      "arrayIndex": 23,
-      "labelName": "SS_strinput_040",
-      "styleInfo": {
-        "styleIndex": 70,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1008,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "請輸入１到２９之間的數字。",
-          "strWidth": 234.03125
+            "labelIndex": 7,
+            "arrayIndex": 6,
+            "labelName": "SS_strinput_010",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "盒子的名字是？",
+                    "strWidth": 220.4375
+                }
+            ]
         },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "숫자를 입력해 주십시오",
-          "strWidth": 341.3125
-        }
-      ]
-    },
-    {
-      "labelIndex": 25,
-      "arrayIndex": 24,
-      "labelName": "SS_strinput_041",
-      "styleInfo": {
-        "styleIndex": 70,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1008,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "所輸入的內容無效。",
-          "strWidth": 373.3125
-        }
-      ]
-    },
-    {
-      "labelIndex": 2,
-      "arrayIndex": 25,
-      "labelName": "SS_strinput_003",
-      "styleInfo": {
-        "styleIndex": 70,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1008,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [
-        {
-          "tagIndex": 18,
-          "groupID": 1,
-          "tagID": 43,
-          "tagPatternID": 0,
-          "forceArticle": 0,
-          "tagParameter": 0,
-          "tagWordArray": [],
-          "forceGrmID": 0
+            "labelIndex": 8,
+            "arrayIndex": 7,
+            "labelName": "SS_strinput_012",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "對戰隊伍的名字是？",
+                    "strWidth": 252.4375
+                }
+            ]
         },
         {
-          "tagIndex": -1,
-          "groupID": 25,
-          "tagID": 0,
-          "tagPatternID": 5,
-          "forceArticle": 0,
-          "tagParameter": 1,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        }
-      ],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "無法使用",
-          "strWidth": 13.375
+            "labelIndex": 9,
+            "arrayIndex": 8,
+            "labelName": "SS_strinput_015",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "請輸入序號／密語。",
+                    "strWidth": 527.96875
+                }
+            ]
         },
         {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 0,
-          "tagValue": 0.0,
-          "str": "「",
-          "strWidth": -1.0
+            "labelIndex": 10,
+            "arrayIndex": 9,
+            "labelName": "SS_strinput_021",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "您的出生月份是？",
+                    "strWidth": 295.09375
+                }
+            ]
         },
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": 13.375
+            "labelIndex": 11,
+            "arrayIndex": 10,
+            "labelName": "SS_strinput_022",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "您的出生日期是？",
+                    "strWidth": 295.09375
+                }
+            ]
         },
         {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 1,
-          "tagValue": 0.0,
-          "str": "」命名。",
-          "strWidth": -1.0
+            "labelIndex": 12,
+            "arrayIndex": 11,
+            "labelName": "SS_strinput_026",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "請設定８位密碼。",
+                    "strWidth": 533.09375
+                }
+            ]
         },
         {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": 0.0
+            "labelIndex": 13,
+            "arrayIndex": 12,
+            "labelName": "SS_strinput_028",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "請輸入大賽ＩＤ。",
+                    "strWidth": 387.25
+                }
+            ]
         },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "사용할 수 없습니다",
-          "strWidth": 277.3125
-        }
-      ]
-    },
-    {
-      "labelIndex": 26,
-      "arrayIndex": 26,
-      "labelName": "SS_strinput_042",
-      "styleInfo": {
-        "styleIndex": 73,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1092,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
+            "labelIndex": 14,
+            "arrayIndex": 13,
+            "labelName": "SS_strinput_029",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "請輸入對戰團隊編號。",
+                    "strWidth": 469.3125
+                }
+            ]
+        },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "朋友的名字是？",
-          "strWidth": 220.4375
-        }
-      ]
-    },
-    {
-      "labelIndex": 27,
-      "arrayIndex": 27,
-      "labelName": "SS_strinput_043",
-      "styleInfo": {
-        "styleIndex": 73,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1092,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
+            "labelIndex": 15,
+            "arrayIndex": 14,
+            "labelName": "SS_strinput_030",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "請輸入想租用的隊伍ＩＤ。",
+                    "strWidth": 461.90625
+                }
+            ]
+        },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "群組的名字是？",
-          "strWidth": 220.4375
-        }
-      ]
-    },
-    {
-      "labelIndex": 28,
-      "arrayIndex": 28,
-      "labelName": "SS_strinput_044",
-      "styleInfo": {
-        "styleIndex": 73,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 1092,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
+            "labelIndex": 16,
+            "arrayIndex": 15,
+            "labelName": "SS_strinput_031",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "請輸入密碼。",
+                    "strWidth": 405.3125
+                }
+            ]
+        },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "您想要對誰表達謝意？",
-          "strWidth": 433.75
+            "labelIndex": 17,
+            "arrayIndex": 16,
+            "labelName": "SS_strinput_032",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "請輸入大賽名稱。",
+                    "strWidth": 415.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 18,
+            "arrayIndex": 17,
+            "labelName": "SS_strinput_033",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "請輸入大賽的副標題。",
+                    "strWidth": 447.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 19,
+            "arrayIndex": 18,
+            "labelName": "SS_strinput_034",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "不輸入也能舉辦大賽。",
+                    "strWidth": 629.28125
+                }
+            ]
+        },
+        {
+            "labelIndex": 20,
+            "arrayIndex": 19,
+            "labelName": "SS_strinput_035",
+            "styleInfo": {
+                "styleIndex": 70,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1008,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "請輸入不超過５位的數字。",
+                    "strWidth": 543.75
+                }
+            ]
+        },
+        {
+            "labelIndex": 21,
+            "arrayIndex": 20,
+            "labelName": "SS_strinput_037",
+            "styleInfo": {
+                "styleIndex": 70,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1008,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "請輸入１到１２之間的數字。",
+                    "strWidth": 234.03125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "숫자를 입력해 주십시오",
+                    "strWidth": 341.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 22,
+            "arrayIndex": 21,
+            "labelName": "SS_strinput_038",
+            "styleInfo": {
+                "styleIndex": 70,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1008,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "請輸入１到３１之間的數字。",
+                    "strWidth": 234.03125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "숫자를 입력해 주십시오",
+                    "strWidth": 341.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 23,
+            "arrayIndex": 22,
+            "labelName": "SS_strinput_039",
+            "styleInfo": {
+                "styleIndex": 70,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1008,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "請輸入１到３０之間的數字。",
+                    "strWidth": 234.03125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "숫자를 입력해 주십시오",
+                    "strWidth": 341.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 24,
+            "arrayIndex": 23,
+            "labelName": "SS_strinput_040",
+            "styleInfo": {
+                "styleIndex": 70,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1008,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "請輸入１到２９之間的數字。",
+                    "strWidth": 234.03125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "숫자를 입력해 주십시오",
+                    "strWidth": 341.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 25,
+            "arrayIndex": 24,
+            "labelName": "SS_strinput_041",
+            "styleInfo": {
+                "styleIndex": 70,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1008,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "所輸入的內容無效。",
+                    "strWidth": 373.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 25,
+            "labelName": "SS_strinput_003",
+            "styleInfo": {
+                "styleIndex": 70,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1008,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 18,
+                    "groupID": 1,
+                    "tagID": 43,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": -1,
+                    "groupID": 25,
+                    "tagID": 0,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 1,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "無法使用",
+                    "strWidth": 13.375
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "「",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": 13.375
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "」命名。",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": 0.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "사용할 수 없습니다",
+                    "strWidth": 277.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 26,
+            "arrayIndex": 26,
+            "labelName": "SS_strinput_042",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "朋友的名字是？",
+                    "strWidth": 220.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 27,
+            "arrayIndex": 27,
+            "labelName": "SS_strinput_043",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "群組的名字是？",
+                    "strWidth": 220.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 28,
+            "arrayIndex": 28,
+            "labelName": "SS_strinput_044",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "您想要對誰表達謝意？",
+                    "strWidth": 433.75
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }

@@ -1,558 +1,558 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 3652094840918934080
-  },
-  "m_Name": "si_ss_typename",
-  "hash": -458416506,
-  "langID": 8,
-  "isResident": 0,
-  "isKanji": 0,
-  "labelDataArray": [
-    {
-      "labelIndex": 0,
-      "arrayIndex": 0,
-      "labelName": "TYPENAME_000",
-      "styleInfo": {
-        "styleIndex": 119,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 252,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "一般",
-          "strWidth": 64.0
-        }
-      ]
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
     },
-    {
-      "labelIndex": 1,
-      "arrayIndex": 1,
-      "labelName": "TYPENAME_001",
-      "styleInfo": {
-        "styleIndex": 119,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 252,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "格鬥",
-          "strWidth": 64.0
-        }
-      ]
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
     },
-    {
-      "labelIndex": 2,
-      "arrayIndex": 2,
-      "labelName": "TYPENAME_002",
-      "styleInfo": {
-        "styleIndex": 119,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 252,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
+    "m_Name": "si_ss_typename",
+    "hash": -458416506,
+    "langID": 8,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "飛行",
-          "strWidth": 64.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 3,
-      "arrayIndex": 3,
-      "labelName": "TYPENAME_003",
-      "styleInfo": {
-        "styleIndex": 119,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 252,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "TYPENAME_000",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "一般",
+                    "strWidth": 64.0
+                }
+            ]
+        },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "毒",
-          "strWidth": 32.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 4,
-      "arrayIndex": 4,
-      "labelName": "TYPENAME_004",
-      "styleInfo": {
-        "styleIndex": 119,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 252,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "TYPENAME_001",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "格鬥",
+                    "strWidth": 64.0
+                }
+            ]
+        },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "地面",
-          "strWidth": 32.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 5,
-      "arrayIndex": 5,
-      "labelName": "TYPENAME_005",
-      "styleInfo": {
-        "styleIndex": 119,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 252,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "TYPENAME_002",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "飛行",
+                    "strWidth": 64.0
+                }
+            ]
+        },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "岩石",
-          "strWidth": 64.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 6,
-      "arrayIndex": 6,
-      "labelName": "TYPENAME_006",
-      "styleInfo": {
-        "styleIndex": 119,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 252,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
+            "labelIndex": 3,
+            "arrayIndex": 3,
+            "labelName": "TYPENAME_003",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "毒",
+                    "strWidth": 32.0
+                }
+            ]
+        },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "蟲",
-          "strWidth": 64.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 7,
-      "arrayIndex": 7,
-      "labelName": "TYPENAME_007",
-      "styleInfo": {
-        "styleIndex": 119,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 252,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
+            "labelIndex": 4,
+            "arrayIndex": 4,
+            "labelName": "TYPENAME_004",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "地面",
+                    "strWidth": 32.0
+                }
+            ]
+        },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "幽靈",
-          "strWidth": 96.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 8,
-      "arrayIndex": 8,
-      "labelName": "TYPENAME_008",
-      "styleInfo": {
-        "styleIndex": 119,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 252,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
+            "labelIndex": 5,
+            "arrayIndex": 5,
+            "labelName": "TYPENAME_005",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "岩石",
+                    "strWidth": 64.0
+                }
+            ]
+        },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "鋼",
-          "strWidth": 64.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 9,
-      "arrayIndex": 9,
-      "labelName": "TYPENAME_010",
-      "styleInfo": {
-        "styleIndex": 119,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 252,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
+            "labelIndex": 6,
+            "arrayIndex": 6,
+            "labelName": "TYPENAME_006",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "蟲",
+                    "strWidth": 64.0
+                }
+            ]
+        },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "火",
-          "strWidth": 64.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 10,
-      "arrayIndex": 10,
-      "labelName": "TYPENAME_011",
-      "styleInfo": {
-        "styleIndex": 119,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 252,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
+            "labelIndex": 7,
+            "arrayIndex": 7,
+            "labelName": "TYPENAME_007",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "幽靈",
+                    "strWidth": 96.0
+                }
+            ]
+        },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "水",
-          "strWidth": 32.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 11,
-      "arrayIndex": 11,
-      "labelName": "TYPENAME_012",
-      "styleInfo": {
-        "styleIndex": 119,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 252,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
+            "labelIndex": 8,
+            "arrayIndex": 8,
+            "labelName": "TYPENAME_008",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "鋼",
+                    "strWidth": 64.0
+                }
+            ]
+        },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "草",
-          "strWidth": 32.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 12,
-      "arrayIndex": 12,
-      "labelName": "TYPENAME_013",
-      "styleInfo": {
-        "styleIndex": 119,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 252,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
+            "labelIndex": 9,
+            "arrayIndex": 9,
+            "labelName": "TYPENAME_010",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "火",
+                    "strWidth": 64.0
+                }
+            ]
+        },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "電",
-          "strWidth": 64.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 13,
-      "arrayIndex": 13,
-      "labelName": "TYPENAME_014",
-      "styleInfo": {
-        "styleIndex": 119,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 252,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
+            "labelIndex": 10,
+            "arrayIndex": 10,
+            "labelName": "TYPENAME_011",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "水",
+                    "strWidth": 32.0
+                }
+            ]
+        },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "超能力",
-          "strWidth": 96.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 14,
-      "arrayIndex": 14,
-      "labelName": "TYPENAME_015",
-      "styleInfo": {
-        "styleIndex": 119,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 252,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
+            "labelIndex": 11,
+            "arrayIndex": 11,
+            "labelName": "TYPENAME_012",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "草",
+                    "strWidth": 32.0
+                }
+            ]
+        },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "冰",
-          "strWidth": 64.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 15,
-      "arrayIndex": 15,
-      "labelName": "TYPENAME_016",
-      "styleInfo": {
-        "styleIndex": 119,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 252,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
+            "labelIndex": 12,
+            "arrayIndex": 12,
+            "labelName": "TYPENAME_013",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "電",
+                    "strWidth": 64.0
+                }
+            ]
+        },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "龍",
-          "strWidth": 96.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 16,
-      "arrayIndex": 16,
-      "labelName": "TYPENAME_017",
-      "styleInfo": {
-        "styleIndex": 119,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 252,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
+            "labelIndex": 13,
+            "arrayIndex": 13,
+            "labelName": "TYPENAME_014",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "超能力",
+                    "strWidth": 96.0
+                }
+            ]
+        },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "惡",
-          "strWidth": 32.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 17,
-      "arrayIndex": 17,
-      "labelName": "TYPENAME_018",
-      "styleInfo": {
-        "styleIndex": 119,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 252,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
+            "labelIndex": 14,
+            "arrayIndex": 14,
+            "labelName": "TYPENAME_015",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "冰",
+                    "strWidth": 64.0
+                }
+            ]
+        },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "妖精",
-          "strWidth": 96.0
+            "labelIndex": 15,
+            "arrayIndex": 15,
+            "labelName": "TYPENAME_016",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "龍",
+                    "strWidth": 96.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 16,
+            "arrayIndex": 16,
+            "labelName": "TYPENAME_017",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "惡",
+                    "strWidth": 32.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 17,
+            "arrayIndex": 17,
+            "labelName": "TYPENAME_018",
+            "styleInfo": {
+                "styleIndex": 119,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "妖精",
+                    "strWidth": 96.0
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }

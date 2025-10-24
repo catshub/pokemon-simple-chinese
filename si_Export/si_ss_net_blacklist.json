@@ -1,1244 +1,1244 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 3652094840918934080
-  },
-  "m_Name": "si_ss_net_blacklist",
-  "hash": 827247488,
-  "langID": 8,
-  "isResident": 0,
-  "isKanji": 0,
-  "labelDataArray": [
-    {
-      "labelIndex": 0,
-      "arrayIndex": 0,
-      "labelName": "SS_net_blacklist_00",
-      "styleInfo": {
-        "styleIndex": 83,
-        "colorIndex": -1,
-        "fontSize": 32,
-        "maxWidth": 320,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "確定",
-          "strWidth": 64.0
-        }
-      ]
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
     },
-    {
-      "labelIndex": 1,
-      "arrayIndex": 1,
-      "labelName": "SS_net_blacklist_01",
-      "styleInfo": {
-        "styleIndex": 83,
-        "colorIndex": -1,
-        "fontSize": 32,
-        "maxWidth": 320,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "返回",
-          "strWidth": 128.0
-        }
-      ]
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
     },
-    {
-      "labelIndex": 2,
-      "arrayIndex": 2,
-      "labelName": "SS_net_blacklist_02",
-      "styleInfo": {
-        "styleIndex": 34,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 168,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
+    "m_Name": "si_ss_net_blacklist",
+    "hash": 827247488,
+    "langID": 8,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "是",
-          "strWidth": 32.0
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "SS_net_blacklist_00",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "確定",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "SS_net_blacklist_01",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "返回",
+                    "strWidth": 128.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "SS_net_blacklist_02",
+            "styleInfo": {
+                "styleIndex": 34,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 168,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "是",
+                    "strWidth": 32.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 3,
+            "arrayIndex": 3,
+            "labelName": "SS_net_blacklist_03",
+            "styleInfo": {
+                "styleIndex": 34,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 168,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "否",
+                    "strWidth": 96.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 4,
+            "arrayIndex": 4,
+            "labelName": "SS_net_blacklist_04",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 5,
+            "arrayIndex": 5,
+            "labelName": "SS_net_blacklist_05",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 6,
+            "arrayIndex": 6,
+            "labelName": "SS_net_blacklist_06",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 7,
+            "arrayIndex": 7,
+            "labelName": "SS_net_blacklist_07",
+            "styleInfo": {
+                "styleIndex": 35,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 210,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "所有人",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 8,
+            "arrayIndex": 8,
+            "labelName": "SS_net_blacklist_09",
+            "styleInfo": {
+                "styleIndex": 41,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "從列表中移除",
+                    "strWidth": 298.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 9,
+            "arrayIndex": 9,
+            "labelName": "SS_net_blacklist_10",
+            "styleInfo": {
+                "styleIndex": 34,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 168,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "取消",
+                    "strWidth": 128.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 10,
+            "arrayIndex": 10,
+            "labelName": "SS_net_blacklist_11",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": -1,
+                    "groupID": 25,
+                    "tagID": 0,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 2,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "要將",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": 0.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "加入黑名單嗎？",
+                    "strWidth": 455.09375
+                }
+            ]
+        },
+        {
+            "labelIndex": 11,
+            "arrayIndex": 11,
+            "labelName": "SS_net_blacklist_12",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "要將誰加入黑名單？",
+                    "strWidth": 309.3125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "추가하겠습니까?",
+                    "strWidth": 241.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 12,
+            "arrayIndex": 12,
+            "labelName": "SS_net_blacklist_14",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "如果加入到黑名單，",
+                    "strWidth": 373.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 4,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "就無法再透過連線和對方一起玩。",
+                    "strWidth": 426.625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "確定要繼續嗎？",
+                    "strWidth": 284.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 13,
+            "arrayIndex": 13,
+            "labelName": "SS_net_blacklist_15",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": -1,
+                    "groupID": 25,
+                    "tagID": 0,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 2,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "要將",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "怎麼樣？",
+                    "strWidth": 295.09375
+                }
+            ]
+        },
+        {
+            "labelIndex": 14,
+            "arrayIndex": 14,
+            "labelName": "SS_net_blacklist_16",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "黑名單中沒有任何人。",
+                    "strWidth": 202.65625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "아무도 추가되어 있지 않습니다",
+                    "strWidth": 447.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 15,
+            "arrayIndex": 15,
+            "labelName": "SS_net_blacklist_17",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": -1,
+                    "groupID": 25,
+                    "tagID": 0,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 2,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "已將",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "加入黑名單。",
+                    "strWidth": 0.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "黑名單可於ＹＹ通訊的",
+                    "strWidth": 405.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "「個人資訊」中查看。",
+                    "strWidth": 351.375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 4,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "“프로필”에서",
+                    "strWidth": 186.75
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "확인할 수 있습니다",
+                    "strWidth": 277.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 16,
+            "arrayIndex": 16,
+            "labelName": "SS_net_blacklist_18",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": -1,
+                    "groupID": 25,
+                    "tagID": 0,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 4,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": 1,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": -1,
+                    "groupID": 25,
+                    "tagID": 0,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 2,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "已將",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "和",
+                    "strWidth": 10.65625
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 2,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 3,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "加入黑名單。",
+                    "strWidth": 0.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "黑名單可於ＹＹ通訊的",
+                    "strWidth": 405.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "「個人資訊」中查看。",
+                    "strWidth": 351.375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 4,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "“프로필”에서",
+                    "strWidth": 186.75
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "확인할 수 있습니다",
+                    "strWidth": 277.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 17,
+            "arrayIndex": 17,
+            "labelName": "SS_net_blacklist_19",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "該玩家已在黑名單裡。",
+                    "strWidth": 277.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "추가된 사람입니다",
+                    "strWidth": 266.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 18,
+            "arrayIndex": 18,
+            "labelName": "SS_net_blacklist_20",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "無法把自己加入黑名單。",
+                    "strWidth": 309.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "추가할 수 없습니다",
+                    "strWidth": 277.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 19,
+            "arrayIndex": 19,
+            "labelName": "SS_net_blacklist_21",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": -1,
+                    "groupID": 25,
+                    "tagID": 0,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 4,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": 1,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": 2,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": -1,
+                    "groupID": 25,
+                    "tagID": 0,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 2,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "已將",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "、",
+                    "strWidth": 10.65625
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 2,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "和",
+                    "strWidth": 0.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": 106.65625
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 3,
+                    "tagValue": 0.0,
+                    "str": "加入黑名單。",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 4,
+                    "tagValue": 0.0,
+                    "str": "黑名單可於ＹＹ通訊的",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 4,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "「個人資訊」中查看。",
+                    "strWidth": 0.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "차단 리스트에 추가했습니다",
+                    "strWidth": 405.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "차단 리스트는 YY통신의",
+                    "strWidth": 351.375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 4,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "“프로필”에서",
+                    "strWidth": 186.75
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "확인할 수 있습니다",
+                    "strWidth": 277.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 20,
+            "arrayIndex": 20,
+            "labelName": "SS_net_blacklist_22",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 21,
+            "arrayIndex": 21,
+            "labelName": "SS_net_blacklist_23",
+            "styleInfo": {
+                "styleIndex": 155,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 504,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 3,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": 1,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": 2,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "/",
+                    "strWidth": 16.0
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "/",
+                    "strWidth": 16.0
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 2,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
         }
-      ]
-    },
-    {
-      "labelIndex": 3,
-      "arrayIndex": 3,
-      "labelName": "SS_net_blacklist_03",
-      "styleInfo": {
-        "styleIndex": 34,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 168,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "否",
-          "strWidth": 96.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 4,
-      "arrayIndex": 4,
-      "labelName": "SS_net_blacklist_04",
-      "styleInfo": {
-        "styleIndex": 37,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 294,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [
-        {
-          "tagIndex": 0,
-          "groupID": 1,
-          "tagID": 0,
-          "tagPatternID": 0,
-          "forceArticle": 0,
-          "tagParameter": 0,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        }
-      ],
-      "wordDataArray": [
-        {
-          "patternID": 5,
-          "eventID": 7,
-          "tagIndex": 0,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": -1.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 5,
-      "arrayIndex": 5,
-      "labelName": "SS_net_blacklist_05",
-      "styleInfo": {
-        "styleIndex": 37,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 294,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [
-        {
-          "tagIndex": 0,
-          "groupID": 1,
-          "tagID": 0,
-          "tagPatternID": 0,
-          "forceArticle": 0,
-          "tagParameter": 0,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        }
-      ],
-      "wordDataArray": [
-        {
-          "patternID": 5,
-          "eventID": 7,
-          "tagIndex": 0,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": -1.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 6,
-      "arrayIndex": 6,
-      "labelName": "SS_net_blacklist_06",
-      "styleInfo": {
-        "styleIndex": 37,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 294,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [
-        {
-          "tagIndex": 0,
-          "groupID": 1,
-          "tagID": 0,
-          "tagPatternID": 0,
-          "forceArticle": 0,
-          "tagParameter": 0,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        }
-      ],
-      "wordDataArray": [
-        {
-          "patternID": 5,
-          "eventID": 7,
-          "tagIndex": 0,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": -1.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 7,
-      "arrayIndex": 7,
-      "labelName": "SS_net_blacklist_07",
-      "styleInfo": {
-        "styleIndex": 35,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 210,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "所有人",
-          "strWidth": 64.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 8,
-      "arrayIndex": 8,
-      "labelName": "SS_net_blacklist_09",
-      "styleInfo": {
-        "styleIndex": 41,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 462,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "從列表中移除",
-          "strWidth": 298.65625
-        }
-      ]
-    },
-    {
-      "labelIndex": 9,
-      "arrayIndex": 9,
-      "labelName": "SS_net_blacklist_10",
-      "styleInfo": {
-        "styleIndex": 34,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 168,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "取消",
-          "strWidth": 128.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 10,
-      "arrayIndex": 10,
-      "labelName": "SS_net_blacklist_11",
-      "styleInfo": {
-        "styleIndex": 57,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 840,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [
-        {
-          "tagIndex": 0,
-          "groupID": 1,
-          "tagID": 0,
-          "tagPatternID": 0,
-          "forceArticle": 0,
-          "tagParameter": 0,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        },
-        {
-          "tagIndex": -1,
-          "groupID": 25,
-          "tagID": 0,
-          "tagPatternID": 5,
-          "forceArticle": 0,
-          "tagParameter": 2,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        }
-      ],
-      "wordDataArray": [
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 0,
-          "tagValue": 0.0,
-          "str": "要將",
-          "strWidth": -1.0
-        },
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 1,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": -1.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": 0.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "加入黑名單嗎？",
-          "strWidth": 455.09375
-        }
-      ]
-    },
-    {
-      "labelIndex": 11,
-      "arrayIndex": 11,
-      "labelName": "SS_net_blacklist_12",
-      "styleInfo": {
-        "styleIndex": 57,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 840,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "要將誰加入黑名單？",
-          "strWidth": 309.3125
-        },
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "추가하겠습니까?",
-          "strWidth": 241.78125
-        }
-      ]
-    },
-    {
-      "labelIndex": 12,
-      "arrayIndex": 12,
-      "labelName": "SS_net_blacklist_14",
-      "styleInfo": {
-        "styleIndex": 30,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 840,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "如果加入到黑名單，",
-          "strWidth": 373.3125
-        },
-        {
-          "patternID": 7,
-          "eventID": 4,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "就無法再透過連線和對方一起玩。",
-          "strWidth": 426.625
-        },
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "確定要繼續嗎？",
-          "strWidth": 284.4375
-        }
-      ]
-    },
-    {
-      "labelIndex": 13,
-      "arrayIndex": 13,
-      "labelName": "SS_net_blacklist_15",
-      "styleInfo": {
-        "styleIndex": 57,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 840,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [
-        {
-          "tagIndex": 0,
-          "groupID": 1,
-          "tagID": 0,
-          "tagPatternID": 0,
-          "forceArticle": 0,
-          "tagParameter": 0,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        },
-        {
-          "tagIndex": -1,
-          "groupID": 25,
-          "tagID": 0,
-          "tagPatternID": 5,
-          "forceArticle": 0,
-          "tagParameter": 2,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        }
-      ],
-      "wordDataArray": [
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 0,
-          "tagValue": 0.0,
-          "str": "要將",
-          "strWidth": -1.0
-        },
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 1,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": -1.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "怎麼樣？",
-          "strWidth": 295.09375
-        }
-      ]
-    },
-    {
-      "labelIndex": 14,
-      "arrayIndex": 14,
-      "labelName": "SS_net_blacklist_16",
-      "styleInfo": {
-        "styleIndex": 30,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 840,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "黑名單中沒有任何人。",
-          "strWidth": 202.65625
-        },
-        {
-          "patternID": 7,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "아무도 추가되어 있지 않습니다",
-          "strWidth": 447.96875
-        }
-      ]
-    },
-    {
-      "labelIndex": 15,
-      "arrayIndex": 15,
-      "labelName": "SS_net_blacklist_17",
-      "styleInfo": {
-        "styleIndex": 30,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 840,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [
-        {
-          "tagIndex": 0,
-          "groupID": 1,
-          "tagID": 0,
-          "tagPatternID": 0,
-          "forceArticle": 0,
-          "tagParameter": 0,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        },
-        {
-          "tagIndex": -1,
-          "groupID": 25,
-          "tagID": 0,
-          "tagPatternID": 5,
-          "forceArticle": 0,
-          "tagParameter": 2,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        }
-      ],
-      "wordDataArray": [
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 0,
-          "tagValue": 0.0,
-          "str": "已將",
-          "strWidth": -1.0
-        },
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 1,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": -1.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "加入黑名單。",
-          "strWidth": 0.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 3,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "黑名單可於ＹＹ通訊的",
-          "strWidth": 405.3125
-        },
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "「個人資訊」中查看。",
-          "strWidth": 351.375
-        },
-        {
-          "patternID": 7,
-          "eventID": 4,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "“프로필”에서",
-          "strWidth": 186.75
-        },
-        {
-          "patternID": 7,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "확인할 수 있습니다",
-          "strWidth": 277.3125
-        }
-      ]
-    },
-    {
-      "labelIndex": 16,
-      "arrayIndex": 16,
-      "labelName": "SS_net_blacklist_18",
-      "styleInfo": {
-        "styleIndex": 30,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 840,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [
-        {
-          "tagIndex": 0,
-          "groupID": 1,
-          "tagID": 0,
-          "tagPatternID": 0,
-          "forceArticle": 0,
-          "tagParameter": 0,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        },
-        {
-          "tagIndex": -1,
-          "groupID": 25,
-          "tagID": 0,
-          "tagPatternID": 5,
-          "forceArticle": 0,
-          "tagParameter": 4,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        },
-        {
-          "tagIndex": 1,
-          "groupID": 1,
-          "tagID": 0,
-          "tagPatternID": 0,
-          "forceArticle": 0,
-          "tagParameter": 0,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        },
-        {
-          "tagIndex": -1,
-          "groupID": 25,
-          "tagID": 0,
-          "tagPatternID": 5,
-          "forceArticle": 0,
-          "tagParameter": 2,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        }
-      ],
-      "wordDataArray": [
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 0,
-          "tagValue": 0.0,
-          "str": "已將",
-          "strWidth": -1.0
-        },
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 1,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": -1.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "和",
-          "strWidth": 10.65625
-        },
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 2,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": -1.0
-        },
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 3,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": -1.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "加入黑名單。",
-          "strWidth": 0.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 3,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "黑名單可於ＹＹ通訊的",
-          "strWidth": 405.3125
-        },
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "「個人資訊」中查看。",
-          "strWidth": 351.375
-        },
-        {
-          "patternID": 7,
-          "eventID": 4,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "“프로필”에서",
-          "strWidth": 186.75
-        },
-        {
-          "patternID": 7,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "확인할 수 있습니다",
-          "strWidth": 277.3125
-        }
-      ]
-    },
-    {
-      "labelIndex": 17,
-      "arrayIndex": 17,
-      "labelName": "SS_net_blacklist_19",
-      "styleInfo": {
-        "styleIndex": 30,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 840,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "該玩家已在黑名單裡。",
-          "strWidth": 277.3125
-        },
-        {
-          "patternID": 7,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "추가된 사람입니다",
-          "strWidth": 266.65625
-        }
-      ]
-    },
-    {
-      "labelIndex": 18,
-      "arrayIndex": 18,
-      "labelName": "SS_net_blacklist_20",
-      "styleInfo": {
-        "styleIndex": 30,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 840,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "無法把自己加入黑名單。",
-          "strWidth": 309.3125
-        },
-        {
-          "patternID": 7,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "추가할 수 없습니다",
-          "strWidth": 277.3125
-        }
-      ]
-    },
-    {
-      "labelIndex": 19,
-      "arrayIndex": 19,
-      "labelName": "SS_net_blacklist_21",
-      "styleInfo": {
-        "styleIndex": 30,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 840,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [
-        {
-          "tagIndex": 0,
-          "groupID": 1,
-          "tagID": 0,
-          "tagPatternID": 0,
-          "forceArticle": 0,
-          "tagParameter": 0,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        },
-        {
-          "tagIndex": -1,
-          "groupID": 25,
-          "tagID": 0,
-          "tagPatternID": 5,
-          "forceArticle": 0,
-          "tagParameter": 4,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        },
-        {
-          "tagIndex": 1,
-          "groupID": 1,
-          "tagID": 0,
-          "tagPatternID": 0,
-          "forceArticle": 0,
-          "tagParameter": 0,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        },
-        {
-          "tagIndex": 2,
-          "groupID": 1,
-          "tagID": 0,
-          "tagPatternID": 0,
-          "forceArticle": 0,
-          "tagParameter": 0,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        },
-        {
-          "tagIndex": -1,
-          "groupID": 25,
-          "tagID": 0,
-          "tagPatternID": 5,
-          "forceArticle": 0,
-          "tagParameter": 2,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        }
-      ],
-      "wordDataArray": [
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 0,
-          "tagValue": 0.0,
-          "str": "已將",
-          "strWidth": -1.0
-        },
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 1,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": -1.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "、",
-          "strWidth": 10.65625
-        },
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 2,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": -1.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "和",
-          "strWidth": 0.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": 106.65625
-        },
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 3,
-          "tagValue": 0.0,
-          "str": "加入黑名單。",
-          "strWidth": -1.0
-        },
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 4,
-          "tagValue": 0.0,
-          "str": "黑名單可於ＹＹ通訊的",
-          "strWidth": -1.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 4,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "「個人資訊」中查看。",
-          "strWidth": 0.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 3,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "차단 리스트에 추가했습니다",
-          "strWidth": 405.3125
-        },
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "차단 리스트는 YY통신의",
-          "strWidth": 351.375
-        },
-        {
-          "patternID": 7,
-          "eventID": 4,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "“프로필”에서",
-          "strWidth": 186.75
-        },
-        {
-          "patternID": 7,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "확인할 수 있습니다",
-          "strWidth": 277.3125
-        }
-      ]
-    },
-    {
-      "labelIndex": 20,
-      "arrayIndex": 20,
-      "labelName": "SS_net_blacklist_22",
-      "styleInfo": {
-        "styleIndex": 37,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 294,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [
-        {
-          "tagIndex": 0,
-          "groupID": 1,
-          "tagID": 0,
-          "tagPatternID": 0,
-          "forceArticle": 0,
-          "tagParameter": 0,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        }
-      ],
-      "wordDataArray": [
-        {
-          "patternID": 5,
-          "eventID": 7,
-          "tagIndex": 0,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": -1.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 21,
-      "arrayIndex": 21,
-      "labelName": "SS_net_blacklist_23",
-      "styleInfo": {
-        "styleIndex": 155,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 504,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [
-        {
-          "tagIndex": 0,
-          "groupID": 2,
-          "tagID": 3,
-          "tagPatternID": 1,
-          "forceArticle": 0,
-          "tagParameter": 0,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        },
-        {
-          "tagIndex": 1,
-          "groupID": 2,
-          "tagID": 1,
-          "tagPatternID": 1,
-          "forceArticle": 0,
-          "tagParameter": 205,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        },
-        {
-          "tagIndex": 2,
-          "groupID": 2,
-          "tagID": 1,
-          "tagPatternID": 1,
-          "forceArticle": 0,
-          "tagParameter": 205,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        }
-      ],
-      "wordDataArray": [
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 0,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": -1.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "/",
-          "strWidth": 16.0
-        },
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 1,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": -1.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "/",
-          "strWidth": 16.0
-        },
-        {
-          "patternID": 5,
-          "eventID": 7,
-          "tagIndex": 2,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": -1.0
-        }
-      ]
-    }
-  ]
+    ]
 }

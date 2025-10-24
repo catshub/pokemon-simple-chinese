@@ -1,1472 +1,1472 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 3652094840918934080
-  },
-  "m_Name": "si_ss_fld_dressup",
-  "hash": -1259198660,
-  "langID": 8,
-  "isResident": 0,
-  "isKanji": 0,
-  "labelDataArray": [
-    {
-      "labelIndex": 0,
-      "arrayIndex": 0,
-      "labelName": "SS_fld_dressup_000",
-      "styleInfo": {
-        "styleIndex": 80,
-        "colorIndex": -1,
-        "fontSize": 32,
-        "maxWidth": 192,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "零用錢",
-          "strWidth": 64.0
-        }
-      ]
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
     },
-    {
-      "labelIndex": 1,
-      "arrayIndex": 1,
-      "labelName": "SS_fld_dressup_003",
-      "styleInfo": {
-        "styleIndex": 48,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 672,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [
-        {
-          "tagIndex": 0,
-          "groupID": 1,
-          "tagID": 59,
-          "tagPatternID": 0,
-          "forceArticle": 0,
-          "tagParameter": 0,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        }
-      ],
-      "wordDataArray": [
-        {
-          "patternID": 5,
-          "eventID": 7,
-          "tagIndex": 0,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": -1.0
-        }
-      ]
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
     },
-    {
-      "labelIndex": 2,
-      "arrayIndex": 2,
-      "labelName": "SS_fld_dressup_004",
-      "styleInfo": {
-        "styleIndex": 93,
-        "colorIndex": -1,
-        "fontSize": 32,
-        "maxWidth": 512,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [
+    "m_Name": "si_ss_fld_dressup",
+    "hash": -1259198660,
+    "langID": 8,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
         {
-          "tagIndex": 0,
-          "groupID": 1,
-          "tagID": 59,
-          "tagPatternID": 0,
-          "forceArticle": 0,
-          "tagParameter": 0,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        }
-      ],
-      "wordDataArray": [
-        {
-          "patternID": 5,
-          "eventID": 7,
-          "tagIndex": 0,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": -1.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 3,
-      "arrayIndex": 3,
-      "labelName": "SS_fld_dressup_005",
-      "styleInfo": {
-        "styleIndex": 91,
-        "colorIndex": -1,
-        "fontSize": 32,
-        "maxWidth": 448,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [
-        {
-          "tagIndex": 0,
-          "groupID": 1,
-          "tagID": 60,
-          "tagPatternID": 0,
-          "forceArticle": 0,
-          "tagParameter": 0,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        }
-      ],
-      "wordDataArray": [
-        {
-          "patternID": 5,
-          "eventID": 7,
-          "tagIndex": 0,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": -1.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 5,
-      "arrayIndex": 4,
-      "labelName": "SS_fld_dressup_006",
-      "styleInfo": {
-        "styleIndex": 38,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 336,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "已購入",
-          "strWidth": 170.65625
-        }
-      ]
-    },
-    {
-      "labelIndex": 6,
-      "arrayIndex": 5,
-      "labelName": "SS_fld_dressup_007",
-      "styleInfo": {
-        "styleIndex": 8,
-        "colorIndex": -1,
-        "fontSize": 54,
-        "maxWidth": 648,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "沒有物品",
-          "strWidth": 266.65625
-        }
-      ]
-    },
-    {
-      "labelIndex": 7,
-      "arrayIndex": 6,
-      "labelName": "SS_fld_dressup_008",
-      "styleInfo": {
-        "styleIndex": 34,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 168,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "是",
-          "strWidth": 32.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 8,
-      "arrayIndex": 7,
-      "labelName": "SS_fld_dressup_009",
-      "styleInfo": {
-        "styleIndex": 34,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 168,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "否",
-          "strWidth": 96.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 9,
-      "arrayIndex": 8,
-      "labelName": "SS_fld_dressup_010",
-      "styleInfo": {
-        "styleIndex": 30,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 840,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [
-        {
-          "tagIndex": 0,
-          "groupID": 2,
-          "tagID": 6,
-          "tagPatternID": 1,
-          "forceArticle": 0,
-          "tagParameter": 0,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        }
-      ],
-      "wordDataArray": [
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 0,
-          "tagValue": 0.0,
-          "str": "一共是",
-          "strWidth": -1.0
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "SS_fld_dressup_000",
+            "styleInfo": {
+                "styleIndex": 80,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 192,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "零用錢",
+                    "strWidth": 64.0
+                }
+            ]
         },
         {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": 160.0
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "SS_fld_dressup_003",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 59,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
         },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "，要購買嗎？",
-          "strWidth": 241.78125
-        }
-      ]
-    },
-    {
-      "labelIndex": 10,
-      "arrayIndex": 9,
-      "labelName": "SS_fld_dressup_011",
-      "styleInfo": {
-        "styleIndex": 30,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 840,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [
-        {
-          "tagIndex": 0,
-          "groupID": 2,
-          "tagID": 6,
-          "tagPatternID": 1,
-          "forceArticle": 0,
-          "tagParameter": 0,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        }
-      ],
-      "wordDataArray": [
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 0,
-          "tagValue": 0.0,
-          "str": "一共是",
-          "strWidth": -1.0
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "SS_fld_dressup_004",
+            "styleInfo": {
+                "styleIndex": 93,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 512,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 59,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
         },
         {
-          "patternID": 7,
-          "eventID": 3,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": 128.0
+            "labelIndex": 3,
+            "arrayIndex": 3,
+            "labelName": "SS_fld_dressup_005",
+            "styleInfo": {
+                "styleIndex": 91,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 448,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 60,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
         },
         {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "。",
-          "strWidth": 522.625
+            "labelIndex": 5,
+            "arrayIndex": 4,
+            "labelName": "SS_fld_dressup_006",
+            "styleInfo": {
+                "styleIndex": 38,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 336,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "已購入",
+                    "strWidth": 170.65625
+                }
+            ]
         },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "以目前的穿著無法佩戴，確定購買嗎？",
-          "strWidth": 209.78125
-        }
-      ]
-    },
-    {
-      "labelIndex": 11,
-      "arrayIndex": 10,
-      "labelName": "SS_fld_dressup_012",
-      "styleInfo": {
-        "styleIndex": 30,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 840,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "錢不夠！",
-          "strWidth": 243.5625
-        }
-      ]
-    },
-    {
-      "labelIndex": 12,
-      "arrayIndex": 11,
-      "labelName": "SS_fld_dressup_013",
-      "styleInfo": {
-        "styleIndex": 30,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 840,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "這款風格之前已經購買。",
-          "strWidth": 170.65625
+            "labelIndex": 6,
+            "arrayIndex": 5,
+            "labelName": "SS_fld_dressup_007",
+            "styleInfo": {
+                "styleIndex": 8,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 648,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "沒有物品",
+                    "strWidth": 266.65625
+                }
+            ]
         },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "이미 구매했습니다",
-          "strWidth": 266.65625
-        }
-      ]
-    },
-    {
-      "labelIndex": 13,
-      "arrayIndex": 12,
-      "labelName": "SS_fld_dressup_016",
-      "styleInfo": {
-        "styleIndex": 30,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 840,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "謝謝惠顧！",
-          "strWidth": 414.21875
+            "labelIndex": 7,
+            "arrayIndex": 6,
+            "labelName": "SS_fld_dressup_008",
+            "styleInfo": {
+                "styleIndex": 34,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 168,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "是",
+                    "strWidth": 32.0
+                }
+            ]
         },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "要換上購買的風格嗎？",
-          "strWidth": 241.78125
-        }
-      ]
-    },
-    {
-      "labelIndex": 14,
-      "arrayIndex": 13,
-      "labelName": "SS_fld_dressup_017",
-      "styleInfo": {
-        "styleIndex": 30,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 840,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "非常感謝！",
-          "strWidth": 168.90625
-        }
-      ]
-    },
-    {
-      "labelIndex": 15,
-      "arrayIndex": 14,
-      "labelName": "SS_fld_dressup_018",
-      "styleInfo": {
-        "styleIndex": 30,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 840,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "要換成這個風格嗎？",
-          "strWidth": 423.09375
-        }
-      ]
-    },
-    {
-      "labelIndex": 16,
-      "arrayIndex": 15,
-      "labelName": "SS_fld_dressup_020",
-      "styleInfo": {
-        "styleIndex": 30,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 840,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "沒有其他需要了嗎？",
-          "strWidth": 348.4375
-        }
-      ]
-    },
-    {
-      "labelIndex": 17,
-      "arrayIndex": 16,
-      "labelName": "SS_fld_dressup_021",
-      "styleInfo": {
-        "styleIndex": 30,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 840,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "要結束換裝嗎？",
-          "strWidth": 412.4375
-        }
-      ]
-    },
-    {
-      "labelIndex": 4,
-      "arrayIndex": 17,
-      "labelName": "SS_fld_dressup_044",
-      "styleInfo": {
-        "styleIndex": 154,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 462,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [
-        {
-          "tagIndex": 0,
-          "groupID": 2,
-          "tagID": 6,
-          "tagPatternID": 1,
-          "forceArticle": 0,
-          "tagParameter": 0,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        }
-      ],
-      "wordDataArray": [
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 0,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": -1.0
+            "labelIndex": 8,
+            "arrayIndex": 7,
+            "labelName": "SS_fld_dressup_009",
+            "styleInfo": {
+                "styleIndex": 34,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 168,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "否",
+                    "strWidth": 96.0
+                }
+            ]
         },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": 32.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 20,
-      "arrayIndex": 18,
-      "labelName": "SS_fld_dressup_023",
-      "styleInfo": {
-        "styleIndex": 83,
-        "colorIndex": -1,
-        "fontSize": 32,
-        "maxWidth": 320,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "確定",
-          "strWidth": 64.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 21,
-      "arrayIndex": 19,
-      "labelName": "SS_fld_dressup_024",
-      "styleInfo": {
-        "styleIndex": 83,
-        "colorIndex": -1,
-        "fontSize": 32,
-        "maxWidth": 320,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "結束",
-          "strWidth": 96.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 22,
-      "arrayIndex": 20,
-      "labelName": "SS_fld_dressup_025",
-      "styleInfo": {
-        "styleIndex": 83,
-        "colorIndex": -1,
-        "fontSize": 32,
-        "maxWidth": 320,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "詳細檢視",
-          "strWidth": 170.65625
-        }
-      ]
-    },
-    {
-      "labelIndex": 23,
-      "arrayIndex": 21,
-      "labelName": "SS_fld_dressup_026",
-      "styleInfo": {
-        "styleIndex": 83,
-        "colorIndex": -1,
-        "fontSize": 32,
-        "maxWidth": 320,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "移除",
-          "strWidth": 96.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 24,
-      "arrayIndex": 22,
-      "labelName": "SS_fld_dressup_027",
-      "styleInfo": {
-        "styleIndex": 83,
-        "colorIndex": -1,
-        "fontSize": 32,
-        "maxWidth": 320,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "換裝",
-          "strWidth": 160.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 25,
-      "arrayIndex": 23,
-      "labelName": "SS_fld_dressup_028",
-      "styleInfo": {
-        "styleIndex": 83,
-        "colorIndex": -1,
-        "fontSize": 32,
-        "maxWidth": 320,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "放大",
-          "strWidth": 74.65625
-        }
-      ]
-    },
-    {
-      "labelIndex": 26,
-      "arrayIndex": 24,
-      "labelName": "SS_fld_dressup_029",
-      "styleInfo": {
-        "styleIndex": 83,
-        "colorIndex": -1,
-        "fontSize": 32,
-        "maxWidth": 320,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "縮小",
-          "strWidth": 106.65625
-        }
-      ]
-    },
-    {
-      "labelIndex": 27,
-      "arrayIndex": 25,
-      "labelName": "SS_fld_dressup_030",
-      "styleInfo": {
-        "styleIndex": 83,
-        "colorIndex": -1,
-        "fontSize": 32,
-        "maxWidth": 320,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "返回",
-          "strWidth": 128.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 28,
-      "arrayIndex": 26,
-      "labelName": "SS_fld_dressup_031",
-      "styleInfo": {
-        "styleIndex": 83,
-        "colorIndex": -1,
-        "fontSize": 32,
-        "maxWidth": 320,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "脫下外套",
-          "strWidth": 202.65625
-        }
-      ]
-    },
-    {
-      "labelIndex": 29,
-      "arrayIndex": 27,
-      "labelName": "SS_fld_dressup_033",
-      "styleInfo": {
-        "styleIndex": 83,
-        "colorIndex": -1,
-        "fontSize": 32,
-        "maxWidth": 320,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "穿上外套",
-          "strWidth": 202.65625
-        }
-      ]
-    },
-    {
-      "labelIndex": 30,
-      "arrayIndex": 28,
-      "labelName": "SS_fld_dressup_035",
-      "styleInfo": {
-        "styleIndex": 83,
-        "colorIndex": -1,
-        "fontSize": 32,
-        "maxWidth": 320,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "取消換裝並結束",
-          "strWidth": 309.3125
-        }
-      ]
-    },
-    {
-      "labelIndex": 31,
-      "arrayIndex": 29,
-      "labelName": "SS_fld_dressup_036",
-      "styleInfo": {
-        "styleIndex": 83,
-        "colorIndex": -1,
-        "fontSize": 32,
-        "maxWidth": 320,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "我要買東西",
-          "strWidth": 138.65625
-        }
-      ]
-    },
-    {
-      "labelIndex": 32,
-      "arrayIndex": 30,
-      "labelName": "SS_fld_dressup_037",
-      "styleInfo": {
-        "styleIndex": 83,
-        "colorIndex": -1,
-        "fontSize": 32,
-        "maxWidth": 320,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "只是看看而已",
-          "strWidth": 170.65625
-        }
-      ]
-    },
-    {
-      "labelIndex": 33,
-      "arrayIndex": 31,
-      "labelName": "SS_fld_dressup_038",
-      "styleInfo": {
-        "styleIndex": 0,
-        "colorIndex": -1,
-        "fontSize": 54,
-        "maxWidth": 1080,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "請到試衣間。",
-          "strWidth": 446.21875
-        }
-      ]
-    },
-    {
-      "labelIndex": 34,
-      "arrayIndex": 32,
-      "labelName": "SS_fld_dressup_039",
-      "styleInfo": {
-        "styleIndex": 0,
-        "colorIndex": -1,
-        "fontSize": 54,
-        "maxWidth": 1080,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [
-        {
-          "tagIndex": 0,
-          "groupID": 1,
-          "tagID": 77,
-          "tagPatternID": 0,
-          "forceArticle": 0,
-          "tagParameter": 0,
-          "tagWordArray": [],
-          "forceGrmID": 0
+            "labelIndex": 9,
+            "arrayIndex": 8,
+            "labelName": "SS_fld_dressup_010",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 6,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "一共是",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": 160.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "，要購買嗎？",
+                    "strWidth": 241.78125
+                }
+            ]
         },
         {
-          "tagIndex": 1,
-          "groupID": 2,
-          "tagID": 2,
-          "tagPatternID": 1,
-          "forceArticle": 0,
-          "tagParameter": 205,
-          "tagWordArray": [],
-          "forceGrmID": 0
+            "labelIndex": 10,
+            "arrayIndex": 9,
+            "labelName": "SS_fld_dressup_011",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 6,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "一共是",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": 128.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "。",
+                    "strWidth": 522.625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "以目前的穿著無法佩戴，確定購買嗎？",
+                    "strWidth": 209.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 11,
+            "arrayIndex": 10,
+            "labelName": "SS_fld_dressup_012",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "錢不夠！",
+                    "strWidth": 243.5625
+                }
+            ]
+        },
+        {
+            "labelIndex": 12,
+            "arrayIndex": 11,
+            "labelName": "SS_fld_dressup_013",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "這款風格之前已經購買。",
+                    "strWidth": 170.65625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "이미 구매했습니다",
+                    "strWidth": 266.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 13,
+            "arrayIndex": 12,
+            "labelName": "SS_fld_dressup_016",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "謝謝惠顧！",
+                    "strWidth": 414.21875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "要換上購買的風格嗎？",
+                    "strWidth": 241.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 14,
+            "arrayIndex": 13,
+            "labelName": "SS_fld_dressup_017",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "非常感謝！",
+                    "strWidth": 168.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 15,
+            "arrayIndex": 14,
+            "labelName": "SS_fld_dressup_018",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "要換成這個風格嗎？",
+                    "strWidth": 423.09375
+                }
+            ]
+        },
+        {
+            "labelIndex": 16,
+            "arrayIndex": 15,
+            "labelName": "SS_fld_dressup_020",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "沒有其他需要了嗎？",
+                    "strWidth": 348.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 17,
+            "arrayIndex": 16,
+            "labelName": "SS_fld_dressup_021",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "要結束換裝嗎？",
+                    "strWidth": 412.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 4,
+            "arrayIndex": 17,
+            "labelName": "SS_fld_dressup_044",
+            "styleInfo": {
+                "styleIndex": 154,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 6,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": 32.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 20,
+            "arrayIndex": 18,
+            "labelName": "SS_fld_dressup_023",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "確定",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 21,
+            "arrayIndex": 19,
+            "labelName": "SS_fld_dressup_024",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "結束",
+                    "strWidth": 96.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 22,
+            "arrayIndex": 20,
+            "labelName": "SS_fld_dressup_025",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "詳細檢視",
+                    "strWidth": 170.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 23,
+            "arrayIndex": 21,
+            "labelName": "SS_fld_dressup_026",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "移除",
+                    "strWidth": 96.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 24,
+            "arrayIndex": 22,
+            "labelName": "SS_fld_dressup_027",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "換裝",
+                    "strWidth": 160.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 25,
+            "arrayIndex": 23,
+            "labelName": "SS_fld_dressup_028",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "放大",
+                    "strWidth": 74.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 26,
+            "arrayIndex": 24,
+            "labelName": "SS_fld_dressup_029",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "縮小",
+                    "strWidth": 106.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 27,
+            "arrayIndex": 25,
+            "labelName": "SS_fld_dressup_030",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "返回",
+                    "strWidth": 128.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 28,
+            "arrayIndex": 26,
+            "labelName": "SS_fld_dressup_031",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "脫下外套",
+                    "strWidth": 202.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 29,
+            "arrayIndex": 27,
+            "labelName": "SS_fld_dressup_033",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "穿上外套",
+                    "strWidth": 202.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 30,
+            "arrayIndex": 28,
+            "labelName": "SS_fld_dressup_035",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "取消換裝並結束",
+                    "strWidth": 309.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 31,
+            "arrayIndex": 29,
+            "labelName": "SS_fld_dressup_036",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "我要買東西",
+                    "strWidth": 138.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 32,
+            "arrayIndex": 30,
+            "labelName": "SS_fld_dressup_037",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "只是看看而已",
+                    "strWidth": 170.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 33,
+            "arrayIndex": 31,
+            "labelName": "SS_fld_dressup_038",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "請到試衣間。",
+                    "strWidth": 446.21875
+                }
+            ]
+        },
+        {
+            "labelIndex": 34,
+            "arrayIndex": 32,
+            "labelName": "SS_fld_dressup_039",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 77,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": 1,
+                    "groupID": 2,
+                    "tagID": 2,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "感謝您平日的光臨！",
+                    "strWidth": 234.65625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "這是為您準備的特典，",
+                    "strWidth": 138.65625
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 4,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "個",
+                    "strWidth": 0.0
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "！",
+                    "strWidth": 275.5625
+                }
+            ]
+        },
+        {
+            "labelIndex": 35,
+            "arrayIndex": 33,
+            "labelName": "SS_fld_dressup_040",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "謝謝光臨！",
+                    "strWidth": 168.90625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "歡迎下次再來。",
+                    "strWidth": 254.21875
+                }
+            ]
+        },
+        {
+            "labelIndex": 36,
+            "arrayIndex": 34,
+            "labelName": "SS_fld_dressup_041",
+            "styleInfo": {
+                "styleIndex": 91,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 448,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "切換",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 37,
+            "arrayIndex": 35,
+            "labelName": "SS_fld_dressup_042",
+            "styleInfo": {
+                "styleIndex": 91,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 448,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "選擇風格",
+                    "strWidth": 170.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 38,
+            "arrayIndex": 36,
+            "labelName": "SS_fld_dressup_043",
+            "styleInfo": {
+                "styleIndex": 91,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 448,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "旋轉",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 18,
+            "arrayIndex": 37,
+            "labelName": "SS_fld_dressup_045",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 77,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": -1,
+                    "groupID": 25,
+                    "tagID": 0,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 2,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "哎呀！這位客人，請您等一下！",
+                    "strWidth": 220.46875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "您這次購物後，",
+                    "strWidth": 586.625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 4,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "所有的風格都購買完了！",
+                    "strWidth": 373.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "這只是我們的一點心意，",
+                    "strWidth": 275.5625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "請您收下",
+                    "strWidth": 202.65625
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "！",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " 드리겠습니다!",
+                    "strWidth": 211.5625
+                }
+            ]
+        },
+        {
+            "labelIndex": 19,
+            "arrayIndex": 38,
+            "labelName": "SS_fld_dressup_046",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "今後也請您多多惠顧",
+                    "strWidth": 607.96875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "揮指時尚精品館！",
+                    "strWidth": 286.21875
+                }
+            ]
         }
-      ],
-      "wordDataArray": [
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "感謝您平日的光臨！",
-          "strWidth": 234.65625
-        },
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "這是為您準備的特典，",
-          "strWidth": 138.65625
-        },
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 0,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": -1.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 4,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "個",
-          "strWidth": 0.0
-        },
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 1,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": -1.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "！",
-          "strWidth": 275.5625
-        }
-      ]
-    },
-    {
-      "labelIndex": 35,
-      "arrayIndex": 33,
-      "labelName": "SS_fld_dressup_040",
-      "styleInfo": {
-        "styleIndex": 0,
-        "colorIndex": -1,
-        "fontSize": 54,
-        "maxWidth": 1080,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "謝謝光臨！",
-          "strWidth": 168.90625
-        },
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "歡迎下次再來。",
-          "strWidth": 254.21875
-        }
-      ]
-    },
-    {
-      "labelIndex": 36,
-      "arrayIndex": 34,
-      "labelName": "SS_fld_dressup_041",
-      "styleInfo": {
-        "styleIndex": 91,
-        "colorIndex": -1,
-        "fontSize": 32,
-        "maxWidth": 448,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "切換",
-          "strWidth": 64.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 37,
-      "arrayIndex": 35,
-      "labelName": "SS_fld_dressup_042",
-      "styleInfo": {
-        "styleIndex": 91,
-        "colorIndex": -1,
-        "fontSize": 32,
-        "maxWidth": 448,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "選擇風格",
-          "strWidth": 170.65625
-        }
-      ]
-    },
-    {
-      "labelIndex": 38,
-      "arrayIndex": 36,
-      "labelName": "SS_fld_dressup_043",
-      "styleInfo": {
-        "styleIndex": 91,
-        "colorIndex": -1,
-        "fontSize": 32,
-        "maxWidth": 448,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "旋轉",
-          "strWidth": 64.0
-        }
-      ]
-    },
-    {
-      "labelIndex": 18,
-      "arrayIndex": 37,
-      "labelName": "SS_fld_dressup_045",
-      "styleInfo": {
-        "styleIndex": 30,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 840,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [
-        {
-          "tagIndex": 0,
-          "groupID": 1,
-          "tagID": 77,
-          "tagPatternID": 0,
-          "forceArticle": 0,
-          "tagParameter": 0,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        },
-        {
-          "tagIndex": -1,
-          "groupID": 25,
-          "tagID": 0,
-          "tagPatternID": 5,
-          "forceArticle": 0,
-          "tagParameter": 2,
-          "tagWordArray": [],
-          "forceGrmID": 0
-        }
-      ],
-      "wordDataArray": [
-        {
-          "patternID": 7,
-          "eventID": 3,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "哎呀！這位客人，請您等一下！",
-          "strWidth": 220.46875
-        },
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "您這次購物後，",
-          "strWidth": 586.625
-        },
-        {
-          "patternID": 7,
-          "eventID": 4,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "所有的風格都購買完了！",
-          "strWidth": 373.3125
-        },
-        {
-          "patternID": 7,
-          "eventID": 3,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "這只是我們的一點心意，",
-          "strWidth": 275.5625
-        },
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "請您收下",
-          "strWidth": 202.65625
-        },
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 0,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": -1.0
-        },
-        {
-          "patternID": 5,
-          "eventID": 0,
-          "tagIndex": 1,
-          "tagValue": 0.0,
-          "str": "！",
-          "strWidth": -1.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": " 드리겠습니다!",
-          "strWidth": 211.5625
-        }
-      ]
-    },
-    {
-      "labelIndex": 19,
-      "arrayIndex": 38,
-      "labelName": "SS_fld_dressup_046",
-      "styleInfo": {
-        "styleIndex": 30,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 840,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "今後也請您多多惠顧",
-          "strWidth": 607.96875
-        },
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "揮指時尚精品館！",
-          "strWidth": 286.21875
-        }
-      ]
-    }
-  ]
+    ]
 }

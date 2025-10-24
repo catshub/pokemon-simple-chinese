@@ -1,94 +1,94 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": 3652094840918934080
-  },
-  "m_Name": "si_ss_net_field_network",
-  "hash": 980223666,
-  "langID": 8,
-  "isResident": 0,
-  "isKanji": 0,
-  "labelDataArray": [
-    {
-      "labelIndex": 0,
-      "arrayIndex": 0,
-      "labelName": "SS_net_field_network_00",
-      "styleInfo": {
-        "styleIndex": 57,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 840,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "已找到交換對象！",
-          "strWidth": 350.21875
-        },
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "開始連線交換！",
-          "strWidth": 339.5625
-        }
-      ]
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
     },
-    {
-      "labelIndex": 1,
-      "arrayIndex": 1,
-      "labelName": "SS_net_field_network_01",
-      "styleInfo": {
-        "styleIndex": 57,
-        "colorIndex": -1,
-        "fontSize": 42,
-        "maxWidth": 840,
-        "controlID": 0
-      },
-      "attributeValueArray": [
-        -1,
-        -1,
-        -1,
-        -1,
-        -1
-      ],
-      "tagDataArray": [],
-      "wordDataArray": [
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "si_ss_net_field_network",
+    "hash": 980223666,
+    "langID": 8,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
         {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "已找到對戰對手！",
-          "strWidth": 350.21875
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "SS_net_field_network_00",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "已找到交換對象！",
+                    "strWidth": 350.21875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "開始連線交換！",
+                    "strWidth": 339.5625
+                }
+            ]
         },
         {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "開始連線對戰！",
-          "strWidth": 339.5625
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "SS_net_field_network_01",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "已找到對戰對手！",
+                    "strWidth": 350.21875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "開始連線對戰！",
+                    "strWidth": 339.5625
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
