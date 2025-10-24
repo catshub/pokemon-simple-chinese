@@ -1,3481 +1,3481 @@
 {
-    "m_GameObject": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "m_Enabled": 1,
-    "m_Script": {
-        "m_FileID": 0,
-        "m_PathID": 3652094840918934080
-    },
-    "m_Name": "si_ss_xmenu_timeline",
-    "hash": -578219154,
-    "langID": 8,
-    "isResident": 0,
-    "isKanji": 0,
-    "labelDataArray": [
-        {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "ui_msg_xmenu_timeline_info_00",
-            "styleInfo": {
-                "styleIndex": 36,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 252,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去看看",
-                    "strWidth": 106.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 1,
-            "arrayIndex": 1,
-            "labelName": "ui_msg_xmenu_timeline_guide_01",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "歡迎來到寶可夢的世界！",
-                    "strWidth": 298.65625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "오신 것을 환영합니다!",
-                    "strWidth": 318.21875
-                }
-            ]
-        },
-        {
-            "labelIndex": 2,
-            "arrayIndex": 2,
-            "labelName": "ui_msg_xmenu_timeline_guide_02",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去看電視吧。",
-                    "strWidth": 151.6875
-                }
-            ]
-        },
-        {
-            "labelIndex": 3,
-            "arrayIndex": 3,
-            "labelName": "ui_msg_xmenu_timeline_guide_03",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去１樓吧。",
-                    "strWidth": 159.78125
-                }
-            ]
-        },
-        {
-            "labelIndex": 4,
-            "arrayIndex": 4,
-            "labelName": "ui_msg_xmenu_timeline_guide_04",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 0,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": -1,
-                    "groupID": 25,
-                    "tagID": 0,
-                    "tagPatternID": 5,
-                    "forceArticle": 0,
-                    "tagParameter": 2,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "去見",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "吧。",
-                    "strWidth": 181.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 5,
-            "arrayIndex": 5,
-            "labelName": "ui_msg_xmenu_timeline_guide_05",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 0,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": -1,
-                    "groupID": 25,
-                    "tagID": 0,
-                    "tagPatternID": 5,
-                    "forceArticle": 0,
-                    "tagParameter": 2,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "去看看",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "的情況吧。",
-                    "strWidth": 213.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 6,
-            "arrayIndex": 6,
-            "labelName": "ui_msg_xmenu_timeline_guide_06",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去心齊湖看看吧。",
-                    "strWidth": 309.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 7,
-            "arrayIndex": 7,
-            "labelName": "ui_msg_xmenu_timeline_guide_07",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去歸還寶可夢吧。",
-                    "strWidth": 341.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 8,
-            "arrayIndex": 8,
-            "labelName": "ui_msg_xmenu_timeline_guide_08",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去寶可夢研究所吧。",
-                    "strWidth": 309.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 9,
-            "arrayIndex": 9,
-            "labelName": "ui_msg_xmenu_timeline_guide_09",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "告訴媽媽要出去冒險的事吧。",
-                    "strWidth": 234.65625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "엄마에게 말하러 가자",
-                    "strWidth": 309.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 10,
-            "arrayIndex": 10,
-            "labelName": "ui_msg_xmenu_timeline_guide_10",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去祝慶市吧。",
-                    "strWidth": 234.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 11,
-            "arrayIndex": 11,
-            "labelName": "ui_msg_xmenu_timeline_guide_11",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去訓練家學校吧。",
-                    "strWidth": 298.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 12,
-            "arrayIndex": 12,
-            "labelName": "ui_msg_xmenu_timeline_guide_12",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "探索一下祝慶市吧。",
-                    "strWidth": 298.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 13,
-            "arrayIndex": 13,
-            "labelName": "ui_msg_xmenu_timeline_guide_13",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "回答由３名小丑出的",
-                    "strWidth": 319.96875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "寶可錶問題吧。",
-                    "strWidth": 277.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 14,
-            "arrayIndex": 14,
-            "labelName": "ui_msg_xmenu_timeline_guide_14",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去獲得寶可錶吧。",
-                    "strWidth": 309.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 15,
-            "arrayIndex": 15,
-            "labelName": "ui_msg_xmenu_timeline_guide_15",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去黑金市吧。",
-                    "strWidth": 234.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 16,
-            "arrayIndex": 16,
-            "labelName": "ui_msg_xmenu_timeline_guide_16",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去尋找黑金道館的道館館主吧。",
-                    "strWidth": 405.3125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "찾으러 가자",
-                    "strWidth": 170.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 17,
-            "arrayIndex": 17,
-            "labelName": "ui_msg_xmenu_timeline_guide_17",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "擊敗黑金道館的瓢太吧。",
-                    "strWidth": 469.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 18,
-            "arrayIndex": 18,
-            "labelName": "ui_msg_xmenu_timeline_guide_18",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "前往下一個冒險吧。",
-                    "strWidth": 277.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 19,
-            "arrayIndex": 19,
-            "labelName": "ui_msg_xmenu_timeline_guide_19",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "回去祝慶市吧。",
-                    "strWidth": 298.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 20,
-            "arrayIndex": 20,
-            "labelName": "ui_msg_xmenu_timeline_guide_20",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "未使用",
-                    "strWidth": 96.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 21,
-            "arrayIndex": 21,
-            "labelName": "ui_msg_xmenu_timeline_guide_21",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 0,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": -1,
-                    "groupID": 25,
-                    "tagID": 0,
-                    "tagPatternID": 5,
-                    "forceArticle": 0,
-                    "tagParameter": 3,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "去",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "前往的百代市吧。",
-                    "strWidth": 74.65625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "영원시티에 가자",
-                    "strWidth": 234.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 22,
-            "arrayIndex": 22,
-            "labelName": "ui_msg_xmenu_timeline_guide_22",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去山谷發電廠看看吧。",
-                    "strWidth": 373.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 23,
-            "arrayIndex": 23,
-            "labelName": "ui_msg_xmenu_timeline_guide_23",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去尋找發電廠鑰匙吧。",
-                    "strWidth": 341.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 24,
-            "arrayIndex": 24,
-            "labelName": "ui_msg_xmenu_timeline_guide_24",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "進入山谷發電廠吧。",
-                    "strWidth": 362.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 25,
-            "arrayIndex": 25,
-            "labelName": "ui_msg_xmenu_timeline_guide_25",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "擊敗在發電廠裡的銀河隊吧。",
-                    "strWidth": 202.65625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "갤럭시단을 무찌르자",
-                    "strWidth": 298.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 26,
-            "arrayIndex": 26,
-            "labelName": "ui_msg_xmenu_timeline_guide_27",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "與芽米合力穿過森林吧。",
-                    "strWidth": 234.65625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "숲을 빠져나가자",
-                    "strWidth": 234.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 27,
-            "arrayIndex": 27,
-            "labelName": "ui_msg_xmenu_timeline_guide_80",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "探索一下百代市吧。",
-                    "strWidth": 298.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 28,
-            "arrayIndex": 28,
-            "labelName": "ui_msg_xmenu_timeline_guide_29",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "擊敗百代道館的菜種吧。",
-                    "strWidth": 469.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 29,
-            "arrayIndex": 29,
-            "labelName": "ui_msg_xmenu_timeline_guide_30",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "找出躲藏在道館內的訓練家吧。",
-                    "strWidth": 277.3125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "트레이너를 찾아내자",
-                    "strWidth": 298.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 31,
-            "arrayIndex": 30,
-            "labelName": "ui_msg_xmenu_timeline_guide_31",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去阻止銀河隊吧。",
-                    "strWidth": 341.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 32,
-            "arrayIndex": 31,
-            "labelName": "ui_msg_xmenu_timeline_guide_81",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "向在銀河百代大樓裡的大叔搭話吧。",
-                    "strWidth": 373.3125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "아저씨에게 말을 걸자",
-                    "strWidth": 309.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 33,
-            "arrayIndex": 32,
-            "labelName": "ui_msg_xmenu_timeline_guide_32",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去找自行車店的老闆談談吧！",
-                    "strWidth": 383.96875
-                }
-            ]
-        },
-        {
-            "labelIndex": 34,
-            "arrayIndex": 33,
-            "labelName": "ui_msg_xmenu_timeline_guide_33",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去拜訪地下大叔吧。",
-                    "strWidth": 341.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 35,
-            "arrayIndex": 34,
-            "labelName": "ui_msg_xmenu_timeline_guide_34",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "穿過自行車道，往南前進吧。",
-                    "strWidth": 309.3125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "남쪽으로 가자",
-                    "strWidth": 202.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 36,
-            "arrayIndex": 35,
-            "labelName": "ui_msg_xmenu_timeline_guide_35",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去家緣市吧。",
-                    "strWidth": 234.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 37,
-            "arrayIndex": 36,
-            "labelName": "ui_msg_xmenu_timeline_guide_36",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去華麗大賽會場吧。",
-                    "strWidth": 298.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 38,
-            "arrayIndex": 37,
-            "labelName": "ui_msg_xmenu_timeline_guide_37",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "探索一下家緣市吧。",
-                    "strWidth": 298.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 39,
-            "arrayIndex": 38,
-            "labelName": "ui_msg_xmenu_timeline_guide_38",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "幫助那位受困的女士吧！",
-                    "strWidth": 415.96875
-                }
-            ]
-        },
-        {
-            "labelIndex": 40,
-            "arrayIndex": 39,
-            "labelName": "ui_msg_xmenu_timeline_guide_82",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "探索一下帷幕市吧。",
-                    "strWidth": 298.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 41,
-            "arrayIndex": 40,
-            "labelName": "ui_msg_xmenu_timeline_guide_39",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "擊敗帷幕道館的道館館主吧。",
-                    "strWidth": 575.96875
-                }
-            ]
-        },
-        {
-            "labelIndex": 42,
-            "arrayIndex": 41,
-            "labelName": "ui_msg_xmenu_timeline_guide_40",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "前往209號道路吧。",
-                    "strWidth": 266.03125
-                }
-            ]
-        },
-        {
-            "labelIndex": 43,
-            "arrayIndex": 42,
-            "labelName": "ui_msg_xmenu_timeline_guide_41",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 2,
-                    "groupID": 1,
-                    "tagID": 0,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "去拿回",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": 245.3125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "的寶可夢圖鑑吧。",
-                    "strWidth": 202.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 44,
-            "arrayIndex": 43,
-            "labelName": "ui_msg_xmenu_timeline_guide_83",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去野原市吧。",
-                    "strWidth": 234.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 45,
-            "arrayIndex": 44,
-            "labelName": "ui_msg_xmenu_timeline_guide_42",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "擊敗野原道館的道館館主吧。",
-                    "strWidth": 575.96875
-                }
-            ]
-        },
-        {
-            "labelIndex": 46,
-            "arrayIndex": 45,
-            "labelName": "ui_msg_xmenu_timeline_guide_43",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "探索一下野原市吧。",
-                    "strWidth": 298.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 47,
-            "arrayIndex": 46,
-            "labelName": "ui_msg_xmenu_timeline_guide_44",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去追逃往野原市的東邊的手下吧。",
-                    "strWidth": 373.3125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "조무래기를 쫓아가자",
-                    "strWidth": 298.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 49,
-            "arrayIndex": 47,
-            "labelName": "ui_msg_xmenu_timeline_guide_46",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去幫助２１０號道路的可達鴨們吧。",
-                    "strWidth": 191.375
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "고라파덕들을 도와주자",
-                    "strWidth": 330.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 50,
-            "arrayIndex": 48,
-            "labelName": "ui_msg_xmenu_timeline_guide_47",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "把古代護符送去神和鎮吧。",
-                    "strWidth": 160.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "고대의부적을 전달하자",
-                    "strWidth": 330.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 51,
-            "arrayIndex": 49,
-            "labelName": "ui_msg_xmenu_timeline_guide_84",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去阻止在遺跡前面的銀河隊吧。",
-                    "strWidth": 213.3125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "갤럭시단을 막으러 가자",
-                    "strWidth": 341.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 52,
-            "arrayIndex": 50,
-            "labelName": "ui_msg_xmenu_timeline_guide_85",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去調查遺跡吧。",
-                    "strWidth": 234.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 53,
-            "arrayIndex": 51,
-            "labelName": "ui_msg_xmenu_timeline_guide_48",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "擊敗家緣道館的梅麗莎吧。",
-                    "strWidth": 501.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 54,
-            "arrayIndex": 52,
-            "labelName": "ui_msg_xmenu_timeline_guide_49",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去水脈市吧。",
-                    "strWidth": 234.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 55,
-            "arrayIndex": 53,
-            "labelName": "ui_msg_xmenu_timeline_guide_86",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "探索一下水脈市吧。",
-                    "strWidth": 298.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 56,
-            "arrayIndex": 54,
-            "labelName": "ui_msg_xmenu_timeline_guide_50",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "擊敗水脈道館的道館館主吧。",
-                    "strWidth": 575.96875
-                }
-            ]
-        },
-        {
-            "labelIndex": 57,
-            "arrayIndex": 55,
-            "labelName": "ui_msg_xmenu_timeline_guide_51",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 0,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": -1,
-                    "groupID": 25,
-                    "tagID": 0,
-                    "tagPatternID": 5,
-                    "forceArticle": 0,
-                    "tagParameter": 2,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "追上",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "，去水脈圖書館吧。",
-                    "strWidth": 74.65625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "운하도서관에 가자",
-                    "strWidth": 266.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 58,
-            "arrayIndex": 56,
-            "labelName": "ui_msg_xmenu_timeline_guide_52",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "到圖書館的外面去吧。",
-                    "strWidth": 309.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 59,
-            "arrayIndex": 57,
-            "labelName": "ui_msg_xmenu_timeline_guide_53",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去調查立志湖發生了什麼事吧。",
-                    "strWidth": 479.96875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "조사하러 가자",
-                    "strWidth": 202.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 60,
-            "arrayIndex": 58,
-            "labelName": "ui_msg_xmenu_timeline_guide_54",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去看看心齊湖的情況吧。",
-                    "strWidth": 373.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 61,
-            "arrayIndex": 59,
-            "labelName": "ui_msg_xmenu_timeline_guide_87",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "阻止在心齊湖的銀河隊吧。",
-                    "strWidth": 479.96875
-                }
-            ]
-        },
-        {
-            "labelIndex": 62,
-            "arrayIndex": 60,
-            "labelName": "ui_msg_xmenu_timeline_guide_55",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去看看睿智湖的情況吧。",
-                    "strWidth": 373.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 63,
-            "arrayIndex": 61,
-            "labelName": "ui_msg_xmenu_timeline_guide_88",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去鋼鐵島拿秘傳學習器「怪力」吧！",
-                    "strWidth": 160.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "괴력 기술머신을 손에 넣자",
-                    "strWidth": 383.96875
-                }
-            ]
-        },
-        {
-            "labelIndex": 64,
-            "arrayIndex": 62,
-            "labelName": "ui_msg_xmenu_timeline_guide_56",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去雪峰道館吧。",
-                    "strWidth": 266.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 66,
-            "arrayIndex": 63,
-            "labelName": "ui_msg_xmenu_timeline_guide_89",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "前往銀河隊的基地吧。",
-                    "strWidth": 330.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 67,
-            "arrayIndex": 64,
-            "labelName": "ui_msg_xmenu_timeline_guide_58",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "尋找進入銀河隊基地的方法吧。",
-                    "strWidth": 256.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "들어갈 방법을 찾아내자",
-                    "strWidth": 341.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 68,
-            "arrayIndex": 65,
-            "labelName": "ui_msg_xmenu_timeline_guide_59",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去打開銀河隊倉庫的門吧。",
-                    "strWidth": 234.65625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "문을 열러 가자",
-                    "strWidth": 213.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 69,
-            "arrayIndex": 66,
-            "labelName": "ui_msg_xmenu_timeline_guide_90",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "探索一下銀河隊的基地吧。",
-                    "strWidth": 394.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 70,
-            "arrayIndex": 67,
-            "labelName": "ui_msg_xmenu_timeline_guide_60",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "從銀河帷幕大樓重新進入吧。",
-                    "strWidth": 298.65625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "다시 들어가자",
-                    "strWidth": 202.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 71,
-            "arrayIndex": 68,
-            "labelName": "ui_msg_xmenu_timeline_guide_61",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "救出被囚禁的寶可夢們吧。",
-                    "strWidth": 415.96875
-                }
-            ]
-        },
-        {
-            "labelIndex": 72,
-            "arrayIndex": 69,
-            "labelName": "ui_msg_xmenu_timeline_guide_62",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "按下按鈕救出被囚禁的寶可夢們吧。",
-                    "strWidth": 202.65625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "붙잡힌 포켓몬들을 구해 주자",
-                    "strWidth": 415.96875
-                }
-            ]
-        },
-        {
-            "labelIndex": 73,
-            "arrayIndex": 70,
-            "labelName": "ui_msg_xmenu_timeline_guide_63",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "阻止在天冠山頂的銀河隊吧。",
-                    "strWidth": 277.3125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "갤럭시단을 막자",
-                    "strWidth": 234.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 74,
-            "arrayIndex": 71,
-            "labelName": "ui_msg_xmenu_timeline_guide_91",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "在２１７號道路",
-                    "strWidth": 223.375
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "獲得「攀岩」的招式學習器吧。",
-                    "strWidth": 447.96875
-                }
-            ]
-        },
-        {
-            "labelIndex": 75,
-            "arrayIndex": 72,
-            "labelName": "ui_msg_xmenu_timeline_guide_64",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "讓失控的傳說的寶可夢鎮靜下來吧。",
-                    "strWidth": 234.65625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "폭주를 멈추자",
-                    "strWidth": 202.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 76,
-            "arrayIndex": 73,
-            "labelName": "ui_msg_xmenu_timeline_guide_65",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去看看濱海市的情況吧。",
-                    "strWidth": 373.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 77,
-            "arrayIndex": 74,
-            "labelName": "ui_msg_xmenu_timeline_guide_66",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去尋找濱海道館的道館館主吧。",
-                    "strWidth": 405.3125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "찾으러 가자",
-                    "strWidth": 170.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 78,
-            "arrayIndex": 75,
-            "labelName": "ui_msg_xmenu_timeline_guide_67",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "擊敗濱海道館的道館館主吧。",
-                    "strWidth": 575.96875
-                }
-            ]
-        },
-        {
-            "labelIndex": 79,
-            "arrayIndex": 76,
-            "labelName": "ui_msg_xmenu_timeline_guide_68",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "前往寶可夢聯盟吧。",
-                    "strWidth": 266.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 80,
-            "arrayIndex": 77,
-            "labelName": "ui_msg_xmenu_timeline_guide_92",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "在寶可夢聯盟中勝出吧。",
-                    "strWidth": 339.5625
-                }
-            ]
-        },
-        {
-            "labelIndex": 81,
-            "arrayIndex": 78,
-            "labelName": "ui_msg_xmenu_timeline_guide_74",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去１樓吧。",
-                    "strWidth": 159.78125
-                }
-            ]
-        },
-        {
-            "labelIndex": 82,
-            "arrayIndex": 79,
-            "labelName": "ui_msg_xmenu_timeline_guide_75",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 0,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": -1,
-                    "groupID": 25,
-                    "tagID": 0,
-                    "tagPatternID": 5,
-                    "forceArticle": 0,
-                    "tagParameter": 3,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "前往",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "要",
-                    "strWidth": 255.96875
-                }
-            ]
-        },
-        {
-            "labelIndex": 83,
-            "arrayIndex": 80,
-            "labelName": "ui_msg_xmenu_timeline_guide_76",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "協助大葉和電次對戰！",
-                    "strWidth": 447.96875
-                }
-            ]
-        },
-        {
-            "labelIndex": 84,
-            "arrayIndex": 81,
-            "labelName": "ui_msg_xmenu_timeline_guide_77",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去對戰塔看看吧。",
-                    "strWidth": 277.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 85,
-            "arrayIndex": 82,
-            "labelName": "ui_msg_xmenu_timeline_guide_78",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "完成寶可夢圖鑑，然後去報告吧。",
-                    "strWidth": 383.96875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "보고하자",
-                    "strWidth": 128.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 86,
-            "arrayIndex": 83,
-            "labelName": "ui_msg_xmenu_timeline_guide_79",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "在神奧地區各處冒險吧。",
-                    "strWidth": 234.65625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "자유롭게 모험하자",
-                    "strWidth": 266.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 87,
-            "arrayIndex": 84,
-            "labelName": "ui_msg_xmenu_timeline_communication_01",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "附近好像有能透過",
-                    "strWidth": 309.3125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "鄰近主機通訊遊玩的人。",
-                    "strWidth": 511.9375
-                }
-            ]
-        },
-        {
-            "labelIndex": 88,
-            "arrayIndex": 85,
-            "labelName": "ui_msg_xmenu_timeline_pokeoutbreak_00",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 5,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 1,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": -1,
-                    "groupID": 25,
-                    "tagID": 0,
-                    "tagPatternID": 5,
-                    "forceArticle": 0,
-                    "tagParameter": 3,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "有人在",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": 64.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 2,
-                    "tagValue": 0.0,
-                    "str": "目擊到大量的",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": 382.21875
-                }
-            ]
-        },
-        {
-            "labelIndex": 30,
-            "arrayIndex": 86,
-            "labelName": "ui_msg_xmenu_timeline_guide_93",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "調查銀河百代大樓的內部吧。",
-                    "strWidth": 298.65625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "내부를 조사하자",
-                    "strWidth": 234.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 48,
-            "arrayIndex": 87,
-            "labelName": "ui_msg_xmenu_timeline_guide_94",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "調查立志湖的入口附近吧。",
-                    "strWidth": 447.96875
-                }
-            ]
-        },
-        {
-            "labelIndex": 65,
-            "arrayIndex": 88,
-            "labelName": "ui_msg_xmenu_timeline_guide_95",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "擊敗雪峰道館的道館館主吧。",
-                    "strWidth": 575.96875
-                }
-            ]
-        },
-        {
-            "labelIndex": 89,
-            "arrayIndex": 89,
-            "labelName": "ui_msg_xmenu_timeline_guide_49_1",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "前往反叛公園吧。",
-                    "strWidth": 330.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 90,
-            "arrayIndex": 90,
-            "labelName": "ui_msg_xmenu_timeline_guide_86_1",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去鋼鐵島進行訓練吧！",
-                    "strWidth": 350.21875
-                }
-            ]
-        },
-        {
-            "labelIndex": 91,
-            "arrayIndex": 91,
-            "labelName": "ui_msg_xmenu_timeline_guide_86_2",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "探索鋼鐵島吧！",
-                    "strWidth": 266.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 92,
-            "arrayIndex": 92,
-            "labelName": "ui_msg_xmenu_timeline_guide_48_1",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "前往水脈市吧！",
-                    "strWidth": 234.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 93,
-            "arrayIndex": 93,
-            "labelName": "ui_msg_xmenu_timeline_guide_64_1",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "去拜訪山梨博士吧！",
-                    "strWidth": 234.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 94,
-            "arrayIndex": 94,
-            "labelName": "ui_msg_xmenu_timeline_guide_38_1",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "前往帷幕市！",
-                    "strWidth": 234.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 95,
-            "arrayIndex": 95,
-            "labelName": "ui_msg_xmenu_timeline_guide_34_1",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "前往精神信號所在地！",
-                    "strWidth": 277.3125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "오는 곳으로 가자",
-                    "strWidth": 245.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 96,
-            "arrayIndex": 96,
-            "labelName": "ui_msg_xmenu_timeline_guide_80_1",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "到216號道路找菜種吧！",
-                    "strWidth": 404.6875
-                }
-            ]
-        },
-        {
-            "labelIndex": 97,
-            "arrayIndex": 97,
-            "labelName": "ui_msg_xmenu_timeline_guide_post_riley",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "在鋼鐵島與東瓜對話吧！",
-                    "strWidth": 160.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "동관과 이야기하자",
-                    "strWidth": 266.65625
-                }
-            ]
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3652094840918934080
+  },
+  "m_Name": "si_ss_xmenu_timeline",
+  "hash": -578219154,
+  "langID": 8,
+  "isResident": 0,
+  "isKanji": 0,
+  "labelDataArray": [
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "ui_msg_xmenu_timeline_info_00",
+      "styleInfo": {
+        "styleIndex": 36,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 252,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去看看",
+          "strWidth": 106.65625
         }
-    ]
+      ]
+    },
+    {
+      "labelIndex": 1,
+      "arrayIndex": 1,
+      "labelName": "ui_msg_xmenu_timeline_guide_01",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "歡迎來到寶可夢的世界！",
+          "strWidth": 298.65625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "오신 것을 환영합니다!",
+          "strWidth": 318.21875
+        }
+      ]
+    },
+    {
+      "labelIndex": 2,
+      "arrayIndex": 2,
+      "labelName": "ui_msg_xmenu_timeline_guide_02",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去看電視吧。",
+          "strWidth": 151.6875
+        }
+      ]
+    },
+    {
+      "labelIndex": 3,
+      "arrayIndex": 3,
+      "labelName": "ui_msg_xmenu_timeline_guide_03",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去１樓吧。",
+          "strWidth": 159.78125
+        }
+      ]
+    },
+    {
+      "labelIndex": 4,
+      "arrayIndex": 4,
+      "labelName": "ui_msg_xmenu_timeline_guide_04",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": -1,
+          "groupID": 25,
+          "tagID": 0,
+          "tagPatternID": 5,
+          "forceArticle": 0,
+          "tagParameter": 2,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "去見",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "吧。",
+          "strWidth": 181.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 5,
+      "arrayIndex": 5,
+      "labelName": "ui_msg_xmenu_timeline_guide_05",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": -1,
+          "groupID": 25,
+          "tagID": 0,
+          "tagPatternID": 5,
+          "forceArticle": 0,
+          "tagParameter": 2,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "去看看",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "的情況吧。",
+          "strWidth": 213.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 6,
+      "arrayIndex": 6,
+      "labelName": "ui_msg_xmenu_timeline_guide_06",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去心齊湖看看吧。",
+          "strWidth": 309.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 7,
+      "arrayIndex": 7,
+      "labelName": "ui_msg_xmenu_timeline_guide_07",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去歸還寶可夢吧。",
+          "strWidth": 341.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 8,
+      "arrayIndex": 8,
+      "labelName": "ui_msg_xmenu_timeline_guide_08",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去寶可夢研究所吧。",
+          "strWidth": 309.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 9,
+      "arrayIndex": 9,
+      "labelName": "ui_msg_xmenu_timeline_guide_09",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "告訴媽媽要出去冒險的事吧。",
+          "strWidth": 234.65625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "엄마에게 말하러 가자",
+          "strWidth": 309.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 10,
+      "arrayIndex": 10,
+      "labelName": "ui_msg_xmenu_timeline_guide_10",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去祝慶市吧。",
+          "strWidth": 234.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 11,
+      "arrayIndex": 11,
+      "labelName": "ui_msg_xmenu_timeline_guide_11",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去訓練家學校吧。",
+          "strWidth": 298.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 12,
+      "arrayIndex": 12,
+      "labelName": "ui_msg_xmenu_timeline_guide_12",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "探索一下祝慶市吧。",
+          "strWidth": 298.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 13,
+      "arrayIndex": 13,
+      "labelName": "ui_msg_xmenu_timeline_guide_13",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "回答由３名小丑出的",
+          "strWidth": 319.96875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "寶可錶問題吧。",
+          "strWidth": 277.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 14,
+      "arrayIndex": 14,
+      "labelName": "ui_msg_xmenu_timeline_guide_14",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去獲得寶可錶吧。",
+          "strWidth": 309.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 15,
+      "arrayIndex": 15,
+      "labelName": "ui_msg_xmenu_timeline_guide_15",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去黑金市吧。",
+          "strWidth": 234.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 16,
+      "arrayIndex": 16,
+      "labelName": "ui_msg_xmenu_timeline_guide_16",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去尋找黑金道館的道館館主吧。",
+          "strWidth": 405.3125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "찾으러 가자",
+          "strWidth": 170.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 17,
+      "arrayIndex": 17,
+      "labelName": "ui_msg_xmenu_timeline_guide_17",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "擊敗黑金道館的瓢太吧。",
+          "strWidth": 469.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 18,
+      "arrayIndex": 18,
+      "labelName": "ui_msg_xmenu_timeline_guide_18",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "前往下一個冒險吧。",
+          "strWidth": 277.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 19,
+      "arrayIndex": 19,
+      "labelName": "ui_msg_xmenu_timeline_guide_19",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "回去祝慶市吧。",
+          "strWidth": 298.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 20,
+      "arrayIndex": 20,
+      "labelName": "ui_msg_xmenu_timeline_guide_20",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "未使用",
+          "strWidth": 96.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 21,
+      "arrayIndex": 21,
+      "labelName": "ui_msg_xmenu_timeline_guide_21",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": -1,
+          "groupID": 25,
+          "tagID": 0,
+          "tagPatternID": 5,
+          "forceArticle": 0,
+          "tagParameter": 3,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "去",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "前往的百代市吧。",
+          "strWidth": 74.65625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "영원시티에 가자",
+          "strWidth": 234.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 22,
+      "arrayIndex": 22,
+      "labelName": "ui_msg_xmenu_timeline_guide_22",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去山谷發電廠看看吧。",
+          "strWidth": 373.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 23,
+      "arrayIndex": 23,
+      "labelName": "ui_msg_xmenu_timeline_guide_23",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去尋找發電廠鑰匙吧。",
+          "strWidth": 341.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 24,
+      "arrayIndex": 24,
+      "labelName": "ui_msg_xmenu_timeline_guide_24",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "進入山谷發電廠吧。",
+          "strWidth": 362.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 25,
+      "arrayIndex": 25,
+      "labelName": "ui_msg_xmenu_timeline_guide_25",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "擊敗在發電廠裡的銀河隊吧。",
+          "strWidth": 202.65625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "갤럭시단을 무찌르자",
+          "strWidth": 298.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 26,
+      "arrayIndex": 26,
+      "labelName": "ui_msg_xmenu_timeline_guide_27",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "與芽米合力穿過森林吧。",
+          "strWidth": 234.65625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "숲을 빠져나가자",
+          "strWidth": 234.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 27,
+      "arrayIndex": 27,
+      "labelName": "ui_msg_xmenu_timeline_guide_80",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "探索一下百代市吧。",
+          "strWidth": 298.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 28,
+      "arrayIndex": 28,
+      "labelName": "ui_msg_xmenu_timeline_guide_29",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "擊敗百代道館的菜種吧。",
+          "strWidth": 469.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 29,
+      "arrayIndex": 29,
+      "labelName": "ui_msg_xmenu_timeline_guide_30",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "找出躲藏在道館內的訓練家吧。",
+          "strWidth": 277.3125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "트레이너를 찾아내자",
+          "strWidth": 298.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 31,
+      "arrayIndex": 30,
+      "labelName": "ui_msg_xmenu_timeline_guide_31",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去阻止銀河隊吧。",
+          "strWidth": 341.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 32,
+      "arrayIndex": 31,
+      "labelName": "ui_msg_xmenu_timeline_guide_81",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "向在銀河百代大樓裡的大叔搭話吧。",
+          "strWidth": 373.3125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "아저씨에게 말을 걸자",
+          "strWidth": 309.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 33,
+      "arrayIndex": 32,
+      "labelName": "ui_msg_xmenu_timeline_guide_32",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去找自行車店的老闆談談吧！",
+          "strWidth": 383.96875
+        }
+      ]
+    },
+    {
+      "labelIndex": 34,
+      "arrayIndex": 33,
+      "labelName": "ui_msg_xmenu_timeline_guide_33",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去拜訪地下大叔吧。",
+          "strWidth": 341.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 35,
+      "arrayIndex": 34,
+      "labelName": "ui_msg_xmenu_timeline_guide_34",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "穿過自行車道，往南前進吧。",
+          "strWidth": 309.3125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "남쪽으로 가자",
+          "strWidth": 202.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 36,
+      "arrayIndex": 35,
+      "labelName": "ui_msg_xmenu_timeline_guide_35",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去家緣市吧。",
+          "strWidth": 234.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 37,
+      "arrayIndex": 36,
+      "labelName": "ui_msg_xmenu_timeline_guide_36",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去華麗大賽會場吧。",
+          "strWidth": 298.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 38,
+      "arrayIndex": 37,
+      "labelName": "ui_msg_xmenu_timeline_guide_37",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "探索一下家緣市吧。",
+          "strWidth": 298.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 39,
+      "arrayIndex": 38,
+      "labelName": "ui_msg_xmenu_timeline_guide_38",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "幫助那位受困的女士吧！",
+          "strWidth": 415.96875
+        }
+      ]
+    },
+    {
+      "labelIndex": 40,
+      "arrayIndex": 39,
+      "labelName": "ui_msg_xmenu_timeline_guide_82",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "探索一下帷幕市吧。",
+          "strWidth": 298.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 41,
+      "arrayIndex": 40,
+      "labelName": "ui_msg_xmenu_timeline_guide_39",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "擊敗帷幕道館的道館館主吧。",
+          "strWidth": 575.96875
+        }
+      ]
+    },
+    {
+      "labelIndex": 42,
+      "arrayIndex": 41,
+      "labelName": "ui_msg_xmenu_timeline_guide_40",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "前往209號道路吧。",
+          "strWidth": 266.03125
+        }
+      ]
+    },
+    {
+      "labelIndex": 43,
+      "arrayIndex": 42,
+      "labelName": "ui_msg_xmenu_timeline_guide_41",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 2,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "去拿回",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 245.3125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "的寶可夢圖鑑吧。",
+          "strWidth": 202.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 44,
+      "arrayIndex": 43,
+      "labelName": "ui_msg_xmenu_timeline_guide_83",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去野原市吧。",
+          "strWidth": 234.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 45,
+      "arrayIndex": 44,
+      "labelName": "ui_msg_xmenu_timeline_guide_42",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "擊敗野原道館的道館館主吧。",
+          "strWidth": 575.96875
+        }
+      ]
+    },
+    {
+      "labelIndex": 46,
+      "arrayIndex": 45,
+      "labelName": "ui_msg_xmenu_timeline_guide_43",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "探索一下野原市吧。",
+          "strWidth": 298.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 47,
+      "arrayIndex": 46,
+      "labelName": "ui_msg_xmenu_timeline_guide_44",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去追逃往野原市的東邊的手下吧。",
+          "strWidth": 373.3125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "조무래기를 쫓아가자",
+          "strWidth": 298.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 49,
+      "arrayIndex": 47,
+      "labelName": "ui_msg_xmenu_timeline_guide_46",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去幫助２１０號道路的可達鴨們吧。",
+          "strWidth": 191.375
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "고라파덕들을 도와주자",
+          "strWidth": 330.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 50,
+      "arrayIndex": 48,
+      "labelName": "ui_msg_xmenu_timeline_guide_47",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "把古代護符送去神和鎮吧。",
+          "strWidth": 160.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "고대의부적을 전달하자",
+          "strWidth": 330.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 51,
+      "arrayIndex": 49,
+      "labelName": "ui_msg_xmenu_timeline_guide_84",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去阻止在遺跡前面的銀河隊吧。",
+          "strWidth": 213.3125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "갤럭시단을 막으러 가자",
+          "strWidth": 341.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 52,
+      "arrayIndex": 50,
+      "labelName": "ui_msg_xmenu_timeline_guide_85",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去調查遺跡吧。",
+          "strWidth": 234.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 53,
+      "arrayIndex": 51,
+      "labelName": "ui_msg_xmenu_timeline_guide_48",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "擊敗家緣道館的梅麗莎吧。",
+          "strWidth": 501.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 54,
+      "arrayIndex": 52,
+      "labelName": "ui_msg_xmenu_timeline_guide_49",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去水脈市吧。",
+          "strWidth": 234.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 55,
+      "arrayIndex": 53,
+      "labelName": "ui_msg_xmenu_timeline_guide_86",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "探索一下水脈市吧。",
+          "strWidth": 298.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 56,
+      "arrayIndex": 54,
+      "labelName": "ui_msg_xmenu_timeline_guide_50",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "擊敗水脈道館的道館館主吧。",
+          "strWidth": 575.96875
+        }
+      ]
+    },
+    {
+      "labelIndex": 57,
+      "arrayIndex": 55,
+      "labelName": "ui_msg_xmenu_timeline_guide_51",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": -1,
+          "groupID": 25,
+          "tagID": 0,
+          "tagPatternID": 5,
+          "forceArticle": 0,
+          "tagParameter": 2,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "追上",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "，去水脈圖書館吧。",
+          "strWidth": 74.65625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "운하도서관에 가자",
+          "strWidth": 266.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 58,
+      "arrayIndex": 56,
+      "labelName": "ui_msg_xmenu_timeline_guide_52",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "到圖書館的外面去吧。",
+          "strWidth": 309.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 59,
+      "arrayIndex": 57,
+      "labelName": "ui_msg_xmenu_timeline_guide_53",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去調查立志湖發生了什麼事吧。",
+          "strWidth": 479.96875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "조사하러 가자",
+          "strWidth": 202.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 60,
+      "arrayIndex": 58,
+      "labelName": "ui_msg_xmenu_timeline_guide_54",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去看看心齊湖的情況吧。",
+          "strWidth": 373.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 61,
+      "arrayIndex": 59,
+      "labelName": "ui_msg_xmenu_timeline_guide_87",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "阻止在心齊湖的銀河隊吧。",
+          "strWidth": 479.96875
+        }
+      ]
+    },
+    {
+      "labelIndex": 62,
+      "arrayIndex": 60,
+      "labelName": "ui_msg_xmenu_timeline_guide_55",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去看看睿智湖的情況吧。",
+          "strWidth": 373.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 63,
+      "arrayIndex": 61,
+      "labelName": "ui_msg_xmenu_timeline_guide_88",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去鋼鐵島拿秘傳學習器「怪力」吧！",
+          "strWidth": 160.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "괴력 기술머신을 손에 넣자",
+          "strWidth": 383.96875
+        }
+      ]
+    },
+    {
+      "labelIndex": 64,
+      "arrayIndex": 62,
+      "labelName": "ui_msg_xmenu_timeline_guide_56",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去雪峰道館吧。",
+          "strWidth": 266.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 66,
+      "arrayIndex": 63,
+      "labelName": "ui_msg_xmenu_timeline_guide_89",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "前往銀河隊的基地吧。",
+          "strWidth": 330.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 67,
+      "arrayIndex": 64,
+      "labelName": "ui_msg_xmenu_timeline_guide_58",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "尋找進入銀河隊基地的方法吧。",
+          "strWidth": 256.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "들어갈 방법을 찾아내자",
+          "strWidth": 341.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 68,
+      "arrayIndex": 65,
+      "labelName": "ui_msg_xmenu_timeline_guide_59",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去打開銀河隊倉庫的門吧。",
+          "strWidth": 234.65625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "문을 열러 가자",
+          "strWidth": 213.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 69,
+      "arrayIndex": 66,
+      "labelName": "ui_msg_xmenu_timeline_guide_90",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "探索一下銀河隊的基地吧。",
+          "strWidth": 394.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 70,
+      "arrayIndex": 67,
+      "labelName": "ui_msg_xmenu_timeline_guide_60",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "從銀河帷幕大樓重新進入吧。",
+          "strWidth": 298.65625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "다시 들어가자",
+          "strWidth": 202.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 71,
+      "arrayIndex": 68,
+      "labelName": "ui_msg_xmenu_timeline_guide_61",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "救出被囚禁的寶可夢們吧。",
+          "strWidth": 415.96875
+        }
+      ]
+    },
+    {
+      "labelIndex": 72,
+      "arrayIndex": 69,
+      "labelName": "ui_msg_xmenu_timeline_guide_62",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "按下按鈕救出被囚禁的寶可夢們吧。",
+          "strWidth": 202.65625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "붙잡힌 포켓몬들을 구해 주자",
+          "strWidth": 415.96875
+        }
+      ]
+    },
+    {
+      "labelIndex": 73,
+      "arrayIndex": 70,
+      "labelName": "ui_msg_xmenu_timeline_guide_63",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "阻止在天冠山頂的銀河隊吧。",
+          "strWidth": 277.3125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "갤럭시단을 막자",
+          "strWidth": 234.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 74,
+      "arrayIndex": 71,
+      "labelName": "ui_msg_xmenu_timeline_guide_91",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在２１７號道路",
+          "strWidth": 223.375
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "獲得「攀岩」的招式學習器吧。",
+          "strWidth": 447.96875
+        }
+      ]
+    },
+    {
+      "labelIndex": 75,
+      "arrayIndex": 72,
+      "labelName": "ui_msg_xmenu_timeline_guide_64",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "讓失控的傳說的寶可夢鎮靜下來吧。",
+          "strWidth": 234.65625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "폭주를 멈추자",
+          "strWidth": 202.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 76,
+      "arrayIndex": 73,
+      "labelName": "ui_msg_xmenu_timeline_guide_65",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去看看濱海市的情況吧。",
+          "strWidth": 373.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 77,
+      "arrayIndex": 74,
+      "labelName": "ui_msg_xmenu_timeline_guide_66",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去尋找濱海道館的道館館主吧。",
+          "strWidth": 405.3125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "찾으러 가자",
+          "strWidth": 170.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 78,
+      "arrayIndex": 75,
+      "labelName": "ui_msg_xmenu_timeline_guide_67",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "擊敗濱海道館的道館館主吧。",
+          "strWidth": 575.96875
+        }
+      ]
+    },
+    {
+      "labelIndex": 79,
+      "arrayIndex": 76,
+      "labelName": "ui_msg_xmenu_timeline_guide_68",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "前往寶可夢聯盟吧。",
+          "strWidth": 266.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 80,
+      "arrayIndex": 77,
+      "labelName": "ui_msg_xmenu_timeline_guide_92",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在寶可夢聯盟中勝出吧。",
+          "strWidth": 339.5625
+        }
+      ]
+    },
+    {
+      "labelIndex": 81,
+      "arrayIndex": 78,
+      "labelName": "ui_msg_xmenu_timeline_guide_74",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去１樓吧。",
+          "strWidth": 159.78125
+        }
+      ]
+    },
+    {
+      "labelIndex": 82,
+      "arrayIndex": 79,
+      "labelName": "ui_msg_xmenu_timeline_guide_75",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": -1,
+          "groupID": 25,
+          "tagID": 0,
+          "tagPatternID": 5,
+          "forceArticle": 0,
+          "tagParameter": 3,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "前往",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要",
+          "strWidth": 255.96875
+        }
+      ]
+    },
+    {
+      "labelIndex": 83,
+      "arrayIndex": 80,
+      "labelName": "ui_msg_xmenu_timeline_guide_76",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "協助大葉和電次對戰！",
+          "strWidth": 447.96875
+        }
+      ]
+    },
+    {
+      "labelIndex": 84,
+      "arrayIndex": 81,
+      "labelName": "ui_msg_xmenu_timeline_guide_77",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去對戰塔看看吧。",
+          "strWidth": 277.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 85,
+      "arrayIndex": 82,
+      "labelName": "ui_msg_xmenu_timeline_guide_78",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "完成寶可夢圖鑑，然後去報告吧。",
+          "strWidth": 383.96875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "보고하자",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 86,
+      "arrayIndex": 83,
+      "labelName": "ui_msg_xmenu_timeline_guide_79",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在神奧地區各處冒險吧。",
+          "strWidth": 234.65625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "자유롭게 모험하자",
+          "strWidth": 266.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 87,
+      "arrayIndex": 84,
+      "labelName": "ui_msg_xmenu_timeline_communication_01",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "附近好像有能透過",
+          "strWidth": 309.3125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "鄰近主機通訊遊玩的人。",
+          "strWidth": 511.9375
+        }
+      ]
+    },
+    {
+      "labelIndex": 88,
+      "arrayIndex": 85,
+      "labelName": "ui_msg_xmenu_timeline_pokeoutbreak_00",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 5,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 1,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": -1,
+          "groupID": 25,
+          "tagID": 0,
+          "tagPatternID": 5,
+          "forceArticle": 0,
+          "tagParameter": 3,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "有人在",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 64.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "目擊到大量的",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 382.21875
+        }
+      ]
+    },
+    {
+      "labelIndex": 30,
+      "arrayIndex": 86,
+      "labelName": "ui_msg_xmenu_timeline_guide_93",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "調查銀河百代大樓的內部吧。",
+          "strWidth": 298.65625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "내부를 조사하자",
+          "strWidth": 234.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 48,
+      "arrayIndex": 87,
+      "labelName": "ui_msg_xmenu_timeline_guide_94",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "調查立志湖的入口附近吧。",
+          "strWidth": 447.96875
+        }
+      ]
+    },
+    {
+      "labelIndex": 65,
+      "arrayIndex": 88,
+      "labelName": "ui_msg_xmenu_timeline_guide_95",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "擊敗雪峰道館的道館館主吧。",
+          "strWidth": 575.96875
+        }
+      ]
+    },
+    {
+      "labelIndex": 89,
+      "arrayIndex": 89,
+      "labelName": "ui_msg_xmenu_timeline_guide_49_1",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "前往反叛公園吧。",
+          "strWidth": 330.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 90,
+      "arrayIndex": 90,
+      "labelName": "ui_msg_xmenu_timeline_guide_86_1",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去鋼鐵島進行訓練吧！",
+          "strWidth": 350.21875
+        }
+      ]
+    },
+    {
+      "labelIndex": 91,
+      "arrayIndex": 91,
+      "labelName": "ui_msg_xmenu_timeline_guide_86_2",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "探索鋼鐵島吧！",
+          "strWidth": 266.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 92,
+      "arrayIndex": 92,
+      "labelName": "ui_msg_xmenu_timeline_guide_48_1",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "前往水脈市吧！",
+          "strWidth": 234.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 93,
+      "arrayIndex": 93,
+      "labelName": "ui_msg_xmenu_timeline_guide_64_1",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "去拜訪山梨博士吧！",
+          "strWidth": 234.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 94,
+      "arrayIndex": 94,
+      "labelName": "ui_msg_xmenu_timeline_guide_38_1",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "前往帷幕市！",
+          "strWidth": 234.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 95,
+      "arrayIndex": 95,
+      "labelName": "ui_msg_xmenu_timeline_guide_34_1",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "前往精神信號所在地！",
+          "strWidth": 277.3125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "오는 곳으로 가자",
+          "strWidth": 245.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 96,
+      "arrayIndex": 96,
+      "labelName": "ui_msg_xmenu_timeline_guide_80_1",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "到216號道路找菜種吧！",
+          "strWidth": 404.6875
+        }
+      ]
+    },
+    {
+      "labelIndex": 97,
+      "arrayIndex": 97,
+      "labelName": "ui_msg_xmenu_timeline_guide_post_riley",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在鋼鐵島與東瓜對話吧！",
+          "strWidth": 160.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "동관과 이야기하자",
+          "strWidth": 266.65625
+        }
+      ]
+    }
+  ]
 }

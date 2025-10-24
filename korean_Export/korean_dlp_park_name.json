@@ -1,978 +1,978 @@
 {
-    "m_GameObject": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "m_Enabled": 1,
-    "m_Script": {
-        "m_FileID": 0,
-        "m_PathID": 3652094840918934080
-    },
-    "m_Name": "korean_dlp_park_name",
-    "hash": -1525442589,
-    "langID": 8,
-    "isResident": 0,
-    "isKanji": 0,
-    "labelDataArray": [
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3652094840918934080
+  },
+  "m_Name": "korean_dlp_park_name",
+  "hash": -1525442589,
+  "langID": 8,
+  "isResident": 0,
+  "isKanji": 0,
+  "labelDataArray": [
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "DLP_PARK_NAME_000",
+      "styleInfo": {
+        "styleIndex": 128,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
         {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "DLP_PARK_NAME_000",
-            "styleInfo": {
-                "styleIndex": 128,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 588,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 1,
-            "arrayIndex": 1,
-            "labelName": "DLP_PARK_NAME_001",
-            "styleInfo": {
-                "styleIndex": 125,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 504,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "수수께끼의조각S",
-                    "strWidth": 242.0625
-                }
-            ]
-        },
-        {
-            "labelIndex": 2,
-            "arrayIndex": 2,
-            "labelName": "DLP_PARK_NAME_002",
-            "styleInfo": {
-                "styleIndex": 125,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 504,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "수수께끼의조각L",
-                    "strWidth": 239.71875
-                }
-            ]
-        },
-        {
-            "labelIndex": 3,
-            "arrayIndex": 3,
-            "labelName": "DLP_PARK_NAME_003",
-            "styleInfo": {
-                "styleIndex": 125,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 504,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "인도의석판",
-                    "strWidth": 160.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 4,
-            "arrayIndex": 4,
-            "labelName": "DLP_PARK_NAME_004",
-            "styleInfo": {
-                "styleIndex": 128,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 588,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "레지아이스석상",
-                    "strWidth": 224.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 5,
-            "arrayIndex": 5,
-            "labelName": "DLP_PARK_NAME_005",
-            "styleInfo": {
-                "styleIndex": 128,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 588,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "레지스틸석상",
-                    "strWidth": 192.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 6,
-            "arrayIndex": 6,
-            "labelName": "DLP_PARK_NAME_006",
-            "styleInfo": {
-                "styleIndex": 128,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 588,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "레지락석상",
-                    "strWidth": 160.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 7,
-            "arrayIndex": 7,
-            "labelName": "DLP_PARK_NAME_007",
-            "styleInfo": {
-                "styleIndex": 125,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 504,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "관동의석판",
-                    "strWidth": 160.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 8,
-            "arrayIndex": 8,
-            "labelName": "DLP_PARK_NAME_008",
-            "styleInfo": {
-                "styleIndex": 128,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 588,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "프리져석상",
-                    "strWidth": 160.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 9,
-            "arrayIndex": 9,
-            "labelName": "DLP_PARK_NAME_009",
-            "styleInfo": {
-                "styleIndex": 128,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 588,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "썬더석상",
-                    "strWidth": 128.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 10,
-            "arrayIndex": 10,
-            "labelName": "DLP_PARK_NAME_010",
-            "styleInfo": {
-                "styleIndex": 128,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 588,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "파이어석상",
-                    "strWidth": 160.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 11,
-            "arrayIndex": 11,
-            "labelName": "DLP_PARK_NAME_011",
-            "styleInfo": {
-                "styleIndex": 125,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 504,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "성도의석판",
-                    "strWidth": 160.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 12,
-            "arrayIndex": 12,
-            "labelName": "DLP_PARK_NAME_012",
-            "styleInfo": {
-                "styleIndex": 128,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 588,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "앤테이석상",
-                    "strWidth": 160.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 13,
-            "arrayIndex": 13,
-            "labelName": "DLP_PARK_NAME_013",
-            "styleInfo": {
-                "styleIndex": 128,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 588,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "스이쿤석상",
-                    "strWidth": 160.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 14,
-            "arrayIndex": 14,
-            "labelName": "DLP_PARK_NAME_014",
-            "styleInfo": {
-                "styleIndex": 128,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 588,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "라이코석상",
-                    "strWidth": 160.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 15,
-            "arrayIndex": 15,
-            "labelName": "DLP_PARK_NAME_015",
-            "styleInfo": {
-                "styleIndex": 125,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 504,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "마음의석판",
-                    "strWidth": 160.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 16,
-            "arrayIndex": 16,
-            "labelName": "DLP_PARK_NAME_016",
-            "styleInfo": {
-                "styleIndex": 128,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 588,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "라티아스석상",
-                    "strWidth": 192.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 17,
-            "arrayIndex": 17,
-            "labelName": "DLP_PARK_NAME_017",
-            "styleInfo": {
-                "styleIndex": 128,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 588,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "라티오스석상",
-                    "strWidth": 192.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 18,
-            "arrayIndex": 18,
-            "labelName": "DLP_PARK_NAME_018",
-            "styleInfo": {
-                "styleIndex": 125,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 504,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "무지개의석판",
-                    "strWidth": 192.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 19,
-            "arrayIndex": 19,
-            "labelName": "DLP_PARK_NAME_019",
-            "styleInfo": {
-                "styleIndex": 128,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 588,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "칠색조석상",
-                    "strWidth": 160.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 20,
-            "arrayIndex": 20,
-            "labelName": "DLP_PARK_NAME_020",
-            "styleInfo": {
-                "styleIndex": 128,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 588,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "폭풍의석판",
-                    "strWidth": 160.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 21,
-            "arrayIndex": 21,
-            "labelName": "DLP_PARK_NAME_021",
-            "styleInfo": {
-                "styleIndex": 128,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 588,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "루기아석상",
-                    "strWidth": 160.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 22,
-            "arrayIndex": 22,
-            "labelName": "DLP_PARK_NAME_022",
-            "styleInfo": {
-                "styleIndex": 125,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 504,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "대해의석판",
-                    "strWidth": 160.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 23,
-            "arrayIndex": 23,
-            "labelName": "DLP_PARK_NAME_023",
-            "styleInfo": {
-                "styleIndex": 128,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 588,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "가이오가석상",
-                    "strWidth": 192.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 24,
-            "arrayIndex": 24,
-            "labelName": "DLP_PARK_NAME_024",
-            "styleInfo": {
-                "styleIndex": 125,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 504,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "대륙의석판",
-                    "strWidth": 160.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 25,
-            "arrayIndex": 25,
-            "labelName": "DLP_PARK_NAME_025",
-            "styleInfo": {
-                "styleIndex": 128,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 588,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "그란돈석상",
-                    "strWidth": 160.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 26,
-            "arrayIndex": 26,
-            "labelName": "DLP_PARK_NAME_026",
-            "styleInfo": {
-                "styleIndex": 125,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 504,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "천공의석판",
-                    "strWidth": 160.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 27,
-            "arrayIndex": 27,
-            "labelName": "DLP_PARK_NAME_027",
-            "styleInfo": {
-                "styleIndex": 128,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 588,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "레쿠쟈석상",
-                    "strWidth": 160.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 28,
-            "arrayIndex": 28,
-            "labelName": "DLP_PARK_NAME_028",
-            "styleInfo": {
-                "styleIndex": 125,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 504,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "유전자의석판",
-                    "strWidth": 192.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 29,
-            "arrayIndex": 29,
-            "labelName": "DLP_PARK_NAME_029",
-            "styleInfo": {
-                "styleIndex": 128,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 588,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "뮤츠석상",
-                    "strWidth": 128.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 30,
-            "arrayIndex": 30,
-            "labelName": "DLP_PARK_NAME_030",
-            "styleInfo": {
-                "styleIndex": 125,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 504,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "깨어진석판",
-                    "strWidth": 160.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 31,
-            "arrayIndex": 31,
-            "labelName": "DLP_PARK_NAME_031",
-            "styleInfo": {
-                "styleIndex": 121,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 420,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "백금옥",
-                    "strWidth": 96.0
-                }
-            ]
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
         }
-    ]
+      ]
+    },
+    {
+      "labelIndex": 1,
+      "arrayIndex": 1,
+      "labelName": "DLP_PARK_NAME_001",
+      "styleInfo": {
+        "styleIndex": 125,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "수수께끼의조각S",
+          "strWidth": 242.0625
+        }
+      ]
+    },
+    {
+      "labelIndex": 2,
+      "arrayIndex": 2,
+      "labelName": "DLP_PARK_NAME_002",
+      "styleInfo": {
+        "styleIndex": 125,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "수수께끼의조각L",
+          "strWidth": 239.71875
+        }
+      ]
+    },
+    {
+      "labelIndex": 3,
+      "arrayIndex": 3,
+      "labelName": "DLP_PARK_NAME_003",
+      "styleInfo": {
+        "styleIndex": 125,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "인도의석판",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 4,
+      "arrayIndex": 4,
+      "labelName": "DLP_PARK_NAME_004",
+      "styleInfo": {
+        "styleIndex": 128,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "레지아이스석상",
+          "strWidth": 224.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 5,
+      "arrayIndex": 5,
+      "labelName": "DLP_PARK_NAME_005",
+      "styleInfo": {
+        "styleIndex": 128,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "레지스틸석상",
+          "strWidth": 192.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 6,
+      "arrayIndex": 6,
+      "labelName": "DLP_PARK_NAME_006",
+      "styleInfo": {
+        "styleIndex": 128,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "레지락석상",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 7,
+      "arrayIndex": 7,
+      "labelName": "DLP_PARK_NAME_007",
+      "styleInfo": {
+        "styleIndex": 125,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "관동의석판",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 8,
+      "arrayIndex": 8,
+      "labelName": "DLP_PARK_NAME_008",
+      "styleInfo": {
+        "styleIndex": 128,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "프리져석상",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 9,
+      "arrayIndex": 9,
+      "labelName": "DLP_PARK_NAME_009",
+      "styleInfo": {
+        "styleIndex": 128,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "썬더석상",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 10,
+      "arrayIndex": 10,
+      "labelName": "DLP_PARK_NAME_010",
+      "styleInfo": {
+        "styleIndex": 128,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "파이어석상",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 11,
+      "arrayIndex": 11,
+      "labelName": "DLP_PARK_NAME_011",
+      "styleInfo": {
+        "styleIndex": 125,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "성도의석판",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 12,
+      "arrayIndex": 12,
+      "labelName": "DLP_PARK_NAME_012",
+      "styleInfo": {
+        "styleIndex": 128,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "앤테이석상",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 13,
+      "arrayIndex": 13,
+      "labelName": "DLP_PARK_NAME_013",
+      "styleInfo": {
+        "styleIndex": 128,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "스이쿤석상",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 14,
+      "arrayIndex": 14,
+      "labelName": "DLP_PARK_NAME_014",
+      "styleInfo": {
+        "styleIndex": 128,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "라이코석상",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 15,
+      "arrayIndex": 15,
+      "labelName": "DLP_PARK_NAME_015",
+      "styleInfo": {
+        "styleIndex": 125,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "마음의석판",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 16,
+      "arrayIndex": 16,
+      "labelName": "DLP_PARK_NAME_016",
+      "styleInfo": {
+        "styleIndex": 128,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "라티아스석상",
+          "strWidth": 192.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 17,
+      "arrayIndex": 17,
+      "labelName": "DLP_PARK_NAME_017",
+      "styleInfo": {
+        "styleIndex": 128,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "라티오스석상",
+          "strWidth": 192.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 18,
+      "arrayIndex": 18,
+      "labelName": "DLP_PARK_NAME_018",
+      "styleInfo": {
+        "styleIndex": 125,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "무지개의석판",
+          "strWidth": 192.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 19,
+      "arrayIndex": 19,
+      "labelName": "DLP_PARK_NAME_019",
+      "styleInfo": {
+        "styleIndex": 128,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "칠색조석상",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 20,
+      "arrayIndex": 20,
+      "labelName": "DLP_PARK_NAME_020",
+      "styleInfo": {
+        "styleIndex": 128,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "폭풍의석판",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 21,
+      "arrayIndex": 21,
+      "labelName": "DLP_PARK_NAME_021",
+      "styleInfo": {
+        "styleIndex": 128,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "루기아석상",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 22,
+      "arrayIndex": 22,
+      "labelName": "DLP_PARK_NAME_022",
+      "styleInfo": {
+        "styleIndex": 125,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "대해의석판",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 23,
+      "arrayIndex": 23,
+      "labelName": "DLP_PARK_NAME_023",
+      "styleInfo": {
+        "styleIndex": 128,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "가이오가석상",
+          "strWidth": 192.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 24,
+      "arrayIndex": 24,
+      "labelName": "DLP_PARK_NAME_024",
+      "styleInfo": {
+        "styleIndex": 125,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "대륙의석판",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 25,
+      "arrayIndex": 25,
+      "labelName": "DLP_PARK_NAME_025",
+      "styleInfo": {
+        "styleIndex": 128,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "그란돈석상",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 26,
+      "arrayIndex": 26,
+      "labelName": "DLP_PARK_NAME_026",
+      "styleInfo": {
+        "styleIndex": 125,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "천공의석판",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 27,
+      "arrayIndex": 27,
+      "labelName": "DLP_PARK_NAME_027",
+      "styleInfo": {
+        "styleIndex": 128,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "레쿠쟈석상",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 28,
+      "arrayIndex": 28,
+      "labelName": "DLP_PARK_NAME_028",
+      "styleInfo": {
+        "styleIndex": 125,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "유전자의석판",
+          "strWidth": 192.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 29,
+      "arrayIndex": 29,
+      "labelName": "DLP_PARK_NAME_029",
+      "styleInfo": {
+        "styleIndex": 128,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 588,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "뮤츠석상",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 30,
+      "arrayIndex": 30,
+      "labelName": "DLP_PARK_NAME_030",
+      "styleInfo": {
+        "styleIndex": 125,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 504,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "깨어진석판",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 31,
+      "arrayIndex": 31,
+      "labelName": "DLP_PARK_NAME_031",
+      "styleInfo": {
+        "styleIndex": 121,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 420,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "백금옥",
+          "strWidth": 96.0
+        }
+      ]
+    }
+  ]
 }
