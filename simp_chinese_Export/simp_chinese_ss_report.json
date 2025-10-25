@@ -94,7 +94,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         },
         {
           "patternID": 5,
@@ -110,7 +110,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         },
         {
           "patternID": 5,
@@ -176,8 +176,8 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": ":",
-          "strWidth": 8.765625
+          "str": "：",
+          "strWidth": 8.59375
         },
         {
           "patternID": 5,
@@ -215,7 +215,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "现在位置",
-          "strWidth": 128.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -286,7 +286,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "游戏时间",
-          "strWidth": 128.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -344,8 +344,8 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": ":",
-          "strWidth": 8.765625
+          "str": "：",
+          "strWidth": 8.59375
         },
         {
           "patternID": 5,
@@ -432,7 +432,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "只",
-          "strWidth": 32.0
+          "strWidth": 64.0
         }
       ]
     },
@@ -462,7 +462,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "上一次的纪录",
-          "strWidth": 192.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -492,7 +492,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "----/--/--",
-          "strWidth": 144.28125
+          "strWidth": 129.25
         }
       ]
     },
@@ -521,8 +521,8 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "--:--",
-          "strWidth": 68.140625
+          "str": "--：--",
+          "strWidth": 57.21875
         }
       ]
     },
@@ -552,7 +552,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要储存到目前为止的",
-          "strWidth": 288.0
+          "strWidth": 266.65625
         },
         {
           "patternID": 0,
@@ -560,7 +560,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "冒险纪录吗？",
-          "strWidth": 192.0
+          "strWidth": 380.4375
         }
       ]
     },
@@ -590,7 +590,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在写入纪录……",
-          "strWidth": 256.0
+          "strWidth": 405.3125
         },
         {
           "patternID": 0,
@@ -598,7 +598,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请勿关闭电源。",
-          "strWidth": 224.0
+          "strWidth": 458.625
         }
       ]
     },
@@ -652,11 +652,19 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
           "patternID": 7,
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "",
+          "str": "确实写下了纪录！！",
           "strWidth": 0.0
         },
         {
@@ -664,7 +672,7 @@
           "eventID": 5,
           "tagIndex": -1,
           "tagValue": 10.0,
-          "str": "确实写下了纪录！！",
+          "str": "",
           "strWidth": -1.0
         },
         {
@@ -711,7 +719,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "记录冒险历程",
-          "strWidth": 192.0
+          "strWidth": 234.65625
         }
       ]
     },
@@ -741,7 +749,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "返回",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -771,7 +779,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "使用备份资料开始游戏",
-          "strWidth": 320.0
+          "strWidth": 341.3125
         }
       ]
     },
@@ -801,7 +809,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "主角",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -872,7 +880,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "持有徽章",
-          "strWidth": 128.0
+          "strWidth": 245.3125
         }
       ]
     },
@@ -946,12 +954,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "纪录储存失败。",
+          "strWidth": 128.0
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "纪录储存失败。",
-          "strWidth": 224.0
+          "str": "기록하지 못했습니다",
+          "strWidth": 298.65625
         }
       ]
     },
@@ -1040,7 +1056,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         },
         {
           "patternID": 5,
@@ -1056,7 +1072,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         },
         {
           "patternID": 5,
@@ -1072,7 +1088,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": " ",
-          "strWidth": 9.0625
+          "strWidth": 10.65625
         },
         {
           "patternID": 5,
@@ -1087,8 +1103,8 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": ":",
-          "strWidth": 8.765625
+          "str": "：",
+          "strWidth": 8.59375
         },
         {
           "patternID": 5,
@@ -1125,8 +1141,8 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "----/--/-- --:--",
-          "strWidth": 221.484375
+          "str": "----/--/-- --：--",
+          "strWidth": 197.125
         }
       ]
     },
@@ -1215,7 +1231,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         },
         {
           "patternID": 5,
@@ -1231,7 +1247,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         },
         {
           "patternID": 5,
@@ -1247,7 +1263,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": " ",
-          "strWidth": 9.0625
+          "strWidth": 10.65625
         },
         {
           "patternID": 5,
@@ -1262,8 +1278,8 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": ":",
-          "strWidth": 8.765625
+          "str": "：",
+          "strWidth": 8.59375
         },
         {
           "patternID": 5,

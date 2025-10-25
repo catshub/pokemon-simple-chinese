@@ -50,8 +50,8 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Lv.",
-          "strWidth": 43.171875
+          "str": "Lv。",
+          "strWidth": 40.9375
         },
         {
           "patternID": 5,
@@ -130,7 +130,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         }
       ]
     },
@@ -272,7 +272,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "返回",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -302,7 +302,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "重新选择",
-          "strWidth": 128.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -503,7 +503,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         },
         {
           "patternID": 5,
@@ -537,11 +537,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法让蛋出场战斗。",
-          "strWidth": 288.0
+          "strWidth": 170.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "내보낼 수 없습니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -571,7 +579,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "战斗中",
-          "strWidth": 96.0
+          "strWidth": 106.65625
         }
       ]
     },
@@ -601,7 +609,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "可以战斗",
-          "strWidth": 128.0
+          "strWidth": 181.3125
         }
       ]
     },
@@ -631,7 +639,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法战斗",
-          "strWidth": 128.0
+          "strWidth": 181.3125
         }
       ]
     },
@@ -661,7 +669,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "同伴",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -691,7 +699,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在等待……",
-          "strWidth": 192.0
+          "strWidth": 106.65625
         }
       ]
     },
@@ -893,7 +901,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "-",
-          "strWidth": 14.84375
+          "strWidth": 12.15625
         }
       ]
     },
@@ -923,7 +931,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "替换宝可梦",
-          "strWidth": 160.0
+          "strWidth": 266.65625
         }
       ]
     },
@@ -953,7 +961,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "查看能力",
-          "strWidth": 128.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -983,7 +991,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "回复",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1013,7 +1021,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "取消",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1067,12 +1075,28 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "已经在战斗了。",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        },
+        {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "已经在战斗了。",
-          "strWidth": 224.0
+          "str": "이미 배틀 중입니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -1098,11 +1122,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法让宝可梦回来！",
-          "strWidth": 288.0
+          "strWidth": 128.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "돌아오게 할 수 없습니다!",
+          "strWidth": 360.875
         }
       ]
     },
@@ -1156,12 +1188,28 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "已没有精力再战了！",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " 싸울 수 있는",
+          "strWidth": 191.96875
+        },
+        {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "已没有精力再战了！",
-          "strWidth": 288.0
+          "str": "기력이 남아 있지 않습니다!",
+          "strWidth": 392.875
         }
       ]
     },
@@ -1215,12 +1263,28 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "已经被选中了。",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        },
+        {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "已经被选中了。",
-          "strWidth": 224.0
+          "str": "이미 선택했습니다",
+          "strWidth": 266.65625
         }
       ]
     },
@@ -1250,7 +1314,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "派出到左侧",
-          "strWidth": 160.0
+          "strWidth": 234.65625
         }
       ]
     },
@@ -1280,7 +1344,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "派出到右侧",
-          "strWidth": 160.0
+          "strWidth": 266.65625
         }
       ]
     },
@@ -1351,7 +1415,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "效果绝佳",
-          "strWidth": 128.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -1381,7 +1445,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "有效果",
-          "strWidth": 96.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -1411,7 +1475,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "效果不好",
-          "strWidth": 128.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -1441,7 +1505,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "没有效果",
-          "strWidth": 128.0
+          "strWidth": 138.65625
         }
       ]
     }

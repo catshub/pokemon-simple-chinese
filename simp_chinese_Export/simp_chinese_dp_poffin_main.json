@@ -40,7 +40,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "树果标签",
-          "strWidth": 128.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -70,7 +70,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "辣味",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -100,7 +100,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "涩味",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -219,8 +219,8 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "No.",
-          "strWidth": 48.90625
+          "str": "No。",
+          "strWidth": 56.59375
         }
       ]
     },
@@ -349,8 +349,8 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": ".",
-          "strWidth": 7.96875
+          "str": "。",
+          "strWidth": 8.59375
         },
         {
           "patternID": 5,
@@ -366,7 +366,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "cm",
-          "strWidth": 45.734375
+          "strWidth": 48.28125
         }
       ]
     },
@@ -426,7 +426,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "很柔软",
-          "strWidth": 96.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -456,7 +456,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "柔软",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -486,7 +486,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "坚硬",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -516,7 +516,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "很坚硬",
-          "strWidth": 96.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -546,7 +546,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "非常坚硬",
-          "strWidth": 128.0
+          "strWidth": 266.65625
         }
       ]
     },
@@ -576,7 +576,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "是松软的泥土。",
-          "strWidth": 224.0
+          "strWidth": 266.65625
         }
       ]
     },
@@ -606,7 +606,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "种树果",
-          "strWidth": 96.0
+          "strWidth": 266.65625
         }
       ]
     },
@@ -636,7 +636,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "退出",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -666,7 +666,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要种树果吗？",
-          "strWidth": 192.0
+          "strWidth": 348.4375
         }
       ]
     },
@@ -726,7 +726,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "否",
-          "strWidth": 32.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -772,12 +772,12 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
+          "patternID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "将",
-          "strWidth": 32.0
+          "strWidth": 234.65625
         },
         {
           "patternID": 5,
@@ -788,12 +788,12 @@
           "strWidth": -1.0
         },
         {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
           "tagValue": 0.0,
           "str": "种进了",
-          "strWidth": 96.0
+          "strWidth": -1.0
         },
         {
           "patternID": 0,
@@ -801,7 +801,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "松软的泥土里！",
-          "strWidth": 224.0
+          "strWidth": 115.5625
         }
       ]
     },
@@ -847,17 +847,17 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
+          "patternID": 5,
           "eventID": 0,
-          "tagIndex": -1,
+          "tagIndex": 0,
           "tagValue": 0.0,
           "str": "是种下",
-          "strWidth": 96.0
+          "strWidth": -1.0
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 0,
+          "tagIndex": 1,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -868,7 +868,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "的地方！",
-          "strWidth": 128.0
+          "strWidth": 190.21875
         }
       ]
     },
@@ -917,7 +917,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "发芽了！",
-          "strWidth": 128.0
+          "strWidth": 222.21875
         }
       ]
     },
@@ -962,11 +962,19 @@
         },
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "的树干变得粗壮了！",
-          "strWidth": 288.0
+          "strWidth": 138.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "크게 자랐다!",
+          "strWidth": 179.5625
         }
       ]
     },
@@ -1011,11 +1019,19 @@
         },
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "开花了！",
-          "strWidth": 128.0
+          "strWidth": 106.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "피어 있다!",
+          "strWidth": 147.5625
         }
       ]
     },
@@ -1045,7 +1061,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要用喷壶浇水吗？",
-          "strWidth": 256.0
+          "strWidth": 423.09375
         }
       ]
     },
@@ -1105,7 +1121,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "否",
-          "strWidth": 32.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -1135,7 +1151,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "它好像很高兴！",
-          "strWidth": 224.0
+          "strWidth": 318.21875
         }
       ]
     },
@@ -1191,28 +1207,12 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "结出了",
-          "strWidth": 96.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "结出了",
           "strWidth": -1.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "个",
-          "strWidth": 32.0
         },
         {
           "patternID": 5,
@@ -1223,12 +1223,28 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "个",
+          "strWidth": 10.65625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
           "patternID": 7,
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "！",
-          "strWidth": 32.0
+          "strWidth": 190.21875
         },
         {
           "patternID": 0,
@@ -1236,7 +1252,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要采收树果吗？",
-          "strWidth": 224.0
+          "strWidth": 348.4375
         }
       ]
     },
@@ -1296,7 +1312,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "否",
-          "strWidth": 32.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -1370,17 +1386,33 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "暂时不去动",
+          "strWidth": -1.0
+        },
+        {
           "patternID": 7,
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "暂时不去动",
-          "strWidth": 160.0
+          "str": "",
+          "strWidth": 0.0
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 1,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "。",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 3,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -1390,8 +1422,8 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "。",
-          "strWidth": 32.0
+          "str": " 그대로 뒀다",
+          "strWidth": 181.3125
         }
       ]
     },
@@ -1447,28 +1479,12 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "采收了",
-          "strWidth": 96.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "采收了",
           "strWidth": -1.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "个",
-          "strWidth": 32.0
         },
         {
           "patternID": 5,
@@ -1479,12 +1495,28 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "个",
+          "strWidth": 10.65625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "！",
-          "strWidth": 32.0
+          "strWidth": 115.5625
         }
       ]
     },
@@ -1535,20 +1567,20 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "包包已满，",
-          "strWidth": 160.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "只好放弃采收",
-          "strWidth": 192.0
+          "strWidth": 245.3125
         },
         {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "只好放弃采收",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -1559,7 +1591,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "。",
-          "strWidth": 32.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -1643,19 +1675,11 @@
           "strWidth": -1.0
         },
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "把",
-          "strWidth": 32.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 1,
           "tagValue": 0.0,
-          "str": "",
+          "str": "把",
           "strWidth": -1.0
         },
         {
@@ -1667,14 +1691,6 @@
           "strWidth": 0.0
         },
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "放入了",
-          "strWidth": 96.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 2,
@@ -1683,20 +1699,44 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 3,
+          "tagValue": 0.0,
+          "str": "放入了",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 4,
+          "tagValue": 0.0,
+          "str": "口袋！",
+          "strWidth": -1.0
+        },
+        {
           "patternID": 7,
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "口袋！",
-          "strWidth": 96.0
+          "str": "泥土回到了松软的状态。",
+          "strWidth": 222.21875
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "泥土回到了松软的状态。",
-          "strWidth": 352.0
+          "str": "푹신푹신한 흙으로 되돌아갔다",
+          "strWidth": 437.3125
         }
       ]
     },
@@ -1726,7 +1766,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "是松软的泥土。",
-          "strWidth": 224.0
+          "strWidth": 266.65625
         }
       ]
     },
@@ -1772,17 +1812,17 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
+          "patternID": 5,
           "eventID": 0,
-          "tagIndex": -1,
+          "tagIndex": 0,
           "tagValue": 0.0,
           "str": "是种下",
-          "strWidth": 96.0
+          "strWidth": -1.0
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 0,
+          "tagIndex": 1,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -1793,7 +1833,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "的地方！",
-          "strWidth": 128.0
+          "strWidth": 190.21875
         }
       ]
     },
@@ -1842,7 +1882,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "发芽了！",
-          "strWidth": 128.0
+          "strWidth": 222.21875
         }
       ]
     },
@@ -1886,12 +1926,20 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "的树干变得粗壮了！",
+          "strWidth": 138.65625
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "的树干变得粗壮了！",
-          "strWidth": 288.0
+          "str": "크게 자랐다!",
+          "strWidth": 179.5625
         }
       ]
     },
@@ -1935,12 +1983,20 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "开花了！",
+          "strWidth": 106.65625
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "开花了！",
-          "strWidth": 128.0
+          "str": "피어 있다!",
+          "strWidth": 147.5625
         }
       ]
     },
@@ -1970,7 +2026,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请选择宝芬。",
-          "strWidth": 192.0
+          "strWidth": 341.3125
         }
       ]
     },
@@ -2101,7 +2157,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "空空如也",
-          "strWidth": 128.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -2155,20 +2211,28 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
           "patternID": 7,
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "",
-          "strWidth": 0.0
+          "str": "一脸开心地吃下了宝芬！",
+          "strWidth": 106.65625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "一脸开心地吃下了宝芬！",
-          "strWidth": 352.0
+          "str": "기뻐하며 먹었다!",
+          "strWidth": 243.5625
         }
       ]
     },
@@ -2222,20 +2286,28 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
           "patternID": 7,
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "",
-          "strWidth": 0.0
+          "str": "一脸厌恶地吃下了宝芬……",
+          "strWidth": 106.65625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "一脸厌恶地吃下了宝芬……",
-          "strWidth": 384.0
+          "str": "싫지만 억지로 먹었다...",
+          "strWidth": 335.09375
         }
       ]
     },
@@ -2289,12 +2361,20 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "吃下了宝芬。",
+          "strWidth": -1.0
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "吃下了宝芬。",
-          "strWidth": 192.0
+          "str": " 포핀을 먹었다",
+          "strWidth": 213.3125
         }
       ]
     },
@@ -2324,7 +2404,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "帅气提升了！",
-          "strWidth": 192.0
+          "strWidth": 275.5625
         }
       ]
     },
@@ -2354,7 +2434,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "强壮提升了！",
-          "strWidth": 192.0
+          "strWidth": 275.5625
         }
       ]
     },
@@ -2384,7 +2464,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "美丽提升了！",
-          "strWidth": 192.0
+          "strWidth": 307.5625
         }
       ]
     },
@@ -2414,7 +2494,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "可爱提升了！",
-          "strWidth": 192.0
+          "strWidth": 275.5625
         }
       ]
     },
@@ -2444,7 +2524,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "聪明提升了！",
-          "strWidth": 192.0
+          "strWidth": 307.5625
         }
       ]
     },
@@ -2474,7 +2554,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "什么变化都没有！",
-          "strWidth": 256.0
+          "strWidth": 350.21875
         }
       ]
     },
@@ -2504,7 +2584,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "牠好像已经吃不下了。",
-          "strWidth": 320.0
+          "strWidth": 437.28125
         }
       ]
     },
@@ -2890,15 +2970,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "您好！在这里可以料理树果，",
-          "strWidth": 416.0
+          "strWidth": 168.90625
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "并且制作成宝芬。",
+          "strWidth": 469.3125
         },
         {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "并且制作成宝芬。",
-          "strWidth": 256.0
+          "str": "포핀을 만들 수 있습니다",
+          "strWidth": 351.96875
         }
       ]
     },
@@ -2923,12 +3011,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "好～其他的宝可梦先去广场里玩吧！",
+          "strWidth": 245.3125
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "好～其他的宝可梦先去广场里玩吧！",
-          "strWidth": 512.0
+          "str": "먼저 광장에서 놀고 있으렴!",
+          "strWidth": 392.875
         }
       ]
     },
@@ -2954,11 +3050,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "唉呀，您连一个树果都没有呢。",
-          "strWidth": 448.0
+          "strWidth": 234.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "하나도 없네요",
+          "strWidth": 202.65625
         }
       ]
     },
@@ -2984,11 +3088,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "唉呀呀，您的宝芬盒已经满了呢。",
-          "strWidth": 480.0
+          "strWidth": 298.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "가득 찼네요",
+          "strWidth": 170.65625
         }
       ]
     },
@@ -3013,12 +3125,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "没有宝芬盒的话，就没办法料理树果。",
+          "strWidth": 298.65625
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "没有宝芬盒的话，就没办法料理树果。",
-          "strWidth": 544.0
+          "str": "나무열매를 요리할 수 없습니다",
+          "strWidth": 447.96875
         }
       ]
     },
@@ -3048,7 +3168,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "料理",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -3078,7 +3198,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "听说明",
-          "strWidth": 96.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -3108,7 +3228,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "退出",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -3134,11 +3254,27 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "那么！请从包包里选择要料理的树果！",
-          "strWidth": 544.0
+          "strWidth": 72.90625
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "요리에 쓸 나무열매를",
+          "strWidth": 309.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "가방에서 선택해 주세요!",
+          "strWidth": 350.21875
         }
       ]
     },
@@ -3163,12 +3299,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "当您想要料理时，欢迎再来！",
+          "strWidth": 309.3125
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "当您想要料理时，欢迎再来！",
-          "strWidth": 416.0
+          "str": "또 오세요!",
+          "strWidth": 147.5625
         }
       ]
     },
@@ -3250,7 +3394,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "ID",
-          "strWidth": 31.0625
+          "strWidth": 35.28125
         },
         {
           "patternID": 5,
@@ -3288,7 +3432,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "宝芬盒",
-          "strWidth": 96.0
+          "strWidth": 160.0
         }
       ]
     },
@@ -3348,7 +3492,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "丢掉",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -3408,7 +3552,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "顺口度",
-          "strWidth": 96.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -3448,8 +3592,8 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Lv.",
-          "strWidth": 43.171875
+          "str": "Lv。",
+          "strWidth": 40.9375
         },
         {
           "patternID": 5,
@@ -3487,7 +3631,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "关闭",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -3533,28 +3677,36 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "要丢掉",
-          "strWidth": 96.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
+          "str": "要丢掉",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "吗？",
+          "strWidth": 0.0
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "吗？",
-          "strWidth": 64.0
+          "str": "버리겠습니까?",
+          "strWidth": 209.78125
         }
       ]
     },
@@ -3600,28 +3752,36 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "丢掉了",
-          "strWidth": 96.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
+          "str": "丢掉了",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "。",
+          "strWidth": 0.0
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "。",
-          "strWidth": 32.0
+          "str": "버렸습니다",
+          "strWidth": 160.0
         }
       ]
     },
@@ -3681,7 +3841,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "否",
-          "strWidth": 32.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -3711,7 +3871,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "辣味",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -3741,7 +3901,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "涩味",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -3891,7 +4051,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "若吃下辣味的宝芬，帅气就会提升。",
-          "strWidth": 512.0
+          "strWidth": 627.53125
         }
       ]
     },
@@ -3921,7 +4081,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "若吃下涩味的宝芬，美丽就会提升。",
-          "strWidth": 512.0
+          "strWidth": 659.53125
         }
       ]
     },
@@ -3951,7 +4111,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "若吃下甜味的宝芬，可爱就会提升。",
-          "strWidth": 512.0
+          "strWidth": 595.53125
         }
       ]
     },
@@ -3981,7 +4141,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "若吃下苦味的宝芬，聪明就会提升。",
-          "strWidth": 512.0
+          "strWidth": 627.53125
         }
       ]
     },
@@ -4011,7 +4171,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "若吃下酸味的宝芬，强壮就会提升。",
-          "strWidth": 512.0
+          "strWidth": 595.53125
         }
       ]
     },
@@ -4072,17 +4232,17 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
+          "patternID": 5,
           "eventID": 0,
-          "tagIndex": -1,
+          "tagIndex": 0,
           "tagValue": 0.0,
           "str": "加入了",
-          "strWidth": 96.0
+          "strWidth": -1.0
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 0,
+          "tagIndex": 1,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -4093,7 +4253,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "！",
-          "strWidth": 32.0
+          "strWidth": 115.5625
         }
       ]
     },
@@ -4164,7 +4324,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要焦了！赶快搅！",
-          "strWidth": 256.0
+          "strWidth": 188.46875
         }
       ]
     },
@@ -4194,7 +4354,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "太快了！洒出来了！",
-          "strWidth": 288.0
+          "strWidth": 263.125
         }
       ]
     },
@@ -4224,7 +4384,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要焦了！快一点！",
-          "strWidth": 256.0
+          "strWidth": 188.46875
         }
       ]
     },
@@ -4254,7 +4414,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "稍微慢一点！",
-          "strWidth": 192.0
+          "strWidth": 179.5625
         }
       ]
     },
@@ -4284,7 +4444,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "快一点！快一点！",
-          "strWidth": 256.0
+          "strWidth": 156.46875
         }
       ]
     },
@@ -4314,7 +4474,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "完成！",
-          "strWidth": 96.0
+          "strWidth": 40.90625
         }
       ]
     },
@@ -4344,7 +4504,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "料理结果",
-          "strWidth": 128.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -4374,7 +4534,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "料理时间",
-          "strWidth": 128.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -4442,8 +4602,8 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": ":",
-          "strWidth": 8.765625
+          "str": "：",
+          "strWidth": 8.59375
         },
         {
           "patternID": 5,
@@ -4458,8 +4618,8 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": ":",
-          "strWidth": 8.765625
+          "str": "：",
+          "strWidth": 8.59375
         },
         {
           "patternID": 5,
@@ -4497,7 +4657,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "洒出的次数",
-          "strWidth": 160.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -4576,7 +4736,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "烧焦的次数",
-          "strWidth": 160.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -4655,7 +4815,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "做出的宝芬：",
-          "strWidth": 192.0
+          "strWidth": 179.25
         }
       ]
     },
@@ -4723,8 +4883,8 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "　Lv.",
-          "strWidth": 75.171875
+          "str": "　Lv。",
+          "strWidth": 51.59375
         },
         {
           "patternID": 5,
@@ -4740,7 +4900,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "　ｘ　",
-          "strWidth": 96.0
+          "strWidth": 38.78125
         },
         {
           "patternID": 5,
@@ -4830,19 +4990,11 @@
           "strWidth": -1.0
         },
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "把",
-          "strWidth": 32.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 1,
           "tagValue": 0.0,
-          "str": "",
+          "str": "把",
           "strWidth": -1.0
         },
         {
@@ -4851,15 +5003,31 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "",
-          "strWidth": 0.0
+          "strWidth": 202.65625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 3,
+          "tagValue": 0.0,
+          "str": "放入了宝芬盒。",
+          "strWidth": -1.0
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "放入了宝芬盒。",
-          "strWidth": 224.0
+          "str": " 넣었다",
+          "strWidth": 106.65625
         }
       ]
     },
@@ -4884,12 +5052,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要继续制作宝芬吗？",
+          "strWidth": 234.65625
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "要继续制作宝芬吗？",
-          "strWidth": 288.0
+          "str": "만들겠습니까?",
+          "strWidth": 209.78125
         }
       ]
     },
@@ -4914,12 +5090,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "请从包包里选择要料理的树果！",
+          "strWidth": 309.3125
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "请从包包里选择要料理的树果！",
-          "strWidth": 448.0
+          "str": "가방에서 선택해 주십시오!",
+          "strWidth": 382.21875
         }
       ]
     },
@@ -4949,7 +5133,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "宝芬盒已满。",
-          "strWidth": 192.0
+          "strWidth": 405.3125
         }
       ]
     },
@@ -4979,7 +5163,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "没有树果。",
-          "strWidth": 160.0
+          "strWidth": 298.65625
         }
       ]
     },
@@ -5024,7 +5208,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "将要搅拌的树果放入锅子里，",
-          "strWidth": 416.0
+          "strWidth": 490.625
         },
         {
           "patternID": 7,
@@ -5032,7 +5216,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "然后开始搅拌！",
-          "strWidth": 224.0
+          "strWidth": 307.5625
         },
         {
           "patternID": 7,
@@ -5040,7 +5224,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "画面上会出现箭头指示，",
-          "strWidth": 352.0
+          "strWidth": 341.3125
         },
         {
           "patternID": 7,
@@ -5048,63 +5232,71 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请依照箭头的方向搅动！",
-          "strWidth": 352.0
+          "strWidth": 360.875
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "如果搅拌得太慢，面糊会焦掉！",
-          "strWidth": 448.0
+          "strWidth": 309.3125
         },
         {
           "patternID": 7,
-          "eventID": 1,
+          "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "但搅拌得太快则会洒出来，",
-          "strWidth": 384.0
+          "strWidth": 392.875
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "所以要看仔细喔！",
-          "strWidth": 256.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "料理进行得顺利的话，",
-          "strWidth": 320.0
+          "strWidth": 383.96875
         },
         {
           "patternID": 7,
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "就能做出美味的宝芬！",
-          "strWidth": 320.0
+          "str": "料理进行得顺利的话，",
+          "strWidth": 574.1875
         },
         {
           "patternID": 7,
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
+          "str": "就能做出美味的宝芬！",
+          "strWidth": 202.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
           "str": "最后附带一点，",
-          "strWidth": 224.0
+          "strWidth": 382.21875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在互动广场也能制作宝芬喔！",
+          "strWidth": 202.65625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "在互动广场也能制作宝芬喔！",
-          "strWidth": 416.0
+          "str": "상호교류광장에서도 만들 수 있습니다!",
+          "strWidth": 552.875
         }
       ]
     },
@@ -5129,12 +5321,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "您要跟哪一只宝可梦一起散步呢？",
+          "strWidth": 202.65625
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "您要跟哪一只宝可梦一起散步呢？",
-          "strWidth": 480.0
+          "str": "함께 산책하시겠어요?",
+          "strWidth": 316.4375
         }
       ]
     },
@@ -5159,12 +5359,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "好～另一只宝可梦先去广场里玩吧！",
+          "strWidth": 245.3125
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "好～另一只宝可梦先去广场里玩吧！",
-          "strWidth": 512.0
+          "str": "먼저 광장에서 놀고 있으렴!",
+          "strWidth": 392.875
         }
       ]
     },
@@ -5194,7 +5402,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "牠在广场里等著您喔！",
-          "strWidth": 320.0
+          "strWidth": 456.875
         },
         {
           "patternID": 0,
@@ -5202,7 +5410,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "那么，希望您玩得愉快！",
-          "strWidth": 352.0
+          "strWidth": 243.5625
         }
       ]
     },
@@ -5247,7 +5455,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "那只宝可梦无法同行。",
-          "strWidth": 320.0
+          "strWidth": 533.28125
         }
       ]
     },
@@ -5272,12 +5480,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要把选择的树果收回包包里吗？",
+          "strWidth": 266.65625
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "要把选择的树果收回包包里吗？",
-          "strWidth": 448.0
+          "str": "가방으로 되돌리겠습니까?",
+          "strWidth": 380.4375
         }
       ]
     },
@@ -5302,12 +5518,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要使用选择的树果开始料理吗？",
+          "strWidth": 266.65625
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "要使用选择的树果开始料理吗？",
-          "strWidth": 448.0
+          "str": "시작하겠습니까?",
+          "strWidth": 241.78125
         }
       ]
     },
@@ -5337,7 +5561,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "将要搅拌的树果放入锅子里，",
-          "strWidth": 416.0
+          "strWidth": 490.625
         },
         {
           "patternID": 7,
@@ -5345,7 +5569,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "然后开始搅拌！",
-          "strWidth": 224.0
+          "strWidth": 307.5625
         },
         {
           "patternID": 7,
@@ -5353,7 +5577,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "画面上会出现箭头指示，",
-          "strWidth": 352.0
+          "strWidth": 341.3125
         },
         {
           "patternID": 7,
@@ -5361,7 +5585,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请依照箭头的方向搅动！",
-          "strWidth": 352.0
+          "strWidth": 360.875
         },
         {
           "patternID": 7,
@@ -5369,7 +5593,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "如果搅拌的速度太慢，",
-          "strWidth": 320.0
+          "strWidth": 309.3125
         },
         {
           "patternID": 7,
@@ -5377,7 +5601,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "小心面糊会焦掉喔！",
-          "strWidth": 288.0
+          "strWidth": 392.875
         },
         {
           "patternID": 7,
@@ -5385,7 +5609,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "但搅拌得太快也会洒出来，",
-          "strWidth": 384.0
+          "strWidth": 383.96875
         },
         {
           "patternID": 7,
@@ -5393,7 +5617,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "所以要看仔细喔！",
-          "strWidth": 256.0
+          "strWidth": 574.1875
         },
         {
           "patternID": 7,
@@ -5401,7 +5625,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "料理进行得顺利的话，",
-          "strWidth": 320.0
+          "strWidth": 202.65625
         },
         {
           "patternID": 7,
@@ -5409,7 +5633,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "就能做出美味的宝芬！",
-          "strWidth": 320.0
+          "strWidth": 382.21875
         }
       ]
     },
@@ -5480,7 +5704,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "准备OK",
-          "strWidth": 108.109375
+          "strWidth": 124.71875
         }
       ]
     },
@@ -5510,7 +5734,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "收回树果",
-          "strWidth": 128.0
+          "strWidth": 298.65625
         }
       ]
     },
@@ -5540,7 +5764,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "大家都在广场里等著您喔！",
-          "strWidth": 384.0
+          "strWidth": 456.875
         },
         {
           "patternID": 0,
@@ -5548,7 +5772,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "那么，希望您玩得愉快！",
-          "strWidth": 352.0
+          "strWidth": 243.5625
         }
       ]
     }

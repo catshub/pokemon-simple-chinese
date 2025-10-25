@@ -40,15 +40,15 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "若要使用游戏管理员站，",
-          "strWidth": 95.390625
+          "strWidth": 372.09375
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 4,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "需加入Nintendo Switch Online。",
-          "strWidth": 342.234375
+          "strWidth": 413.75
         },
         {
           "patternID": 7,
@@ -56,23 +56,31 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "非常抱歉，",
-          "strWidth": 43.359375
+          "strWidth": 341.3125
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请加入Nintendo Switch Online后",
-          "strWidth": 342.234375
+          "strWidth": 413.75
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "再试一次。",
+          "strWidth": 170.65625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "再试一次。",
-          "strWidth": 43.359375
+          "str": "다시 시도해 주시기 바랍니다",
+          "strWidth": 415.96875
         }
       ]
     },
@@ -97,12 +105,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "请确认连线环境。",
+          "strWidth": 170.65625
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "请确认连线环境。",
-          "strWidth": 256.0
+          "str": "확인해 주십시오",
+          "strWidth": 234.65625
         }
       ]
     },
@@ -132,7 +148,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要结束游戏管理员站吗？",
-          "strWidth": 95.390625
+          "strWidth": 453.875
         }
       ]
     },
@@ -157,12 +173,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "确定要删除这个标记吗？",
+          "strWidth": 309.3125
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "确定要删除这个标记吗？",
-          "strWidth": 352.0
+          "str": "괜찮겠습니까?",
+          "strWidth": 209.78125
         }
       ]
     },
@@ -207,7 +231,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "确定要在写入纪录后",
-          "strWidth": 288.0
+          "strWidth": 479.96875
         },
         {
           "patternID": 0,
@@ -215,7 +239,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "开始奇迹交换吗？",
-          "strWidth": 256.0
+          "strWidth": 348.4375
         }
       ]
     },
@@ -240,12 +264,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "正在寻找可以交换的对象……",
+          "strWidth": 319.96875
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "正在寻找可以交换的对象……",
-          "strWidth": 416.0
+          "str": "찾고 있습니다...",
+          "strWidth": 228.4375
         }
       ]
     },
@@ -275,7 +307,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "这个地点上已标记了",
-          "strWidth": 288.0
+          "strWidth": 202.65625
         },
         {
           "patternID": 7,
@@ -283,7 +315,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "其他的宝可梦。",
-          "strWidth": 224.0
+          "strWidth": 554.625
         },
         {
           "patternID": 7,
@@ -291,7 +323,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请决定要标记在这个",
-          "strWidth": 288.0
+          "strWidth": 415.96875
         },
         {
           "patternID": 0,
@@ -299,7 +331,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "地点上的宝可梦。",
-          "strWidth": 256.0
+          "strWidth": 234.65625
         }
       ]
     },
@@ -329,7 +361,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "已标记",
-          "strWidth": 96.0
+          "strWidth": 234.65625
         },
         {
           "patternID": 0,
@@ -337,7 +369,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "新的宝可梦。",
-          "strWidth": 192.0
+          "strWidth": 224.0
         }
       ]
     },
@@ -362,12 +394,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "已维持宝可梦的标记。",
+          "strWidth": 234.65625
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "已维持宝可梦的标记。",
-          "strWidth": 320.0
+          "str": "그대로 유지합니다",
+          "strWidth": 266.65625
         }
       ]
     },
@@ -397,7 +437,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "查看详情",
-          "strWidth": 128.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -427,7 +467,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "删除",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -453,27 +493,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "将变更标记在这个",
-          "strWidth": 256.0
-        },
-        {
-          "patternID": 7,
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "地点的宝可梦。",
-          "strWidth": 224.0
+          "str": "将变更标记在这个",
+          "strWidth": 586.625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "确定要继续吗？",
-          "strWidth": 224.0
+          "str": "地点的宝可梦。",
+          "strWidth": 209.78125
         }
       ]
     },
@@ -503,7 +535,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "已标记新的宝可梦。",
-          "strWidth": 288.0
+          "strWidth": 437.3125
         }
       ]
     },
@@ -533,7 +565,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "已删除标记。",
-          "strWidth": 192.0
+          "strWidth": 298.65625
         }
       ]
     },
@@ -563,7 +595,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "游戏管理员站",
-          "strWidth": 52.03125
+          "strWidth": 169.4375
         }
       ]
     },
@@ -593,7 +625,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "新",
-          "strWidth": 8.671875
+          "strWidth": 75.25
         }
       ]
     },
@@ -634,7 +666,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "地点",
-          "strWidth": 64.0
+          "strWidth": 106.65625
         },
         {
           "patternID": 5,
@@ -813,8 +845,8 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Lv.",
-          "strWidth": 43.171875
+          "str": "Lv。",
+          "strWidth": 40.9375
         },
         {
           "patternID": 5,
@@ -862,8 +894,8 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "No.",
-          "strWidth": 48.90625
+          "str": "No。",
+          "strWidth": 56.59375
         },
         {
           "patternID": 5,
@@ -911,8 +943,8 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "No.",
-          "strWidth": 48.90625
+          "str": "No。",
+          "strWidth": 56.59375
         },
         {
           "patternID": 5,
@@ -991,7 +1023,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "JPN",
-          "strWidth": 62.125
+          "strWidth": 62.4375
         }
       ]
     },
@@ -1021,7 +1053,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "ENG",
-          "strWidth": 65.0
+          "strWidth": 72.875
         }
       ]
     },
@@ -1051,7 +1083,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "SPA",
-          "strWidth": 62.3125
+          "strWidth": 61.3125
         }
       ]
     },
@@ -1081,7 +1113,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "FRA",
-          "strWidth": 62.375
+          "strWidth": 58.6875
         }
       ]
     },
@@ -1111,7 +1143,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "GER",
-          "strWidth": 63.046875
+          "strWidth": 65.78125
         }
       ]
     },
@@ -1141,7 +1173,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "ITA",
-          "strWidth": 48.421875
+          "strWidth": 53.65625
         }
       ]
     },
@@ -1171,7 +1203,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "KOR",
-          "strWidth": 65.9375
+          "strWidth": 69.625
         }
       ]
     },
@@ -1201,7 +1233,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "CHT",
-          "strWidth": 62.65625
+          "strWidth": 68.15625
         }
       ]
     },
@@ -1231,7 +1263,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "CHS",
-          "strWidth": 64.03125
+          "strWidth": 65.46875
         }
       ]
     },
@@ -1300,7 +1332,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         },
         {
           "patternID": 5,
@@ -1316,7 +1348,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         },
         {
           "patternID": 5,
@@ -1383,7 +1415,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         },
         {
           "patternID": 5,
@@ -1511,7 +1543,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "使用游戏管理员站",
-          "strWidth": 69.375
+          "strWidth": 340.09375
         }
       ]
     },
@@ -1541,7 +1573,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "听说明",
-          "strWidth": 96.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -1571,7 +1603,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "取消",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1601,7 +1633,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "交换",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1631,7 +1663,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "查看地球仪",
-          "strWidth": 160.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -1661,7 +1693,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "选择",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1691,7 +1723,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "查看能力",
-          "strWidth": 128.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -1751,7 +1783,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "否",
-          "strWidth": 32.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -1781,7 +1813,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "取消",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1811,7 +1843,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "已取消交换。",
-          "strWidth": 192.0
+          "strWidth": 298.65625
         }
       ]
     },
@@ -1841,7 +1873,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "没有找到对象。",
-          "strWidth": 224.0
+          "strWidth": 341.3125
         }
       ]
     },
@@ -1871,7 +1903,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "已找到交换对象！",
-          "strWidth": 256.0
+          "strWidth": 382.21875
         },
         {
           "patternID": 0,
@@ -1879,7 +1911,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "开始交换。",
-          "strWidth": 160.0
+          "strWidth": 266.65625
         }
       ]
     },
@@ -1909,7 +1941,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "宝可梦的纪录已满。",
-          "strWidth": 288.0
+          "strWidth": 447.96875
         },
         {
           "patternID": 0,
@@ -1917,7 +1949,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请选择要替换的宝可梦。",
-          "strWidth": 352.0
+          "strWidth": 479.96875
         }
       ]
     },
@@ -1947,7 +1979,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要替换宝可梦的纪录吗？",
-          "strWidth": 352.0
+          "strWidth": 487.09375
         }
       ]
     },
@@ -1977,7 +2009,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "已替换宝可梦的纪录。",
-          "strWidth": 320.0
+          "strWidth": 437.3125
         }
       ]
     },
@@ -2007,7 +2039,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要维持宝可梦的纪录吗？",
-          "strWidth": 352.0
+          "strWidth": 487.09375
         }
       ]
     },
@@ -2037,7 +2069,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "已维持宝可梦的纪录。",
-          "strWidth": 320.0
+          "strWidth": 405.3125
         }
       ]
     },
@@ -2067,7 +2099,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要维持宝可梦的标记吗？",
-          "strWidth": 352.0
+          "strWidth": 487.09375
         }
       ]
     },
@@ -2103,19 +2135,11 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "达成标记",
-          "strWidth": 128.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "达成标记",
           "strWidth": -1.0
         },
         {
@@ -2123,8 +2147,8 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "个地点！",
-          "strWidth": 128.0
+          "str": "",
+          "strWidth": 254.21875
         }
       ]
     },
@@ -2154,7 +2178,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "完成标记所有地点！",
-          "strWidth": 288.0
+          "strWidth": 286.21875
         }
       ]
     },
@@ -2184,7 +2208,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "ーーーーー",
-          "strWidth": 160.0
+          "strWidth": 32.0
         }
       ]
     },
@@ -2214,7 +2238,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "暱称",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -2243,8 +2267,8 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "图鉴No.",
-          "strWidth": 112.90625
+          "str": "图鉴No。",
+          "strWidth": 120.59375
         }
       ]
     },
@@ -2446,7 +2470,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "标记中",
-          "strWidth": 96.0
+          "strWidth": 106.65625
         }
       ]
     },
@@ -2476,7 +2500,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "----/--/--",
-          "strWidth": 144.28125
+          "strWidth": 129.25
         }
       ]
     },
@@ -2506,7 +2530,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "标记",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -2536,7 +2560,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "已删除宝可梦的纪录。",
-          "strWidth": 320.0
+          "strWidth": 437.3125
         }
       ]
     },
@@ -2566,7 +2590,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "交换看看宝可梦吧！",
-          "strWidth": 288.0
+          "strWidth": 318.21875
         }
       ]
     },
@@ -2626,7 +2650,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "返回",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -2656,7 +2680,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要继续奇迹交换吗？",
-          "strWidth": 288.0
+          "strWidth": 455.09375
         }
       ]
     },
@@ -2686,7 +2710,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请选择地点。",
-          "strWidth": 192.0
+          "strWidth": 373.3125
         }
       ]
     },
@@ -2716,7 +2740,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "将删除宝可梦的纪录。",
-          "strWidth": 320.0
+          "strWidth": 405.3125
         },
         {
           "patternID": 0,
@@ -2724,7 +2748,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "确定要继续吗？",
-          "strWidth": 224.0
+          "strWidth": 209.78125
         }
       ]
     },
@@ -2754,15 +2778,15 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在游戏管理员站",
-          "strWidth": 60.703125
+          "strWidth": 265.4375
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 4,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "可以透过网路与世界各地的人们",
-          "strWidth": 121.40625
+          "strWidth": 458.625
         },
         {
           "patternID": 7,
@@ -2770,15 +2794,55 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "进行宝可梦的奇迹交换。",
-          "strWidth": 95.390625
+          "strWidth": 522.625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "当奇迹交换成立时，",
+          "strWidth": 479.96875
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "포켓몬이 마킹됩니다",
+          "strWidth": 298.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "마킹된 포인트의 수가 늘어나면",
+          "strWidth": 447.96875
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "기념품도 받을 수 있습니다!",
+          "strWidth": 392.875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "미라클 교환을 반복해서",
+          "strWidth": 341.3125
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "当奇迹交换成立时，",
-          "strWidth": 78.046875
+          "str": "자신만의 지구본을 완성해 보시기 바랍니다!",
+          "strWidth": 627.53125
         }
       ]
     },
@@ -2808,7 +2872,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "进行奇迹交换时，",
-          "strWidth": 256.0
+          "strWidth": 277.3125
         },
         {
           "patternID": 7,
@@ -2816,7 +2880,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "首先要选择想用来交换的宝可梦。",
-          "strWidth": 480.0
+          "strWidth": 629.28125
         },
         {
           "patternID": 7,
@@ -2824,7 +2888,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "但有一部分的宝可梦",
-          "strWidth": 288.0
+          "strWidth": 371.21875
         },
         {
           "patternID": 7,
@@ -2832,55 +2896,55 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "是不能用来交换的。",
-          "strWidth": 288.0
+          "strWidth": 373.3125
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "接著选择地球仪上您喜欢的地点。",
-          "strWidth": 480.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "比如可以选择看看",
-          "strWidth": 256.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 4,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "您所选的宝可梦",
-          "strWidth": 224.0
+          "strWidth": 298.65625
         },
         {
           "patternID": 7,
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "可能会居住的地点。",
-          "strWidth": 288.0
+          "str": "比如可以选择看看",
+          "strWidth": 447.96875
         },
         {
           "patternID": 7,
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "当奇迹交换成立时，",
-          "strWidth": 288.0
+          "str": "您所选的宝可梦",
+          "strWidth": 328.5625
         },
         {
           "patternID": 7,
           "eventID": 4,
           "tagIndex": -1,
           "tagValue": 0.0,
+          "str": "可能会居住的地点。",
+          "strWidth": 309.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "当奇迹交换成立时，",
+          "strWidth": 309.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
           "str": "对方的宝可梦会被标记在",
-          "strWidth": 352.0
+          "strWidth": 586.625
         },
         {
           "patternID": 7,
@@ -2888,7 +2952,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "您的地球仪上。",
-          "strWidth": 224.0
+          "strWidth": 405.3125
         },
         {
           "patternID": 7,
@@ -2896,7 +2960,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "相同地，您的宝可梦",
-          "strWidth": 288.0
+          "strWidth": 437.3125
         },
         {
           "patternID": 7,
@@ -2904,7 +2968,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "也会被标记在对方的地球仪上。",
-          "strWidth": 448.0
+          "strWidth": 479.96875
         },
         {
           "patternID": 7,
@@ -2912,7 +2976,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在接收宝可梦之前，",
-          "strWidth": 288.0
+          "strWidth": 373.3125
         },
         {
           "patternID": 7,
@@ -2920,7 +2984,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法知道会交换到哪一种宝可梦。",
-          "strWidth": 480.0
+          "strWidth": 533.28125
         },
         {
           "patternID": 0,
@@ -2928,7 +2992,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "总觉得真叫人兴奋呢！",
-          "strWidth": 320.0
+          "strWidth": 295.09375
         }
       ]
     },
@@ -2958,7 +3022,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "可以查看反复进行奇迹交换",
-          "strWidth": 384.0
+          "strWidth": 415.96875
         },
         {
           "patternID": 7,
@@ -2966,7 +3030,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "所打造出属于您自己的",
-          "strWidth": 320.0
+          "strWidth": 234.65625
         },
         {
           "patternID": 7,
@@ -2974,7 +3038,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "地球仪与地点。",
-          "strWidth": 224.0
+          "strWidth": 351.96875
         },
         {
           "patternID": 7,
@@ -2982,7 +3046,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在１个被标记的地点上，",
-          "strWidth": 352.0
+          "strWidth": 330.4375
         },
         {
           "patternID": 7,
@@ -2990,7 +3054,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "最多可记录５只宝可梦。",
-          "strWidth": 352.0
+          "strWidth": 533.09375
         },
         {
           "patternID": 7,
@@ -2998,7 +3062,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "此外，从纪录当中",
-          "strWidth": 256.0
+          "strWidth": 179.25
         },
         {
           "patternID": 7,
@@ -3006,7 +3070,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "可变更标记的宝可梦，",
-          "strWidth": 320.0
+          "strWidth": 405.3125
         },
         {
           "patternID": 7,
@@ -3014,7 +3078,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "也可以删除纪录。",
-          "strWidth": 256.0
+          "strWidth": 383.96875
         },
         {
           "patternID": 7,
@@ -3022,7 +3086,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "其他还可以转动或",
-          "strWidth": 256.0
+          "strWidth": 415.96875
         },
         {
           "patternID": 7,
@@ -3030,7 +3094,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "放大缩小地球仪。",
-          "strWidth": 256.0
+          "strWidth": 405.28125
         },
         {
           "patternID": 0,
@@ -3038,7 +3102,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请尝试看看各种操作喔。",
-          "strWidth": 352.0
+          "strWidth": 351.96875
         }
       ]
     },
@@ -3067,8 +3131,8 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "什么是游戏管理员站?",
-          "strWidth": 92.515625
+          "str": "什么是游戏管理员站？",
+          "strWidth": 251.21875
         }
       ]
     },
@@ -3098,7 +3162,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "奇迹交换",
-          "strWidth": 128.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -3128,7 +3192,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "查看地球仪",
-          "strWidth": 160.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -3158,7 +3222,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "取消",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -3199,7 +3263,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "作为达成标记的纪念品，",
-          "strWidth": 352.0
+          "strWidth": 341.3125
         },
         {
           "patternID": 0,
@@ -3207,7 +3271,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "获得了",
-          "strWidth": 96.0
+          "strWidth": 170.65625
         },
         {
           "patternID": 5,
@@ -3223,7 +3287,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "个神奇糖果！",
-          "strWidth": 192.0
+          "strWidth": 179.5625
         }
       ]
     },
@@ -3253,7 +3317,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "叫声",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },

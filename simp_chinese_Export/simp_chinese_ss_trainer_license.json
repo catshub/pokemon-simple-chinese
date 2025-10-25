@@ -40,7 +40,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "零用钱",
-          "strWidth": 96.0
+          "strWidth": 64.0
         }
       ]
     },
@@ -76,20 +76,20 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": 21.125
-        },
-        {
           "patternID": 5,
-          "eventID": 7,
+          "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "",
           "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 32.0
         }
       ]
     },
@@ -119,7 +119,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "BP",
-          "strWidth": 43.234375
+          "strWidth": 40.28125
         }
       ]
     },
@@ -156,19 +156,11 @@
       "wordDataArray": [
         {
           "patternID": 5,
-          "eventID": 0,
+          "eventID": 7,
           "tagIndex": 0,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 7,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "pt",
-          "strWidth": 28.953125
         }
       ]
     },
@@ -268,7 +260,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         },
         {
           "patternID": 5,
@@ -365,7 +357,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         },
         {
           "patternID": 5,
@@ -381,7 +373,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         },
         {
           "patternID": 5,
@@ -397,7 +389,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": " ",
-          "strWidth": 9.0625
+          "strWidth": 10.65625
         },
         {
           "patternID": 5,
@@ -412,8 +404,8 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": ":",
-          "strWidth": 8.765625
+          "str": "：",
+          "strWidth": 8.59375
         },
         {
           "patternID": 5,
@@ -462,7 +454,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "等级",
-          "strWidth": 64.0
+          "strWidth": 74.65625
         },
         {
           "patternID": 5,
@@ -478,7 +470,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "以下的宝可梦",
-          "strWidth": 192.0
+          "strWidth": 234.65625
         },
         {
           "patternID": 0,
@@ -486,7 +478,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "都会听从训练家的指示。",
-          "strWidth": 352.0
+          "strWidth": 277.3125
         }
       ]
     },
@@ -516,7 +508,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "所有的宝可梦",
-          "strWidth": 192.0
+          "strWidth": 202.65625
         },
         {
           "patternID": 0,
@@ -524,7 +516,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "都会听从训练家的指示。",
-          "strWidth": 352.0
+          "strWidth": 277.3125
         }
       ]
     },
@@ -560,28 +552,28 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "能捕捉到",
-          "strWidth": 128.0
-        },
-        {
           "patternID": 0,
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "等级",
-          "strWidth": 64.0
+          "str": "能捕捉到",
+          "strWidth": 74.65625
         },
         {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "等级",
           "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 234.65625
         },
         {
           "patternID": 0,
@@ -589,7 +581,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "以下的宝可梦。",
-          "strWidth": 224.0
+          "strWidth": 181.3125
         }
       ]
     },
@@ -619,7 +611,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "能捕捉到",
-          "strWidth": 128.0
+          "strWidth": 202.65625
         },
         {
           "patternID": 0,
@@ -627,7 +619,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "所有的宝可梦。",
-          "strWidth": 224.0
+          "strWidth": 181.3125
         }
       ]
     },
@@ -687,7 +679,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "退出",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -717,7 +709,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "翻转卡片",
-          "strWidth": 128.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -747,7 +739,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "排序",
-          "strWidth": 64.0
+          "strWidth": 160.0
         }
       ]
     },
@@ -777,7 +769,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "选择并丢弃",
-          "strWidth": 160.0
+          "strWidth": 234.65625
         }
       ]
     },
@@ -837,7 +829,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "选择",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -867,7 +859,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "丢弃",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -897,7 +889,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "接收",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -927,7 +919,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "退出",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -957,7 +949,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "ＹＹ通讯",
-          "strWidth": 128.0
+          "strWidth": 106.0625
         }
       ]
     },
@@ -1017,7 +1009,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "宝可梦交换",
-          "strWidth": 160.0
+          "strWidth": 170.65625
         }
       ]
     }

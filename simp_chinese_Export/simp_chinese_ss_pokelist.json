@@ -40,7 +40,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要与哪只宝可梦替换？",
-          "strWidth": 320.0
+          "strWidth": 359.09375
         }
       ]
     },
@@ -106,36 +106,12 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "从",
-          "strWidth": 32.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "从",
           "strWidth": -1.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "身上",
-          "strWidth": 64.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "收回了",
-          "strWidth": 96.0
         },
         {
           "patternID": 5,
@@ -147,11 +123,35 @@
         },
         {
           "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "身上",
+          "strWidth": 96.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "收回了",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 3,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "！",
-          "strWidth": 32.0
+          "strWidth": 211.5625
         }
       ]
     },
@@ -181,7 +181,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "包包已满，",
-          "strWidth": 160.0
+          "strWidth": 245.3125
         },
         {
           "patternID": 7,
@@ -189,7 +189,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法收回道具！",
-          "strWidth": 224.0
+          "strWidth": 360.875
         }
       ]
     },
@@ -219,7 +219,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要移动哪个持有物？",
-          "strWidth": 288.0
+          "strWidth": 401.75
         }
       ]
     },
@@ -249,7 +249,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要移动至何处？",
-          "strWidth": 224.0
+          "strWidth": 252.4375
         }
       ]
     },
@@ -279,7 +279,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法选择蛋。",
-          "strWidth": 192.0
+          "strWidth": 351.96875
         }
       ]
     },
@@ -309,7 +309,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "已交付持有物。",
-          "strWidth": 224.0
+          "strWidth": 341.3125
         }
       ]
     },
@@ -339,7 +339,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "前往盒子",
-          "strWidth": 128.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -379,8 +379,8 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Lv.",
-          "strWidth": 43.171875
+          "str": "Lv。",
+          "strWidth": 40.9375
         },
         {
           "patternID": 5,
@@ -459,7 +459,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         }
       ]
     },
@@ -571,7 +571,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "查看能力",
-          "strWidth": 128.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -601,7 +601,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "回复",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -631,7 +631,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "持有物",
-          "strWidth": 96.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -661,7 +661,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "返回",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -691,7 +691,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "替换宝可梦",
-          "strWidth": 160.0
+          "strWidth": 266.65625
         }
       ]
     },
@@ -762,7 +762,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "打开包包",
-          "strWidth": 128.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -792,7 +792,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "放回包包",
-          "strWidth": 128.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -822,7 +822,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "交付持有物",
-          "strWidth": 160.0
+          "strWidth": 277.3125
         }
       ]
     },
@@ -852,7 +852,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "返回",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -912,7 +912,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "返回",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -942,7 +942,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "替换宝可梦",
-          "strWidth": 160.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -972,7 +972,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "替换持有物",
-          "strWidth": 160.0
+          "strWidth": 213.3125
         }
       ]
     },
@@ -1002,7 +1002,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "返回",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1103,7 +1103,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "一起走",
-          "strWidth": 96.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -1149,28 +1149,36 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "和",
-          "strWidth": 32.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
+          "str": "和",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "一起走！",
+          "strWidth": 0.0
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "一起走！",
-          "strWidth": 128.0
+          "str": "함께 걷습니다!",
+          "strWidth": 211.5625
         }
       ]
     },
@@ -1224,12 +1232,12 @@
           "strWidth": -1.0
         },
         {
-          "patternID": 0,
-          "eventID": 0,
+          "patternID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "的体力回复了",
-          "strWidth": 192.0
+          "strWidth": 138.65625
         },
         {
           "patternID": 5,
@@ -1245,7 +1253,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "！",
-          "strWidth": 32.0
+          "strWidth": 179.5625
         }
       ]
     },
@@ -1275,7 +1283,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "返回精灵球",
-          "strWidth": 160.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -1305,7 +1313,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请选择宝可梦。",
-          "strWidth": 224.0
+          "strWidth": 373.3125
         }
       ]
     },
@@ -1335,7 +1343,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "更换招式",
-          "strWidth": 34.6875
+          "strWidth": 202.65625
         }
       ]
     },
@@ -1365,7 +1373,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "更换名称",
-          "strWidth": 34.6875
+          "strWidth": 202.65625
         }
       ]
     }

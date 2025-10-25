@@ -40,7 +40,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "零用钱",
-          "strWidth": 96.0
+          "strWidth": 64.0
         }
       ]
     },
@@ -76,20 +76,20 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": 21.125
-        },
-        {
           "patternID": 5,
-          "eventID": 7,
+          "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "",
           "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 32.0
         }
       ]
     },
@@ -211,8 +211,8 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Lv.",
-          "strWidth": 43.171875
+          "str": "Lv。",
+          "strWidth": 40.9375
         },
         {
           "patternID": 5,
@@ -291,7 +291,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         }
       ]
     },
@@ -545,7 +545,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "-",
-          "strWidth": 14.84375
+          "strWidth": 12.15625
         }
       ]
     },
@@ -575,7 +575,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "PP",
-          "strWidth": 42.5625
+          "strWidth": 38.5
         }
       ]
     },
@@ -675,7 +675,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         },
         {
           "patternID": 5,
@@ -754,7 +754,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "×",
-          "strWidth": 16.734375
+          "strWidth": 32.0
         }
       ]
     },
@@ -855,7 +855,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "返回",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -915,7 +915,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "排序",
-          "strWidth": 64.0
+          "strWidth": 160.0
         }
       ]
     },
@@ -945,7 +945,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "空空如也",
-          "strWidth": 128.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -975,7 +975,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要对哪只宝可梦使用？",
-          "strWidth": 320.0
+          "strWidth": 487.09375
         }
       ]
     },
@@ -1069,20 +1069,44 @@
           "strWidth": -1.0
         },
         {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "不适合",
-          "strWidth": 96.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 1,
           "tagValue": 0.0,
-          "str": "",
+          "str": "不适合",
           "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 10.65625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "！",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 3,
+          "tagValue": 0.0,
+          "str": "无法学会",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
         },
         {
           "patternID": 7,
@@ -1090,31 +1114,39 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "！",
-          "strWidth": 32.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "无法学会",
-          "strWidth": 128.0
+          "strWidth": 286.21875
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 2,
+          "tagIndex": 4,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 5,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
         },
         {
           "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "！",
-          "strWidth": 32.0
+          "str": "배울 수 없다!",
+          "strWidth": 190.21875
         }
       ]
     },
@@ -1188,27 +1220,35 @@
           "strWidth": -1.0
         },
         {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "原本就已经",
-          "strWidth": 160.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "学会了",
-          "strWidth": 96.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 1,
           "tagValue": 0.0,
+          "str": "原本就已经",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "学会了",
+          "strWidth": 74.65625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
           "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 3,
+          "tagValue": 0.0,
+          "str": "。",
           "strWidth": -1.0
         },
         {
@@ -1216,8 +1256,8 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "。",
-          "strWidth": 32.0
+          "str": " 기억하고 있습니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -1263,7 +1303,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "",
-          "strWidth": 0.0
+          "strWidth": -1.0
         }
       ]
     },
@@ -1337,22 +1377,6 @@
           "strWidth": -1.0
         },
         {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": 0.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "学会了",
-          "strWidth": 96.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 1,
@@ -1362,10 +1386,34 @@
         },
         {
           "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "学会了",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 3,
+          "tagValue": 0.0,
+          "str": "！",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
           "eventID": 5,
           "tagIndex": -1,
           "tagValue": 4.0,
-          "str": "！",
+          "str": "",
           "strWidth": -1.0
         },
         {
@@ -1382,7 +1430,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "",
-          "strWidth": 0.0
+          "strWidth": -1.0
         }
       ]
     },
@@ -1466,19 +1514,35 @@
           "strWidth": -1.0
         },
         {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "想要学习",
-          "strWidth": 128.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 1,
           "tagValue": 0.0,
+          "str": "想要学习",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
           "str": "",
+          "strWidth": 74.65625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "……",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 3,
+          "tagValue": 0.0,
+          "str": "为了学习",
           "strWidth": -1.0
         },
         {
@@ -1486,23 +1550,15 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "……",
-          "strWidth": 64.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "为了学习",
-          "strWidth": 128.0
+          "str": "",
+          "strWidth": 207.09375
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 2,
+          "tagIndex": 4,
           "tagValue": 0.0,
-          "str": "",
+          "str": "，",
           "strWidth": -1.0
         },
         {
@@ -1510,16 +1566,16 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "，",
-          "strWidth": 32.0
+          "str": "要忘记其他的招式吗？",
+          "strWidth": 74.65625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "要忘记其他的招式吗？",
-          "strWidth": 320.0
+          "str": "다른 기술을 잊게 하겠습니까?",
+          "strWidth": 433.75
         }
       ]
     },
@@ -1689,44 +1745,20 @@
           "strWidth": -1.0
         },
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "把",
-          "strWidth": 32.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 1,
           "tagValue": 0.0,
-          "str": "",
+          "str": "把",
           "strWidth": -1.0
         },
         {
-          "patternID": 7,
-          "eventID": 1,
+          "patternID": 0,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "",
-          "strWidth": 0.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 3,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "的使用方法忘得一干二净了！",
-          "strWidth": 416.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 3,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "于是……！",
-          "strWidth": 160.0
+          "strWidth": 10.65625
         },
         {
           "patternID": 5,
@@ -1737,17 +1769,73 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 3,
+          "tagValue": 0.0,
+          "str": "的使用方法忘得一干二净了！",
+          "strWidth": -1.0
+        },
+        {
           "patternID": 7,
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
+          "str": "于是……！",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 211.5625
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
           "str": "学会了",
-          "strWidth": 96.0
+          "strWidth": 130.6875
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 3,
+          "tagIndex": 4,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 5,
+          "tagValue": 0.0,
+          "str": "！",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 74.65625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 6,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 7,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -1757,7 +1845,7 @@
           "eventID": 5,
           "tagIndex": -1,
           "tagValue": 4.0,
-          "str": "！",
+          "str": " 배웠다!",
           "strWidth": -1.0
         },
         {
@@ -1774,7 +1862,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "",
-          "strWidth": 0.0
+          "strWidth": -1.0
         }
       ]
     },
@@ -1848,28 +1936,52 @@
           "strWidth": -1.0
         },
         {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
           "tagValue": 0.0,
           "str": "最终没有学会",
-          "strWidth": 192.0
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 10.65625
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 1,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "！",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 3,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
         },
         {
           "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "！",
-          "strWidth": 32.0
+          "str": "결국 배우지 않았다!",
+          "strWidth": 286.21875
         }
       ]
     },
@@ -1905,19 +2017,11 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "为了学习",
-          "strWidth": 128.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "为了学习",
           "strWidth": -1.0
         },
         {
@@ -1925,16 +2029,16 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "，",
-          "strWidth": 32.0
+          "str": "",
+          "strWidth": 74.65625
         },
         {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "请选择要忘记的招式！",
-          "strWidth": 320.0
+          "str": "，",
+          "strWidth": 467.53125
         }
       ]
     },
@@ -1964,7 +2068,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "已启动招式纪录。",
-          "strWidth": 256.0
+          "strWidth": 266.65625
         }
       ]
     },
@@ -2002,7 +2106,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "只能使用一次。",
-          "strWidth": 224.0
+          "strWidth": 394.625
         }
       ]
     },
@@ -2059,7 +2163,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "招式学习器已消失。",
-          "strWidth": 288.0
+          "strWidth": 298.65625
         }
       ]
     },
@@ -2089,7 +2193,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "使用后将会消失。",
-          "strWidth": 256.0
+          "strWidth": 266.65625
         },
         {
           "patternID": 0,
@@ -2097,7 +2201,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "确定要继续吗？",
-          "strWidth": 224.0
+          "strWidth": 209.78125
         }
       ]
     },
@@ -2157,7 +2261,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "否",
-          "strWidth": 32.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -2195,7 +2299,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "能学习！",
-          "strWidth": 128.0
+          "strWidth": 104.90625
         },
         {
           "patternID": 2,
@@ -2241,7 +2345,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "不能学习",
-          "strWidth": 128.0
+          "strWidth": 170.65625
         },
         {
           "patternID": 2,
@@ -2287,7 +2391,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "已学会",
-          "strWidth": 96.0
+          "strWidth": 138.65625
         },
         {
           "patternID": 2,
@@ -2333,7 +2437,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "能使用",
-          "strWidth": 96.0
+          "strWidth": 149.3125
         },
         {
           "patternID": 2,
@@ -2379,7 +2483,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "不能使用",
-          "strWidth": 128.0
+          "strWidth": 149.3125
         },
         {
           "patternID": 2,
@@ -2458,7 +2562,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "×",
-          "strWidth": 16.734375
+          "strWidth": 32.0
         }
       ]
     },
@@ -2494,20 +2598,20 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": 21.125
-        },
-        {
           "patternID": 5,
-          "eventID": 7,
+          "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "",
           "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 32.0
         }
       ]
     },
@@ -2537,7 +2641,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "收购价",
-          "strWidth": 96.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -2578,7 +2682,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "那么，我用",
-          "strWidth": 181.125
+          "strWidth": 149.3125
         },
         {
           "patternID": 5,
@@ -2594,7 +2698,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "",
-          "strWidth": 0.0
+          "strWidth": 96.0
         },
         {
           "patternID": 7,
@@ -2602,7 +2706,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "跟您收购吧。",
-          "strWidth": 192.0
+          "strWidth": 224.0
         },
         {
           "patternID": 0,
@@ -2610,7 +2714,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "确定要卖吗？",
-          "strWidth": 192.0
+          "strWidth": 209.78125
         }
       ]
     },
@@ -2670,7 +2774,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "否",
-          "strWidth": 32.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -2700,7 +2804,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "---",
-          "strWidth": 44.53125
+          "strWidth": 36.46875
         }
       ]
     },
@@ -2746,28 +2850,36 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "要卖出多少个",
-          "strWidth": 192.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
+          "str": "要卖出多少个",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "？",
+          "strWidth": 0.0
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "？",
-          "strWidth": 32.0
+          "str": "몇 개 파시겠습니까?",
+          "strWidth": 295.09375
         }
       ]
     },
@@ -2813,28 +2925,36 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
+          "patternID": 5,
           "eventID": 0,
-          "tagIndex": -1,
+          "tagIndex": 0,
           "tagValue": 0.0,
           "str": "无法收购",
-          "strWidth": 128.0
+          "strWidth": -1.0
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 0,
+          "tagIndex": 1,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
         },
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "。",
-          "strWidth": 32.0
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "파실 수 없습니다",
+          "strWidth": 245.3125
         }
       ]
     },
@@ -2890,36 +3010,12 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "交出",
-          "strWidth": 64.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "交出",
           "strWidth": -1.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "，",
-          "strWidth": 32.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "获得了",
-          "strWidth": 117.125
         },
         {
           "patternID": 5,
@@ -2931,11 +3027,27 @@
         },
         {
           "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "，",
+          "strWidth": 106.65625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "获得了",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "。",
-          "strWidth": 32.0
+          "str": "",
+          "strWidth": 170.65625
         }
       ]
     },
@@ -2991,36 +3103,12 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "交出",
-          "strWidth": 64.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "交出",
           "strWidth": -1.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "，",
-          "strWidth": 32.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "获得了",
-          "strWidth": 117.125
         },
         {
           "patternID": 5,
@@ -3032,11 +3120,27 @@
         },
         {
           "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "，",
+          "strWidth": 106.65625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "获得了",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "。",
-          "strWidth": 32.0
+          "str": "",
+          "strWidth": 170.65625
         }
       ]
     },
@@ -3066,7 +3170,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "按种类排序",
-          "strWidth": 160.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -3096,7 +3200,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "按名称排序",
-          "strWidth": 160.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -3126,7 +3230,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "NEW",
-          "strWidth": 72.78125
+          "strWidth": 83.25
         }
       ]
     },
@@ -3156,7 +3260,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "按编号排序",
-          "strWidth": 160.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -3246,7 +3350,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要更改成哪种排序？",
-          "strWidth": 288.0
+          "strWidth": 391.09375
         }
       ]
     },
@@ -3272,11 +3376,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "按种类排序整理了持有物！",
-          "strWidth": 384.0
+          "strWidth": 160.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "지닌 물건을 정리했습니다!",
+          "strWidth": 382.21875
         }
       ]
     },
@@ -3302,11 +3414,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "按名称排序整理了持有物！",
-          "strWidth": 384.0
+          "strWidth": 160.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "지닌 물건을 정리했습니다!",
+          "strWidth": 382.21875
         }
       ]
     },
@@ -3332,11 +3452,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "按编号排序整理了持有物！",
-          "strWidth": 384.0
+          "strWidth": 160.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "지닌 물건을 정리했습니다!",
+          "strWidth": 382.21875
         }
       ]
     },
@@ -3366,7 +3494,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "将我的最爱",
-          "strWidth": 160.0
+          "strWidth": 266.65625
         },
         {
           "patternID": 7,
@@ -3374,7 +3502,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "整理到列表上方了！",
-          "strWidth": 288.0
+          "strWidth": 382.21875
         }
       ]
     },
@@ -3404,7 +3532,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "将新获得的持有物",
-          "strWidth": 256.0
+          "strWidth": 277.3125
         },
         {
           "patternID": 7,
@@ -3412,7 +3540,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "整理到列表上方了！",
-          "strWidth": 288.0
+          "strWidth": 382.21875
         }
       ]
     },
@@ -3442,7 +3570,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "使用",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -3472,7 +3600,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "携带",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -3556,12 +3684,12 @@
           "strWidth": -1.0
         },
         {
-          "patternID": 0,
-          "eventID": 0,
+          "patternID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "的体力回复了",
-          "strWidth": 192.0
+          "strWidth": 138.65625
         },
         {
           "patternID": 5,
@@ -3577,7 +3705,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "！",
-          "strWidth": 32.0
+          "strWidth": 179.5625
         }
       ]
     },
@@ -3631,12 +3759,28 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "恢复了活力！",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        },
+        {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "恢复了活力！",
-          "strWidth": 192.0
+          "str": "기력을 회복했다!",
+          "strWidth": 243.5625
         }
       ]
     },
@@ -3681,11 +3825,19 @@
         },
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "中的毒消失得一干二净了！",
-          "strWidth": 384.0
+          "strWidth": 106.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "말끔하게 해독됐다!",
+          "strWidth": 275.5625
         }
       ]
     },
@@ -3730,11 +3882,19 @@
         },
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "身上的麻痺解除了！",
-          "strWidth": 288.0
+          "strWidth": 32.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "몸저림이 풀렸다!",
+          "strWidth": 243.5625
         }
       ]
     },
@@ -3779,11 +3939,19 @@
         },
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "的灼伤痊愈了！",
-          "strWidth": 224.0
+          "strWidth": 32.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "화상이 나았다!",
+          "strWidth": 211.5625
         }
       ]
     },
@@ -3828,11 +3996,19 @@
         },
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "身上的冰融化了！",
-          "strWidth": 256.0
+          "strWidth": 32.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "얼었던 몸이 녹았다!",
+          "strWidth": 286.21875
         }
       ]
     },
@@ -3886,12 +4062,28 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "醒过来了！",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        },
+        {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "醒过来了！",
-          "strWidth": 160.0
+          "str": "눈을 떴다!",
+          "strWidth": 147.5625
         }
       ]
     },
@@ -3945,12 +4137,28 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "恢复健康了！",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        },
+        {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "恢复健康了！",
-          "strWidth": 192.0
+          "str": "건강해졌다!",
+          "strWidth": 168.90625
         }
       ]
     },
@@ -4014,17 +4222,25 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "的",
+          "strWidth": -1.0
+        },
+        {
           "patternID": 0,
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "的",
-          "strWidth": 32.0
+          "str": "",
+          "strWidth": 10.65625
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 1,
+          "tagIndex": 2,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -4034,16 +4250,16 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "",
-          "strWidth": 0.0
+          "str": "基础点数上升了！",
+          "strWidth": 32.0
         },
         {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "基础点数上升了！",
-          "strWidth": 256.0
+          "str": "기초 포인트가 올라갔다!",
+          "strWidth": 350.21875
         }
       ]
     },
@@ -4099,28 +4315,12 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "和",
-          "strWidth": 32.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "和",
           "strWidth": -1.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 3,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "变得亲密了一些！",
-          "strWidth": 256.0
         },
         {
           "patternID": 5,
@@ -4132,11 +4332,43 @@
         },
         {
           "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "变得亲密了一些！",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 211.5625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "的基础点数下降了！",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "의",
+          "strWidth": 32.0
+        },
+        {
+          "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "的基础点数下降了！",
-          "strWidth": 288.0
+          "str": "기초 포인트가 떨어졌다!",
+          "strWidth": 350.21875
         }
       ]
     },
@@ -4192,28 +4424,12 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "和",
-          "strWidth": 32.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "和",
           "strWidth": -1.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 3,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "变得无比亲密了！",
-          "strWidth": 256.0
         },
         {
           "patternID": 5,
@@ -4225,11 +4441,43 @@
         },
         {
           "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "变得无比亲密了！",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 286.21875
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "的基础点数下降了！",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "의",
+          "strWidth": 32.0
+        },
+        {
+          "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "的基础点数下降了！",
-          "strWidth": 288.0
+          "str": "기초 포인트가 떨어졌다!",
+          "strWidth": 350.21875
         }
       ]
     },
@@ -4285,28 +4533,12 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "和",
-          "strWidth": 32.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "和",
           "strWidth": -1.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 3,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "变得亲密了一些！",
-          "strWidth": 256.0
         },
         {
           "patternID": 5,
@@ -4321,16 +4553,40 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
+          "str": "变得亲密了一些！",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 211.5625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
           "str": "的基础点数",
-          "strWidth": 160.0
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "已经不能再降低了！",
+          "strWidth": 32.0
         },
         {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "已经不能再降低了！",
-          "strWidth": 288.0
+          "str": "기초 포인트는 더 떨어지지 않는다!",
+          "strWidth": 499.53125
         }
       ]
     },
@@ -4404,22 +4660,6 @@
           "strWidth": -1.0
         },
         {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": 0.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "使用了",
-          "strWidth": 96.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 1,
@@ -4429,11 +4669,35 @@
         },
         {
           "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "使用了",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 3,
+          "tagValue": 0.0,
+          "str": "！",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "！",
-          "strWidth": 32.0
+          "str": " 썼다!",
+          "strWidth": 83.5625
         }
       ]
     },
@@ -4459,11 +4723,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "之前使用的喷雾效果还没消失！",
-          "strWidth": 448.0
+          "strWidth": 213.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "스프레이의 효과가 남아 있습니다!",
+          "strWidth": 488.875
         }
       ]
     },
@@ -4509,17 +4781,17 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
+          "patternID": 5,
           "eventID": 0,
-          "tagIndex": -1,
+          "tagIndex": 0,
           "tagValue": 0.0,
           "str": "让宝可梦携带了",
-          "strWidth": 224.0
+          "strWidth": -1.0
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 0,
+          "tagIndex": 1,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -4530,7 +4802,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "！",
-          "strWidth": 32.0
+          "strWidth": 190.21875
         }
       ]
     },
@@ -4596,36 +4868,12 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "收回",
-          "strWidth": 64.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "收回",
           "strWidth": -1.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "，",
-          "strWidth": 32.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "并让宝可梦携带了",
-          "strWidth": 256.0
         },
         {
           "patternID": 5,
@@ -4637,11 +4885,35 @@
         },
         {
           "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "，",
+          "strWidth": 138.65625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "并让宝可梦携带了",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 3,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "！",
-          "strWidth": 32.0
+          "strWidth": 190.21875
         }
       ]
     },
@@ -4671,7 +4943,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "现在使用没有效果。",
-          "strWidth": 288.0
+          "strWidth": 245.3125
         }
       ]
     },
@@ -4701,7 +4973,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "查看里面",
-          "strWidth": 128.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -4731,7 +5003,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "没有宝可梦！",
-          "strWidth": 192.0
+          "strWidth": 211.5625
         }
       ]
     },
@@ -4761,7 +5033,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要对哪只宝可梦使用？",
-          "strWidth": 320.0
+          "strWidth": 487.09375
         }
       ]
     },
@@ -4791,7 +5063,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要让哪只宝可梦携带？",
-          "strWidth": 320.0
+          "strWidth": 529.75
         }
       ]
     },
@@ -4821,7 +5093,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "蛋无法携带道具。",
-          "strWidth": 256.0
+          "strWidth": 458.625
         }
       ]
     },
@@ -4851,7 +5123,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "ＰＰ回复了！",
-          "strWidth": 192.0
+          "strWidth": 218.0625
         }
       ]
     },
@@ -4917,17 +5189,17 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
+          "patternID": 5,
           "eventID": 0,
-          "tagIndex": -1,
+          "tagIndex": 0,
           "tagValue": 0.0,
           "str": "要把",
-          "strWidth": 64.0
+          "strWidth": -1.0
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 0,
+          "tagIndex": 1,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -4941,17 +5213,17 @@
           "strWidth": 0.0
         },
         {
-          "patternID": 0,
+          "patternID": 5,
           "eventID": 0,
-          "tagIndex": -1,
+          "tagIndex": 2,
           "tagValue": 0.0,
           "str": "替换成",
-          "strWidth": 96.0
+          "strWidth": -1.0
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 1,
+          "tagIndex": 3,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -4962,7 +5234,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "吗？",
-          "strWidth": 64.0
+          "strWidth": 252.4375
         }
       ]
     },
@@ -4992,7 +5264,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要回复哪个招式的ＰＰ？",
-          "strWidth": 352.0
+          "strWidth": 327.09375
         }
       ]
     },
@@ -5022,7 +5294,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要增加哪个招式的ＰＰ？",
-          "strWidth": 352.0
+          "strWidth": 295.09375
         }
       ]
     },
@@ -5067,11 +5339,19 @@
         },
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "的ＰＰ增加了！",
-          "strWidth": 224.0
+          "strWidth": 32.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "PP가 늘었다!",
+          "strWidth": 186.0625
         }
       ]
     },
@@ -5097,11 +5377,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "包包已满，无法收回道具！",
-          "strWidth": 384.0
+          "strWidth": 245.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "도구를 받을 수 없습니다!",
+          "strWidth": 360.875
         }
       ]
     },
@@ -5131,7 +5419,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "ＰＰ回复了！",
-          "strWidth": 192.0
+          "strWidth": 218.0625
         }
       ]
     },
@@ -5157,11 +5445,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "不能对濒死的宝可梦使用。",
-          "strWidth": 384.0
+          "strWidth": 298.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "쓸 수 없습니다",
+          "strWidth": 213.3125
         }
       ]
     },
@@ -5187,11 +5483,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "同行的队伍已满，无法分离。",
-          "strWidth": 416.0
+          "strWidth": 373.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "분리할 수 없습니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -5262,7 +5566,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "下来",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -5288,11 +5592,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法与濒死的宝可梦合体。",
-          "strWidth": 384.0
+          "strWidth": 266.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "합체할 수 없습니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -5318,11 +5630,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法与这只宝可梦合体。",
-          "strWidth": 352.0
+          "strWidth": 202.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "합체할 수 없습니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -5348,11 +5668,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法与蛋合体。",
-          "strWidth": 224.0
+          "strWidth": 96.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "합체할 수 없습니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -5378,11 +5706,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "同行的队伍已满，无法分离。",
-          "strWidth": 416.0
+          "strWidth": 373.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "분리할 수 없습니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -5436,12 +5772,28 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "的模样改变了！",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        },
+        {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "的模样改变了！",
-          "strWidth": 224.0
+          "str": "다른 모습으로 변화했다!",
+          "strWidth": 350.21875
         }
       ]
     },
@@ -5466,12 +5818,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要和哪只宝可梦合体？",
+          "strWidth": 202.65625
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "要和哪只宝可梦合体？",
-          "strWidth": 320.0
+          "str": "합체하겠습니까?",
+          "strWidth": 241.78125
         }
       ]
     },
@@ -5545,17 +5905,33 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "忘记了",
+          "strWidth": -1.0
+        },
+        {
           "patternID": 7,
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "忘记了",
-          "strWidth": 96.0
+          "str": "",
+          "strWidth": 0.0
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 1,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "……",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 3,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -5565,8 +5941,8 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "……",
-          "strWidth": 64.0
+          "str": " 잊었다...",
+          "strWidth": 132.4375
         }
       ]
     },
@@ -5602,20 +5978,20 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "要变更",
-          "strWidth": 96.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "要变更",
           "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 138.65625
         },
         {
           "patternID": 0,
@@ -5623,7 +5999,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "的特性吗？",
-          "strWidth": 160.0
+          "strWidth": 209.78125
         }
       ]
     },
@@ -5692,20 +6068,20 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "的特性",
-          "strWidth": 96.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "变成了",
-          "strWidth": 96.0
+          "strWidth": 138.65625
         },
         {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "变成了",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -5732,7 +6108,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "",
-          "strWidth": 0.0
+          "strWidth": -1.0
         }
       ]
     },
@@ -5822,7 +6198,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "特攻",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -5852,7 +6228,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "特防",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -5882,7 +6258,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "速度",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -5964,7 +6340,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "+",
-          "strWidth": 17.09375
+          "strWidth": 24.28125
         },
         {
           "patternID": 5,
@@ -6002,7 +6378,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "HP",
-          "strWidth": 44.515625
+          "strWidth": 42.65625
         }
       ]
     },
@@ -6038,20 +6414,20 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "要改变",
-          "strWidth": 96.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "要改变",
           "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 138.65625
         },
         {
           "patternID": 0,
@@ -6059,7 +6435,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "的能力吗？",
-          "strWidth": 160.0
+          "strWidth": 273.78125
         }
       ]
     },
@@ -6105,19 +6481,11 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "因为",
-          "strWidth": 64.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "因为",
           "strWidth": -1.0
         },
         {
@@ -6125,15 +6493,15 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "的效果，",
-          "strWidth": 128.0
+          "str": "",
+          "strWidth": 138.65625
         },
         {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 1,
           "tagValue": 0.0,
-          "str": "",
+          "str": "的效果，",
           "strWidth": -1.0
         },
         {
@@ -6141,15 +6509,15 @@
           "eventID": 4,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "的能力",
-          "strWidth": 96.0
+          "str": "",
+          "strWidth": 138.65625
         },
         {
           "patternID": 7,
           "eventID": 5,
           "tagIndex": -1,
           "tagValue": 5.0,
-          "str": "似乎产生了变化！",
+          "str": "的能力",
           "strWidth": -1.0
         },
         {
@@ -6157,7 +6525,7 @@
           "eventID": 5,
           "tagIndex": -1,
           "tagValue": 1.0,
-          "str": "",
+          "str": "似乎产生了变化！",
           "strWidth": -1.0
         },
         {
@@ -6166,7 +6534,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "",
-          "strWidth": 0.0
+          "strWidth": -1.0
         }
       ]
     },
@@ -6212,28 +6580,36 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "要用几个",
-          "strWidth": 128.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
+          "str": "要用几个",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "？",
+          "strWidth": 0.0
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "？",
-          "strWidth": 32.0
+          "str": "몇 개 사용하겠습니까?",
+          "strWidth": 327.09375
         }
       ]
     },
@@ -6279,28 +6655,36 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "要用几个",
-          "strWidth": 128.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
+          "str": "要用几个",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "？",
+          "strWidth": 0.0
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "？",
-          "strWidth": 32.0
+          "str": "몇 개 사용하겠습니까?",
+          "strWidth": 327.09375
         }
       ]
     },
@@ -6330,7 +6714,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "查看标签",
-          "strWidth": 128.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -6360,7 +6744,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "可交换到的玉",
-          "strWidth": 192.0
+          "strWidth": 255.96875
         }
       ]
     },
@@ -6424,17 +6808,25 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "的",
+          "strWidth": -1.0
+        },
+        {
           "patternID": 0,
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "的",
-          "strWidth": 32.0
+          "str": "",
+          "strWidth": 10.65625
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 1,
+          "tagIndex": 2,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -6444,16 +6836,16 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "",
-          "strWidth": 0.0
+          "str": "基础点数上升了！",
+          "strWidth": 32.0
         },
         {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "基础点数上升了！",
-          "strWidth": 256.0
+          "str": "기초 포인트가 올라갔다!",
+          "strWidth": 350.21875
         }
       ]
     },
@@ -6513,7 +6905,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "微波炉",
-          "strWidth": 96.0
+          "strWidth": 160.0
         }
       ]
     },
@@ -6573,7 +6965,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "冰箱",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -6633,7 +7025,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "割草机",
-          "strWidth": 96.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -6658,12 +7050,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要订购哪种电器呢？",
+          "strWidth": 234.65625
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "要订购哪种电器呢？",
-          "strWidth": 288.0
+          "str": "주문하겠습니까?",
+          "strWidth": 241.78125
         }
       ]
     },
@@ -6764,7 +7164,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "博士说过……",
-          "strWidth": 192.0
+          "strWidth": 164.4375
         },
         {
           "patternID": 5,
@@ -6780,7 +7180,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "！这种东西",
-          "strWidth": 160.0
+          "strWidth": 158.21875
         },
         {
           "patternID": 0,
@@ -6788,7 +7188,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "是要看场合来使用的啊！",
-          "strWidth": 352.0
+          "strWidth": 264.875
         }
       ]
     },
@@ -6848,7 +7248,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "华丽点数",
-          "strWidth": 128.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -6873,12 +7273,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "请选择要登录的按键。",
+          "strWidth": 202.65625
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "请选择要登录的按键。",
-          "strWidth": 320.0
+          "str": "선택해 주십시오",
+          "strWidth": 234.65625
         }
       ]
     },
@@ -6903,12 +7311,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要替换已登录的道具吗？",
+          "strWidth": 245.3125
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "要替换已登录的道具吗？",
-          "strWidth": 352.0
+          "str": "교체하겠습니까?",
+          "strWidth": 241.78125
         }
       ]
     },
@@ -6938,7 +7354,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "已登录道具！",
-          "strWidth": 192.0
+          "strWidth": 307.5625
         }
       ]
     },
@@ -6968,7 +7384,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "打开",
-          "strWidth": 64.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -6998,7 +7414,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "查看标签",
-          "strWidth": 128.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -7028,7 +7444,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "种植",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -7058,7 +7474,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要登录到哪里？",
-          "strWidth": 224.0
+          "strWidth": 348.4375
         }
       ]
     },
@@ -7088,7 +7504,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要替换哪个道具？",
-          "strWidth": 256.0
+          "strWidth": 423.09375
         }
       ]
     },
@@ -7154,17 +7570,17 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
+          "patternID": 5,
           "eventID": 0,
-          "tagIndex": -1,
+          "tagIndex": 0,
           "tagValue": 0.0,
           "str": "要把",
-          "strWidth": 64.0
+          "strWidth": -1.0
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 0,
+          "tagIndex": 1,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -7178,17 +7594,17 @@
           "strWidth": 0.0
         },
         {
-          "patternID": 0,
+          "patternID": 5,
           "eventID": 0,
-          "tagIndex": -1,
+          "tagIndex": 2,
           "tagValue": 0.0,
           "str": "替换成",
-          "strWidth": 96.0
+          "strWidth": -1.0
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 1,
+          "tagIndex": 3,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -7199,7 +7615,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "吗？",
-          "strWidth": 64.0
+          "strWidth": 252.4375
         }
       ]
     },
@@ -7245,17 +7661,17 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
+          "patternID": 5,
           "eventID": 0,
-          "tagIndex": -1,
+          "tagIndex": 0,
           "tagValue": 0.0,
           "str": "已登录",
-          "strWidth": 96.0
+          "strWidth": -1.0
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 0,
+          "tagIndex": 1,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -7266,7 +7682,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "！",
-          "strWidth": 32.0
+          "strWidth": 211.5625
         },
         {
           "patternID": 0,
@@ -7274,7 +7690,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要使用时可用＋键叫出。",
-          "strWidth": 352.0
+          "strWidth": 525.5625
         }
       ]
     },
@@ -7320,17 +7736,17 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
+          "patternID": 5,
           "eventID": 0,
-          "tagIndex": -1,
+          "tagIndex": 0,
           "tagValue": 0.0,
           "str": "已替换成",
-          "strWidth": 128.0
+          "strWidth": -1.0
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 0,
+          "tagIndex": 1,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -7341,7 +7757,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "！",
-          "strWidth": 32.0
+          "strWidth": 243.5625
         },
         {
           "patternID": 0,
@@ -7349,7 +7765,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要使用时可用＋键叫出。",
-          "strWidth": 352.0
+          "strWidth": 525.5625
         }
       ]
     },
@@ -7379,7 +7795,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "这里不能下自行车！",
-          "strWidth": 288.0
+          "strWidth": 328.875
         }
       ]
     },
@@ -7409,7 +7825,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "启动了ＤＳ播放器！",
-          "strWidth": 288.0
+          "strWidth": 394.65625
         }
       ]
     },
@@ -7439,7 +7855,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "关闭了ＤＳ播放器！",
-          "strWidth": 288.0
+          "strWidth": 394.65625
         }
       ]
     },
@@ -7480,7 +7896,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "累积的对战点数",
-          "strWidth": 224.0
+          "strWidth": 234.65625
         },
         {
           "patternID": 5,
@@ -7496,7 +7912,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "ＢＰ",
-          "strWidth": 64.0
+          "strWidth": 40.28125
         }
       ]
     },
@@ -7552,28 +7968,12 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "和",
-          "strWidth": 32.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "和",
           "strWidth": -1.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 3,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "变得亲密了一些！",
-          "strWidth": 256.0
         },
         {
           "patternID": 5,
@@ -7585,11 +7985,43 @@
         },
         {
           "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "变得亲密了一些！",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 211.5625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "的基础点数下降了！",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "의",
+          "strWidth": 32.0
+        },
+        {
+          "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "的基础点数下降了！",
-          "strWidth": 288.0
+          "str": "기초 포인트가 떨어졌다!",
+          "strWidth": 350.21875
         }
       ]
     },
@@ -7645,28 +8077,12 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "和",
-          "strWidth": 32.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "和",
           "strWidth": -1.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 3,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "变得无比亲密了！",
-          "strWidth": 256.0
         },
         {
           "patternID": 5,
@@ -7678,11 +8094,43 @@
         },
         {
           "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "变得无比亲密了！",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 286.21875
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "的基础点数下降了！",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "의",
+          "strWidth": 32.0
+        },
+        {
+          "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "的基础点数下降了！",
-          "strWidth": 288.0
+          "str": "기초 포인트가 떨어졌다!",
+          "strWidth": 350.21875
         }
       ]
     },
@@ -7738,28 +8186,12 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "和",
-          "strWidth": 32.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "和",
           "strWidth": -1.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 3,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "变得亲密了一些！",
-          "strWidth": 256.0
         },
         {
           "patternID": 5,
@@ -7774,16 +8206,40 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
+          "str": "变得亲密了一些！",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 211.5625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
           "str": "的基础点数",
-          "strWidth": 160.0
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "已经不能再降低了！",
+          "strWidth": 32.0
         },
         {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "已经不能再降低了！",
-          "strWidth": 288.0
+          "str": "기초 포인트는 더 떨어지지 않는다!",
+          "strWidth": 499.53125
         }
       ]
     },
@@ -7813,7 +8269,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "停用",
-          "strWidth": 17.34375
+          "strWidth": 64.0
         }
       ]
     },
@@ -7843,7 +8299,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "合众",
-          "strWidth": 17.34375
+          "strWidth": 64.0
         }
       ]
     },
@@ -7873,7 +8329,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "卡洛斯",
-          "strWidth": 26.015625
+          "strWidth": 96.0
         }
       ]
     },
@@ -7903,7 +8359,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "阿罗拉",
-          "strWidth": 26.015625
+          "strWidth": 96.0
         }
       ]
     },
@@ -7933,7 +8389,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "洗翠",
-          "strWidth": 17.34375
+          "strWidth": 96.0
         }
       ]
     },
@@ -7963,7 +8419,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "伽勒尔",
-          "strWidth": 26.015625
+          "strWidth": 96.0
         }
       ]
     },
@@ -7993,7 +8449,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "你想使用哪朵花呢？",
-          "strWidth": 78.046875
+          "strWidth": 391.09375
         }
       ]
     },
@@ -8018,12 +8474,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "你移除了花朵，空气恢复了正常。",
+          "strWidth": 277.3125
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "你移除了花朵，空气恢复了正常。",
-          "strWidth": 130.078125
+          "str": "공기가 원래대로 돌아왔다",
+          "strWidth": 373.3125
         }
       ]
     },
@@ -8048,12 +8512,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "新的气味散发时，你感觉到宝可梦正在移动。",
+          "strWidth": 341.3125
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "新的气味散发时，你感觉到宝可梦正在移动。",
-          "strWidth": 173.4375
+          "str": "포켓몬이 움직이는 느낌이 든다...",
+          "strWidth": 473.75
         }
       ]
     },
@@ -8078,12 +8550,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "再次使用无限除虫喷雾以将其关闭。",
+          "strWidth": 437.3125
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "再次使用无限除虫喷雾以将其关闭。",
-          "strWidth": 138.75
+          "str": "스프레이의 효과를 털어낼 수 있다",
+          "strWidth": 490.625
         }
       ]
     },
@@ -8113,7 +8593,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无限除虫喷雾的效果消失了。",
-          "strWidth": 112.734375
+          "strWidth": 469.3125
         }
       ]
     }

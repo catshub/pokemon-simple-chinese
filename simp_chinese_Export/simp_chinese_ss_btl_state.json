@@ -40,7 +40,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "大晴天",
-          "strWidth": 96.0
+          "strWidth": 64.0
         }
       ]
     },
@@ -70,7 +70,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "天气为晴朗状态。",
-          "strWidth": 256.0
+          "strWidth": 179.25
         },
         {
           "patternID": 7,
@@ -78,7 +78,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "火属性的招式威力会提高。",
-          "strWidth": 384.0
+          "strWidth": 413.90625
         },
         {
           "patternID": 0,
@@ -86,7 +86,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "水属性的招式威力会降低。",
-          "strWidth": 384.0
+          "strWidth": 381.90625
         }
       ]
     },
@@ -116,7 +116,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "下雨",
-          "strWidth": 64.0
+          "strWidth": 32.0
         }
       ]
     },
@@ -146,7 +146,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "天气为下雨状态。",
-          "strWidth": 256.0
+          "strWidth": 179.25
         },
         {
           "patternID": 7,
@@ -154,7 +154,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "水属性的招式威力会提高。",
-          "strWidth": 384.0
+          "strWidth": 381.90625
         },
         {
           "patternID": 0,
@@ -162,7 +162,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "火属性的招式威力会降低。",
-          "strWidth": 384.0
+          "strWidth": 413.90625
         }
       ]
     },
@@ -192,7 +192,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "沙暴",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -222,7 +222,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "天气为沙暴状态。",
-          "strWidth": 256.0
+          "strWidth": 243.25
         },
         {
           "patternID": 7,
@@ -230,7 +230,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "岩石、地面和钢属性以外的宝可梦",
-          "strWidth": 480.0
+          "strWidth": 369.15625
         },
         {
           "patternID": 7,
@@ -238,7 +238,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "每回合会受到伤害。",
-          "strWidth": 288.0
+          "strWidth": 392.5625
         },
         {
           "patternID": 0,
@@ -246,7 +246,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "岩石属性宝可梦的特防会提高。",
-          "strWidth": 448.0
+          "strWidth": 477.90625
         }
       ]
     },
@@ -276,7 +276,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "冰雹",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -306,7 +306,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "天气为冰雹状态。",
-          "strWidth": 256.0
+          "strWidth": 275.25
         },
         {
           "patternID": 7,
@@ -314,7 +314,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "冰属性以外的宝可梦",
-          "strWidth": 288.0
+          "strWidth": 234.65625
         },
         {
           "patternID": 0,
@@ -322,7 +322,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "每回合会受到伤害。",
-          "strWidth": 288.0
+          "strWidth": 392.5625
         }
       ]
     },
@@ -352,7 +352,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "戏法空间",
-          "strWidth": 128.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -382,15 +382,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在５回合内，",
-          "strWidth": 192.0
+          "strWidth": 266.4375
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "速度慢的宝可梦可以先行动。",
+          "strWidth": 234.65625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "速度慢的宝可梦可以先行动。",
-          "strWidth": 416.0
+          "str": "행동할 수 있다.",
+          "strWidth": 221.90625
         }
       ]
     },
@@ -420,7 +428,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "易中要害",
-          "strWidth": 128.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -445,12 +453,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "击中对手要害的机率变高。",
+          "strWidth": 202.65625
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "击中对手要害的机率变高。",
-          "strWidth": 384.0
+          "str": "맞히는 확률이 높아진다.",
+          "strWidth": 349.90625
         }
       ]
     },
@@ -510,7 +526,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在１～４回合内，",
-          "strWidth": 256.0
+          "strWidth": 279.84375
         },
         {
           "patternID": 0,
@@ -518,7 +534,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "有时会攻击自己。",
-          "strWidth": 256.0
+          "strWidth": 253.90625
         }
       ]
     },
@@ -548,7 +564,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "著迷",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -578,7 +594,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "♂对♀的攻击变得不易发动，",
-          "strWidth": 416.0
+          "strWidth": 415.96875
         },
         {
           "patternID": 0,
@@ -586,7 +602,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "♀对♂的攻击变得不易发动。",
-          "strWidth": 416.0
+          "strWidth": 307.25
         }
       ]
     },
@@ -616,7 +632,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "电气场地",
-          "strWidth": 128.0
+          "strWidth": 192.0
         }
       ]
     },
@@ -646,7 +662,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在５回合内，",
-          "strWidth": 192.0
+          "strWidth": 277.09375
         },
         {
           "patternID": 7,
@@ -654,15 +670,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "地面上的宝可梦不会陷入睡眠状态。",
-          "strWidth": 512.0
+          "strWidth": 309.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "电属性的招式威力会提高。",
+          "strWidth": 179.25
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "电属性的招式威力会提高。",
-          "strWidth": 384.0
+          "str": "전기타입의 위력이 올라간다.",
+          "strWidth": 413.90625
         }
       ]
     },
@@ -692,7 +716,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "再来一次",
-          "strWidth": 128.0
+          "strWidth": 64.0
         }
       ]
     },
@@ -733,31 +757,31 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "受到再来一次的攻击，",
-          "strWidth": 320.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "接下来３次行动就只能",
-          "strWidth": 320.0
+          "strWidth": 202.65625
         },
         {
           "patternID": 0,
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "使出",
-          "strWidth": 64.0
+          "str": "接下来３次行动就只能",
+          "strWidth": 138.4375
         },
         {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "使出",
           "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 32.0
         },
         {
           "patternID": 0,
@@ -765,7 +789,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "。",
-          "strWidth": 32.0
+          "strWidth": 221.90625
         }
       ]
     },
@@ -795,7 +819,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "特性消失",
-          "strWidth": 128.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -820,12 +844,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "特性消失，无法发挥效果。",
+          "strWidth": 202.65625
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "特性消失，无法发挥效果。",
-          "strWidth": 384.0
+          "str": "효과가 없어진다.",
+          "strWidth": 243.25
         }
       ]
     },
@@ -855,7 +887,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无理取闹",
-          "strWidth": 128.0
+          "strWidth": 64.0
         }
       ]
     },
@@ -885,7 +917,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法连续使出同样的招式。",
-          "strWidth": 384.0
+          "strWidth": 509.875
         }
       ]
     },
@@ -945,7 +977,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在４回合内，",
-          "strWidth": 192.0
+          "strWidth": 383.75
         },
         {
           "patternID": 0,
@@ -953,7 +985,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "上场战斗的宝可梦速度会变成２倍。",
-          "strWidth": 512.0
+          "strWidth": 445.6875
         }
       ]
     },
@@ -1013,7 +1045,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "受到对手的招式攻击而陷入濒死时，",
-          "strWidth": 512.0
+          "strWidth": 341.3125
         },
         {
           "patternID": 0,
@@ -1021,7 +1053,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "该招式的ＰＰ会变成０。",
-          "strWidth": 352.0
+          "strWidth": 430.84375
         }
       ]
     },
@@ -1051,7 +1083,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "青草场地",
-          "strWidth": 128.0
+          "strWidth": 160.0
         }
       ]
     },
@@ -1081,7 +1113,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在５回合内，",
-          "strWidth": 192.0
+          "strWidth": 277.09375
         },
         {
           "patternID": 7,
@@ -1089,15 +1121,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "地面上的宝可梦会缓缓回复ＨＰ。",
-          "strWidth": 480.0
+          "strWidth": 319.96875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "草属性的招式威力会提高。",
+          "strWidth": 136.59375
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "草属性的招式威力会提高。",
-          "strWidth": 384.0
+          "str": "풀타입의 위력이 올라간다.",
+          "strWidth": 381.90625
         }
       ]
     },
@@ -1127,7 +1167,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "薄雾场地",
-          "strWidth": 128.0
+          "strWidth": 160.0
         }
       ]
     },
@@ -1157,7 +1197,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在５回合内，",
-          "strWidth": 192.0
+          "strWidth": 277.09375
         },
         {
           "patternID": 7,
@@ -1165,15 +1205,31 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "地面上的宝可梦不会陷入异常状态。",
-          "strWidth": 512.0
+          "strWidth": 309.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "龙属性的招式伤害会减半。",
+          "strWidth": 179.25
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "드래곤타입 기술의 데미지도",
+          "strWidth": 405.3125
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "龙属性的招式伤害会减半。",
-          "strWidth": 384.0
+          "str": "절반이 된다.",
+          "strWidth": 179.25
         }
       ]
     },
@@ -1203,7 +1259,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "定身法",
-          "strWidth": 96.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1254,31 +1310,39 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在４回合内",
-          "strWidth": 160.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "无法使用",
-          "strWidth": 128.0
+          "strWidth": 127.78125
         },
         {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
+          "str": "无法使用",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "。",
+          "strWidth": 0.0
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "。",
-          "strWidth": 32.0
+          "str": "사용할 수 없다.",
+          "strWidth": 221.90625
         }
       ]
     },
@@ -1308,7 +1372,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法逃走",
-          "strWidth": 128.0
+          "strWidth": 213.3125
         }
       ]
     },
@@ -1338,7 +1402,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法逃走或进行替换。",
-          "strWidth": 320.0
+          "strWidth": 392.5625
         }
       ]
     },
@@ -1398,7 +1462,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在锁定后的下一回合，",
-          "strWidth": 320.0
+          "strWidth": 245.3125
         },
         {
           "patternID": 0,
@@ -1406,7 +1470,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "招式一定会命中。",
-          "strWidth": 256.0
+          "strWidth": 349.90625
         }
       ]
     },
@@ -1436,7 +1500,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "魔法空间",
-          "strWidth": 128.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -1466,7 +1530,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在５回合内，",
-          "strWidth": 192.0
+          "strWidth": 309.09375
         },
         {
           "patternID": 0,
@@ -1474,7 +1538,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法使用持有物。",
-          "strWidth": 256.0
+          "strWidth": 221.90625
         }
       ]
     },
@@ -1534,15 +1598,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在使用充电的下一回合，",
-          "strWidth": 352.0
+          "strWidth": 245.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "电属性的招式威力会变成２倍。",
+          "strWidth": 266.65625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "电属性的招式威力会变成２倍。",
-          "strWidth": 448.0
+          "str": "2배가 된다.",
+          "strWidth": 168.375
         }
       ]
     },
@@ -1602,7 +1674,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在５回合内，",
-          "strWidth": 192.0
+          "strWidth": 234.4375
         },
         {
           "patternID": 7,
@@ -1610,7 +1682,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "招式容易命中对手。",
-          "strWidth": 288.0
+          "strWidth": 211.25
         },
         {
           "patternID": 7,
@@ -1618,7 +1690,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "地面属性的招式也可以击中",
-          "strWidth": 384.0
+          "strWidth": 298.65625
         },
         {
           "patternID": 7,
@@ -1626,7 +1698,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "飘浮特性和飞行属性的宝可梦。",
-          "strWidth": 448.0
+          "strWidth": 253.90625
         },
         {
           "patternID": 0,
@@ -1634,7 +1706,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法使用飞向空中的招式。",
-          "strWidth": 384.0
+          "strWidth": 509.875
         }
       ]
     },
@@ -1664,7 +1736,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "白雾",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -1694,7 +1766,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在５回合内，",
-          "strWidth": 192.0
+          "strWidth": 234.4375
         },
         {
           "patternID": 0,
@@ -1702,7 +1774,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "不会被降低能力。",
-          "strWidth": 256.0
+          "strWidth": 243.25
         }
       ]
     },
@@ -1732,7 +1804,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "神秘守护",
-          "strWidth": 128.0
+          "strWidth": 160.0
         }
       ]
     },
@@ -1762,7 +1834,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在５回合内，",
-          "strWidth": 192.0
+          "strWidth": 127.78125
         },
         {
           "patternID": 0,
@@ -1770,7 +1842,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "不会陷入异常状态。",
-          "strWidth": 288.0
+          "strWidth": 360.5625
         }
       ]
     },
@@ -1800,7 +1872,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "隐形岩",
-          "strWidth": 96.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1830,7 +1902,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "替换出场的宝可梦",
-          "strWidth": 256.0
+          "strWidth": 266.65625
         },
         {
           "patternID": 0,
@@ -1838,7 +1910,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "会受到伤害。",
-          "strWidth": 192.0
+          "strWidth": 211.25
         }
       ]
     },
@@ -1868,7 +1940,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "蓄力",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1898,7 +1970,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在蓄力的期间，",
-          "strWidth": 224.0
+          "strWidth": 277.3125
         },
         {
           "patternID": 0,
@@ -1906,7 +1978,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "防御和特防会提高。",
-          "strWidth": 288.0
+          "strWidth": 413.90625
         }
       ]
     },
@@ -1961,12 +2033,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "只能使用给予对手伤害的招式。",
+          "strWidth": 341.3125
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "只能使用给予对手伤害的招式。",
-          "strWidth": 448.0
+          "str": "쓸 수 없게 된다.",
+          "strWidth": 232.5625
         }
       ]
     },
@@ -2056,7 +2136,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在５回合内，",
-          "strWidth": 192.0
+          "strWidth": 266.4375
         },
         {
           "patternID": 0,
@@ -2064,7 +2144,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "地面属性的招式对自已没有效果。",
-          "strWidth": 480.0
+          "strWidth": 328.5625
         }
       ]
     },
@@ -2094,7 +2174,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "毒菱",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -2124,7 +2204,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "让被替换的宝可梦陷入中毒状态。",
-          "strWidth": 480.0
+          "strWidth": 234.65625
         },
         {
           "patternID": 7,
@@ -2132,15 +2212,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "飞行属性和飘浮特性的宝可梦",
-          "strWidth": 416.0
+          "strWidth": 253.90625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不会被击中。",
+          "strWidth": 373.3125
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "不会被击中。",
-          "strWidth": 192.0
+          "str": "포켓몬에게는 맞지 않는다.",
+          "strWidth": 381.90625
         }
       ]
     },
@@ -2170,7 +2258,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "奇妙空间",
-          "strWidth": 128.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -2200,7 +2288,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在５回合内，",
-          "strWidth": 192.0
+          "strWidth": 266.4375
         },
         {
           "patternID": 0,
@@ -2208,7 +2296,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "宝可梦的防御和特防会互换。",
-          "strWidth": 416.0
+          "strWidth": 381.90625
         }
       ]
     },
@@ -2238,7 +2326,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "祈愿",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -2268,7 +2356,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "使用祈愿后的下一回合，",
-          "strWidth": 352.0
+          "strWidth": 341.3125
         },
         {
           "patternID": 0,
@@ -2276,7 +2364,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "ＨＰ会回复。",
-          "strWidth": 192.0
+          "strWidth": 296.5625
         }
       ]
     },
@@ -2306,7 +2394,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "扎根",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -2336,15 +2424,31 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在每回合结束时回复ＨＰ。",
-          "strWidth": 384.0
+          "strWidth": 255.96875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "扎根的宝可梦无法替换。",
+          "strWidth": 136.59375
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "뿌리 박은 포켓몬은",
+          "strWidth": 277.3125
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "扎根的宝可梦无法替换。",
-          "strWidth": 352.0
+          "str": "교체할 수 없다.",
+          "strWidth": 221.90625
         }
       ]
     },
@@ -2404,7 +2508,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在每回合结束时减少ＨＰ。",
-          "strWidth": 384.0
+          "strWidth": 371.21875
         }
       ]
     },
@@ -2464,7 +2568,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "被招式击中的下一回合，",
-          "strWidth": 352.0
+          "strWidth": 383.96875
         },
         {
           "patternID": 0,
@@ -2472,7 +2576,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "会陷入睡眠状态。",
-          "strWidth": 256.0
+          "strWidth": 253.90625
         }
       ]
     },
@@ -2502,7 +2606,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "光墙",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -2532,7 +2636,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在５回合内，",
-          "strWidth": 192.0
+          "strWidth": 127.78125
         },
         {
           "patternID": 7,
@@ -2540,7 +2644,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "受到的特殊攻击",
-          "strWidth": 224.0
+          "strWidth": 266.65625
         },
         {
           "patternID": 0,
@@ -2548,7 +2652,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "威力会减半。",
-          "strWidth": 192.0
+          "strWidth": 349.90625
         }
       ]
     },
@@ -2578,7 +2682,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "反射壁",
-          "strWidth": 96.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -2608,7 +2712,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在５回合内，",
-          "strWidth": 192.0
+          "strWidth": 127.78125
         },
         {
           "patternID": 7,
@@ -2616,7 +2720,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "受到的物理攻击",
-          "strWidth": 224.0
+          "strWidth": 266.65625
         },
         {
           "patternID": 0,
@@ -2624,7 +2728,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "威力会减半。",
-          "strWidth": 192.0
+          "strWidth": 349.90625
         }
       ]
     },
@@ -2684,7 +2788,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "使出封印的宝可梦",
-          "strWidth": 256.0
+          "strWidth": 234.65625
         },
         {
           "patternID": 7,
@@ -2692,7 +2796,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "所学会的招式，",
-          "strWidth": 224.0
+          "strWidth": 309.3125
         },
         {
           "patternID": 0,
@@ -2700,7 +2804,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "对手将无法使用。",
-          "strWidth": 256.0
+          "strWidth": 552.53125
         }
       ]
     },
@@ -2730,7 +2834,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "灭亡之歌",
-          "strWidth": 128.0
+          "strWidth": 160.0
         }
       ]
     },
@@ -2760,15 +2864,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "听了灭亡之歌的所有宝可梦",
-          "strWidth": 384.0
+          "strWidth": 266.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "将在３回合后陷入濒死。",
+          "strWidth": 202.65625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "将在３回合后陷入濒死。",
-          "strWidth": 352.0
+          "str": "3턴 후에 기절한다.",
+          "strWidth": 275.03125
         }
       ]
     },
@@ -2798,7 +2910,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "撒菱",
-          "strWidth": 64.0
+          "strWidth": 160.0
         }
       ]
     },
@@ -2828,7 +2940,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "替换出场的宝可梦会受到伤害。",
-          "strWidth": 448.0
+          "strWidth": 266.65625
         },
         {
           "patternID": 7,
@@ -2836,15 +2948,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "对飞行属性和飘浮特性的",
-          "strWidth": 352.0
+          "strWidth": 211.25
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "宝可梦没有效果。",
+          "strWidth": 373.3125
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "宝可梦没有效果。",
-          "strWidth": 256.0
+          "str": "포켓몬에게는 맞지 않는다.",
+          "strWidth": 381.90625
         }
       ]
     },
@@ -2874,7 +2994,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "同命",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -2904,23 +3024,15 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "陷入濒死时，",
-          "strWidth": 192.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "攻击自己的对手",
-          "strWidth": 224.0
+          "strWidth": 341.3125
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "也会一同陷入濒死。",
-          "strWidth": 288.0
+          "str": "攻击自己的对手",
+          "strWidth": 381.90625
         }
       ]
     },
@@ -2950,7 +3062,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "黏黏网",
-          "strWidth": 96.0
+          "strWidth": 192.0
         }
       ]
     },
@@ -2975,12 +3087,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "降低替换出场的宝可梦的速度。",
+          "strWidth": 341.3125
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "降低替换出场的宝可梦的速度。",
-          "strWidth": 448.0
+          "str": "스피드를 떨어뜨린다.",
+          "strWidth": 307.25
         }
       ]
     },
@@ -3040,7 +3160,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "每回合结束时，",
-          "strWidth": 224.0
+          "strWidth": 170.65625
         },
         {
           "patternID": 7,
@@ -3048,7 +3168,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "会被寄生种子夺走ＨＰ，",
-          "strWidth": 352.0
+          "strWidth": 426.625
         },
         {
           "patternID": 0,
@@ -3056,7 +3176,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "同时回复对手的ＨＰ。",
-          "strWidth": 320.0
+          "strWidth": 275.25
         }
       ]
     },
@@ -3111,12 +3231,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "招式必定会命中锁定了的对手。",
+          "strWidth": 234.65625
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "招式必定会命中锁定了的对手。",
-          "strWidth": 448.0
+          "str": "기술을 반드시 명중시킨다.",
+          "strWidth": 381.90625
         }
       ]
     },
@@ -3146,7 +3274,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "束缚",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -3176,7 +3304,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "遭到束缚，",
-          "strWidth": 160.0
+          "strWidth": 234.65625
         },
         {
           "patternID": 0,
@@ -3184,7 +3312,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "每回合都会受到伤害。",
-          "strWidth": 320.0
+          "strWidth": 328.5625
         }
       ]
     },
@@ -3274,7 +3402,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在２～３回合内",
-          "strWidth": 224.0
+          "strWidth": 173.1875
         },
         {
           "patternID": 7,
@@ -3282,7 +3410,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "疯狂乱打对手进行攻击。",
-          "strWidth": 352.0
+          "strWidth": 392.5625
         },
         {
           "patternID": 0,
@@ -3290,7 +3418,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "大闹一番后自己会陷入混乱。",
-          "strWidth": 416.0
+          "strWidth": 467.21875
         }
       ]
     },
@@ -3320,7 +3448,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "大闹一番",
-          "strWidth": 128.0
+          "strWidth": 160.0
         }
       ]
     },
@@ -3350,7 +3478,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在２～３回合内",
-          "strWidth": 224.0
+          "strWidth": 173.1875
         },
         {
           "patternID": 7,
@@ -3358,7 +3486,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "疯狂乱打对手进行攻击。",
-          "strWidth": 352.0
+          "strWidth": 392.5625
         },
         {
           "patternID": 0,
@@ -3366,7 +3494,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "大闹一番后自己会陷入混乱。",
-          "strWidth": 416.0
+          "strWidth": 467.21875
         }
       ]
     },
@@ -3396,7 +3524,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "花瓣舞",
-          "strWidth": 96.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -3426,7 +3554,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在２～３回合内",
-          "strWidth": 224.0
+          "strWidth": 173.1875
         },
         {
           "patternID": 7,
@@ -3434,7 +3562,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "疯狂乱打对手进行攻击。",
-          "strWidth": 352.0
+          "strWidth": 392.5625
         },
         {
           "patternID": 0,
@@ -3442,7 +3570,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "大闹一番后自己会陷入混乱。",
-          "strWidth": 416.0
+          "strWidth": 467.21875
         }
       ]
     },
@@ -3502,15 +3630,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "剧毒状态。",
-          "strWidth": 160.0
+          "strWidth": 147.25
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "中毒伤害会随著回合的进行而增加。",
+          "strWidth": 234.65625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "中毒伤害会随著回合的进行而增加。",
-          "strWidth": 512.0
+          "str": "독의 데미지가 증가한다.",
+          "strWidth": 349.90625
         }
       ]
     },
@@ -3540,7 +3676,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "吵闹",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -3570,7 +3706,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在３回合内大吵大闹攻击对手，",
-          "strWidth": 448.0
+          "strWidth": 277.09375
         },
         {
           "patternID": 7,
@@ -3578,15 +3714,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在这段期间所有宝可梦",
-          "strWidth": 320.0
+          "strWidth": 136.59375
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "都不会陷入睡眠状态。",
+          "strWidth": 128.0
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "都不会陷入睡眠状态。",
-          "strWidth": 320.0
+          "str": "아무도 잠들지 않게 된다.",
+          "strWidth": 360.5625
         }
       ]
     },
@@ -3616,7 +3760,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "水流环",
-          "strWidth": 96.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -3646,15 +3790,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在自己的身边套上水流环。",
-          "strWidth": 384.0
+          "strWidth": 245.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "每回合会回复自己的ＨＰ。",
+          "strWidth": 360.5625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "每回合会回复自己的ＨＰ。",
-          "strWidth": 384.0
+          "str": "매 턴 HP를 회복한다.",
+          "strWidth": 307.21875
         }
       ]
     },
@@ -3684,7 +3836,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "击落",
-          "strWidth": 64.0
+          "strWidth": 160.0
         }
       ]
     },
@@ -3709,12 +3861,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "被击落后掉到地面的状态。",
+          "strWidth": 170.65625
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "被击落后掉到地面的状态。",
-          "strWidth": 384.0
+          "str": "떨어진 상태.",
+          "strWidth": 179.25
         }
       ]
     },
@@ -3744,7 +3904,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "身体轻量化",
-          "strWidth": 160.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -3774,7 +3934,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "速度会大幅提高，",
-          "strWidth": 256.0
+          "strWidth": 309.3125
         },
         {
           "patternID": 0,
@@ -3782,7 +3942,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "体重也会变轻。",
-          "strWidth": 224.0
+          "strWidth": 275.25
         }
       ]
     },
@@ -3842,7 +4002,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "地狱突刺",
-          "strWidth": 128.0
+          "strWidth": 160.0
         }
       ]
     },
@@ -3872,7 +4032,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在２回合内，",
-          "strWidth": 192.0
+          "strWidth": 127.78125
         },
         {
           "patternID": 0,
@@ -3880,7 +4040,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法使出会发出声音的招式。",
-          "strWidth": 416.0
+          "strWidth": 477.875
         }
       ]
     },
@@ -3910,7 +4070,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "磨砺",
-          "strWidth": 64.0
+          "strWidth": 160.0
         }
       ]
     },
@@ -3940,15 +4100,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在使用磨砺的下一回合，",
-          "strWidth": 352.0
+          "strWidth": 298.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "招式必定会击中要害。",
+          "strWidth": 245.3125
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "招式必定会击中要害。",
-          "strWidth": 320.0
+          "str": "반드시 급소에 맞는다.",
+          "strWidth": 317.90625
         }
       ]
     },
@@ -4068,7 +4236,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "极光幕",
-          "strWidth": 96.0
+          "strWidth": 160.0
         }
       ]
     },
@@ -4098,15 +4266,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在５回合内，",
-          "strWidth": 192.0
+          "strWidth": 127.78125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "物理与特殊攻击的威力会减半。",
+          "strWidth": 437.3125
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "物理与特殊攻击的威力会减半。",
-          "strWidth": 448.0
+          "str": "절반으로 만든다.",
+          "strWidth": 243.25
         }
       ]
     }

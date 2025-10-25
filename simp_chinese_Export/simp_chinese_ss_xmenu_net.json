@@ -40,7 +40,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "捉到过的宝可梦",
-          "strWidth": 224.0
+          "strWidth": 234.65625
         }
       ]
     },
@@ -70,7 +70,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "进化过的宝可梦",
-          "strWidth": 224.0
+          "strWidth": 298.65625
         }
       ]
     },
@@ -100,7 +100,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "孵化过的蛋",
-          "strWidth": 160.0
+          "strWidth": 234.65625
         }
       ]
     },
@@ -130,7 +130,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "进行过的连线对战",
-          "strWidth": 256.0
+          "strWidth": 234.65625
         }
       ]
     },
@@ -160,7 +160,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "交换过的宝可梦",
-          "strWidth": 224.0
+          "strWidth": 277.3125
         }
       ]
     },
@@ -190,7 +190,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "骑自行车冲刺的次数",
-          "strWidth": 288.0
+          "strWidth": 266.65625
         }
       ]
     },
@@ -220,7 +220,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "换过装的次数",
-          "strWidth": 192.0
+          "strWidth": 234.65625
         }
       ]
     },
@@ -250,7 +250,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "发现过的道具",
-          "strWidth": 192.0
+          "strWidth": 234.65625
         }
       ]
     },
@@ -280,7 +280,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "吹指哨的次数",
-          "strWidth": 192.0
+          "strWidth": 234.65625
         }
       ]
     },
@@ -310,7 +310,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "对战竞技场",
-          "strWidth": 160.0
+          "strWidth": 192.0
         }
       ]
     },
@@ -340,7 +340,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "现场大赛",
-          "strWidth": 128.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -370,7 +370,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "聚集的人数",
-          "strWidth": 160.0
+          "strWidth": 181.3125
         }
       ]
     },
@@ -482,7 +482,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "返回",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -542,7 +542,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "否",
-          "strWidth": 32.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -602,15 +602,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正透过邻近主机通讯",
-          "strWidth": 288.0
+          "strWidth": 138.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "收集擦身而过的玩家资讯……",
+          "strWidth": 341.3125
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "收集擦身而过的玩家资讯……",
-          "strWidth": 416.0
+          "str": "수집하고 있습니다...",
+          "strWidth": 292.4375
         }
       ]
     },
@@ -640,15 +648,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正透过网路连线",
-          "strWidth": 224.0
+          "strWidth": 96.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "收集擦身而过的玩家资讯……",
+          "strWidth": 341.3125
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "收集擦身而过的玩家资讯……",
-          "strWidth": 416.0
+          "str": "수집하고 있습니다...",
+          "strWidth": 292.4375
         }
       ]
     },
@@ -678,31 +694,47 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "即将接收所需的资讯",
-          "strWidth": 288.0
+          "strWidth": 341.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "以进行网路连线。",
+          "strWidth": 202.65625
         },
         {
           "patternID": 7,
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "以进行网路连线。",
-          "strWidth": 256.0
+          "str": "接收资讯后将写入纪录。",
+          "strWidth": 128.0
         },
         {
           "patternID": 7,
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "接收资讯后将写入纪录。",
-          "strWidth": 352.0
+          "str": "确定要继续吗？",
+          "strWidth": 351.96875
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "작성하게 됩니다",
+          "strWidth": 234.65625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "确定要继续吗？",
-          "strWidth": 224.0
+          "str": "괜찮겠습니까?",
+          "strWidth": 209.78125
         }
       ]
     },
@@ -732,7 +764,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在连线……",
-          "strWidth": 192.0
+          "strWidth": 266.65625
         },
         {
           "patternID": 0,
@@ -740,7 +772,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请稍候片刻。",
-          "strWidth": 192.0
+          "strWidth": 309.3125
         }
       ]
     },
@@ -770,15 +802,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "已接收连线到网路",
-          "strWidth": 256.0
+          "strWidth": 202.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "所需的资讯。",
+          "strWidth": 202.65625
         },
         {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "所需的资讯。",
-          "strWidth": 192.0
+          "str": "받았습니다",
+          "strWidth": 160.0
         }
       ]
     },
@@ -808,7 +848,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在写入纪录……",
-          "strWidth": 256.0
+          "strWidth": 405.3125
         },
         {
           "patternID": 0,
@@ -816,7 +856,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请稍候片刻。",
-          "strWidth": 192.0
+          "strWidth": 309.3125
         }
       ]
     },
@@ -842,11 +882,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "已切换到网路连线。",
-          "strWidth": 288.0
+          "strWidth": 160.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "전환했습니다",
+          "strWidth": 192.0
         }
       ]
     },
@@ -876,7 +924,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "即将关闭网路连线。",
-          "strWidth": 288.0
+          "strWidth": 373.3125
         },
         {
           "patternID": 0,
@@ -884,7 +932,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "确定要继续吗？",
-          "strWidth": 224.0
+          "strWidth": 209.78125
         }
       ]
     },
@@ -914,7 +962,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在关闭连线……",
-          "strWidth": 256.0
+          "strWidth": 373.3125
         },
         {
           "patternID": 0,
@@ -922,7 +970,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请稍候片刻。",
-          "strWidth": 192.0
+          "strWidth": 309.3125
         }
       ]
     },
@@ -948,11 +996,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "已切换到邻近主机通讯。",
-          "strWidth": 352.0
+          "strWidth": 202.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "전환했습니다",
+          "strWidth": 192.0
         }
       ]
     }

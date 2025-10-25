@@ -141,7 +141,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在等待连线……",
-          "strWidth": 256.0
+          "strWidth": 181.3125
         },
         {
           "patternID": 0,
@@ -149,7 +149,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请稍候片刻。",
-          "strWidth": 192.0
+          "strWidth": 309.3125
         }
       ]
     },
@@ -179,7 +179,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要退出对战吗？",
-          "strWidth": 224.0
+          "strWidth": 348.4375
         }
       ]
     },
@@ -209,7 +209,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "有中断连线的人，",
-          "strWidth": 256.0
+          "strWidth": 309.3125
         },
         {
           "patternID": 7,
@@ -217,7 +217,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "即将结束。",
-          "strWidth": 160.0
+          "strWidth": 298.65625
         }
       ]
     },
@@ -242,12 +242,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "正在结束连线……",
+          "strWidth": 96.0
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "正在结束连线……",
-          "strWidth": 256.0
+          "str": "종료하고 있습니다",
+          "strWidth": 266.65625
         }
       ]
     },
@@ -283,19 +291,11 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "要由",
-          "strWidth": 64.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "要由",
           "strWidth": -1.0
         },
         {
@@ -304,15 +304,15 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "",
-          "strWidth": 0.0
+          "strWidth": 64.0
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "决定对战规则吗？",
-          "strWidth": 256.0
+          "str": "",
+          "strWidth": 359.09375
         }
       ]
     },
@@ -342,7 +342,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "系统正在选择决定规则的人。",
-          "strWidth": 416.0
+          "strWidth": 415.96875
         },
         {
           "patternID": 0,
@@ -350,7 +350,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请稍候片刻。",
-          "strWidth": 192.0
+          "strWidth": 309.3125
         }
       ]
     },
@@ -399,7 +399,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "",
-          "strWidth": 0.0
+          "strWidth": 64.0
         },
         {
           "patternID": 0,
@@ -407,7 +407,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "放弃了决定规则。",
-          "strWidth": 256.0
+          "strWidth": 373.3125
         }
       ]
     },
@@ -456,7 +456,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "",
-          "strWidth": 0.0
+          "strWidth": 64.0
         },
         {
           "patternID": 0,
@@ -464,7 +464,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在决定对战规则。",
-          "strWidth": 288.0
+          "strWidth": 383.96875
         }
       ]
     },
@@ -494,7 +494,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请决定对战规则。",
-          "strWidth": 256.0
+          "strWidth": 351.96875
         }
       ]
     },
@@ -524,7 +524,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要交由其他人",
-          "strWidth": 192.0
+          "strWidth": 351.96875
         },
         {
           "patternID": 0,
@@ -532,7 +532,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "决定规则吗？",
-          "strWidth": 192.0
+          "strWidth": 209.78125
         }
       ]
     },
@@ -562,7 +562,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在发送规则。",
-          "strWidth": 224.0
+          "strWidth": 309.3125
         },
         {
           "patternID": 0,
@@ -570,7 +570,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请稍候片刻。",
-          "strWidth": 192.0
+          "strWidth": 309.3125
         }
       ]
     },
@@ -600,7 +600,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要取消选择，",
-          "strWidth": 192.0
+          "strWidth": 234.65625
         },
         {
           "patternID": 0,
@@ -608,7 +608,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "并更改为其他对战规则吗？",
-          "strWidth": 384.0
+          "strWidth": 401.75
         }
       ]
     },
@@ -638,7 +638,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在发送在此对战规则下",
-          "strWidth": 352.0
+          "strWidth": 319.96875
         },
         {
           "patternID": 0,
@@ -646,7 +646,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "不参加对战的资讯……",
-          "strWidth": 320.0
+          "strWidth": 479.96875
         }
       ]
     },
@@ -676,7 +676,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "有无法参加的人，",
-          "strWidth": 256.0
+          "strWidth": 394.625
         },
         {
           "patternID": 7,
@@ -684,7 +684,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "重新选择对战规则。",
-          "strWidth": 288.0
+          "strWidth": 383.96875
         }
       ]
     },
@@ -714,7 +714,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法以当前的对战规则",
-          "strWidth": 320.0
+          "strWidth": 245.3125
         },
         {
           "patternID": 7,
@@ -722,7 +722,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "参加的时候，",
-          "strWidth": 192.0
+          "strWidth": 287.96875
         },
         {
           "patternID": 7,
@@ -730,7 +730,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请选择",
-          "strWidth": 96.0
+          "strWidth": 229.40625
         },
         {
           "patternID": 7,
@@ -738,7 +738,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "「更改规则」。",
-          "strWidth": 202.25
+          "strWidth": 234.65625
         }
       ]
     },
@@ -768,7 +768,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在等待其他人。",
-          "strWidth": 256.0
+          "strWidth": 447.96875
         },
         {
           "patternID": 0,
@@ -776,7 +776,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请稍候片刻。",
-          "strWidth": 192.0
+          "strWidth": 309.3125
         }
       ]
     },
@@ -801,12 +801,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "请选择参加的宝可梦。",
+          "strWidth": 234.65625
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "请选择参加的宝可梦。",
-          "strWidth": 320.0
+          "str": "선택해 주십시오",
+          "strWidth": 234.65625
         }
       ]
     },
@@ -842,20 +850,20 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "第",
-          "strWidth": 32.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "第",
           "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 96.0
         },
         {
           "patternID": 0,
@@ -863,7 +871,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "个位置要分配给谁？",
-          "strWidth": 288.0
+          "strWidth": 316.4375
         }
       ]
     },
@@ -893,7 +901,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在分配队伍。",
-          "strWidth": 224.0
+          "strWidth": 341.3125
         },
         {
           "patternID": 0,
@@ -901,7 +909,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请稍候片刻。",
-          "strWidth": 192.0
+          "strWidth": 309.3125
         }
       ]
     },
@@ -931,7 +939,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要继续玩吗？",
-          "strWidth": 192.0
+          "strWidth": 444.4375
         }
       ]
     },
@@ -961,7 +969,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在等待对方……",
-          "strWidth": 256.0
+          "strWidth": 373.3125
         }
       ]
     },
@@ -991,7 +999,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "不更改规则",
-          "strWidth": 160.0
+          "strWidth": 245.3125
         },
         {
           "patternID": 7,
@@ -999,7 +1007,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "再次对战。",
-          "strWidth": 160.0
+          "strWidth": 309.3125
         }
       ]
     },
@@ -1029,7 +1037,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "更改规则",
-          "strWidth": 128.0
+          "strWidth": 170.65625
         },
         {
           "patternID": 7,
@@ -1037,7 +1045,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "再次对战。",
-          "strWidth": 160.0
+          "strWidth": 309.3125
         }
       ]
     },
@@ -1097,7 +1105,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "否",
-          "strWidth": 32.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -1127,7 +1135,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "自己决定",
-          "strWidth": 128.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -1157,7 +1165,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "交给其他人",
-          "strWidth": 160.0
+          "strWidth": 234.65625
         }
       ]
     },
@@ -1187,7 +1195,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "返回",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1217,7 +1225,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "开始一决胜负！",
-          "strWidth": 224.0
+          "strWidth": 147.5625
         }
       ]
     },
@@ -1247,7 +1255,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "以同样的规则玩",
-          "strWidth": 224.0
+          "strWidth": 309.3125
         }
       ]
     },
@@ -1277,7 +1285,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "改变规则玩",
-          "strWidth": 160.0
+          "strWidth": 341.3125
         }
       ]
     },
@@ -1307,7 +1315,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "随机",
-          "strWidth": 64.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -1378,7 +1386,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "退出",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1438,7 +1446,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "返回",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1468,7 +1476,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在选择……",
-          "strWidth": 192.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -1498,7 +1506,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "完成！",
-          "strWidth": 96.0
+          "strWidth": 72.90625
         }
       ]
     },
@@ -1528,7 +1536,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "普通规则",
-          "strWidth": 128.0
+          "strWidth": 106.65625
         }
       ]
     },
@@ -1558,7 +1566,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "对战塔规则",
-          "strWidth": 160.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -1588,7 +1596,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无限制",
-          "strWidth": 96.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -1618,7 +1626,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "参加的对战队伍",
-          "strWidth": 224.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -1689,7 +1697,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "战斗音乐",
-          "strWidth": 128.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -1760,15 +1768,31 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "接收到的对战规则有问题。",
-          "strWidth": 384.0
+          "strWidth": 213.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "重新选择对战规则。",
+          "strWidth": 234.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "대전 룰을",
+          "strWidth": 138.65625
         },
         {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "重新选择对战规则。",
-          "strWidth": 288.0
+          "str": "다시 선택합니다",
+          "strWidth": 234.65625
         }
       ]
     },
@@ -1798,7 +1822,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要交由其他人",
-          "strWidth": 192.0
+          "strWidth": 351.96875
         },
         {
           "patternID": 0,
@@ -1806,7 +1830,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "决定规则吗？",
-          "strWidth": 192.0
+          "strWidth": 209.78125
         }
       ]
     },
@@ -1836,7 +1860,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在发送规则。",
-          "strWidth": 224.0
+          "strWidth": 309.3125
         },
         {
           "patternID": 0,
@@ -1844,7 +1868,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请稍候片刻。",
-          "strWidth": 192.0
+          "strWidth": 309.3125
         }
       ]
     },
@@ -1874,15 +1898,31 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "发送的对战规则有问题。",
-          "strWidth": 352.0
+          "strWidth": 213.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "请重新选择对战规则。",
+          "strWidth": 234.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "대전 룰을",
+          "strWidth": 138.65625
         },
         {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "请重新选择对战规则。",
-          "strWidth": 320.0
+          "str": "다시 선택해 주십시오",
+          "strWidth": 309.3125
         }
       ]
     },
@@ -1908,11 +1948,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "重新选择对战规则。",
-          "strWidth": 288.0
+          "strWidth": 138.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "다시 선택합니다",
+          "strWidth": 234.65625
         }
       ]
     },
@@ -1937,12 +1985,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "所选的对战队伍有问题。",
+          "strWidth": 234.65625
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "所选的对战队伍有问题。",
-          "strWidth": 352.0
+          "str": "문제가 있습니다",
+          "strWidth": 234.65625
         }
       ]
     },
@@ -1967,12 +2023,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "对方的对战队伍有问题。",
+          "strWidth": 202.65625
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "对方的对战队伍有问题。",
-          "strWidth": 352.0
+          "str": "문제가 있습니다",
+          "strWidth": 234.65625
         }
       ]
     },
@@ -2002,7 +2066,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "如果加入到黑名单，",
-          "strWidth": 288.0
+          "strWidth": 373.3125
         },
         {
           "patternID": 7,
@@ -2010,7 +2074,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "就无法再透过连线和对方一起玩。",
-          "strWidth": 480.0
+          "strWidth": 426.625
         },
         {
           "patternID": 0,
@@ -2018,7 +2082,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "确定要继续吗？",
-          "strWidth": 224.0
+          "strWidth": 284.4375
         }
       ]
     },
@@ -2043,12 +2107,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要将谁加入黑名单？",
+          "strWidth": 309.3125
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "要将谁加入黑名单？",
-          "strWidth": 288.0
+          "str": "추가하겠습니까?",
+          "strWidth": 241.78125
         }
       ]
     },
@@ -2078,7 +2150,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请选择对战队伍。",
-          "strWidth": 256.0
+          "strWidth": 415.96875
         }
       ]
     },
@@ -2108,7 +2180,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请决定队伍的分配。",
-          "strWidth": 288.0
+          "strWidth": 309.3125
         }
       ]
     },
@@ -2179,7 +2251,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "更改规则",
-          "strWidth": 128.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -2209,15 +2281,31 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在这场对战中，",
-          "strWidth": 224.0
+          "strWidth": 202.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "将向对方公开宝可梦的暱称。",
+          "strWidth": 266.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "통신 상대에게",
+          "strWidth": 202.65625
         },
         {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "将向对方公开宝可梦的暱称。",
-          "strWidth": 416.0
+          "str": "보이게 됩니다",
+          "strWidth": 202.65625
         }
       ]
     },
@@ -2247,7 +2335,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "退出",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -2277,7 +2365,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "混合队伍",
-          "strWidth": 128.0
+          "strWidth": 106.65625
         }
       ]
     },
@@ -2307,7 +2395,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "队伍混合完成！",
-          "strWidth": 224.0
+          "strWidth": 350.21875
         }
       ]
     },
@@ -2337,7 +2425,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "Ａ队伍１",
-          "strWidth": 128.0
+          "strWidth": 87.78125
         }
       ]
     },
@@ -2367,7 +2455,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "Ａ队伍２",
-          "strWidth": 128.0
+          "strWidth": 87.78125
         }
       ]
     },
@@ -2479,7 +2567,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "Ｂ队伍１",
-          "strWidth": 128.0
+          "strWidth": 84.8125
         }
       ]
     },
@@ -2509,7 +2597,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "Ｂ队伍２",
-          "strWidth": 128.0
+          "strWidth": 84.8125
         }
       ]
     },
@@ -2535,11 +2623,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请选择决定对战规则的人。",
-          "strWidth": 384.0
+          "strWidth": 319.96875
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "선택합니다",
+          "strWidth": 160.0
         }
       ]
     },
@@ -2594,12 +2690,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要使用哪一种通讯来对战？",
+          "strWidth": 309.3125
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "要使用哪一种通讯来对战？",
-          "strWidth": 384.0
+          "str": "대전하겠습니까?",
+          "strWidth": 241.78125
         }
       ]
     },
@@ -2629,7 +2733,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "网路连线",
-          "strWidth": 128.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -2659,7 +2763,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "邻近主机通讯",
-          "strWidth": 192.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -2689,7 +2793,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "退出",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -2719,7 +2823,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要进入圆形竞技场吗？",
-          "strWidth": 320.0
+          "strWidth": 412.4375
         }
       ]
     },
@@ -2749,7 +2853,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "那么，希望您在圆形竞技场玩得愉快！",
-          "strWidth": 544.0
+          "strWidth": 456.875
         }
       ]
     },
@@ -2779,7 +2883,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "即将离开圆形竞技场。",
-          "strWidth": 320.0
+          "strWidth": 330.65625
         },
         {
           "patternID": 0,
@@ -2787,7 +2891,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "确定要继续吗？",
-          "strWidth": 224.0
+          "strWidth": 209.78125
         }
       ]
     },
@@ -2817,7 +2921,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在结束连线。",
-          "strWidth": 224.0
+          "strWidth": 373.3125
         },
         {
           "patternID": 0,
@@ -2825,7 +2929,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请稍候片刻。",
-          "strWidth": 192.0
+          "strWidth": 309.3125
         }
       ]
     },
@@ -2855,7 +2959,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在准备完成之前请稍候片刻。",
-          "strWidth": 416.0
+          "strWidth": 554.625
         },
         {
           "patternID": 0,
@@ -2863,7 +2967,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "Ｂ键：退出",
-          "strWidth": 160.0
+          "strWidth": 242.9375
         }
       ]
     },
@@ -2893,7 +2997,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "退出",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -2919,11 +3023,11 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 1,
+          "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "对方提议更改对战规则。",
-          "strWidth": 352.0
+          "strWidth": 522.625
         },
         {
           "patternID": 0,
@@ -2931,7 +3035,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "是否要接受？",
-          "strWidth": 192.0
+          "strWidth": 209.78125
         }
       ]
     },
@@ -2972,7 +3076,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "新的规则：",
-          "strWidth": 160.0
+          "strWidth": 147.25
         },
         {
           "patternID": 5,
@@ -3010,7 +3114,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "准备完成！",
-          "strWidth": 160.0
+          "strWidth": 307.5625
         },
         {
           "patternID": 0,
@@ -3018,7 +3122,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "开始连线对战！",
-          "strWidth": 224.0
+          "strWidth": 339.5625
         }
       ]
     },
@@ -3048,15 +3152,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "欢迎来到圆形竞技场。",
-          "strWidth": 320.0
+          "strWidth": 373.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要是有任何问题请尽管吩咐喔！",
+          "strWidth": 341.3125
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "要是有任何问题请尽管吩咐喔！",
-          "strWidth": 448.0
+          "str": "말씀해 주세요!",
+          "strWidth": 211.5625
         }
       ]
     },
@@ -3086,7 +3198,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "有人离开了圆形竞技场，",
-          "strWidth": 352.0
+          "strWidth": 511.96875
         },
         {
           "patternID": 0,
@@ -3094,7 +3206,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "即将结束连线。",
-          "strWidth": 224.0
+          "strWidth": 266.65625
         }
       ]
     },
@@ -3124,7 +3236,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在圆形竞技场里",
-          "strWidth": 224.0
+          "strWidth": 405.3125
         },
         {
           "patternID": 7,
@@ -3132,15 +3244,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "能用各种不同的规则来对战。",
-          "strWidth": 416.0
+          "strWidth": 277.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "全员就定位后，就会开始对战。",
+          "strWidth": 383.96875
         },
         {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "全员就定位后，就会开始对战。",
-          "strWidth": 448.0
+          "str": "대전이 시작됩니다",
+          "strWidth": 266.65625
         }
       ]
     },
@@ -3170,7 +3290,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "即将更改对战规则。",
-          "strWidth": 288.0
+          "strWidth": 309.3125
         },
         {
           "patternID": 0,
@@ -3178,7 +3298,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "确定要继续吗？",
-          "strWidth": 224.0
+          "strWidth": 209.78125
         }
       ]
     },
@@ -3204,27 +3324,43 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在多人对战中不能更改规则。",
-          "strWidth": 416.0
+          "strWidth": 224.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "若想更改规则，请先离开圆形竞技场，",
+          "strWidth": 351.96875
         },
         {
           "patternID": 7,
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "若想更改规则，请先离开圆形竞技场，",
-          "strWidth": 544.0
+          "str": "然后重新选择规则。",
+          "strWidth": 309.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "일단 콜로세움에서 나간 다음",
+          "strWidth": 415.96875
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "然后重新选择规则。",
-          "strWidth": 288.0
+          "str": "룰을 다시 선택해 주시기 바랍니다",
+          "strWidth": 490.625
         }
       ]
     },
@@ -3254,7 +3390,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在搜寻对战对手……",
-          "strWidth": 320.0
+          "strWidth": 383.96875
         }
       ]
     },
@@ -3284,7 +3420,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "已决定对战对手！",
-          "strWidth": 256.0
+          "strWidth": 350.21875
         },
         {
           "patternID": 0,
@@ -3292,7 +3428,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "开始连线对战！",
-          "strWidth": 224.0
+          "strWidth": 339.5625
         }
       ]
     },
@@ -3322,7 +3458,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "退出",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -3382,7 +3518,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "登录队伍",
-          "strWidth": 128.0
+          "strWidth": 106.65625
         }
       ]
     },
@@ -3412,7 +3548,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "返回",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -3442,7 +3578,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "没有队伍。",
-          "strWidth": 160.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -3472,7 +3608,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "确定要选择这个队伍吗？",
-          "strWidth": 352.0
+          "strWidth": 359.09375
         }
       ]
     },
@@ -3497,12 +3633,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "队伍中有同一种宝可梦。",
+          "strWidth": 170.65625
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "队伍中有同一种宝可梦。",
-          "strWidth": 352.0
+          "str": "포켓몬이 있습니다",
+          "strWidth": 266.65625
         }
       ]
     },
@@ -3527,12 +3671,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "参加的宝可梦数量不足。",
+          "strWidth": 309.3125
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "参加的宝可梦数量不足。",
-          "strWidth": 352.0
+          "str": "부족합니다",
+          "strWidth": 160.0
         }
       ]
     },
@@ -3562,7 +3714,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "确定要使用这个规则吗？",
-          "strWidth": 352.0
+          "strWidth": 327.09375
         }
       ]
     },
@@ -3622,7 +3774,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "开始混合双方的宝可梦！",
-          "strWidth": 352.0
+          "strWidth": 478.21875
         }
       ]
     },
@@ -3648,11 +3800,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "蛋无法参加对战。",
-          "strWidth": 256.0
+          "strWidth": 64.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "참가할 수 없습니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -3682,7 +3842,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "队伍中有无法参加的宝可梦。",
-          "strWidth": 416.0
+          "strWidth": 490.625
         }
       ]
     },
@@ -3708,11 +3868,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "队伍中有携带了相同道具的宝可梦。",
-          "strWidth": 512.0
+          "strWidth": 245.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "포켓몬이 있습니다",
+          "strWidth": 266.65625
         }
       ]
     },
@@ -3738,11 +3906,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "对战队伍中的宝可梦有问题。",
-          "strWidth": 416.0
+          "strWidth": 266.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "문제가 있습니다",
+          "strWidth": 234.65625
         }
       ]
     },
@@ -3768,11 +3944,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "参加的宝可梦有问题。",
-          "strWidth": 320.0
+          "strWidth": 266.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "문제가 있습니다",
+          "strWidth": 234.65625
         }
       ]
     },
@@ -3802,7 +3986,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "选择队伍",
-          "strWidth": 128.0
+          "strWidth": 106.65625
         }
       ]
     },
@@ -3832,7 +4016,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "选择对战规则",
-          "strWidth": 192.0
+          "strWidth": 181.3125
         }
       ]
     },
@@ -3862,7 +4046,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "确定规则！",
-          "strWidth": 160.0
+          "strWidth": 115.5625
         }
       ]
     },
@@ -3892,7 +4076,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "宝可梦的数量",
-          "strWidth": 192.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -3922,7 +4106,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "宝可梦的等级",
-          "strWidth": 192.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -3952,7 +4136,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "特殊的宝可梦",
-          "strWidth": 192.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -3982,7 +4166,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "相同的宝可梦",
-          "strWidth": 192.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -4012,7 +4196,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "相同的道具",
-          "strWidth": 160.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -4061,7 +4245,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "只",
-          "strWidth": 32.0
+          "strWidth": 64.0
         }
       ]
     },
@@ -4097,19 +4281,11 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "等级",
-          "strWidth": 64.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "等级",
           "strWidth": -1.0
         },
         {
@@ -4117,8 +4293,8 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "以上",
-          "strWidth": 64.0
+          "str": "",
+          "strWidth": 74.65625
         }
       ]
     },
@@ -4177,7 +4353,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "～",
-          "strWidth": 32.0
+          "strWidth": 24.28125
         },
         {
           "patternID": 5,
@@ -4193,7 +4369,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "只",
-          "strWidth": 32.0
+          "strWidth": 64.0
         }
       ]
     },
@@ -4234,15 +4410,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "全部设定为等级",
-          "strWidth": 224.0
+          "strWidth": 74.65625
         },
         {
           "patternID": 5,
-          "eventID": 7,
+          "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "으로 맞춘다",
+          "strWidth": 170.65625
         }
       ]
     },
@@ -4278,19 +4462,11 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "设定为等级",
-          "strWidth": 160.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "设定为等级",
           "strWidth": -1.0
         },
         {
@@ -4298,8 +4474,8 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "以下",
-          "strWidth": 64.0
+          "str": "",
+          "strWidth": 170.65625
         }
       ]
     },
@@ -4329,7 +4505,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "可以参加",
-          "strWidth": 128.0
+          "strWidth": 213.3125
         }
       ]
     },
@@ -4359,7 +4535,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法参加",
-          "strWidth": 128.0
+          "strWidth": 213.3125
         }
       ]
     },
@@ -4389,7 +4565,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "允许携带",
-          "strWidth": 128.0
+          "strWidth": 255.96875
         }
       ]
     },
@@ -4419,7 +4595,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "禁止携带",
-          "strWidth": 128.0
+          "strWidth": 255.96875
         }
       ]
     },
@@ -4449,7 +4625,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无限制",
-          "strWidth": 96.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -4479,7 +4655,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "对战规则",
-          "strWidth": 128.0
+          "strWidth": 106.65625
         }
       ]
     },
@@ -4509,7 +4685,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "确认规则",
-          "strWidth": 128.0
+          "strWidth": 106.65625
         }
       ]
     },
@@ -4539,7 +4715,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "退出",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     }

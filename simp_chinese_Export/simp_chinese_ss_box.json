@@ -40,7 +40,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "同行",
-          "strWidth": 64.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -139,8 +139,8 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Lv.",
-          "strWidth": 43.171875
+          "str": "Lv。",
+          "strWidth": 51.59375
         },
         {
           "patternID": 5,
@@ -249,7 +249,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "一览",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -420,8 +420,8 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Lv.",
-          "strWidth": 43.171875
+          "str": "Lv。",
+          "strWidth": 40.9375
         },
         {
           "patternID": 5,
@@ -510,8 +510,8 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "No.",
-          "strWidth": 48.90625
+          "str": "No。",
+          "strWidth": 56.59375
         },
         {
           "patternID": 5,
@@ -631,7 +631,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "HP",
-          "strWidth": 44.515625
+          "strWidth": 42.65625
         }
       ]
     },
@@ -690,7 +690,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         },
         {
           "patternID": 5,
@@ -788,7 +788,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "特攻",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -818,7 +818,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "特防",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -848,7 +848,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "速度",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -1061,7 +1061,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "持有物",
-          "strWidth": 96.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -1132,7 +1132,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "-",
-          "strWidth": 14.84375
+          "strWidth": 12.15625
         }
       ]
     },
@@ -1203,7 +1203,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "极巨化等级",
-          "strWidth": 160.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -1263,7 +1263,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "持有物",
-          "strWidth": 96.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -1470,28 +1470,36 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "要对",
-          "strWidth": 64.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
+          "str": "要对",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "做什么？",
+          "strWidth": 0.0
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "做什么？",
-          "strWidth": 128.0
+          "str": "어떻게 하겠습니까?",
+          "strWidth": 284.4375
         }
       ]
     },
@@ -1521,7 +1529,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "移动",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1551,7 +1559,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "查看能力",
-          "strWidth": 128.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -1581,7 +1589,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "持有物",
-          "strWidth": 96.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -1641,7 +1649,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "放生",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1701,7 +1709,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "确定要用所选择的",
-          "strWidth": 256.0
+          "strWidth": 266.65625
         },
         {
           "patternID": 0,
@@ -1709,7 +1717,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "宝可梦吗？",
-          "strWidth": 160.0
+          "strWidth": 209.78125
         }
       ]
     },
@@ -1739,7 +1747,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "真的要放生吗？",
-          "strWidth": 224.0
+          "strWidth": 316.4375
         }
       ]
     },
@@ -1799,7 +1807,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "否",
-          "strWidth": 32.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -1855,36 +1863,12 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "已将",
-          "strWidth": 64.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "已将",
           "strWidth": -1.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "放生了。",
-          "strWidth": 128.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "再见，",
-          "strWidth": 96.0
         },
         {
           "patternID": 5,
@@ -1896,11 +1880,35 @@
         },
         {
           "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "放生了。",
+          "strWidth": 170.65625
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "再见，",
+          "strWidth": 147.25
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "。",
-          "strWidth": 32.0
+          "strWidth": 8.90625
         }
       ]
     },
@@ -1930,7 +1938,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "蛋无法放生！",
-          "strWidth": 192.0
+          "strWidth": 360.875
         }
       ]
     },
@@ -1981,7 +1989,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "不能放生已合体的",
-          "strWidth": 256.0
+          "strWidth": 106.65625
         },
         {
           "patternID": 5,
@@ -1992,12 +2000,28 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "。",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        },
+        {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "。",
-          "strWidth": 32.0
+          "str": "놓아줄 수 없습니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -2027,7 +2051,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "不能放生登录在",
-          "strWidth": 224.0
+          "strWidth": 277.3125
         },
         {
           "patternID": 7,
@@ -2035,7 +2059,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "对战队伍的宝可梦。",
-          "strWidth": 288.0
+          "strWidth": 415.96875
         }
       ]
     },
@@ -2065,7 +2089,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "这样就没有可战斗的宝可梦了！",
-          "strWidth": 448.0
+          "strWidth": 382.21875
         }
       ]
     },
@@ -2095,7 +2119,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "因为携带著特别的道具，",
-          "strWidth": 352.0
+          "strWidth": 447.96875
         },
         {
           "patternID": 7,
@@ -2103,7 +2127,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "所以无法放生。",
-          "strWidth": 224.0
+          "strWidth": 277.3125
         }
       ]
     },
@@ -2133,7 +2157,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要对这个盒子做什么？",
-          "strWidth": 320.0
+          "strWidth": 433.75
         }
       ]
     },
@@ -2163,7 +2187,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "切换",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -2253,7 +2277,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "壁纸１",
-          "strWidth": 96.0
+          "strWidth": 85.125
         }
       ]
     },
@@ -2283,7 +2307,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "壁纸２",
-          "strWidth": 96.0
+          "strWidth": 85.125
         }
       ]
     },
@@ -2313,7 +2337,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "壁纸３",
-          "strWidth": 96.0
+          "strWidth": 85.125
         }
       ]
     },
@@ -2343,7 +2367,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "壁纸４",
-          "strWidth": 96.0
+          "strWidth": 85.125
         }
       ]
     },
@@ -2373,7 +2397,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "壁纸５",
-          "strWidth": 96.0
+          "strWidth": 85.125
         }
       ]
     },
@@ -2403,7 +2427,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "壁纸６",
-          "strWidth": 96.0
+          "strWidth": 85.125
         }
       ]
     },
@@ -2433,7 +2457,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "壁纸７",
-          "strWidth": 96.0
+          "strWidth": 85.125
         }
       ]
     },
@@ -2463,7 +2487,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "壁纸８",
-          "strWidth": 96.0
+          "strWidth": 85.125
         }
       ]
     },
@@ -2493,7 +2517,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "壁纸９",
-          "strWidth": 96.0
+          "strWidth": 85.125
         }
       ]
     },
@@ -2523,7 +2547,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "壁纸１０",
-          "strWidth": 128.0
+          "strWidth": 106.25
         }
       ]
     },
@@ -2553,7 +2577,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "壁纸１１",
-          "strWidth": 128.0
+          "strWidth": 106.25
         }
       ]
     },
@@ -2583,7 +2607,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "壁纸１２",
-          "strWidth": 128.0
+          "strWidth": 106.25
         }
       ]
     },
@@ -2613,7 +2637,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "壁纸１３",
-          "strWidth": 128.0
+          "strWidth": 106.25
         }
       ]
     },
@@ -2643,7 +2667,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "壁纸１４",
-          "strWidth": 128.0
+          "strWidth": 106.25
         }
       ]
     },
@@ -2673,7 +2697,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "壁纸１５",
-          "strWidth": 128.0
+          "strWidth": 106.25
         }
       ]
     },
@@ -2703,7 +2727,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "壁纸１６",
-          "strWidth": 128.0
+          "strWidth": 106.25
         }
       ]
     },
@@ -2733,7 +2757,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "壁纸１７",
-          "strWidth": 128.0
+          "strWidth": 106.25
         }
       ]
     },
@@ -2763,7 +2787,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "壁纸１８",
-          "strWidth": 128.0
+          "strWidth": 106.25
         }
       ]
     },
@@ -2793,7 +2817,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "壁纸１９",
-          "strWidth": 128.0
+          "strWidth": 106.25
         }
       ]
     },
@@ -2839,17 +2863,17 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
+          "patternID": 5,
           "eventID": 0,
-          "tagIndex": -1,
+          "tagIndex": 0,
           "tagValue": 0.0,
           "str": "要拿",
-          "strWidth": 64.0
+          "strWidth": -1.0
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 0,
+          "tagIndex": 1,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -2860,7 +2884,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "做什么？",
-          "strWidth": 128.0
+          "strWidth": 231.09375
         }
       ]
     },
@@ -2890,7 +2914,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "移动",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -2966,17 +2990,17 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
+          "patternID": 5,
           "eventID": 0,
-          "tagIndex": -1,
+          "tagIndex": 0,
           "tagValue": 0.0,
           "str": "将",
-          "strWidth": 32.0
+          "strWidth": -1.0
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 0,
+          "tagIndex": 1,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -2987,7 +3011,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "放回包包里了！",
-          "strWidth": 224.0
+          "strWidth": 222.21875
         }
       ]
     },
@@ -3017,7 +3041,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "包包已满！",
-          "strWidth": 160.0
+          "strWidth": 318.21875
         }
       ]
     },
@@ -3063,17 +3087,17 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
+          "patternID": 5,
           "eventID": 0,
-          "tagIndex": -1,
+          "tagIndex": 0,
           "tagValue": 0.0,
           "str": "要收回",
-          "strWidth": 96.0
+          "strWidth": -1.0
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 0,
+          "tagIndex": 1,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -3084,7 +3108,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "吗？",
-          "strWidth": 64.0
+          "strWidth": 252.4375
         }
       ]
     },
@@ -3114,7 +3138,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "可以携带道具。",
-          "strWidth": 224.0
+          "strWidth": 351.96875
         }
       ]
     },
@@ -3144,7 +3168,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "携带",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -3174,7 +3198,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "蛋无法携带道具！",
-          "strWidth": 256.0
+          "strWidth": 435.53125
         }
       ]
     },
@@ -3204,7 +3228,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "登录",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -3234,7 +3258,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "移动",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -3264,7 +3288,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "移除",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -3294,7 +3318,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法移动已锁定的",
-          "strWidth": 256.0
+          "strWidth": 277.3125
         },
         {
           "patternID": 7,
@@ -3302,7 +3326,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "对战队伍里的宝可梦。",
-          "strWidth": 320.0
+          "strWidth": 415.96875
         }
       ]
     },
@@ -3328,11 +3352,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "对战队伍已锁定，无法移除此宝可梦。",
-          "strWidth": 544.0
+          "strWidth": 341.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "포켓몬을 제외할 수 없습니다",
+          "strWidth": 415.96875
         }
       ]
     },
@@ -3358,11 +3390,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "对战队伍已锁定，无法更换持有物。",
-          "strWidth": 512.0
+          "strWidth": 341.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "지닌 물건을 변경할 수 없습니다",
+          "strWidth": 458.625
         }
       ]
     },
@@ -3388,11 +3428,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "对战队伍已锁定，无法进行标记。",
-          "strWidth": 480.0
+          "strWidth": 341.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "마킹할 수 없습니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -3418,11 +3466,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "对战队伍已锁定，无法进行登录。",
-          "strWidth": 480.0
+          "strWidth": 341.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "등록할 수 없습니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -3452,7 +3508,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要更改队伍的名字吗？",
-          "strWidth": 320.0
+          "strWidth": 359.09375
         }
       ]
     },
@@ -3477,12 +3533,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "选择条件后按「搜寻」就会开始进行筛选！",
+          "strWidth": 506.71875
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "选择条件后按「搜寻」就会开始进行筛选！",
-          "strWidth": 586.25
+          "str": "추려 내기를 실행합니다!",
+          "strWidth": 350.21875
         }
       ]
     },
@@ -3542,7 +3606,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "属性１",
-          "strWidth": 96.0
+          "strWidth": 85.125
         }
       ]
     },
@@ -3572,7 +3636,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "属性２",
-          "strWidth": 96.0
+          "strWidth": 85.125
         }
       ]
     },
@@ -3632,7 +3696,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "招式学习器",
-          "strWidth": 160.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -3752,7 +3816,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "持有物",
-          "strWidth": 96.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -3812,7 +3876,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "对战队伍",
-          "strWidth": 128.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -4148,7 +4212,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无性别",
-          "strWidth": 96.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -4178,7 +4242,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "携带",
-          "strWidth": 64.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -4208,7 +4272,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "未携带",
-          "strWidth": 96.0
+          "strWidth": 245.3125
         }
       ]
     },
@@ -4279,7 +4343,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "－",
-          "strWidth": 32.0
+          "strWidth": 12.15625
         }
       ]
     },
@@ -4309,7 +4373,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请选择宝可梦名字",
-          "strWidth": 256.0
+          "strWidth": 351.96875
         },
         {
           "patternID": 0,
@@ -4317,7 +4381,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "第一个字的笔画。",
-          "strWidth": 256.0
+          "strWidth": 234.65625
         }
       ]
     },
@@ -4347,7 +4411,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请选择宝可梦。",
-          "strWidth": 224.0
+          "strWidth": 373.3125
         }
       ]
     },
@@ -4377,7 +4441,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请选择属性１。",
-          "strWidth": 224.0
+          "strWidth": 362.4375
         }
       ]
     },
@@ -4407,7 +4471,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请选择属性２。",
-          "strWidth": 224.0
+          "strWidth": 362.4375
         }
       ]
     },
@@ -4437,7 +4501,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请选择招式名称",
-          "strWidth": 224.0
+          "strWidth": 319.96875
         },
         {
           "patternID": 0,
@@ -4445,7 +4509,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "第一个字的笔画。",
-          "strWidth": 256.0
+          "strWidth": 234.65625
         }
       ]
     },
@@ -4475,7 +4539,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请选择招式。",
-          "strWidth": 192.0
+          "strWidth": 341.3125
         }
       ]
     },
@@ -4505,7 +4569,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "搜寻能够使用所选择之",
-          "strWidth": 320.0
+          "strWidth": 405.3125
         },
         {
           "patternID": 0,
@@ -4513,7 +4577,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "招式学习器的宝可梦。",
-          "strWidth": 320.0
+          "strWidth": 351.96875
         }
       ]
     },
@@ -4543,7 +4607,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请选择宝可梦特性名称",
-          "strWidth": 320.0
+          "strWidth": 202.65625
         },
         {
           "patternID": 0,
@@ -4551,7 +4615,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "第一个字的笔画。",
-          "strWidth": 256.0
+          "strWidth": 383.96875
         }
       ]
     },
@@ -4581,7 +4645,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请选择特性。",
-          "strWidth": 192.0
+          "strWidth": 341.3125
         }
       ]
     },
@@ -4606,12 +4670,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "请选择宝可梦的性格。",
+          "strWidth": 234.65625
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "请选择宝可梦的性格。",
-          "strWidth": 320.0
+          "str": "선택해 주십시오",
+          "strWidth": 234.65625
         }
       ]
     },
@@ -4636,12 +4708,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "请选择宝可梦的性别。",
+          "strWidth": 234.65625
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "请选择宝可梦的性别。",
-          "strWidth": 320.0
+          "str": "선택해 주십시오",
+          "strWidth": 234.65625
         }
       ]
     },
@@ -4666,12 +4746,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "搜寻携带或未携带持有物的宝可梦。",
+          "strWidth": 415.96875
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "搜寻携带或未携带持有物的宝可梦。",
-          "strWidth": 512.0
+          "str": "체크할 수 있습니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -4696,12 +4784,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "搜寻有特定标记的宝可梦。",
+          "strWidth": 341.3125
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "搜寻有特定标记的宝可梦。",
-          "strWidth": 384.0
+          "str": "체크할 수 있습니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -4726,12 +4822,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "搜寻已登录到所选队伍的宝可梦。",
+          "strWidth": 319.96875
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "搜寻已登录到所选队伍的宝可梦。",
-          "strWidth": 480.0
+          "str": "포켓몬을 체크할 수 있습니다",
+          "strWidth": 415.96875
         }
       ]
     },
@@ -4966,7 +5070,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "能力容易均衡地成长。",
-          "strWidth": 320.0
+          "strWidth": 392.5625
         }
       ]
     },
@@ -4996,7 +5100,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "攻击容易成长。",
-          "strWidth": 224.0
+          "strWidth": 317.90625
         },
         {
           "patternID": 0,
@@ -5004,7 +5108,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "防御不易成长。",
-          "strWidth": 224.0
+          "strWidth": 349.90625
         }
       ]
     },
@@ -5034,7 +5138,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "攻击容易成长。",
-          "strWidth": 224.0
+          "strWidth": 317.90625
         },
         {
           "patternID": 0,
@@ -5042,7 +5146,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "速度不易成长。",
-          "strWidth": 224.0
+          "strWidth": 381.90625
         }
       ]
     },
@@ -5072,7 +5176,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "攻击容易成长。",
-          "strWidth": 224.0
+          "strWidth": 317.90625
         },
         {
           "patternID": 0,
@@ -5080,7 +5184,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "特攻不易成长。",
-          "strWidth": 224.0
+          "strWidth": 413.90625
         }
       ]
     },
@@ -5110,7 +5214,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "攻击容易成长。",
-          "strWidth": 224.0
+          "strWidth": 317.90625
         },
         {
           "patternID": 0,
@@ -5118,7 +5222,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "特防不易成长。",
-          "strWidth": 224.0
+          "strWidth": 413.90625
         }
       ]
     },
@@ -5148,7 +5252,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "防御容易成长。",
-          "strWidth": 224.0
+          "strWidth": 317.90625
         },
         {
           "patternID": 0,
@@ -5156,7 +5260,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "攻击不易成长。",
-          "strWidth": 224.0
+          "strWidth": 349.90625
         }
       ]
     },
@@ -5186,7 +5290,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "能力容易均衡地成长。",
-          "strWidth": 320.0
+          "strWidth": 392.5625
         }
       ]
     },
@@ -5216,7 +5320,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "防御容易成长。",
-          "strWidth": 224.0
+          "strWidth": 317.90625
         },
         {
           "patternID": 0,
@@ -5224,7 +5328,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "速度不易成长。",
-          "strWidth": 224.0
+          "strWidth": 381.90625
         }
       ]
     },
@@ -5254,7 +5358,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "防御容易成长。",
-          "strWidth": 224.0
+          "strWidth": 317.90625
         },
         {
           "patternID": 0,
@@ -5262,7 +5366,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "特攻不易成长。",
-          "strWidth": 224.0
+          "strWidth": 413.90625
         }
       ]
     },
@@ -5292,7 +5396,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "防御容易成长。",
-          "strWidth": 224.0
+          "strWidth": 317.90625
         },
         {
           "patternID": 0,
@@ -5300,7 +5404,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "特防不易成长。",
-          "strWidth": 224.0
+          "strWidth": 413.90625
         }
       ]
     },
@@ -5330,7 +5434,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "速度容易成长。",
-          "strWidth": 224.0
+          "strWidth": 349.90625
         },
         {
           "patternID": 0,
@@ -5338,7 +5442,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "攻击不易成长。",
-          "strWidth": 224.0
+          "strWidth": 349.90625
         }
       ]
     },
@@ -5368,7 +5472,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "速度容易成长。",
-          "strWidth": 224.0
+          "strWidth": 349.90625
         },
         {
           "patternID": 0,
@@ -5376,7 +5480,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "防御不易成长。",
-          "strWidth": 224.0
+          "strWidth": 349.90625
         }
       ]
     },
@@ -5406,7 +5510,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "能力容易均衡地成长。",
-          "strWidth": 320.0
+          "strWidth": 392.5625
         }
       ]
     },
@@ -5436,7 +5540,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "速度容易成长。",
-          "strWidth": 224.0
+          "strWidth": 349.90625
         },
         {
           "patternID": 0,
@@ -5444,7 +5548,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "特攻不易成长。",
-          "strWidth": 224.0
+          "strWidth": 413.90625
         }
       ]
     },
@@ -5474,7 +5578,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "速度容易成长。",
-          "strWidth": 224.0
+          "strWidth": 349.90625
         },
         {
           "patternID": 0,
@@ -5482,7 +5586,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "特防不易成长。",
-          "strWidth": 224.0
+          "strWidth": 413.90625
         }
       ]
     },
@@ -5512,7 +5616,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "特攻容易成长。",
-          "strWidth": 224.0
+          "strWidth": 381.90625
         },
         {
           "patternID": 0,
@@ -5520,7 +5624,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "攻击不易成长。",
-          "strWidth": 224.0
+          "strWidth": 349.90625
         }
       ]
     },
@@ -5550,7 +5654,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "特攻容易成长。",
-          "strWidth": 224.0
+          "strWidth": 381.90625
         },
         {
           "patternID": 0,
@@ -5558,7 +5662,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "防御不易成长。",
-          "strWidth": 224.0
+          "strWidth": 349.90625
         }
       ]
     },
@@ -5588,7 +5692,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "特攻容易成长。",
-          "strWidth": 224.0
+          "strWidth": 381.90625
         },
         {
           "patternID": 0,
@@ -5596,7 +5700,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "速度不易成长。",
-          "strWidth": 224.0
+          "strWidth": 381.90625
         }
       ]
     },
@@ -5626,7 +5730,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "能力容易均衡地成长。",
-          "strWidth": 320.0
+          "strWidth": 392.5625
         }
       ]
     },
@@ -5656,7 +5760,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "特攻容易成长。",
-          "strWidth": 224.0
+          "strWidth": 381.90625
         },
         {
           "patternID": 0,
@@ -5664,7 +5768,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "特防不易成长。",
-          "strWidth": 224.0
+          "strWidth": 413.90625
         }
       ]
     },
@@ -5694,7 +5798,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "特防容易成长。",
-          "strWidth": 224.0
+          "strWidth": 381.90625
         },
         {
           "patternID": 0,
@@ -5702,7 +5806,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "攻击不易成长。",
-          "strWidth": 224.0
+          "strWidth": 349.90625
         }
       ]
     },
@@ -5732,7 +5836,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "特防容易成长。",
-          "strWidth": 224.0
+          "strWidth": 381.90625
         },
         {
           "patternID": 0,
@@ -5740,7 +5844,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "防御不易成长。",
-          "strWidth": 224.0
+          "strWidth": 349.90625
         }
       ]
     },
@@ -5770,7 +5874,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "特防容易成长。",
-          "strWidth": 224.0
+          "strWidth": 381.90625
         },
         {
           "patternID": 0,
@@ -5778,7 +5882,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "速度不易成长。",
-          "strWidth": 224.0
+          "strWidth": 381.90625
         }
       ]
     },
@@ -5808,7 +5912,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "特防容易成长。",
-          "strWidth": 224.0
+          "strWidth": 381.90625
         },
         {
           "patternID": 0,
@@ -5816,7 +5920,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "特攻不易成长。",
-          "strWidth": 224.0
+          "strWidth": 413.90625
         }
       ]
     },
@@ -5846,7 +5950,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "能力容易均衡地成长。",
-          "strWidth": 320.0
+          "strWidth": 392.5625
         }
       ]
     },
@@ -5876,7 +5980,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "交换对象",
-          "strWidth": 128.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -5947,7 +6051,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在等待对方回应……",
-          "strWidth": 320.0
+          "strWidth": 479.96875
         },
         {
           "patternID": 0,
@@ -5955,7 +6059,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请稍候片刻。",
-          "strWidth": 192.0
+          "strWidth": 309.3125
         }
       ]
     },
@@ -5985,7 +6089,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "已中止交换。",
-          "strWidth": 192.0
+          "strWidth": 298.65625
         }
       ]
     },
@@ -6015,7 +6119,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "已选择结束。",
-          "strWidth": 192.0
+          "strWidth": 330.65625
         },
         {
           "patternID": 7,
@@ -6023,7 +6127,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "即将结束交换。",
-          "strWidth": 224.0
+          "strWidth": 266.65625
         }
       ]
     },
@@ -6049,19 +6153,27 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "对方已中止交换。",
-          "strWidth": 256.0
+          "strWidth": 202.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "将结束交换。",
+          "strWidth": 192.0
         },
         {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "将结束交换。",
-          "strWidth": 192.0
+          "str": "교환을 종료합니다",
+          "strWidth": 266.65625
         }
       ]
     },
@@ -6086,12 +6198,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要结束宝可梦交换吗？",
+          "strWidth": 202.65625
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "要结束宝可梦交换吗？",
-          "strWidth": 320.0
+          "str": "종료하겠습니까?",
+          "strWidth": 241.78125
         }
       ]
     },
@@ -6121,7 +6241,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "由于对方的宝可梦有问题，",
-          "strWidth": 384.0
+          "strWidth": 447.96875
         },
         {
           "patternID": 7,
@@ -6129,7 +6249,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "因此无法交换。",
-          "strWidth": 224.0
+          "strWidth": 277.3125
         }
       ]
     },
@@ -6159,7 +6279,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "自己的宝可梦出现问题，",
-          "strWidth": 352.0
+          "strWidth": 447.96875
         },
         {
           "patternID": 7,
@@ -6167,7 +6287,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "因此无法进行交换。",
-          "strWidth": 288.0
+          "strWidth": 277.3125
         }
       ]
     },
@@ -6197,7 +6317,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请注意！",
-          "strWidth": 128.0
+          "strWidth": 72.90625
         },
         {
           "patternID": 7,
@@ -6205,7 +6325,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在进行宝可梦交换的过程中，",
-          "strWidth": 416.0
+          "strWidth": 202.65625
         },
         {
           "patternID": 7,
@@ -6213,7 +6333,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "若出现连线错误",
-          "strWidth": 224.0
+          "strWidth": 138.65625
         },
         {
           "patternID": 7,
@@ -6221,15 +6341,39 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "或主机电源关闭等情形，",
-          "strWidth": 352.0
+          "strWidth": 170.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "将暂时无法进行宝可梦交换。",
+          "strWidth": 277.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "통신이 종료되면",
+          "strWidth": 234.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "한동안 포켓몬 교환을",
+          "strWidth": 309.3125
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "将暂时无法进行宝可梦交换。",
-          "strWidth": 416.0
+          "str": "할 수 없습니다",
+          "strWidth": 213.3125
         }
       ]
     },
@@ -6259,7 +6403,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在写入纪录……",
-          "strWidth": 256.0
+          "strWidth": 405.3125
         },
         {
           "patternID": 0,
@@ -6267,7 +6411,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请勿关闭电源。",
-          "strWidth": 224.0
+          "strWidth": 458.625
         }
       ]
     },
@@ -6297,7 +6441,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在等待连线……",
-          "strWidth": 256.0
+          "strWidth": 181.3125
         },
         {
           "patternID": 0,
@@ -6305,7 +6449,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请稍候片刻。",
-          "strWidth": 192.0
+          "strWidth": 309.3125
         }
       ]
     },
@@ -6330,12 +6474,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要接收交换对象的联盟卡吗？",
+          "strWidth": 351.96875
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "要接收交换对象的联盟卡吗？",
-          "strWidth": 416.0
+          "str": "받겠습니까?",
+          "strWidth": 177.78125
         }
       ]
     },
@@ -6406,7 +6558,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要用",
-          "strWidth": 64.0
+          "strWidth": 106.65625
         },
         {
           "patternID": 5,
@@ -6417,22 +6569,6 @@
           "strWidth": -1.0
         },
         {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": 0.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "交换对方的",
-          "strWidth": 160.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 1,
@@ -6441,12 +6577,36 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "交换对方的",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 3,
+          "tagValue": 0.0,
+          "str": "吗？",
+          "strWidth": -1.0
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "吗？",
-          "strWidth": 64.0
+          "str": " 교환하겠습니까?",
+          "strWidth": 252.4375
         }
       ]
     },
@@ -6472,11 +6632,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "那颗蛋不能用来交换。",
-          "strWidth": 320.0
+          "strWidth": 213.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "내보낼 수 없습니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -6506,7 +6674,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "交换",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -6536,7 +6704,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "选择",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -6595,7 +6763,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         },
         {
           "patternID": 5,
@@ -6684,8 +6852,8 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Lv.",
-          "strWidth": 43.171875
+          "str": "Lv。",
+          "strWidth": 40.9375
         },
         {
           "patternID": 5,
@@ -6719,11 +6887,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "这只宝可梦不能用来交换。",
-          "strWidth": 384.0
+          "strWidth": 277.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "내보낼 수 없습니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -6749,11 +6925,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "没有可以用来交换的宝可梦。",
-          "strWidth": 416.0
+          "strWidth": 319.96875
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "포켓몬이 없습니다",
+          "strWidth": 266.65625
         }
       ]
     },
@@ -6779,11 +6963,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在这里蛋不能用来交换。",
-          "strWidth": 352.0
+          "strWidth": 202.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "교환에 내보낼 수 없습니다",
+          "strWidth": 383.96875
         }
       ]
     },
@@ -6813,7 +7005,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "登录在对战队伍的宝可梦",
-          "strWidth": 352.0
+          "strWidth": 277.3125
         },
         {
           "patternID": 7,
@@ -6821,7 +7013,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "不能用来交换。",
-          "strWidth": 224.0
+          "strWidth": 415.96875
         }
       ]
     },
@@ -6867,17 +7059,17 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
+          "patternID": 5,
           "eventID": 0,
-          "tagIndex": -1,
+          "tagIndex": 0,
           "tagValue": 0.0,
           "str": "要将",
-          "strWidth": 64.0
+          "strWidth": -1.0
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 0,
+          "tagIndex": 1,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -6896,7 +7088,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "加入黑名单吗？",
-          "strWidth": 224.0
+          "strWidth": 455.09375
         }
       ]
     },
@@ -6926,7 +7118,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "如果加入到黑名单，",
-          "strWidth": 288.0
+          "strWidth": 373.3125
         },
         {
           "patternID": 7,
@@ -6934,7 +7126,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "就无法再透过连线和对方一起玩。",
-          "strWidth": 480.0
+          "strWidth": 426.625
         },
         {
           "patternID": 0,
@@ -6942,7 +7134,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "确定要继续吗？",
-          "strWidth": 224.0
+          "strWidth": 284.4375
         }
       ]
     },
@@ -6972,7 +7164,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "已登录到黑名单。",
-          "strWidth": 256.0
+          "strWidth": 405.3125
         },
         {
           "patternID": 7,
@@ -6980,7 +7172,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "将结束交换。",
-          "strWidth": 192.0
+          "strWidth": 266.65625
         }
       ]
     },
@@ -7006,11 +7198,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "该玩家已在黑名单里。",
-          "strWidth": 320.0
+          "strWidth": 277.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "추가된 사람입니다",
+          "strWidth": 266.65625
         }
       ]
     },
@@ -7070,7 +7270,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "查看对方的能力",
-          "strWidth": 224.0
+          "strWidth": 309.3125
         }
       ]
     },
@@ -7116,17 +7316,17 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
+          "patternID": 5,
           "eventID": 0,
-          "tagIndex": -1,
+          "tagIndex": 0,
           "tagValue": 0.0,
           "str": "要对",
-          "strWidth": 64.0
+          "strWidth": -1.0
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 0,
+          "tagIndex": 1,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -7137,7 +7337,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "做什么？",
-          "strWidth": 128.0
+          "strWidth": 295.09375
         }
       ]
     },
@@ -7219,7 +7419,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "交换对象",
-          "strWidth": 128.0
+          "strWidth": 138.65625
         },
         {
           "patternID": 5,
@@ -7257,7 +7457,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "球壳上有装饰的宝可梦",
-          "strWidth": 320.0
+          "strWidth": 501.3125
         },
         {
           "patternID": 7,
@@ -7265,7 +7465,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "不能用来交换。",
-          "strWidth": 224.0
+          "strWidth": 383.96875
         }
       ]
     },
@@ -7295,7 +7495,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "这样就没有可战斗的宝可梦了！",
-          "strWidth": 448.0
+          "strWidth": 382.21875
         }
       ]
     },
@@ -7325,7 +7525,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法选择蛋。",
-          "strWidth": 192.0
+          "strWidth": 351.96875
         }
       ]
     },
@@ -7351,11 +7551,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法选择对战队伍里的宝可梦。",
-          "strWidth": 448.0
+          "strWidth": 415.96875
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "선택할 수 없습니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -7429,19 +7637,35 @@
           "strWidth": -1.0
         },
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "携带著",
-          "strWidth": 96.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 1,
           "tagValue": 0.0,
+          "str": "携带著",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
           "str": "",
+          "strWidth": 10.65625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "。",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 3,
+          "tagValue": 0.0,
+          "str": "确定要交换吗？",
           "strWidth": -1.0
         },
         {
@@ -7449,16 +7673,16 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "。",
-          "strWidth": 32.0
+          "str": "",
+          "strWidth": 0.0
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "确定要交换吗？",
-          "strWidth": 224.0
+          "str": "지니고 있습니다만 교환하겠습니까?",
+          "strWidth": 519.09375
         }
       ]
     },
@@ -7484,11 +7708,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法选择同行宝可梦。",
-          "strWidth": 320.0
+          "strWidth": 202.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "선택할 수 없습니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -7514,11 +7746,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法再选择更多。",
-          "strWidth": 256.0
+          "strWidth": 106.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "선택할 수 없습니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -7544,11 +7784,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法选择濒死的宝可梦。",
-          "strWidth": 352.0
+          "strWidth": 234.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "선택할 수 없습니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -7578,7 +7826,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "蛋无法登录到队伍。",
-          "strWidth": 288.0
+          "strWidth": 351.96875
         }
       ]
     },
@@ -7608,7 +7856,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "这是特殊的宝可梦，",
-          "strWidth": 288.0
+          "strWidth": 298.65625
         },
         {
           "patternID": 7,
@@ -7616,7 +7864,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法用来进行奇迹交换！",
-          "strWidth": 352.0
+          "strWidth": 499.53125
         }
       ]
     },
@@ -7646,7 +7894,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "返回",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -7676,7 +7924,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "切换操作",
-          "strWidth": 128.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -7706,7 +7954,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "切换模式",
-          "strWidth": 128.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -7736,7 +7984,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "能力",
-          "strWidth": 64.0
+          "strWidth": 160.0
         }
       ]
     },
@@ -7766,7 +8014,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "搜寻",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -7826,7 +8074,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "全选",
-          "strWidth": 64.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -7916,7 +8164,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "还算可以的能力",
-          "strWidth": 224.0
+          "strWidth": 234.65625
         }
       ]
     },
@@ -7946,7 +8194,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "中等偏上的能力",
-          "strWidth": 224.0
+          "strWidth": 245.3125
         }
       ]
     },
@@ -7976,7 +8224,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "相当优秀的能力",
-          "strWidth": 224.0
+          "strWidth": 277.3125
         }
       ]
     },
@@ -8006,7 +8254,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "了不起的能力！",
-          "strWidth": 224.0
+          "strWidth": 179.5625
         }
       ]
     },
@@ -8036,7 +8284,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "不怎么样",
-          "strWidth": 128.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -8096,7 +8344,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "相当好",
-          "strWidth": 96.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -8126,7 +8374,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "非常好",
-          "strWidth": 96.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -8156,7 +8404,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "了不起",
-          "strWidth": 96.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -8186,7 +8434,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "太完美了！",
-          "strWidth": 160.0
+          "strWidth": 72.90625
         }
       ]
     },
@@ -8216,7 +8464,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "完成锻炼了！",
-          "strWidth": 192.0
+          "strWidth": 168.90625
         }
       ]
     },
@@ -8272,11 +8520,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "对方已中止交换。",
-          "strWidth": 256.0
+          "strWidth": 202.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "중지했습니다",
+          "strWidth": 192.0
         }
       ]
     },
@@ -8302,11 +8558,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法选择这只宝可梦。",
-          "strWidth": 320.0
+          "strWidth": 170.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "선택할 수 없습니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -8331,12 +8595,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#ff0000ff>0/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "0/31",
+          "strWidth": 79.375
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -8361,12 +8641,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#ff0000ff>1/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "1/31",
+          "strWidth": 79.375
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -8391,12 +8687,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#ff0000ff>2/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "2/31",
+          "strWidth": 79.375
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -8421,12 +8733,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#ff0000ff>3/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "3/31",
+          "strWidth": 79.375
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -8451,12 +8779,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#ff0000ff>4/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "4/31",
+          "strWidth": 79.375
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -8481,12 +8825,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#ff0000ff>5/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "5/31",
+          "strWidth": 79.375
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -8511,12 +8871,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#ffa500ff>6/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "6/31",
+          "strWidth": 79.375
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -8541,12 +8917,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#ffa500ff>7/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "7/31",
+          "strWidth": 79.375
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -8571,12 +8963,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#ffa500ff>8/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "8/31",
+          "strWidth": 79.375
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -8601,12 +9009,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#ffa500ff>9/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "9/31",
+          "strWidth": 79.375
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -8631,12 +9055,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#ffa500ff>10/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "10/31",
+          "strWidth": 100.5
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -8661,12 +9101,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#ffa500ff>11/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "11/31",
+          "strWidth": 100.5
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -8691,12 +9147,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#ffff00ff>12/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "12/31",
+          "strWidth": 100.5
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -8721,12 +9193,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#ffff00ff>13/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "13/31",
+          "strWidth": 100.5
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -8751,12 +9239,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#ffff00ff>14/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "14/31",
+          "strWidth": 100.5
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -8781,12 +9285,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#ffff00ff>15/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "15/31",
+          "strWidth": 100.5
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -8811,12 +9331,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#ffff00ff>16/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "16/31",
+          "strWidth": 100.5
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -8841,12 +9377,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#ffff00ff>17/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "17/31",
+          "strWidth": 100.5
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -8871,12 +9423,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#0000ffff>18/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "18/31",
+          "strWidth": 100.5
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -8901,12 +9469,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#0000ffff>19/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "19/31",
+          "strWidth": 100.5
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -8931,12 +9515,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#0000ffff>20/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "20/31",
+          "strWidth": 100.5
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -8961,12 +9561,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#0000ffff>21/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "21/31",
+          "strWidth": 100.5
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -8991,12 +9607,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#0000ffff>22/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "22/31",
+          "strWidth": 100.5
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -9021,12 +9653,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#0000ffff>23/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "23/31",
+          "strWidth": 100.5
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -9051,12 +9699,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#800080ff>24/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "24/31",
+          "strWidth": 100.5
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -9081,12 +9745,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#800080ff>25/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "25/31",
+          "strWidth": 100.5
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -9111,12 +9791,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#800080ff>26/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "26/31",
+          "strWidth": 100.5
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -9141,12 +9837,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#800080ff>27/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "27/31",
+          "strWidth": 100.5
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -9171,12 +9883,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#800080ff>28/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "28/31",
+          "strWidth": 100.5
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -9201,12 +9929,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#800080ff>29/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "29/31",
+          "strWidth": 100.5
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -9231,12 +9975,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#800080ff>30/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "30/31",
+          "strWidth": 100.5
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     },
@@ -9261,12 +10021,28 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 7,
+          "patternID": 2,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "<color=#800080ff>31/31</color>",
-          "strWidth": 404.234375
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "31/31",
+          "strWidth": 100.5
+        },
+        {
+          "patternID": 2,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "</color>",
+          "strWidth": -1.0
         }
       ]
     }

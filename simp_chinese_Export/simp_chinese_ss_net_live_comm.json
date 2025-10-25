@@ -81,7 +81,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "交换完毕！",
-          "strWidth": 160.0
+          "strWidth": 147.5625
         }
       ]
     },
@@ -171,7 +171,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "个人资讯",
-          "strWidth": 128.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -463,7 +463,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "退出",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -493,7 +493,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "网路连线",
-          "strWidth": 128.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -549,27 +549,35 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在搜寻可连线的对象！",
-          "strWidth": 352.0
+          "strWidth": 319.96875
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "当正在进行连线时，",
+          "strWidth": 211.5625
         },
         {
           "patternID": 7,
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "当正在进行连线时，",
-          "strWidth": 288.0
+          "str": "将无法同时开始其他连线。",
+          "strWidth": 426.625
         },
         {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "将无法同时开始其他连线。",
-          "strWidth": 384.0
+          "str": "다른 통신을 시작할 수 없습니다",
+          "strWidth": 458.625
         }
       ]
     },
@@ -594,12 +602,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "确定要取消现在的连线吗？",
+          "strWidth": 319.96875
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "确定要取消现在的连线吗？",
-          "strWidth": 384.0
+          "str": "취소해도 괜찮겠습니까?",
+          "strWidth": 348.4375
         }
       ]
     },
@@ -659,7 +675,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "否",
-          "strWidth": 32.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -689,7 +705,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "即将接收所需的资讯",
-          "strWidth": 288.0
+          "strWidth": 341.3125
         },
         {
           "patternID": 7,
@@ -697,7 +713,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "以进行网路连线。",
-          "strWidth": 256.0
+          "strWidth": 341.3125
         },
         {
           "patternID": 0,
@@ -705,7 +721,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要连线到网路吗？",
-          "strWidth": 256.0
+          "strWidth": 455.09375
         }
       ]
     },
@@ -735,7 +751,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在连线……",
-          "strWidth": 192.0
+          "strWidth": 266.65625
         },
         {
           "patternID": 0,
@@ -743,7 +759,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请稍候片刻。",
-          "strWidth": 192.0
+          "strWidth": 309.3125
         }
       ]
     },
@@ -773,15 +789,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "已接收连线到网路",
-          "strWidth": 256.0
+          "strWidth": 202.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "所需的资讯。",
+          "strWidth": 202.65625
         },
         {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "所需的资讯。",
-          "strWidth": 192.0
+          "str": "받았습니다",
+          "strWidth": 160.0
         }
       ]
     },
@@ -807,11 +831,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "已切换到网路连线。",
-          "strWidth": 288.0
+          "strWidth": 160.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "전환했습니다",
+          "strWidth": 192.0
         }
       ]
     },
@@ -841,7 +873,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "即将关闭网路连线。",
-          "strWidth": 288.0
+          "strWidth": 373.3125
         },
         {
           "patternID": 0,
@@ -849,7 +881,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "确定要继续吗？",
-          "strWidth": 224.0
+          "strWidth": 209.78125
         }
       ]
     },
@@ -875,11 +907,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "已切换到邻近主机通讯。",
-          "strWidth": 352.0
+          "strWidth": 202.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "전환했습니다",
+          "strWidth": 192.0
         }
       ]
     },
@@ -909,7 +949,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在关闭连线……",
-          "strWidth": 256.0
+          "strWidth": 373.3125
         },
         {
           "patternID": 0,
@@ -917,7 +957,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请稍候片刻。",
-          "strWidth": 192.0
+          "strWidth": 309.3125
         }
       ]
     },
@@ -947,7 +987,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "参加",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -977,7 +1017,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "退出",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1157,7 +1197,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "退出",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1187,7 +1227,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "复原",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1217,7 +1257,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在写入纪录……",
-          "strWidth": 256.0
+          "strWidth": 405.3125
         },
         {
           "patternID": 0,
@@ -1225,7 +1265,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请稍候片刻。",
-          "strWidth": 192.0
+          "strWidth": 309.3125
         }
       ]
     },
@@ -1255,31 +1295,47 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "即将接收所需的资讯",
-          "strWidth": 288.0
+          "strWidth": 341.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "以进行网路连线。",
+          "strWidth": 202.65625
         },
         {
           "patternID": 7,
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "以进行网路连线。",
-          "strWidth": 256.0
+          "str": "接收资讯后将写入纪录。",
+          "strWidth": 128.0
         },
         {
           "patternID": 7,
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "接收资讯后将写入纪录。",
-          "strWidth": 352.0
+          "str": "确定要继续吗？",
+          "strWidth": 351.96875
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "작성하게 됩니다",
+          "strWidth": 234.65625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "确定要继续吗？",
-          "strWidth": 224.0
+          "str": "괜찮겠습니까?",
+          "strWidth": 209.78125
         }
       ]
     },
@@ -1309,7 +1365,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "开始",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1339,7 +1395,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "退出",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1429,7 +1485,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "密码",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1495,12 +1551,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "请选择要以哪种规则对战。",
+          "strWidth": 277.3125
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "请选择要以哪种规则对战。",
-          "strWidth": 384.0
+          "str": "선택해 주십시오",
+          "strWidth": 234.65625
         }
       ]
     },
@@ -1530,7 +1594,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "密码",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1590,7 +1654,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "返回",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1650,7 +1714,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "由２位玩家参加。",
-          "strWidth": 256.0
+          "strWidth": 287.78125
         },
         {
           "patternID": 7,
@@ -1658,15 +1722,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "双方各派出１只宝可梦",
-          "strWidth": 320.0
+          "strWidth": 202.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "上场进行对战。",
+          "strWidth": 255.78125
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "上场进行对战。",
-          "strWidth": 224.0
+          "str": "대전하는 룰입니다",
+          "strWidth": 266.65625
         }
       ]
     },
@@ -1696,7 +1768,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "由２位玩家参加。",
-          "strWidth": 256.0
+          "strWidth": 287.78125
         },
         {
           "patternID": 7,
@@ -1704,15 +1776,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "双方同时派出２只宝可梦",
-          "strWidth": 352.0
+          "strWidth": 319.96875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "上场进行对战。",
+          "strWidth": 255.78125
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "上场进行对战。",
-          "strWidth": 224.0
+          "str": "대전하는 룰입니다",
+          "strWidth": 266.65625
         }
       ]
     },
@@ -1742,7 +1822,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "由４位玩家参加。",
-          "strWidth": 256.0
+          "strWidth": 287.78125
         },
         {
           "patternID": 7,
@@ -1750,7 +1830,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "２人一组，",
-          "strWidth": 160.0
+          "strWidth": 266.4375
         },
         {
           "patternID": 7,
@@ -1758,7 +1838,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "每人各自派出宝可梦",
-          "strWidth": 288.0
+          "strWidth": 341.3125
         },
         {
           "patternID": 0,
@@ -1766,7 +1846,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "上场进行对战。",
-          "strWidth": 224.0
+          "strWidth": 266.65625
         }
       ]
     },
@@ -1796,7 +1876,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请选择您的头像。",
-          "strWidth": 256.0
+          "strWidth": 479.96875
         }
       ]
     },
@@ -1856,7 +1936,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "返回",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1892,19 +1972,11 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "我正在和",
-          "strWidth": 128.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "我正在和",
           "strWidth": -1.0
         },
         {
@@ -1912,16 +1984,16 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "进行交换！",
-          "strWidth": 160.0
+          "str": "",
+          "strWidth": 64.0
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "好开心啊～！",
-          "strWidth": 192.0
+          "str": "进行交换！",
+          "strWidth": 319.40625
         }
       ]
     },
@@ -1951,7 +2023,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "由于软体版本太旧，",
-          "strWidth": 288.0
+          "strWidth": 437.3125
         },
         {
           "patternID": 7,
@@ -1959,7 +2031,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "因此无法进行连线。",
-          "strWidth": 288.0
+          "strWidth": 426.625
         },
         {
           "patternID": 7,
@@ -1967,7 +2039,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要使用连线功能，",
-          "strWidth": 256.0
+          "strWidth": 309.3125
         },
         {
           "patternID": 7,
@@ -1975,15 +2047,31 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "必须先将软体更新至最新版本。",
-          "strWidth": 448.0
+          "strWidth": 298.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "详情请浏览官方网站。",
+          "strWidth": 511.96875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "자세한 내용은 공식 사이트를",
+          "strWidth": 415.96875
         },
         {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "详情请浏览官方网站。",
-          "strWidth": 320.0
+          "str": "확인해 주십시오",
+          "strWidth": 234.65625
         }
       ]
     },
@@ -2013,7 +2101,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "我正在进行单打对战！",
-          "strWidth": 320.0
+          "strWidth": 488.875
         },
         {
           "patternID": 0,
@@ -2021,7 +2109,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "我不会输的～！",
-          "strWidth": 224.0
+          "strWidth": 246.5
         }
       ]
     },
@@ -2051,7 +2139,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "我正在进行双打对战！",
-          "strWidth": 320.0
+          "strWidth": 488.875
         },
         {
           "patternID": 0,
@@ -2059,7 +2147,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "我不会输的～！",
-          "strWidth": 224.0
+          "strWidth": 246.5
         }
       ]
     },
@@ -2100,7 +2188,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在单打对战中打败了",
-          "strWidth": 288.0
+          "strWidth": 202.65625
         },
         {
           "patternID": 5,
@@ -2116,7 +2204,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "！",
-          "strWidth": 32.0
+          "strWidth": 64.0
         },
         {
           "patternID": 0,
@@ -2124,7 +2212,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "太好了！",
-          "strWidth": 128.0
+          "strWidth": 244.75
         }
       ]
     },
@@ -2165,7 +2253,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在双打对战中打败了",
-          "strWidth": 288.0
+          "strWidth": 202.65625
         },
         {
           "patternID": 5,
@@ -2181,7 +2269,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "！",
-          "strWidth": 32.0
+          "strWidth": 64.0
         },
         {
           "patternID": 0,
@@ -2189,7 +2277,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "太好了！",
-          "strWidth": 128.0
+          "strWidth": 244.75
         }
       ]
     },
@@ -2235,12 +2323,12 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
+          "patternID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "和朋友合力打倒了",
-          "strWidth": 256.0
+          "strWidth": 287.96875
         },
         {
           "patternID": 5,
@@ -2251,12 +2339,20 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "！",
+          "strWidth": -1.0
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "！",
-          "strWidth": 32.0
+          "str": " 쓰러뜨렸다!",
+          "strWidth": 179.5625
         }
       ]
     },
@@ -2302,12 +2398,12 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
+          "patternID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "和朋友合力捉到了",
-          "strWidth": 256.0
+          "strWidth": 287.96875
         },
         {
           "patternID": 5,
@@ -2318,12 +2414,20 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "！",
+          "strWidth": -1.0
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "！",
-          "strWidth": 32.0
+          "str": " 잡았다!",
+          "strWidth": 115.5625
         }
       ]
     },
@@ -2353,7 +2457,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "交换使世界更广阔！",
-          "strWidth": 288.0
+          "strWidth": 456.875
         },
         {
           "patternID": 0,
@@ -2361,7 +2465,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "一起来试试看如何？",
-          "strWidth": 288.0
+          "strWidth": 476.40625
         }
       ]
     },
@@ -2391,7 +2495,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "单打对战紧张激烈！",
-          "strWidth": 288.0
+          "strWidth": 371.5625
         },
         {
           "patternID": 0,
@@ -2399,7 +2503,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "一起来对战吧！",
-          "strWidth": 224.0
+          "strWidth": 318.21875
         }
       ]
     },
@@ -2429,7 +2533,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "双打对战是头脑对决！",
-          "strWidth": 320.0
+          "strWidth": 435.5625
         },
         {
           "patternID": 0,
@@ -2437,7 +2541,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "一起来对战吧！",
-          "strWidth": 224.0
+          "strWidth": 318.21875
         }
       ]
     },
@@ -2483,17 +2587,17 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
+          "patternID": 5,
           "eventID": 0,
-          "tagIndex": -1,
+          "tagIndex": 0,
           "tagValue": 0.0,
           "str": "捉到了",
-          "strWidth": 96.0
+          "strWidth": -1.0
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 0,
+          "tagIndex": 1,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -2504,7 +2608,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "！",
-          "strWidth": 32.0
+          "strWidth": 115.5625
         }
       ]
     },
@@ -2558,20 +2662,28 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
           "patternID": 7,
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "",
-          "strWidth": 0.0
+          "str": "进化成新的样子了！",
+          "strWidth": 138.65625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "进化成新的样子了！",
-          "strWidth": 288.0
+          "str": "새로운 모습이 되었다!",
+          "strWidth": 318.21875
         }
       ]
     },
@@ -2601,7 +2713,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在搜寻……",
-          "strWidth": 192.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -2631,7 +2743,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在搜寻可连线的对象！",
-          "strWidth": 352.0
+          "strWidth": 467.53125
         },
         {
           "patternID": 7,
@@ -2639,7 +2751,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "可透过选择连线项目",
-          "strWidth": 288.0
+          "strWidth": 341.3125
         },
         {
           "patternID": 7,
@@ -2647,7 +2759,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "来取消搜寻。",
-          "strWidth": 192.0
+          "strWidth": 383.96875
         }
       ]
     },
@@ -2677,7 +2789,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在搜寻可连线的对象！",
-          "strWidth": 352.0
+          "strWidth": 467.53125
         },
         {
           "patternID": 7,
@@ -2685,7 +2797,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "可透过选择连线项目",
-          "strWidth": 288.0
+          "strWidth": 341.3125
         },
         {
           "patternID": 7,
@@ -2693,7 +2805,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "来取消搜寻。",
-          "strWidth": 192.0
+          "strWidth": 383.96875
         }
       ]
     },
@@ -2723,7 +2835,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "黑名单",
-          "strWidth": 96.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -2753,7 +2865,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "已取消连线。",
-          "strWidth": 192.0
+          "strWidth": 298.65625
         }
       ]
     },
@@ -2783,7 +2895,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "由于已开启飞航模式，",
-          "strWidth": 320.0
+          "strWidth": 277.3125
         },
         {
           "patternID": 7,
@@ -2791,15 +2903,31 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "因此无法进行连线。",
-          "strWidth": 288.0
+          "strWidth": 269.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "请在关闭飞航模式后再试一次。",
+          "strWidth": 277.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "비행기 모드를 OFF로 전환한 뒤",
+          "strWidth": 462.78125
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "请在关闭飞航模式后再试一次。",
-          "strWidth": 448.0
+          "str": "다시 한번 시도해 주십시오",
+          "strWidth": 383.96875
         }
       ]
     },
@@ -2844,7 +2972,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要开始交换吗？",
-          "strWidth": 224.0
+          "strWidth": 348.4375
         }
       ]
     },
@@ -2874,7 +3002,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "设定密码",
-          "strWidth": 128.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -2904,7 +3032,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "开始",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -2945,7 +3073,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "密码是",
-          "strWidth": 96.0
+          "strWidth": 170.65625
         },
         {
           "patternID": 5,
@@ -2961,7 +3089,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "。",
-          "strWidth": 32.0
+          "strWidth": 96.0
         },
         {
           "patternID": 0,
@@ -2969,7 +3097,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "确定要开始连线吗？",
-          "strWidth": 288.0
+          "strWidth": 241.78125
         }
       ]
     },
@@ -3015,17 +3143,17 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
+          "patternID": 5,
           "eventID": 0,
-          "tagIndex": -1,
+          "tagIndex": 0,
           "tagValue": 0.0,
           "str": "要将",
-          "strWidth": 64.0
+          "strWidth": -1.0
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 0,
+          "tagIndex": 1,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -3044,7 +3172,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "加入黑名单吗？",
-          "strWidth": 224.0
+          "strWidth": 455.09375
         }
       ]
     },
@@ -3074,7 +3202,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "如果加入到黑名单，",
-          "strWidth": 288.0
+          "strWidth": 373.3125
         },
         {
           "patternID": 7,
@@ -3082,7 +3210,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "就无法再透过连线和对方一起玩。",
-          "strWidth": 480.0
+          "strWidth": 426.625
         },
         {
           "patternID": 0,
@@ -3090,7 +3218,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "确定要继续吗？",
-          "strWidth": 224.0
+          "strWidth": 284.4375
         }
       ]
     },
@@ -3136,17 +3264,17 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
+          "patternID": 5,
           "eventID": 0,
-          "tagIndex": -1,
+          "tagIndex": 0,
           "tagValue": 0.0,
           "str": "已将",
-          "strWidth": 64.0
+          "strWidth": -1.0
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 0,
+          "tagIndex": 1,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -3165,7 +3293,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "加入黑名单。",
-          "strWidth": 192.0
+          "strWidth": 405.3125
         },
         {
           "patternID": 7,
@@ -3173,15 +3301,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "黑名单可于ＹＹ通讯的",
-          "strWidth": 320.0
+          "strWidth": 351.375
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "「个人资讯」中查看。",
+          "strWidth": 186.75
         },
         {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "「个人资讯」中查看。",
-          "strWidth": 298.25
+          "str": "확인할 수 있습니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -3241,7 +3377,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "否",
-          "strWidth": 32.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -3271,7 +3407,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "邻近主机通讯",
-          "strWidth": 192.0
+          "strWidth": 64.0
         }
       ]
     },
@@ -3301,7 +3437,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "退出",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -3327,11 +3463,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "该玩家已在黑名单里。",
-          "strWidth": 320.0
+          "strWidth": 277.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "추가된 사람입니다",
+          "strWidth": 266.65625
         }
       ]
     },
@@ -3357,11 +3501,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法把自己加入黑名单。",
-          "strWidth": 352.0
+          "strWidth": 309.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "추가할 수 없습니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -3391,7 +3543,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "设定密码后，",
-          "strWidth": 192.0
+          "strWidth": 298.65625
         },
         {
           "patternID": 7,
@@ -3399,7 +3551,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "只能和设定了相同密码的",
-          "strWidth": 352.0
+          "strWidth": 341.3125
         },
         {
           "patternID": 7,
@@ -3407,7 +3559,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "玩家进行连线。",
-          "strWidth": 224.0
+          "strWidth": 447.96875
         }
       ]
     },
@@ -3437,7 +3589,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "由于上次进行连线交换时，",
-          "strWidth": 384.0
+          "strWidth": 202.65625
         },
         {
           "patternID": 7,
@@ -3445,7 +3597,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "因连线错误或关闭电源等原因",
-          "strWidth": 416.0
+          "strWidth": 192.0
         },
         {
           "patternID": 7,
@@ -3453,39 +3605,63 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "导致中途结束，",
-          "strWidth": 224.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 3,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "因此无法进行连线交换。",
-          "strWidth": 352.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "请不要更改Nintendo Switch",
-          "strWidth": 399.734375
+          "strWidth": 170.65625
         },
         {
           "patternID": 7,
           "eventID": 4,
           "tagIndex": -1,
           "tagValue": 0.0,
+          "str": "因此无法进行连线交换。",
+          "strWidth": 415.96875
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "请不要更改Nintendo Switch",
+          "strWidth": 330.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
           "str": "主机的时间设定，",
-          "strWidth": 256.0
+          "strWidth": 490.625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "过一段时间后再试一次。",
+          "strWidth": 371.78125
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "시간을 변경하지 말고",
+          "strWidth": 309.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "잠시 시간을 두고",
+          "strWidth": 245.3125
         },
         {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "过一段时间后再试一次。",
-          "strWidth": 352.0
+          "str": "다시 시도해 주십시오",
+          "strWidth": 309.3125
         }
       ]
     },
@@ -3515,23 +3691,39 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "盒子里没有宝可梦，",
-          "strWidth": 288.0
+          "strWidth": 96.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "无法进行交换。",
+          "strWidth": 234.65625
         },
         {
           "patternID": 7,
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "无法进行交换。",
-          "strWidth": 224.0
+          "str": "请先收集宝可梦后再试。",
+          "strWidth": 277.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "포켓몬을 모은 후에",
+          "strWidth": 277.3125
         },
         {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "请先收集宝可梦后再试。",
-          "strWidth": 352.0
+          "str": "다시 시작해 주십시오",
+          "strWidth": 309.3125
         }
       ]
     },
@@ -3561,23 +3753,39 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "宝可梦未满２只，",
-          "strWidth": 256.0
+          "strWidth": 128.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "无法进行交换。",
+          "strWidth": 415.75
         },
         {
           "patternID": 7,
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "无法进行交换。",
-          "strWidth": 224.0
+          "str": "请先收集宝可梦后再试。",
+          "strWidth": 277.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "포켓몬을 모은 후에",
+          "strWidth": 277.3125
         },
         {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "请先收集宝可梦后再试。",
-          "strWidth": 352.0
+          "str": "다시 시작해 주십시오",
+          "strWidth": 309.3125
         }
       ]
     },
@@ -3607,23 +3815,39 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "宝可梦未满２只，",
-          "strWidth": 256.0
+          "strWidth": 128.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "无法进行双打对战。",
+          "strWidth": 415.75
         },
         {
           "patternID": 7,
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "无法进行双打对战。",
-          "strWidth": 288.0
+          "str": "请先收集宝可梦后再试。",
+          "strWidth": 383.96875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "포켓몬을 모은 후에",
+          "strWidth": 277.3125
         },
         {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "请先收集宝可梦后再试。",
-          "strWidth": 352.0
+          "str": "다시 시작해 주십시오",
+          "strWidth": 309.3125
         }
       ]
     },
@@ -3653,7 +3877,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在连线……",
-          "strWidth": 192.0
+          "strWidth": 266.65625
         },
         {
           "patternID": 0,
@@ -3661,7 +3885,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请稍候片刻。",
-          "strWidth": 192.0
+          "strWidth": 309.3125
         }
       ]
     },
@@ -3687,11 +3911,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "选择的宝可梦有问题。",
-          "strWidth": 320.0
+          "strWidth": 234.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "문제가 있습니다",
+          "strWidth": 234.65625
         }
       ]
     },
@@ -3721,7 +3953,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "连线失败。",
-          "strWidth": 160.0
+          "strWidth": 298.65625
         }
       ]
     },
@@ -3751,7 +3983,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "网路连线",
-          "strWidth": 128.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -3781,7 +4013,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "邻近主机通讯",
-          "strWidth": 192.0
+          "strWidth": 64.0
         }
       ]
     }

@@ -46,36 +46,28 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "要使用飞翔",
-          "strWidth": 160.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "移动到",
-          "strWidth": 96.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "要使用飞翔",
           "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "移动到",
+          "strWidth": 64.0
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "吗？",
-          "strWidth": 64.0
+          "str": "",
+          "strWidth": 412.4375
         }
       ]
     },
@@ -105,7 +97,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "绿叶茂盛，",
-          "strWidth": 160.0
+          "strWidth": 447.96875
         },
         {
           "patternID": 0,
@@ -113,7 +105,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "树香芬芳的林间小径。",
-          "strWidth": 320.0
+          "strWidth": 518.46875
         }
       ]
     },
@@ -143,7 +135,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "蜿蜒路途中的草丛里，",
-          "strWidth": 320.0
+          "strWidth": 479.96875
         },
         {
           "patternID": 0,
@@ -151,7 +143,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "有年轻的训练家在互相切磋。",
-          "strWidth": 416.0
+          "strWidth": 488.5625
         }
       ]
     },
@@ -181,7 +173,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "紧邻著大城市，",
-          "strWidth": 224.0
+          "strWidth": 351.96875
         },
         {
           "patternID": 0,
@@ -189,7 +181,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "但仍保有自然风貌的道路。",
-          "strWidth": 384.0
+          "strWidth": 477.875
         }
       ]
     },
@@ -219,7 +211,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "穿过洞窟之后，",
-          "strWidth": 224.0
+          "strWidth": 266.65625
         },
         {
           "patternID": 0,
@@ -227,7 +219,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "黑金市就在前方不远处。",
-          "strWidth": 352.0
+          "strWidth": 317.90625
         }
       ]
     },
@@ -257,7 +249,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "沿途座落著数片池塘与树林，",
-          "strWidth": 416.0
+          "strWidth": 458.625
         },
         {
           "patternID": 0,
@@ -265,7 +257,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "充满自然魅力的道路。",
-          "strWidth": 320.0
+          "strWidth": 360.5625
         }
       ]
     },
@@ -295,7 +287,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "穿过开凿高台所建造的",
-          "strWidth": 320.0
+          "strWidth": 351.96875
         },
         {
           "patternID": 7,
@@ -303,7 +295,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "荒芜小道之后，",
-          "strWidth": 224.0
+          "strWidth": 277.3125
         },
         {
           "patternID": 0,
@@ -311,7 +303,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "很快就能抵达花苑镇。",
-          "strWidth": 320.0
+          "strWidth": 435.25
         }
       ]
     },
@@ -341,15 +333,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "广大的池面上横跨著宽敞的桥梁。",
-          "strWidth": 480.0
+          "strWidth": 501.28125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "桥上可见钓鱼者们悠闲地垂钓。",
+          "strWidth": 373.3125
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "桥上可见钓鱼者们悠闲地垂钓。",
-          "strWidth": 448.0
+          "str": "평화롭게 낚싯줄을 드리운다.",
+          "strWidth": 413.90625
         }
       ]
     },
@@ -379,7 +379,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "由静静流过的河川与",
-          "strWidth": 288.0
+          "strWidth": 277.3125
         },
         {
           "patternID": 7,
@@ -387,7 +387,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "起伏错落的地势，",
-          "strWidth": 256.0
+          "strWidth": 383.96875
         },
         {
           "patternID": 0,
@@ -395,7 +395,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "营造出冒险乐趣的道路。",
-          "strWidth": 352.0
+          "strWidth": 392.5625
         }
       ]
     },
@@ -425,7 +425,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "百代森林的入口旁有一间",
-          "strWidth": 352.0
+          "strWidth": 319.96875
         },
         {
           "patternID": 0,
@@ -433,7 +433,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "供旅客消除疲惫的小屋。",
-          "strWidth": 352.0
+          "strWidth": 403.21875
         }
       ]
     },
@@ -463,15 +463,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "以柏油铺设的自行车道",
-          "strWidth": 320.0
+          "strWidth": 266.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "是自行车爱好者的天堂。",
+          "strWidth": 234.65625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "是自行车爱好者的天堂。",
-          "strWidth": 352.0
+          "str": "자전거를 사랑하는 이들의 천국.",
+          "strWidth": 456.5625
         }
       ]
     },
@@ -501,7 +509,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在自行车道的底下",
-          "strWidth": 256.0
+          "strWidth": 309.3125
         },
         {
           "patternID": 0,
@@ -509,7 +517,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "能看见迷幻洞窟的入口。",
-          "strWidth": 352.0
+          "strWidth": 392.5625
         }
       ]
     },
@@ -539,7 +547,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "位于天冠山的山脚，",
-          "strWidth": 288.0
+          "strWidth": 511.96875
         },
         {
           "patternID": 0,
@@ -547,7 +555,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "由粗糙的岩床构成的崎岖道路。",
-          "strWidth": 448.0
+          "strWidth": 253.90625
         }
       ]
     },
@@ -577,7 +585,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "一边是天冠山的陡峭山壁，",
-          "strWidth": 384.0
+          "strWidth": 479.96875
         },
         {
           "patternID": 7,
@@ -585,7 +593,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "一边是欣欣向荣的草丛，",
-          "strWidth": 352.0
+          "strWidth": 479.96875
         },
         {
           "patternID": 0,
@@ -593,7 +601,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "两侧景色对比鲜明的道路。",
-          "strWidth": 384.0
+          "strWidth": 253.90625
         }
       ]
     },
@@ -623,7 +631,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "热爱大自然、宝可梦及树果的",
-          "strWidth": 416.0
+          "strWidth": 543.96875
         },
         {
           "patternID": 0,
@@ -631,7 +639,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "树果爷爷就住在这里。",
-          "strWidth": 320.0
+          "strWidth": 531.21875
         }
       ]
     },
@@ -661,7 +669,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "从杂木林与草丛之间",
-          "strWidth": 288.0
+          "strWidth": 309.3125
         },
         {
           "patternID": 7,
@@ -669,7 +677,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "蜿蜒流过的小河，",
-          "strWidth": 256.0
+          "strWidth": 341.3125
         },
         {
           "patternID": 0,
@@ -677,7 +685,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "带来心灵上的平静。",
-          "strWidth": 288.0
+          "strWidth": 392.5625
         }
       ]
     },
@@ -707,7 +715,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "迷失塔是宝可梦在生命走到尽头后，",
-          "strWidth": 512.0
+          "strWidth": 373.3125
         },
         {
           "patternID": 0,
@@ -715,7 +723,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "其灵魂长眠之处。",
-          "strWidth": 256.0
+          "strWidth": 467.21875
         }
       ]
     },
@@ -745,15 +753,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "大自然在山间开辟而成的溪谷内，",
-          "strWidth": 480.0
+          "strWidth": 373.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "时时刻刻笼罩著浓雾。",
+          "strWidth": 266.65625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "时时刻刻笼罩著浓雾。",
-          "strWidth": 320.0
+          "str": "언제나 깊은 안개가 자욱하다.",
+          "strWidth": 424.5625
         }
       ]
     },
@@ -783,7 +799,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在远离人烟的山谷间，",
-          "strWidth": 320.0
+          "strWidth": 341.3125
         },
         {
           "patternID": 0,
@@ -791,7 +807,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "龙婆婆的家静静地座落著。",
-          "strWidth": 384.0
+          "strWidth": 531.21875
         }
       ]
     },
@@ -821,7 +837,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "茂密的高草丛遍地丛生，",
-          "strWidth": 352.0
+          "strWidth": 501.28125
         },
         {
           "patternID": 0,
@@ -829,7 +845,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "弄得经过的行人鼻子发痒。",
-          "strWidth": 384.0
+          "strWidth": 499.21875
         }
       ]
     },
@@ -859,7 +875,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "树林围绕的山间小屋咖啡馆，",
-          "strWidth": 416.0
+          "strWidth": 435.21875
         },
         {
           "patternID": 0,
@@ -867,7 +883,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "以现挤的鲜奶为招牌商品。",
-          "strWidth": 384.0
+          "strWidth": 467.21875
         }
       ]
     },
@@ -897,7 +913,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "将神奥地区内堪称",
-          "strWidth": 256.0
+          "strWidth": 192.0
         },
         {
           "patternID": 7,
@@ -905,7 +921,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "最为险峻的天冠山",
-          "strWidth": 256.0
+          "strWidth": 373.3125
         },
         {
           "patternID": 0,
@@ -913,7 +929,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "从两侧贯穿的山路。",
-          "strWidth": 288.0
+          "strWidth": 381.90625
         }
       ]
     },
@@ -943,15 +959,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "高栏围绕著占去近半",
-          "strWidth": 288.0
+          "strWidth": 447.96875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "道路面积的广大土地。",
+          "strWidth": 277.3125
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "道路面积的广大土地。",
-          "strWidth": 320.0
+          "str": "높은 담이 둘러싸고 있다.",
+          "strWidth": 360.5625
         }
       ]
     },
@@ -981,15 +1005,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "围栏内是被称为宝可梦屋的豪宅。",
-          "strWidth": 480.0
+          "strWidth": 319.96875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "豪宅的主人似乎很喜欢炫耀他的后院。",
+          "strWidth": 488.5625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "豪宅的主人似乎很喜欢炫耀他的后院。",
-          "strWidth": 544.0
+          "str": "뒷마당이 자랑거리라고 한다.",
+          "strWidth": 413.90625
         }
       ]
     },
@@ -1019,7 +1051,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "这里总是下著大雨，",
-          "strWidth": 288.0
+          "strWidth": 309.3125
         },
         {
           "patternID": 7,
@@ -1027,7 +1059,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "使得路上到处都是积水，",
-          "strWidth": 352.0
+          "strWidth": 509.90625
         },
         {
           "patternID": 0,
@@ -1035,7 +1067,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "训练家也个个沦为落汤鸡。",
-          "strWidth": 384.0
+          "strWidth": 520.5625
         }
       ]
     },
@@ -1065,7 +1097,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "这个区域里有一栋房子，",
-          "strWidth": 352.0
+          "strWidth": 484.40625
         },
         {
           "patternID": 7,
@@ -1073,7 +1105,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在里面能用红色、蓝色、",
-          "strWidth": 352.0
+          "strWidth": 415.96875
         },
         {
           "patternID": 0,
@@ -1081,7 +1113,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "黄色、绿色碎片交换招式学习器。",
-          "strWidth": 480.0
+          "strWidth": 221.90625
         }
       ]
     },
@@ -1111,7 +1143,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "近海的岩石形成防波堤，",
-          "strWidth": 352.0
+          "strWidth": 522.625
         },
         {
           "patternID": 7,
@@ -1119,7 +1151,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "维持著岸边潮水的平静。",
-          "strWidth": 352.0
+          "strWidth": 456.5625
         },
         {
           "patternID": 0,
@@ -1127,7 +1159,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "高台上矗立著一座度假饭店。",
-          "strWidth": 416.0
+          "strWidth": 509.875
         }
       ]
     },
@@ -1157,7 +1189,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "海边的一栋小屋里，",
-          "strWidth": 288.0
+          "strWidth": 456.5625
         },
         {
           "patternID": 7,
@@ -1165,7 +1197,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "独自居住著被大家称为",
-          "strWidth": 320.0
+          "strWidth": 373.3125
         },
         {
           "patternID": 0,
@@ -1173,7 +1205,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "足迹博士的步迈先生。",
-          "strWidth": 320.0
+          "strWidth": 328.5625
         }
       ]
     },
@@ -1203,7 +1235,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "连接帷幕市与湖泊的道路。",
-          "strWidth": 384.0
+          "strWidth": 479.96875
         },
         {
           "patternID": 7,
@@ -1211,7 +1243,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "说好听是维持自然风貌的环境，",
-          "strWidth": 448.0
+          "strWidth": 467.21875
         },
         {
           "patternID": 0,
@@ -1219,7 +1251,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "说难听则是任其荒废的原野。",
-          "strWidth": 416.0
+          "strWidth": 424.5625
         }
       ]
     },
@@ -1249,7 +1281,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "山壁上有一个",
-          "strWidth": 192.0
+          "strWidth": 405.3125
         },
         {
           "patternID": 0,
@@ -1257,7 +1289,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "由遗迹迷挖出的洞窟。",
-          "strWidth": 320.0
+          "strWidth": 360.5625
         }
       ]
     },
@@ -1287,7 +1319,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "这里下著永不停歇的大雨。",
-          "strWidth": 384.0
+          "strWidth": 360.5625
         },
         {
           "patternID": 7,
@@ -1295,7 +1327,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "聚集在此的净是不怕雨淋，",
-          "strWidth": 384.0
+          "strWidth": 565.28125
         },
         {
           "patternID": 0,
@@ -1303,7 +1335,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "敢硬拼的训练家。",
-          "strWidth": 256.0
+          "strWidth": 275.25
         }
       ]
     },
@@ -1333,15 +1365,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "延伸自天冠山的山路终年下雪，",
-          "strWidth": 448.0
+          "strWidth": 341.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "堆积成的厚重雪堆拖慢了行人的脚步。",
+          "strWidth": 394.625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "堆积成的厚重雪堆拖慢了行人的脚步。",
-          "strWidth": 544.0
+          "str": "길 가는 자의 발걸음을 느리게 만든다.",
+          "strWidth": 541.875
         }
       ]
     },
@@ -1371,7 +1411,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "从天冠山上降下的雪",
-          "strWidth": 288.0
+          "strWidth": 383.96875
         },
         {
           "patternID": 7,
@@ -1379,7 +1419,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "成为暴风雪吹袭而来。",
-          "strWidth": 320.0
+          "strWidth": 424.5625
         },
         {
           "patternID": 0,
@@ -1387,7 +1427,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "做好觉悟，勇敢地踏出脚步吧。",
-          "strWidth": 448.0
+          "strWidth": 456.5625
         }
       ]
     },
@@ -1417,7 +1457,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "虽然是一条很短的道路，",
-          "strWidth": 352.0
+          "strWidth": 277.3125
         },
         {
           "patternID": 7,
@@ -1425,7 +1465,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在钓鱼爱好者之间，",
-          "strWidth": 288.0
+          "strWidth": 373.3125
         },
         {
           "patternID": 0,
@@ -1433,7 +1473,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "这里可是鲜为人知的胜地。",
-          "strWidth": 384.0
+          "strWidth": 467.21875
         }
       ]
     },
@@ -1463,7 +1503,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "从真砂镇出发只需要步行５秒",
-          "strWidth": 416.0
+          "strWidth": 426.65625
         },
         {
           "patternID": 7,
@@ -1471,7 +1511,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "就能到达的白色海滩。",
-          "strWidth": 320.0
+          "strWidth": 541.65625
         },
         {
           "patternID": 0,
@@ -1479,7 +1519,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "吹来的海风让人心旷神怡。",
-          "strWidth": 384.0
+          "strWidth": 467.21875
         }
       ]
     },
@@ -1509,7 +1549,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "这里的海面风平浪静，",
-          "strWidth": 320.0
+          "strWidth": 309.3125
         },
         {
           "patternID": 7,
@@ -1517,7 +1557,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "是享受海水浴的最佳所在。",
-          "strWidth": 384.0
+          "strWidth": 339.25
         },
         {
           "patternID": 0,
@@ -1525,7 +1565,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "游累的话，可以登上沙洲小憩。",
-          "strWidth": 448.0
+          "strWidth": 531.21875
         }
       ]
     },
@@ -1555,7 +1595,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "从稀疏的杂木林间",
-          "strWidth": 256.0
+          "strWidth": 373.3125
         },
         {
           "patternID": 0,
@@ -1563,7 +1603,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "笔直穿过的绿意小径。",
-          "strWidth": 320.0
+          "strWidth": 371.21875
         }
       ]
     },
@@ -1588,12 +1628,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "这条路的终点就是通往反叛公园的大门。",
+          "strWidth": 479.96875
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "这条路的终点就是通往反叛公园的大门。",
-          "strWidth": 156.09375
+          "str": "게이트가 세워져 있다.",
+          "strWidth": 317.90625
         }
       ]
     },
@@ -1623,7 +1671,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "沿著道路延伸而出的沙滩上，",
-          "strWidth": 416.0
+          "strWidth": 458.625
         },
         {
           "patternID": 7,
@@ -1631,7 +1679,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "可见挑战垂钓的人们欢愉的模样，",
-          "strWidth": 480.0
+          "strWidth": 479.96875
         },
         {
           "patternID": 0,
@@ -1639,7 +1687,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "所以显得热闹不已。",
-          "strWidth": 288.0
+          "strWidth": 381.90625
         }
       ]
     },
@@ -1669,7 +1717,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "这附近有喜欢钓鱼的大叔，",
-          "strWidth": 384.0
+          "strWidth": 415.96875
         },
         {
           "patternID": 7,
@@ -1677,7 +1725,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "还有一间屋子里住著",
-          "strWidth": 288.0
+          "strWidth": 415.96875
         },
         {
           "patternID": 0,
@@ -1685,7 +1733,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "会帮人比较钓到的宝可梦大小的大叔。",
-          "strWidth": 544.0
+          "strWidth": 360.5625
         }
       ]
     },
@@ -1715,7 +1763,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "突出海面的礁石和浅滩",
-          "strWidth": 320.0
+          "strWidth": 447.96875
         },
         {
           "patternID": 0,
@@ -1723,7 +1771,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "构成重重阻碍的水路。",
-          "strWidth": 320.0
+          "strWidth": 349.90625
         }
       ]
     },
@@ -1753,15 +1801,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "这里有草丛、岩山、海洋和浅滩，",
-          "strWidth": 480.0
+          "strWidth": 401.15625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "宛如整个神奥地区的缩影。",
+          "strWidth": 522.625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "宛如整个神奥地区的缩影。",
-          "strWidth": 384.0
+          "str": "지도를 보는 듯한 곳이다.",
+          "strWidth": 360.5625
         }
       ]
     },
@@ -1791,7 +1847,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "高低落差剧烈的地形，",
-          "strWidth": 320.0
+          "strWidth": 351.96875
         },
         {
           "patternID": 0,
@@ -1799,7 +1855,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "使旅行者必须不断地上上下下。",
-          "strWidth": 448.0
+          "strWidth": 552.5625
         }
       ]
     },
@@ -1829,7 +1885,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "高耸的峭壁紧挨著海岸，",
-          "strWidth": 352.0
+          "strWidth": 458.625
         },
         {
           "patternID": 0,
@@ -1837,7 +1893,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法以路称呼的路。",
-          "strWidth": 288.0
+          "strWidth": 157.90625
         }
       ]
     },
@@ -1867,15 +1923,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "海湾内的小岛上住著一位",
-          "strWidth": 352.0
+          "strWidth": 437.28125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "说著异国语言的奇特人物。",
+          "strWidth": 319.96875
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "说著异国语言的奇特人物。",
-          "strWidth": 384.0
+          "str": "이상한 인물이 살고 있다.",
+          "strWidth": 360.5625
         }
       ]
     },
@@ -1905,7 +1969,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "落下的火山灰干扰著",
-          "strWidth": 288.0
+          "strWidth": 405.3125
         },
         {
           "patternID": 0,
@@ -1913,7 +1977,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "旅行者视线的险恶道路。",
-          "strWidth": 352.0
+          "strWidth": 392.5625
         }
       ]
     },
@@ -1943,7 +2007,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在强劲海风吹袭下",
-          "strWidth": 256.0
+          "strWidth": 415.96875
         },
         {
           "patternID": 7,
@@ -1951,7 +2015,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "掀起的猛烈沙暴，",
-          "strWidth": 256.0
+          "strWidth": 543.96875
         },
         {
           "patternID": 0,
@@ -1959,7 +2023,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "使这条路艰辛难行。",
-          "strWidth": 288.0
+          "strWidth": 147.25
         }
       ]
     },
@@ -1989,7 +2053,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "草木以自然方式恣意地",
-          "strWidth": 320.0
+          "strWidth": 490.625
         },
         {
           "patternID": 0,
@@ -1997,7 +2061,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "茂密生长的滨海道路。",
-          "strWidth": 320.0
+          "strWidth": 595.21875
         }
       ]
     },
@@ -2027,7 +2091,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "东西向的水路途中",
-          "strWidth": 256.0
+          "strWidth": 351.96875
         },
         {
           "patternID": 0,
@@ -2035,7 +2099,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "有一座花草茂盛的岛屿。",
-          "strWidth": 352.0
+          "strWidth": 360.5625
         }
       ]
     },
@@ -2065,7 +2129,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "能感受到新叶气息，",
-          "strWidth": 288.0
+          "strWidth": 479.96875
         },
         {
           "patternID": 0,
@@ -2073,7 +2137,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "以及某种开端的小镇。",
-          "strWidth": 320.0
+          "strWidth": 531.21875
         }
       ]
     },
@@ -2098,12 +2162,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "自己和朋友的家就在这里。",
+          "strWidth": 170.65625
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "自己和朋友的家就在这里。",
-          "strWidth": 384.0
+          "str": "친구의 집이 있다.",
+          "strWidth": 253.90625
         }
       ]
     },
@@ -2133,7 +2205,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "座落在海滩旁边，",
-          "strWidth": 256.0
+          "strWidth": 287.96875
         },
         {
           "patternID": 0,
@@ -2141,7 +2213,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "飘著海风气息的沙之小镇。",
-          "strWidth": 384.0
+          "strWidth": 499.21875
         }
       ]
     },
@@ -2171,23 +2243,15 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "山梨博士的研究所是",
-          "strWidth": 288.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "这座小镇的地标。",
-          "strWidth": 256.0
+          "strWidth": 309.3125
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "他在此从事宝可梦的研究。",
-          "strWidth": 384.0
+          "str": "这座小镇的地标。",
+          "strWidth": 456.5625
         }
       ]
     },
@@ -2217,7 +2281,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "属于爱花人士的小镇，",
-          "strWidth": 320.0
+          "strWidth": 447.96875
         },
         {
           "patternID": 0,
@@ -2225,7 +2289,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "四处充盈著盛开花朵的芬芳。",
-          "strWidth": 416.0
+          "strWidth": 424.5625
         }
       ]
     },
@@ -2255,7 +2319,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "穿过花间的田埂后，",
-          "strWidth": 288.0
+          "strWidth": 469.28125
         },
         {
           "patternID": 0,
@@ -2263,7 +2327,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "大片的花田将出现在眼前。",
-          "strWidth": 384.0
+          "strWidth": 317.90625
         }
       ]
     },
@@ -2293,7 +2357,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "小镇的中央有一间",
-          "strWidth": 256.0
+          "strWidth": 202.65625
         },
         {
           "patternID": 0,
@@ -2301,7 +2365,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "名为花花世界的花店。",
-          "strWidth": 320.0
+          "strWidth": 381.90625
         }
       ]
     },
@@ -2331,7 +2395,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "这个小镇气候和煦，",
-          "strWidth": 288.0
+          "strWidth": 479.96875
         },
         {
           "patternID": 0,
@@ -2339,7 +2403,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "居民和宝可梦都过得悠闲自在。",
-          "strWidth": 448.0
+          "strWidth": 403.21875
         }
       ]
     },
@@ -2369,7 +2433,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "这里有宝可梦寄放屋",
-          "strWidth": 288.0
+          "strWidth": 256.0
         },
         {
           "patternID": 0,
@@ -2377,7 +2441,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "以及宝可梦中心。",
-          "strWidth": 256.0
+          "strWidth": 275.25
         }
       ]
     },
@@ -2407,7 +2471,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "穿过树丛间之后，",
-          "strWidth": 256.0
+          "strWidth": 298.65625
         },
         {
           "patternID": 0,
@@ -2415,7 +2479,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "将到达随意遗迹的洞口。",
-          "strWidth": 352.0
+          "strWidth": 349.90625
         }
       ]
     },
@@ -2445,7 +2509,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "将过去的生活和历史",
-          "strWidth": 288.0
+          "strWidth": 309.3125
         },
         {
           "patternID": 0,
@@ -2453,7 +2517,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "传承到现在的小镇。",
-          "strWidth": 288.0
+          "strWidth": 360.5625
         }
       ]
     },
@@ -2483,7 +2547,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "镇上的中央留存著",
-          "strWidth": 256.0
+          "strWidth": 309.3125
         },
         {
           "patternID": 0,
@@ -2491,7 +2555,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "古时候的祠堂。",
-          "strWidth": 224.0
+          "strWidth": 253.90625
         }
       ]
     },
@@ -2521,15 +2585,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "热衷于宝可梦对战的训练家们",
-          "strWidth": 416.0
+          "strWidth": 586.625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "为了更加精进自我而聚集之处。",
+          "strWidth": 447.96875
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "为了更加精进自我而聚集之处。",
-          "strWidth": 448.0
+          "str": "모여드는 마을.",
+          "strWidth": 211.25
         }
       ]
     },
@@ -2559,7 +2631,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "懂得以不同于对战的方式",
-          "strWidth": 352.0
+          "strWidth": 490.625
         },
         {
           "patternID": 0,
@@ -2567,7 +2639,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "享受宝可梦乐趣的人们聚集之处。",
-          "strWidth": 480.0
+          "strWidth": 499.21875
         }
       ]
     },
@@ -2597,7 +2669,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在神奥地区内发展得",
-          "strWidth": 288.0
+          "strWidth": 298.65625
         },
         {
           "patternID": 7,
@@ -2605,7 +2677,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "最为现代化的城市。",
-          "strWidth": 288.0
+          "strWidth": 341.3125
         },
         {
           "patternID": 0,
@@ -2613,7 +2685,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "大量的人潮在此来往交织。",
-          "strWidth": 384.0
+          "strWidth": 424.5625
         }
       ]
     },
@@ -2643,7 +2715,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "研发宝可表的",
-          "strWidth": 192.0
+          "strWidth": 383.96875
         },
         {
           "patternID": 0,
@@ -2651,7 +2723,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "宝可表公司就在这里。",
-          "strWidth": 320.0
+          "strWidth": 339.25
         }
       ]
     },
@@ -2681,7 +2753,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "提供各种乐趣的",
-          "strWidth": 224.0
+          "strWidth": 426.625
         },
         {
           "patternID": 0,
@@ -2689,7 +2761,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "祝庆电视台就在这里。",
-          "strWidth": 320.0
+          "strWidth": 320.28125
         }
       ]
     },
@@ -2719,7 +2791,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "简称为GMStation的",
-          "strWidth": 279.84375
+          "strWidth": 479.96875
         },
         {
           "patternID": 0,
@@ -2727,7 +2799,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "全球奇迹交换中心就在这里。",
-          "strWidth": 416.0
+          "strWidth": 391.34375
         }
       ]
     },
@@ -2757,7 +2829,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "教导各种宝可梦基础知识的",
-          "strWidth": 384.0
+          "strWidth": 533.28125
         },
         {
           "patternID": 0,
@@ -2765,7 +2837,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "训练家学校就在这里。",
-          "strWidth": 320.0
+          "strWidth": 307.25
         }
       ]
     },
@@ -2795,7 +2867,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "由运河一分为二，",
-          "strWidth": 256.0
+          "strWidth": 383.96875
         },
         {
           "patternID": 0,
@@ -2803,7 +2875,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "充满异国情调的港埠城市。",
-          "strWidth": 384.0
+          "strWidth": 403.21875
         }
       ]
     },
@@ -2833,7 +2905,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "若想活动头脑，请前往图书馆。",
-          "strWidth": 448.0
+          "strWidth": 381.90625
         },
         {
           "patternID": 0,
@@ -2841,7 +2913,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "若想活动筋骨，请前往道馆。",
-          "strWidth": 416.0
+          "strWidth": 445.90625
         }
       ]
     },
@@ -2871,7 +2943,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "码头的栈桥边",
-          "strWidth": 192.0
+          "strWidth": 341.3125
         },
         {
           "patternID": 0,
@@ -2879,7 +2951,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "总是有大船停靠。",
-          "strWidth": 256.0
+          "strWidth": 360.5625
         }
       ]
     },
@@ -2909,7 +2981,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "坐拥丰富的天然资源，",
-          "strWidth": 320.0
+          "strWidth": 266.65625
         },
         {
           "patternID": 0,
@@ -2917,7 +2989,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "能量源源不绝的炭坑城市。",
-          "strWidth": 384.0
+          "strWidth": 360.5625
         }
       ]
     },
@@ -2947,7 +3019,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "让炭坑工作的人们",
-          "strWidth": 256.0
+          "strWidth": 373.3125
         },
         {
           "patternID": 7,
@@ -2955,7 +3027,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在辛苦工作之余",
-          "strWidth": 224.0
+          "strWidth": 245.3125
         },
         {
           "patternID": 0,
@@ -2963,7 +3035,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "小憩片刻的道馆就在这里。",
-          "strWidth": 384.0
+          "strWidth": 541.875
         }
       ]
     },
@@ -2993,7 +3065,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "展示著炭坑相关物品的",
-          "strWidth": 320.0
+          "strWidth": 351.96875
         },
         {
           "patternID": 0,
@@ -3001,7 +3073,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "博物馆就在这里。",
-          "strWidth": 256.0
+          "strWidth": 211.25
         }
       ]
     },
@@ -3031,7 +3103,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "直到现在，仍有大量煤炭沉睡著的",
-          "strWidth": 480.0
+          "strWidth": 383.96875
         },
         {
           "patternID": 0,
@@ -3039,7 +3111,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "黑金炭坑的入口就在这里。",
-          "strWidth": 384.0
+          "strWidth": 349.90625
         }
       ]
     },
@@ -3069,7 +3141,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "逐渐被遗忘的历史",
-          "strWidth": 256.0
+          "strWidth": 426.625
         },
         {
           "patternID": 0,
@@ -3077,7 +3149,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在这座城市留下些许痕迹。",
-          "strWidth": 384.0
+          "strWidth": 573.875
         }
       ]
     },
@@ -3107,7 +3179,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "一栋不太寻常的大楼",
-          "strWidth": 288.0
+          "strWidth": 341.3125
         },
         {
           "patternID": 0,
@@ -3115,7 +3187,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "和自行车店就在这里。",
-          "strWidth": 320.0
+          "strWidth": 243.25
         }
       ]
     },
@@ -3145,7 +3217,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "市内设置了一座",
-          "strWidth": 224.0
+          "strWidth": 341.3125
         },
         {
           "patternID": 0,
@@ -3153,7 +3225,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "古代宝可梦的雕像。",
-          "strWidth": 288.0
+          "strWidth": 179.25
         }
       ]
     },
@@ -3183,7 +3255,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "这里当然也有人群熙来攘往的城市",
-          "strWidth": 480.0
+          "strWidth": 447.96875
         },
         {
           "patternID": 0,
@@ -3191,7 +3263,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "所不可或缺的宝可梦道馆。",
-          "strWidth": 384.0
+          "strWidth": 573.875
         }
       ]
     },
@@ -3221,7 +3293,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "人们与宝可梦聚集起来后，",
-          "strWidth": 384.0
+          "strWidth": 341.3125
         },
         {
           "patternID": 7,
@@ -3229,7 +3301,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "随著蓬勃的商业活动",
-          "strWidth": 288.0
+          "strWidth": 383.96875
         },
         {
           "patternID": 0,
@@ -3237,7 +3309,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "发展而成的友善城市。",
-          "strWidth": 320.0
+          "strWidth": 211.25
         }
       ]
     },
@@ -3267,7 +3339,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "可以和宝可梦自在散步的",
-          "strWidth": 352.0
+          "strWidth": 490.625
         },
         {
           "patternID": 0,
@@ -3275,7 +3347,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "互动广场的入口就在这里。",
-          "strWidth": 384.0
+          "strWidth": 413.90625
         }
       ]
     },
@@ -3305,7 +3377,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "若讲究宝可梦的外表，",
-          "strWidth": 320.0
+          "strWidth": 373.3125
         },
         {
           "patternID": 7,
@@ -3313,7 +3385,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请前往华丽大赛会场。",
-          "strWidth": 320.0
+          "strWidth": 264.59375
         },
         {
           "patternID": 0,
@@ -3321,7 +3393,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "若讲究宝可梦的实力，请前往道馆。",
-          "strWidth": 512.0
+          "strWidth": 445.90625
         }
       ]
     },
@@ -3351,7 +3423,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "这里有一栋建筑物",
-          "strWidth": 256.0
+          "strWidth": 426.625
         },
         {
           "patternID": 7,
@@ -3359,7 +3431,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "象征著文化背景各不同者",
-          "strWidth": 352.0
+          "strWidth": 479.96875
         },
         {
           "patternID": 0,
@@ -3367,7 +3439,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在此交会的城市特色。",
-          "strWidth": 320.0
+          "strWidth": 317.90625
         }
       ]
     },
@@ -3397,7 +3469,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "从喷水池、长椅，",
-          "strWidth": 256.0
+          "strWidth": 170.65625
         },
         {
           "patternID": 7,
@@ -3405,7 +3477,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "到宝可梦发烧友俱乐部等等，",
-          "strWidth": 416.0
+          "strWidth": 298.65625
         },
         {
           "patternID": 0,
@@ -3413,7 +3485,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "这里也设有完备的游憩设施。",
-          "strWidth": 416.0
+          "strWidth": 381.90625
         }
       ]
     },
@@ -3443,7 +3515,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "最早是为了保护",
-          "strWidth": 224.0
+          "strWidth": 394.625
         },
         {
           "patternID": 7,
@@ -3451,7 +3523,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "这一带辽阔的大湿地，",
-          "strWidth": 320.0
+          "strWidth": 373.3125
         },
         {
           "patternID": 0,
@@ -3459,7 +3531,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "而自然形成的城市。",
-          "strWidth": 288.0
+          "strWidth": 349.90625
         }
       ]
     },
@@ -3489,7 +3561,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "这座城市拥有充沛的水资源。",
-          "strWidth": 416.0
+          "strWidth": 319.96875
         },
         {
           "patternID": 0,
@@ -3497,7 +3569,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "从道馆也可看出这一点。",
-          "strWidth": 352.0
+          "strWidth": 552.53125
         }
       ]
     },
@@ -3527,7 +3599,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "能一览大湿地的展望台及",
-          "strWidth": 352.0
+          "strWidth": 522.625
         },
         {
           "patternID": 0,
@@ -3535,7 +3607,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "狩猎游戏的入口就在这里。",
-          "strWidth": 384.0
+          "strWidth": 424.5625
         }
       ]
     },
@@ -3565,7 +3637,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "这座城市在陡峭的山地中开凿而出，",
-          "strWidth": 512.0
+          "strWidth": 522.625
         },
         {
           "patternID": 0,
@@ -3573,7 +3645,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "所以不常跟其他地方打交道。",
-          "strWidth": 416.0
+          "strWidth": 627.1875
         }
       ]
     },
@@ -3603,15 +3675,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "这里建有保存各种物资用的仓库群。",
-          "strWidth": 512.0
+          "strWidth": 458.625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "若要购物的话，这里也有百货公司。",
+          "strWidth": 285.90625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "若要购物的话，这里也有百货公司。",
-          "strWidth": 512.0
+          "str": "쇼핑객을 위한 백화점도 있다.",
+          "strWidth": 424.5625
         }
       ]
     },
@@ -3641,15 +3721,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "矗立在地形高处的建筑",
-          "strWidth": 320.0
+          "strWidth": 351.96875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "是银河队本部。",
+          "strWidth": 245.3125
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "是银河队本部。",
-          "strWidth": 224.0
+          "str": "갤럭시단의 본부.",
+          "strWidth": 243.25
         }
       ]
     },
@@ -3679,7 +3767,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "这座城市里有喜爱游戏的店主经营的服饰店。",
-          "strWidth": 640.0
+          "strWidth": 573.875
         },
         {
           "patternID": 0,
@@ -3687,7 +3775,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "当然，这里也有道馆。",
-          "strWidth": 320.0
+          "strWidth": 285.90625
         }
       ]
     },
@@ -3717,7 +3805,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "时尚精品馆里满满地陈列著",
-          "strWidth": 384.0
+          "strWidth": 437.3125
         },
         {
           "patternID": 0,
@@ -3725,7 +3813,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "由店主所挑选，富有个性的服装。",
-          "strWidth": 480.0
+          "strWidth": 531.21875
         }
       ]
     },
@@ -3755,15 +3843,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "依复杂的海岬地形而建的港湾城市。",
-          "strWidth": 512.0
+          "strWidth": 383.96875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "空中步道是这里的最大特色。",
+          "strWidth": 360.5625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "空中步道是这里的最大特色。",
-          "strWidth": 416.0
+          "str": "입체적인 보도가 특징.",
+          "strWidth": 317.90625
         }
       ]
     },
@@ -3793,7 +3889,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "本地的道馆位于高台顶部。",
-          "strWidth": 384.0
+          "strWidth": 424.5625
         },
         {
           "patternID": 0,
@@ -3801,7 +3897,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "沙滩附近有一个热闹的市场。",
-          "strWidth": 416.0
+          "strWidth": 499.21875
         }
       ]
     },
@@ -3831,7 +3927,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "导航灯塔的明亮光芒",
-          "strWidth": 288.0
+          "strWidth": 362.65625
         },
         {
           "patternID": 0,
@@ -3839,7 +3935,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "照耀著神奥地区。",
-          "strWidth": 256.0
+          "strWidth": 253.90625
         }
       ]
     },
@@ -3869,7 +3965,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "林立的树木和建筑物",
-          "strWidth": 288.0
+          "strWidth": 309.3125
         },
         {
           "patternID": 7,
@@ -3877,7 +3973,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "都覆盖上厚重积雪，",
-          "strWidth": 288.0
+          "strWidth": 383.96875
         },
         {
           "patternID": 0,
@@ -3885,7 +3981,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "使城市变成银白色的世界。",
-          "strWidth": 384.0
+          "strWidth": 371.21875
         }
       ]
     },
@@ -3915,7 +4011,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "城市的中央是宝可梦道馆，",
-          "strWidth": 384.0
+          "strWidth": 447.96875
         },
         {
           "patternID": 0,
@@ -3923,7 +4019,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "深处则是雪峰神殿。",
-          "strWidth": 288.0
+          "strWidth": 381.90625
         }
       ]
     },
@@ -3953,23 +4049,15 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "以训练家的颠峰为目标者",
-          "strWidth": 352.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "跋涉过艰辛又漫长的路途后",
-          "strWidth": 384.0
+          "strWidth": 522.625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "所聚集的地方。",
-          "strWidth": 224.0
+          "str": "跋涉过艰辛又漫长的路途后",
+          "strWidth": 584.53125
         }
       ]
     },
@@ -3999,15 +4087,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "通往宝可梦联盟的接待处就在这里。",
-          "strWidth": 512.0
+          "strWidth": 413.90625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "唯有称霸所有道馆的强者才能进入。",
+          "strWidth": 415.96875
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "唯有称霸所有道馆的强者才能进入。",
-          "strWidth": 512.0
+          "str": "들어갈 수 있는 장소.",
+          "strWidth": 296.5625
         }
       ]
     },
@@ -4037,7 +4133,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "通往宝可梦联盟的最后一道关卡，",
-          "strWidth": 480.0
+          "strWidth": 373.3125
         },
         {
           "patternID": 0,
@@ -4045,7 +4141,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "冠军之路就在这里。",
-          "strWidth": 288.0
+          "strWidth": 275.25
         }
       ]
     },
@@ -4075,7 +4171,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "非常狭小的港口城市。",
-          "strWidth": 320.0
+          "strWidth": 415.96875
         },
         {
           "patternID": 7,
@@ -4083,7 +4179,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "来到这里的训练家比起吃饭，",
-          "strWidth": 416.0
+          "strWidth": 373.3125
         },
         {
           "patternID": 0,
@@ -4091,7 +4187,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "更热爱宝可梦对战。",
-          "strWidth": 288.0
+          "strWidth": 296.5625
         }
       ]
     },
@@ -4121,7 +4217,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "栈桥边停靠著",
-          "strWidth": 192.0
+          "strWidth": 373.3125
         },
         {
           "patternID": 0,
@@ -4129,7 +4225,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "开往雪峰市的船。",
-          "strWidth": 256.0
+          "strWidth": 253.90625
         }
       ]
     },
@@ -4159,7 +4255,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "通往对战公园的入口就在这里。",
-          "strWidth": 448.0
+          "strWidth": 456.5625
         }
       ]
     },
@@ -4189,15 +4285,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "象征神奥地区丰沛水资源的湖泊之一。",
-          "strWidth": 544.0
+          "strWidth": 341.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "据说这里有著不可思议的传说。",
+          "strWidth": 328.5625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "据说这里有著不可思议的传说。",
-          "strWidth": 448.0
+          "str": "이상한 전설이 있다고 한다.",
+          "strWidth": 392.5625
         }
       ]
     },
@@ -4227,15 +4331,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "从中央的小岛",
-          "strWidth": 192.0
+          "strWidth": 277.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "能进入湖泊内部的洞窟。",
+          "strWidth": 277.3125
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "能进入湖泊内部的洞窟。",
-          "strWidth": 352.0
+          "str": "들어갈 수 있다.",
+          "strWidth": 221.90625
         }
       ]
     },
@@ -4265,15 +4377,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "象征神奥地区丰沛水资源的湖泊之一。",
-          "strWidth": 544.0
+          "strWidth": 341.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "据说这里有著不可思议的传说。",
+          "strWidth": 328.5625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "据说这里有著不可思议的传说。",
-          "strWidth": 448.0
+          "str": "이상한 전설이 있다고 한다.",
+          "strWidth": 392.5625
         }
       ]
     },
@@ -4303,15 +4423,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "从中央的小岛",
-          "strWidth": 192.0
+          "strWidth": 277.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "能进入湖泊内部的洞窟。",
+          "strWidth": 277.3125
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "能进入湖泊内部的洞窟。",
-          "strWidth": 352.0
+          "str": "들어갈 수 있다.",
+          "strWidth": 221.90625
         }
       ]
     },
@@ -4336,12 +4464,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "位于湖畔高台上的高级餐厅。",
+          "strWidth": 383.96875
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "位于湖畔高台上的高级餐厅。",
-          "strWidth": 416.0
+          "str": "고급 레스토랑.",
+          "strWidth": 211.25
         }
       ]
     },
@@ -4371,15 +4507,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "象征神奥地区丰沛水资源的湖泊之一。",
-          "strWidth": 544.0
+          "strWidth": 341.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "据说这里有著不可思议的传说。",
+          "strWidth": 328.5625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "据说这里有著不可思议的传说。",
-          "strWidth": 448.0
+          "str": "이상한 전설이 있다고 한다.",
+          "strWidth": 392.5625
         }
       ]
     },
@@ -4409,15 +4553,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "从中央的小岛",
-          "strWidth": 192.0
+          "strWidth": 277.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "能进入湖泊内部的洞窟。",
+          "strWidth": 277.3125
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "能进入湖泊内部的洞窟。",
-          "strWidth": 352.0
+          "str": "들어갈 수 있다.",
+          "strWidth": 221.90625
         }
       ]
     },
@@ -4447,7 +4599,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "一直被隐藏著的第４座湖泊。",
-          "strWidth": 416.0
+          "strWidth": 381.6875
         }
       ]
     },
@@ -4477,7 +4629,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "湖底存在著",
-          "strWidth": 160.0
+          "strWidth": 266.65625
         },
         {
           "patternID": 0,
@@ -4485,7 +4637,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "空间被扭曲的洞窟。",
-          "strWidth": 288.0
+          "strWidth": 424.5625
         }
       ]
     },
@@ -4515,7 +4667,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "发电厂和它的周围",
-          "strWidth": 256.0
+          "strWidth": 309.3125
         },
         {
           "patternID": 0,
@@ -4523,7 +4675,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "架设著好几座风车。",
-          "strWidth": 288.0
+          "strWidth": 371.21875
         }
       ]
     },
@@ -4553,7 +4705,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "发电厂会利用",
-          "strWidth": 192.0
+          "strWidth": 479.96875
         },
         {
           "patternID": 7,
@@ -4561,7 +4713,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "吹过山谷的风来转动风车，",
-          "strWidth": 384.0
+          "strWidth": 383.96875
         },
         {
           "patternID": 0,
@@ -4569,7 +4721,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "再以其产生的能源发电。",
-          "strWidth": 352.0
+          "strWidth": 392.5625
         }
       ]
     },
@@ -4599,7 +4751,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在沁凉空气的笼罩下，",
-          "strWidth": 320.0
+          "strWidth": 341.3125
         },
         {
           "patternID": 7,
@@ -4607,7 +4759,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "森林内的树木",
-          "strWidth": 192.0
+          "strWidth": 373.3125
         },
         {
           "patternID": 0,
@@ -4615,7 +4767,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "形成一座天然迷宫。",
-          "strWidth": 288.0
+          "strWidth": 424.5625
         }
       ]
     },
@@ -4645,7 +4797,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "森林的深处有一幢",
-          "strWidth": 256.0
+          "strWidth": 351.96875
         },
         {
           "patternID": 0,
@@ -4653,7 +4805,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "失去了屋主而荒废的洋馆。",
-          "strWidth": 384.0
+          "strWidth": 456.5625
         }
       ]
     },
@@ -4678,12 +4830,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "背倚著森林的大型钢铁厂。",
+          "strWidth": 415.96875
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "背倚著森林的大型钢铁厂。",
-          "strWidth": 384.0
+          "str": "세워져 있다.",
+          "strWidth": 179.25
         }
       ]
     },
@@ -4713,7 +4873,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "这座钢铁厂会精炼",
-          "strWidth": 256.0
+          "strWidth": 405.3125
         },
         {
           "patternID": 7,
@@ -4721,7 +4881,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "从天冠山开采出的铁矿，",
-          "strWidth": 352.0
+          "strWidth": 341.3125
         },
         {
           "patternID": 0,
@@ -4729,7 +4889,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "然后加工制成机械零件。",
-          "strWidth": 352.0
+          "strWidth": 467.21875
         }
       ]
     },
@@ -4759,15 +4919,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "顶部终年覆盖著积雪，",
-          "strWidth": 320.0
+          "strWidth": 490.625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "内部宛如巨大迷宫的神圣山峰。",
+          "strWidth": 522.625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "内部宛如巨大迷宫的神圣山峰。",
-          "strWidth": 448.0
+          "str": "신성한 산.",
+          "strWidth": 147.25
         }
       ]
     },
@@ -4792,12 +4960,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "被称为枪之柱的古代遗迹就在这里。",
+          "strWidth": 266.65625
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "被称为枪之柱的古代遗迹就在这里。",
-          "strWidth": 512.0
+          "str": "고대의 유적이 있다.",
+          "strWidth": 285.90625
         }
       ]
     },
@@ -4827,7 +5003,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "封闭树林中的",
-          "strWidth": 192.0
+          "strWidth": 522.625
         },
         {
           "patternID": 0,
@@ -4835,7 +5011,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "一片显眼的新月形水洼。",
-          "strWidth": 352.0
+          "strWidth": 424.5625
         }
       ]
     },
@@ -4865,7 +5041,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "被自身喷出的火山灰厚重复盖，",
-          "strWidth": 448.0
+          "strWidth": 490.625
         },
         {
           "patternID": 0,
@@ -4873,7 +5049,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "坚实稳固的岩山。",
-          "strWidth": 256.0
+          "strWidth": 285.90625
         }
       ]
     },
@@ -4903,7 +5079,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "因喷发而流出的熔岩",
-          "strWidth": 288.0
+          "strWidth": 501.28125
         },
         {
           "patternID": 7,
@@ -4911,7 +5087,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "所产生的缝隙",
-          "strWidth": 192.0
+          "strWidth": 287.96875
         },
         {
           "patternID": 0,
@@ -4919,7 +5095,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在山的内部构成巨大洞窟。",
-          "strWidth": 384.0
+          "strWidth": 392.5625
         }
       ]
     },
@@ -4949,7 +5125,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "被遍地绽放的花朵所覆盖，",
-          "strWidth": 384.0
+          "strWidth": 360.5625
         },
         {
           "patternID": 0,
@@ -4957,7 +5133,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "位于边陲的小岛。",
-          "strWidth": 256.0
+          "strWidth": 467.21875
         }
       ]
     },
@@ -4987,7 +5163,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "位于百代市外海的",
-          "strWidth": 256.0
+          "strWidth": 490.625
         },
         {
           "patternID": 0,
@@ -4995,7 +5171,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "小型矿山岛。",
-          "strWidth": 192.0
+          "strWidth": 221.90625
         }
       ]
     },
@@ -5025,7 +5201,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "岛内留存著过去人们",
-          "strWidth": 288.0
+          "strWidth": 415.96875
         },
         {
           "patternID": 0,
@@ -5033,7 +5209,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在此挖掘矿石的痕迹。",
-          "strWidth": 320.0
+          "strWidth": 328.5625
         }
       ]
     },
@@ -5063,7 +5239,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "封闭树林中的",
-          "strWidth": 192.0
+          "strWidth": 522.625
         },
         {
           "patternID": 0,
@@ -5071,7 +5247,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "一片显眼的圆形水洼。",
-          "strWidth": 320.0
+          "strWidth": 317.90625
         }
       ]
     },
@@ -5101,15 +5277,23 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "让追求宝可梦对战颠峰的训练家",
-          "strWidth": 448.0
+          "strWidth": 426.625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "较量实力的对战塔就在这里。",
+          "strWidth": 360.5625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "较量实力的对战塔就在这里。",
-          "strWidth": 416.0
+          "str": "배틀타워가 있다.",
+          "strWidth": 243.25
         }
       ]
     },
@@ -5139,7 +5323,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "飞翔",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -5169,7 +5353,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "目前所在地",
-          "strWidth": 160.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -5199,7 +5383,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "位置资讯",
-          "strWidth": 128.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -5229,7 +5413,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "返回",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -5259,7 +5443,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "在海上笔直绵延的道路。",
-          "strWidth": 352.0
+          "strWidth": 467.21875
         },
         {
           "patternID": 0,
@@ -5267,7 +5451,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "一路连接到花之乐园。",
-          "strWidth": 320.0
+          "strWidth": 392.5625
         }
       ]
     },
@@ -5327,7 +5511,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "否",
-          "strWidth": 32.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -5357,7 +5541,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "位置资讯",
-          "strWidth": 128.0
+          "strWidth": 138.65625
         }
       ]
     }

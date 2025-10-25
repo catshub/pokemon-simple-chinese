@@ -48,7 +48,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "１号",
-          "strWidth": 64.0
+          "strWidth": 106.65625
         },
         {
           "patternID": 2,
@@ -94,7 +94,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "２号",
-          "strWidth": 64.0
+          "strWidth": 106.65625
         },
         {
           "patternID": 2,
@@ -140,7 +140,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "３号",
-          "strWidth": 64.0
+          "strWidth": 106.65625
         },
         {
           "patternID": 2,
@@ -186,7 +186,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "４号",
-          "strWidth": 64.0
+          "strWidth": 106.65625
         },
         {
           "patternID": 2,
@@ -232,7 +232,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "５号",
-          "strWidth": 64.0
+          "strWidth": 138.65625
         },
         {
           "patternID": 2,
@@ -278,7 +278,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "６号",
-          "strWidth": 64.0
+          "strWidth": 138.65625
         },
         {
           "patternID": 2,
@@ -387,7 +387,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         }
       ]
     },
@@ -427,8 +427,8 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Lv.",
-          "strWidth": 43.171875
+          "str": "Lv。",
+          "strWidth": 40.9375
         },
         {
           "patternID": 5,
@@ -507,7 +507,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         }
       ]
     },
@@ -578,7 +578,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "选择时间",
-          "strWidth": 34.6875
+          "strWidth": 208.90625
         }
       ]
     },
@@ -636,8 +636,8 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": ":",
-          "strWidth": 8.765625
+          "str": "：",
+          "strWidth": 8.59375
         },
         {
           "patternID": 5,
@@ -705,7 +705,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "返回",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -735,7 +735,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "确认对手",
-          "strWidth": 128.0
+          "strWidth": 234.65625
         }
       ]
     },
@@ -806,7 +806,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "参加",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -836,7 +836,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "不参加",
-          "strWidth": 96.0
+          "strWidth": 234.65625
         }
       ]
     },
@@ -866,7 +866,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "查看能力",
-          "strWidth": 128.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -896,7 +896,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "退出",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -932,12 +932,12 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
+          "patternID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "最多只能让",
-          "strWidth": 160.0
+          "strWidth": 351.96875
         },
         {
           "patternID": 5,
@@ -953,7 +953,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "只宝可梦参加！",
-          "strWidth": 224.0
+          "strWidth": 232.90625
         }
       ]
     },
@@ -979,11 +979,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "还未选择必须参加的宝可梦。",
-          "strWidth": 416.0
+          "strWidth": 309.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "포켓몬이 선택되지 않았습니다",
+          "strWidth": 437.3125
         }
       ]
     },
@@ -1095,7 +1103,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在等待连线……",
-          "strWidth": 256.0
+          "strWidth": 181.3125
         },
         {
           "patternID": 0,
@@ -1103,7 +1111,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请稍候片刻。",
-          "strWidth": 192.0
+          "strWidth": 309.3125
         }
       ]
     },
@@ -1133,7 +1141,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "正在等待……",
-          "strWidth": 192.0
+          "strWidth": 106.65625
         }
       ]
     },
@@ -1192,7 +1200,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         },
         {
           "patternID": 5,

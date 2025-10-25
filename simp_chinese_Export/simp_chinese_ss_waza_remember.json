@@ -81,7 +81,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "持有物",
-          "strWidth": 96.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -203,8 +203,8 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "No.",
-          "strWidth": 48.90625
+          "str": "No。",
+          "strWidth": 56.59375
         },
         {
           "patternID": 5,
@@ -324,7 +324,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "HP",
-          "strWidth": 44.515625
+          "strWidth": 42.65625
         }
       ]
     },
@@ -414,7 +414,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "特攻",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -444,7 +444,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "特防",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -474,7 +474,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "速度",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -635,7 +635,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "-",
-          "strWidth": 14.84375
+          "strWidth": 12.15625
         }
       ]
     },
@@ -681,28 +681,36 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "要回想起",
-          "strWidth": 128.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
+          "str": "要回想起",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "吗？",
+          "strWidth": 0.0
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "吗？",
-          "strWidth": 64.0
+          "str": "떠올리게 하겠습니까?",
+          "strWidth": 316.4375
         }
       ]
     },
@@ -762,7 +770,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "否",
-          "strWidth": 32.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -798,19 +806,11 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "要放弃让",
-          "strWidth": 128.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "要放弃让",
           "strWidth": -1.0
         },
         {
@@ -819,15 +819,15 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "",
-          "strWidth": 0.0
+          "strWidth": 170.65625
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "回想起招式吗？",
-          "strWidth": 224.0
+          "str": "",
+          "strWidth": 529.75
         }
       ]
     },
@@ -863,19 +863,11 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "为了学习",
-          "strWidth": 128.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "为了学习",
           "strWidth": -1.0
         },
         {
@@ -883,16 +875,16 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "，",
-          "strWidth": 32.0
+          "str": "",
+          "strWidth": 74.65625
         },
         {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "请选择要忘记的招式！",
-          "strWidth": 320.0
+          "str": "，",
+          "strWidth": 467.53125
         }
       ]
     },
@@ -932,8 +924,8 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "Lv.",
-          "strWidth": 43.171875
+          "str": "Lv。",
+          "strWidth": 40.9375
         },
         {
           "patternID": 5,
@@ -1041,7 +1033,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         },
         {
           "patternID": 5,
@@ -1108,7 +1100,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         },
         {
           "patternID": 5,
@@ -1176,7 +1168,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "返回",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1222,28 +1214,36 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "要忘记",
-          "strWidth": 96.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
+          "str": "要忘记",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "吗？",
+          "strWidth": 0.0
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "吗？",
-          "strWidth": 64.0
+          "str": "잊게 하겠습니까?",
+          "strWidth": 252.4375
         }
       ]
     },
@@ -1373,19 +1373,35 @@
           "strWidth": -1.0
         },
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "把",
-          "strWidth": 32.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 1,
           "tagValue": 0.0,
+          "str": "把",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
           "str": "",
+          "strWidth": 10.65625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 3,
+          "tagValue": 0.0,
+          "str": "的使用方法忘得一干二净了！",
           "strWidth": -1.0
         },
         {
@@ -1401,8 +1417,8 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "的使用方法忘得一干二净了！",
-          "strWidth": 416.0
+          "str": "깨끗이 잊었다!",
+          "strWidth": 211.5625
         }
       ]
     },
@@ -1572,19 +1588,75 @@
           "strWidth": -1.0
         },
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "把",
-          "strWidth": 32.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 1,
           "tagValue": 0.0,
+          "str": "把",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
           "str": "",
+          "strWidth": 10.65625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 3,
+          "tagValue": 0.0,
+          "str": "的使用方法忘得一干二净了！",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "于是……！",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 211.5625
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "学会了",
+          "strWidth": 130.6875
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 4,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 5,
+          "tagValue": 0.0,
+          "str": "！",
           "strWidth": -1.0
         },
         {
@@ -1596,41 +1668,17 @@
           "strWidth": 0.0
         },
         {
-          "patternID": 7,
-          "eventID": 3,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "的使用方法忘得一干二净了！",
-          "strWidth": 416.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 3,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "于是……！",
-          "strWidth": 160.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 2,
+          "tagIndex": 6,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
         },
         {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "学会了",
-          "strWidth": 96.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 3,
+          "tagIndex": 7,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -1640,7 +1688,7 @@
           "eventID": 5,
           "tagIndex": -1,
           "tagValue": 4.0,
-          "str": "！",
+          "str": " 배웠다!",
           "strWidth": -1.0
         },
         {
@@ -1657,7 +1705,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "",
-          "strWidth": 0.0
+          "strWidth": -1.0
         }
       ]
     },
@@ -1693,19 +1741,11 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "为了学习",
-          "strWidth": 128.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "为了学习",
           "strWidth": -1.0
         },
         {
@@ -1713,16 +1753,16 @@
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "，",
-          "strWidth": 32.0
+          "str": "",
+          "strWidth": 74.65625
         },
         {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "请选择要忘记的招式！",
-          "strWidth": 320.0
+          "str": "，",
+          "strWidth": 467.53125
         }
       ]
     },
@@ -1768,28 +1808,36 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "要放弃学习",
-          "strWidth": 160.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
+          "str": "要放弃学习",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "吗？",
+          "strWidth": 0.0
         },
         {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "吗？",
-          "strWidth": 64.0
+          "str": "배우는 것을 포기하겠습니까?",
+          "strWidth": 423.09375
         }
       ]
     },
@@ -1855,36 +1903,12 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "要忘记",
-          "strWidth": 96.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "要忘记",
           "strWidth": -1.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "，",
-          "strWidth": 32.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "学习",
-          "strWidth": 64.0
         },
         {
           "patternID": 5,
@@ -1895,12 +1919,36 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "，",
+          "strWidth": 149.3125
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "学习",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 3,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "吗？",
-          "strWidth": 64.0
+          "strWidth": 295.09375
         }
       ]
     },

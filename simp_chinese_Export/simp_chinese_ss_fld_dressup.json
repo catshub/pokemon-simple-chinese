@@ -40,7 +40,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "零用钱",
-          "strWidth": 96.0
+          "strWidth": 64.0
         }
       ]
     },
@@ -193,7 +193,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "已购入",
-          "strWidth": 96.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -223,7 +223,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "没有物品",
-          "strWidth": 128.0
+          "strWidth": 266.65625
         }
       ]
     },
@@ -283,7 +283,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "否",
-          "strWidth": 32.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -319,20 +319,20 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "一共是",
-          "strWidth": 117.125
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "一共是",
           "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 160.0
         },
         {
           "patternID": 0,
@@ -340,7 +340,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "，要购买吗？",
-          "strWidth": 192.0
+          "strWidth": 241.78125
         }
       ]
     },
@@ -376,19 +376,11 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "一共是",
-          "strWidth": 117.125
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "一共是",
           "strWidth": -1.0
         },
         {
@@ -396,8 +388,16 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
+          "str": "",
+          "strWidth": 128.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
           "str": "。",
-          "strWidth": 32.0
+          "strWidth": 522.625
         },
         {
           "patternID": 0,
@@ -405,7 +405,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "以目前的穿著无法佩戴，确定购买吗？",
-          "strWidth": 544.0
+          "strWidth": 209.78125
         }
       ]
     },
@@ -435,7 +435,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "钱不够！",
-          "strWidth": 128.0
+          "strWidth": 243.5625
         }
       ]
     },
@@ -460,12 +460,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "这款风格之前已经购买。",
+          "strWidth": 170.65625
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "这款风格之前已经购买。",
-          "strWidth": 352.0
+          "str": "이미 구매했습니다",
+          "strWidth": 266.65625
         }
       ]
     },
@@ -495,7 +503,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "谢谢惠顾！",
-          "strWidth": 160.0
+          "strWidth": 414.21875
         },
         {
           "patternID": 0,
@@ -503,7 +511,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要换上购买的风格吗？",
-          "strWidth": 320.0
+          "strWidth": 241.78125
         }
       ]
     },
@@ -533,7 +541,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "非常感谢！",
-          "strWidth": 160.0
+          "strWidth": 168.90625
         }
       ]
     },
@@ -563,7 +571,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要换成这个风格吗？",
-          "strWidth": 288.0
+          "strWidth": 423.09375
         }
       ]
     },
@@ -593,7 +601,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "没有其他需要了吗？",
-          "strWidth": 288.0
+          "strWidth": 348.4375
         }
       ]
     },
@@ -623,7 +631,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "要结束换装吗？",
-          "strWidth": 224.0
+          "strWidth": 412.4375
         }
       ]
     },
@@ -659,20 +667,20 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": 21.125
-        },
-        {
           "patternID": 5,
-          "eventID": 7,
+          "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "",
           "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 32.0
         }
       ]
     },
@@ -732,7 +740,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "结束",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -762,7 +770,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "详细检视",
-          "strWidth": 128.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -792,7 +800,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "移除",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -822,7 +830,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "换装",
-          "strWidth": 64.0
+          "strWidth": 160.0
         }
       ]
     },
@@ -852,7 +860,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "放大",
-          "strWidth": 64.0
+          "strWidth": 74.65625
         }
       ]
     },
@@ -882,7 +890,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "缩小",
-          "strWidth": 64.0
+          "strWidth": 106.65625
         }
       ]
     },
@@ -912,7 +920,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "返回",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -942,7 +950,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "脱下外套",
-          "strWidth": 128.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -972,7 +980,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "穿上外套",
-          "strWidth": 128.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -1002,7 +1010,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "取消换装并结束",
-          "strWidth": 224.0
+          "strWidth": 309.3125
         }
       ]
     },
@@ -1032,7 +1040,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "我要买东西",
-          "strWidth": 160.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -1062,7 +1070,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "只是看看而已",
-          "strWidth": 192.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -1092,7 +1100,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "请到试衣间。",
-          "strWidth": 192.0
+          "strWidth": 446.21875
         }
       ]
     },
@@ -1143,15 +1151,15 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "感谢您平日的光临！",
-          "strWidth": 288.0
+          "strWidth": 234.65625
         },
         {
-          "patternID": 7,
-          "eventID": 4,
+          "patternID": 0,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "这是为您准备的特典，",
-          "strWidth": 320.0
+          "strWidth": 138.65625
         },
         {
           "patternID": 5,
@@ -1162,12 +1170,12 @@
           "strWidth": -1.0
         },
         {
-          "patternID": 0,
-          "eventID": 0,
+          "patternID": 7,
+          "eventID": 4,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "个",
-          "strWidth": 32.0
+          "strWidth": 0.0
         },
         {
           "patternID": 5,
@@ -1183,7 +1191,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "！",
-          "strWidth": 32.0
+          "strWidth": 275.5625
         }
       ]
     },
@@ -1213,7 +1221,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "谢谢光临！",
-          "strWidth": 160.0
+          "strWidth": 168.90625
         },
         {
           "patternID": 0,
@@ -1221,7 +1229,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "欢迎下次再来。",
-          "strWidth": 224.0
+          "strWidth": 254.21875
         }
       ]
     },
@@ -1281,7 +1289,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "选择风格",
-          "strWidth": 128.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -1362,7 +1370,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "哎呀！这位客人，请您等一下！",
-          "strWidth": 448.0
+          "strWidth": 220.46875
         },
         {
           "patternID": 7,
@@ -1370,31 +1378,31 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "您这次购物后，",
-          "strWidth": 224.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 3,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "所有的风格都购买完了！",
-          "strWidth": 352.0
-        },
-        {
-          "patternID": 7,
-          "eventID": 1,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "这只是我们的一点心意，",
-          "strWidth": 352.0
+          "strWidth": 586.625
         },
         {
           "patternID": 7,
           "eventID": 4,
           "tagIndex": -1,
           "tagValue": 0.0,
+          "str": "所有的风格都购买完了！",
+          "strWidth": 373.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "这只是我们的一点心意，",
+          "strWidth": 275.5625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
           "str": "请您收下",
-          "strWidth": 128.0
+          "strWidth": 202.65625
         },
         {
           "patternID": 5,
@@ -1405,12 +1413,20 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "！",
+          "strWidth": -1.0
+        },
+        {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "！",
-          "strWidth": 32.0
+          "str": " 드리겠습니다!",
+          "strWidth": 211.5625
         }
       ]
     },
@@ -1440,7 +1456,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "今后也请您多多惠顾",
-          "strWidth": 288.0
+          "strWidth": 607.96875
         },
         {
           "patternID": 0,
@@ -1448,7 +1464,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "挥指时尚精品馆！",
-          "strWidth": 256.0
+          "strWidth": 286.21875
         }
       ]
     }

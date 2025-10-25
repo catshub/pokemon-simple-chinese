@@ -70,7 +70,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "返回",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -130,7 +130,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "否",
-          "strWidth": 32.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -283,7 +283,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "所有人",
-          "strWidth": 96.0
+          "strWidth": 64.0
         }
       ]
     },
@@ -313,7 +313,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "从列表中移除",
-          "strWidth": 192.0
+          "strWidth": 298.65625
         }
       ]
     },
@@ -343,7 +343,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "取消",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -389,17 +389,17 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
+          "patternID": 5,
           "eventID": 0,
-          "tagIndex": -1,
+          "tagIndex": 0,
           "tagValue": 0.0,
           "str": "要将",
-          "strWidth": 64.0
+          "strWidth": -1.0
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 0,
+          "tagIndex": 1,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -418,7 +418,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "加入黑名单吗？",
-          "strWidth": 224.0
+          "strWidth": 455.09375
         }
       ]
     },
@@ -443,12 +443,20 @@
       "tagDataArray": [],
       "wordDataArray": [
         {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要将谁加入黑名单？",
+          "strWidth": 309.3125
+        },
+        {
           "patternID": 0,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "要将谁加入黑名单？",
-          "strWidth": 288.0
+          "str": "추가하겠습니까?",
+          "strWidth": 241.78125
         }
       ]
     },
@@ -478,7 +486,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "如果加入到黑名单，",
-          "strWidth": 288.0
+          "strWidth": 373.3125
         },
         {
           "patternID": 7,
@@ -486,7 +494,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "就无法再透过连线和对方一起玩。",
-          "strWidth": 480.0
+          "strWidth": 426.625
         },
         {
           "patternID": 0,
@@ -494,7 +502,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "确定要继续吗？",
-          "strWidth": 224.0
+          "strWidth": 284.4375
         }
       ]
     },
@@ -540,17 +548,17 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
+          "patternID": 5,
           "eventID": 0,
-          "tagIndex": -1,
+          "tagIndex": 0,
           "tagValue": 0.0,
           "str": "要将",
-          "strWidth": 64.0
+          "strWidth": -1.0
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 0,
+          "tagIndex": 1,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
@@ -561,7 +569,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "怎么样？",
-          "strWidth": 128.0
+          "strWidth": 295.09375
         }
       ]
     },
@@ -587,11 +595,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "黑名单中没有任何人。",
-          "strWidth": 320.0
+          "strWidth": 202.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "아무도 추가되어 있지 않습니다",
+          "strWidth": 447.96875
         }
       ]
     },
@@ -637,44 +653,60 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
+          "patternID": 5,
           "eventID": 0,
-          "tagIndex": -1,
+          "tagIndex": 0,
           "tagValue": 0.0,
           "str": "已将",
-          "strWidth": 64.0
+          "strWidth": -1.0
         },
         {
           "patternID": 5,
           "eventID": 0,
-          "tagIndex": 0,
+          "tagIndex": 1,
           "tagValue": 0.0,
           "str": "",
           "strWidth": -1.0
         },
         {
           "patternID": 7,
-          "eventID": 3,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "加入黑名单。",
-          "strWidth": 192.0
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "黑名单可于ＹＹ通讯的",
+          "strWidth": 405.3125
         },
         {
           "patternID": 7,
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "黑名单可于ＹＹ通讯的",
-          "strWidth": 320.0
+          "str": "「个人资讯」中查看。",
+          "strWidth": 351.375
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "“프로필”에서",
+          "strWidth": 186.75
         },
         {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "「个人资讯」中查看。",
-          "strWidth": 298.25
+          "str": "확인할 수 있습니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -740,28 +772,12 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "已将",
-          "strWidth": 64.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "已将",
           "strWidth": -1.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "和",
-          "strWidth": 32.0
         },
         {
           "patternID": 5,
@@ -772,11 +788,35 @@
           "strWidth": -1.0
         },
         {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "和",
+          "strWidth": 10.65625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 3,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
           "patternID": 7,
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "",
+          "str": "加入黑名单。",
           "strWidth": 0.0
         },
         {
@@ -784,24 +824,32 @@
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "加入黑名单。",
-          "strWidth": 192.0
+          "str": "黑名单可于ＹＹ通讯的",
+          "strWidth": 405.3125
         },
         {
           "patternID": 7,
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "黑名单可于ＹＹ通讯的",
-          "strWidth": 320.0
+          "str": "「个人资讯」中查看。",
+          "strWidth": 351.375
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "“프로필”에서",
+          "strWidth": 186.75
         },
         {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "「个人资讯」中查看。",
-          "strWidth": 298.25
+          "str": "확인할 수 있습니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -827,11 +875,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "该玩家已在黑名单里。",
-          "strWidth": 320.0
+          "strWidth": 277.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "추가된 사람입니다",
+          "strWidth": 266.65625
         }
       ]
     },
@@ -857,11 +913,19 @@
       "wordDataArray": [
         {
           "patternID": 7,
-          "eventID": 7,
+          "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "无法把自己加入黑名单。",
-          "strWidth": 352.0
+          "strWidth": 309.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "추가할 수 없습니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -937,28 +1001,12 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "已将",
-          "strWidth": 64.0
-        },
-        {
           "patternID": 5,
           "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "已将",
           "strWidth": -1.0
-        },
-        {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "、",
-          "strWidth": 32.0
         },
         {
           "patternID": 5,
@@ -969,12 +1017,12 @@
           "strWidth": -1.0
         },
         {
-          "patternID": 7,
-          "eventID": 1,
+          "patternID": 0,
+          "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "和",
-          "strWidth": 32.0
+          "str": "、",
+          "strWidth": 10.65625
         },
         {
           "patternID": 5,
@@ -986,27 +1034,75 @@
         },
         {
           "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "和",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 106.65625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 3,
+          "tagValue": 0.0,
+          "str": "加入黑名单。",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 4,
+          "tagValue": 0.0,
+          "str": "黑名单可于ＹＹ通讯的",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "「个人资讯」中查看。",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 7,
           "eventID": 3,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "加入黑名单。",
-          "strWidth": 192.0
+          "str": "차단 리스트에 추가했습니다",
+          "strWidth": 405.3125
         },
         {
           "patternID": 7,
           "eventID": 1,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "黑名单可于ＹＹ通讯的",
-          "strWidth": 320.0
+          "str": "차단 리스트는 YY통신의",
+          "strWidth": 351.375
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "“프로필”에서",
+          "strWidth": 186.75
         },
         {
           "patternID": 7,
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "「个人资讯」中查看。",
-          "strWidth": 298.25
+          "str": "확인할 수 있습니다",
+          "strWidth": 277.3125
         }
       ]
     },
@@ -1116,7 +1212,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         },
         {
           "patternID": 5,
@@ -1132,7 +1228,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         },
         {
           "patternID": 5,

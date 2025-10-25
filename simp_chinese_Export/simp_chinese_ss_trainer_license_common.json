@@ -130,7 +130,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "只",
-          "strWidth": 32.0
+          "strWidth": 64.0
         }
       ]
     },
@@ -199,7 +199,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         },
         {
           "patternID": 5,
@@ -215,7 +215,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "/",
-          "strWidth": 12.765625
+          "strWidth": 16.0
         },
         {
           "patternID": 5,
@@ -252,8 +252,8 @@
           "eventID": 7,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": "IDNo.",
-          "strWidth": 79.96875
+          "str": "IDNo。",
+          "strWidth": 91.875
         }
       ]
     },
@@ -384,7 +384,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "零用钱",
-          "strWidth": 96.0
+          "strWidth": 64.0
         }
       ]
     },
@@ -420,20 +420,20 @@
       ],
       "wordDataArray": [
         {
-          "patternID": 0,
-          "eventID": 0,
-          "tagIndex": -1,
-          "tagValue": 0.0,
-          "str": "",
-          "strWidth": 21.125
-        },
-        {
           "patternID": 5,
-          "eventID": 7,
+          "eventID": 0,
           "tagIndex": 0,
           "tagValue": 0.0,
-          "str": "",
+          "str": "",
           "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 32.0
         }
       ]
     },
@@ -463,7 +463,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "游戏时间",
-          "strWidth": 128.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -521,8 +521,8 @@
           "eventID": 0,
           "tagIndex": -1,
           "tagValue": 0.0,
-          "str": ":",
-          "strWidth": 8.765625
+          "str": "：",
+          "strWidth": 8.59375
         },
         {
           "patternID": 5,
@@ -560,7 +560,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "开始冒险的日期",
-          "strWidth": 224.0
+          "strWidth": 245.3125
         }
       ]
     },
@@ -590,7 +590,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "初次登入名人堂",
-          "strWidth": 224.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -620,7 +620,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "挖掘化石的次数",
-          "strWidth": 224.0
+          "strWidth": 287.96875
         }
       ]
     },
@@ -691,7 +691,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "找到的石像种类",
-          "strWidth": 224.0
+          "strWidth": 277.3125
         }
       ]
     },
@@ -762,7 +762,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "华丽大赛级别",
-          "strWidth": 192.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -792,7 +792,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "帅气华丽大赛",
-          "strWidth": 192.0
+          "strWidth": 224.0
         }
       ]
     },
@@ -822,7 +822,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "美丽华丽大赛",
-          "strWidth": 192.0
+          "strWidth": 256.0
         }
       ]
     },
@@ -852,7 +852,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "可爱华丽大赛",
-          "strWidth": 192.0
+          "strWidth": 224.0
         }
       ]
     },
@@ -882,7 +882,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "聪明华丽大赛",
-          "strWidth": 192.0
+          "strWidth": 256.0
         }
       ]
     },
@@ -912,7 +912,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "强壮华丽大赛",
-          "strWidth": 192.0
+          "strWidth": 224.0
         }
       ]
     },
@@ -972,7 +972,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "高手",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1002,7 +1002,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "究极",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -1032,7 +1032,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "大师",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -1062,7 +1062,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "制作宝芬的次数",
-          "strWidth": 224.0
+          "strWidth": 245.3125
         }
       ]
     },
@@ -1133,7 +1133,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "对战塔连胜",
-          "strWidth": 160.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -1305,7 +1305,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "大师级　单打",
-          "strWidth": 192.0
+          "strWidth": 277.3125
         }
       ]
     },
@@ -1376,7 +1376,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "大师级　双打",
-          "strWidth": 192.0
+          "strWidth": 277.3125
         }
       ]
     },
@@ -1447,7 +1447,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "翻到背面",
-          "strWidth": 128.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -1477,7 +1477,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "查看徽章",
-          "strWidth": 128.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -1507,7 +1507,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "查看卡片",
-          "strWidth": 128.0
+          "strWidth": 170.65625
         }
       ]
     },
@@ -1537,7 +1537,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "打开盒子",
-          "strWidth": 128.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -1567,7 +1567,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "关上盒子",
-          "strWidth": 128.0
+          "strWidth": 234.65625
         }
       ]
     },
@@ -1597,7 +1597,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "擦拭徽章",
-          "strWidth": 128.0
+          "strWidth": 202.65625
         }
       ]
     },
@@ -1627,7 +1627,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "轻敲徽章",
-          "strWidth": 128.0
+          "strWidth": 234.65625
         }
       ]
     },
@@ -1657,7 +1657,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "切换模式",
-          "strWidth": 128.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -1687,7 +1687,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "轻敲",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1717,7 +1717,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "擦拭",
-          "strWidth": 64.0
+          "strWidth": 96.0
         }
       ]
     },
@@ -1777,7 +1777,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "返回",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     },
@@ -1807,7 +1807,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "翻到正面",
-          "strWidth": 128.0
+          "strWidth": 138.65625
         }
       ]
     },
@@ -1837,7 +1837,7 @@
           "tagIndex": -1,
           "tagValue": 0.0,
           "str": "旋转",
-          "strWidth": 64.0
+          "strWidth": 128.0
         }
       ]
     }
