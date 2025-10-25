@@ -1,0 +1,4114 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3652094840918934080
+  },
+  "m_Name": "korean_ss_btl_state",
+  "hash": 1428977549,
+  "langID": 8,
+  "isResident": 0,
+  "isKanji": 0,
+  "labelDataArray": [
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "BTR_STATE_01_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "大晴天",
+          "strWidth": 96.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 1,
+      "arrayIndex": 1,
+      "labelName": "BTR_STATE_01_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "天气为晴朗状态。",
+          "strWidth": 256.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "火属性的招式威力会提高。",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "水属性的招式威力会降低。",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 2,
+      "arrayIndex": 2,
+      "labelName": "BTR_STATE_02_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "下雨",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 3,
+      "arrayIndex": 3,
+      "labelName": "BTR_STATE_02_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "天气为下雨状态。",
+          "strWidth": 256.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "水属性的招式威力会提高。",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "火属性的招式威力会降低。",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 4,
+      "arrayIndex": 4,
+      "labelName": "BTR_STATE_03_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "沙暴",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 5,
+      "arrayIndex": 5,
+      "labelName": "BTR_STATE_03_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "天气为沙暴状态。",
+          "strWidth": 256.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "岩石、地面和钢属性以外的宝可梦",
+          "strWidth": 480.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "每回合会受到伤害。",
+          "strWidth": 288.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "岩石属性宝可梦的特防会提高。",
+          "strWidth": 448.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 6,
+      "arrayIndex": 6,
+      "labelName": "BTR_STATE_04_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "冰雹",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 7,
+      "arrayIndex": 7,
+      "labelName": "BTR_STATE_04_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "天气为冰雹状态。",
+          "strWidth": 256.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "冰属性以外的宝可梦",
+          "strWidth": 288.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "每回合会受到伤害。",
+          "strWidth": 288.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 14,
+      "arrayIndex": 8,
+      "labelName": "BTR_STATE_08_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "戏法空间",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 15,
+      "arrayIndex": 9,
+      "labelName": "BTR_STATE_08_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在５回合内，",
+          "strWidth": 192.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "速度慢的宝可梦可以先行动。",
+          "strWidth": 416.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 20,
+      "arrayIndex": 10,
+      "labelName": "BTR_STATE_11_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "易中要害",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 21,
+      "arrayIndex": 11,
+      "labelName": "BTR_STATE_11_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "击中对手要害的机率变高。",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 22,
+      "arrayIndex": 12,
+      "labelName": "BTR_STATE_12_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "混乱",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 23,
+      "arrayIndex": 13,
+      "labelName": "BTR_STATE_12_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在１～４回合内，",
+          "strWidth": 256.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "有时会攻击自己。",
+          "strWidth": 256.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 24,
+      "arrayIndex": 14,
+      "labelName": "BTR_STATE_13_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "著迷",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 25,
+      "arrayIndex": 15,
+      "labelName": "BTR_STATE_13_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "♂对♀的攻击变得不易发动，",
+          "strWidth": 416.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "♀对♂的攻击变得不易发动。",
+          "strWidth": 416.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 8,
+      "arrayIndex": 16,
+      "labelName": "BTR_STATE_05_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "电气场地",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 9,
+      "arrayIndex": 17,
+      "labelName": "BTR_STATE_05_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在５回合内，",
+          "strWidth": 192.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "地面上的宝可梦不会陷入睡眠状态。",
+          "strWidth": 512.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "电属性的招式威力会提高。",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 28,
+      "arrayIndex": 18,
+      "labelName": "BTR_STATE_16_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "再来一次",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 29,
+      "arrayIndex": 19,
+      "labelName": "BTR_STATE_16_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "受到再来一次的攻击，",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "接下来３次行动就只能",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "使出",
+          "strWidth": 64.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "。",
+          "strWidth": 32.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 30,
+      "arrayIndex": 20,
+      "labelName": "BTR_STATE_17_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "特性消失",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 31,
+      "arrayIndex": 21,
+      "labelName": "BTR_STATE_17_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "特性消失，无法发挥效果。",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 32,
+      "arrayIndex": 22,
+      "labelName": "BTR_STATE_18_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "无理取闹",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 33,
+      "arrayIndex": 23,
+      "labelName": "BTR_STATE_18_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "无法连续使出同样的招式。",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 34,
+      "arrayIndex": 24,
+      "labelName": "BTR_STATE_19_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "顺风",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 35,
+      "arrayIndex": 25,
+      "labelName": "BTR_STATE_19_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在４回合内，",
+          "strWidth": 192.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "上场战斗的宝可梦速度会变成２倍。",
+          "strWidth": 512.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 36,
+      "arrayIndex": 26,
+      "labelName": "BTR_STATE_21_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "怨念",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 37,
+      "arrayIndex": 27,
+      "labelName": "BTR_STATE_21_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "受到对手的招式攻击而陷入濒死时，",
+          "strWidth": 512.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "该招式的ＰＰ会变成０。",
+          "strWidth": 352.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 10,
+      "arrayIndex": 28,
+      "labelName": "BTR_STATE_06_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "青草场地",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 11,
+      "arrayIndex": 29,
+      "labelName": "BTR_STATE_06_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在５回合内，",
+          "strWidth": 192.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "地面上的宝可梦会缓缓回复ＨＰ。",
+          "strWidth": 480.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "草属性的招式威力会提高。",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 12,
+      "arrayIndex": 30,
+      "labelName": "BTR_STATE_07_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "薄雾场地",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 13,
+      "arrayIndex": 31,
+      "labelName": "BTR_STATE_07_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在５回合内，",
+          "strWidth": 192.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "地面上的宝可梦不会陷入异常状态。",
+          "strWidth": 512.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "龙属性的招式伤害会减半。",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 38,
+      "arrayIndex": 32,
+      "labelName": "BTR_STATE_24_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "定身法",
+          "strWidth": 96.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 39,
+      "arrayIndex": 33,
+      "labelName": "BTR_STATE_24_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": -1,
+          "groupID": 25,
+          "tagID": 0,
+          "tagPatternID": 5,
+          "forceArticle": 0,
+          "tagParameter": 2,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在４回合内",
+          "strWidth": 160.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "无法使用",
+          "strWidth": 128.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "。",
+          "strWidth": 32.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 40,
+      "arrayIndex": 34,
+      "labelName": "BTR_STATE_25_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "无法逃走",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 41,
+      "arrayIndex": 35,
+      "labelName": "BTR_STATE_25_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "无法逃走或进行替换。",
+          "strWidth": 320.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 42,
+      "arrayIndex": 36,
+      "labelName": "BTR_STATE_26_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "锁定",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 43,
+      "arrayIndex": 37,
+      "labelName": "BTR_STATE_26_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在锁定后的下一回合，",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "招式一定会命中。",
+          "strWidth": 256.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 16,
+      "arrayIndex": 38,
+      "labelName": "BTR_STATE_09_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "魔法空间",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 17,
+      "arrayIndex": 39,
+      "labelName": "BTR_STATE_09_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在５回合内，",
+          "strWidth": 192.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "无法使用持有物。",
+          "strWidth": 256.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 44,
+      "arrayIndex": 40,
+      "labelName": "BTR_STATE_28_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "充电",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 45,
+      "arrayIndex": 41,
+      "labelName": "BTR_STATE_28_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在使用充电的下一回合，",
+          "strWidth": 352.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "电属性的招式威力会变成２倍。",
+          "strWidth": 448.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 46,
+      "arrayIndex": 42,
+      "labelName": "BTR_STATE_29_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "重力",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 47,
+      "arrayIndex": 43,
+      "labelName": "BTR_STATE_29_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在５回合内，",
+          "strWidth": 192.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "招式容易命中对手。",
+          "strWidth": 288.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "地面属性的招式也可以击中",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "飘浮特性和飞行属性的宝可梦。",
+          "strWidth": 448.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "无法使用飞向空中的招式。",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 48,
+      "arrayIndex": 44,
+      "labelName": "BTR_STATE_30_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "白雾",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 49,
+      "arrayIndex": 45,
+      "labelName": "BTR_STATE_30_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在５回合内，",
+          "strWidth": 192.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不会被降低能力。",
+          "strWidth": 256.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 50,
+      "arrayIndex": 46,
+      "labelName": "BTR_STATE_31_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "神秘守护",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 51,
+      "arrayIndex": 47,
+      "labelName": "BTR_STATE_31_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在５回合内，",
+          "strWidth": 192.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不会陷入异常状态。",
+          "strWidth": 288.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 52,
+      "arrayIndex": 48,
+      "labelName": "BTR_STATE_32_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "隐形岩",
+          "strWidth": 96.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 53,
+      "arrayIndex": 49,
+      "labelName": "BTR_STATE_32_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "替换出场的宝可梦",
+          "strWidth": 256.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "会受到伤害。",
+          "strWidth": 192.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 54,
+      "arrayIndex": 50,
+      "labelName": "BTR_STATE_33_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "蓄力",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 55,
+      "arrayIndex": 51,
+      "labelName": "BTR_STATE_33_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在蓄力的期间，",
+          "strWidth": 224.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "防御和特防会提高。",
+          "strWidth": 288.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 56,
+      "arrayIndex": 52,
+      "labelName": "BTR_STATE_34_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "挑衅",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 57,
+      "arrayIndex": 53,
+      "labelName": "BTR_STATE_34_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "只能使用给予对手伤害的招式。",
+          "strWidth": 448.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 58,
+      "arrayIndex": 56,
+      "labelName": "BTR_STATE_36_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "电磁飘浮",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 59,
+      "arrayIndex": 57,
+      "labelName": "BTR_STATE_36_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在５回合内，",
+          "strWidth": 192.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "地面属性的招式对自已没有效果。",
+          "strWidth": 480.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 60,
+      "arrayIndex": 58,
+      "labelName": "BTR_STATE_37_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "毒菱",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 61,
+      "arrayIndex": 59,
+      "labelName": "BTR_STATE_37_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "让被替换的宝可梦陷入中毒状态。",
+          "strWidth": 480.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "飞行属性和飘浮特性的宝可梦",
+          "strWidth": 416.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不会被击中。",
+          "strWidth": 192.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 18,
+      "arrayIndex": 60,
+      "labelName": "BTR_STATE_10_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "奇妙空间",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 19,
+      "arrayIndex": 61,
+      "labelName": "BTR_STATE_10_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在５回合内，",
+          "strWidth": 192.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "宝可梦的防御和特防会互换。",
+          "strWidth": 416.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 62,
+      "arrayIndex": 62,
+      "labelName": "BTR_STATE_39_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "祈愿",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 63,
+      "arrayIndex": 63,
+      "labelName": "BTR_STATE_39_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "使用祈愿后的下一回合，",
+          "strWidth": 352.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ＨＰ会回复。",
+          "strWidth": 192.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 66,
+      "arrayIndex": 64,
+      "labelName": "BTR_STATE_41_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "扎根",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 67,
+      "arrayIndex": 65,
+      "labelName": "BTR_STATE_41_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在每回合结束时回复ＨＰ。",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "扎根的宝可梦无法替换。",
+          "strWidth": 352.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 68,
+      "arrayIndex": 66,
+      "labelName": "BTR_STATE_42_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "诅咒",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 69,
+      "arrayIndex": 67,
+      "labelName": "BTR_STATE_42_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在每回合结束时减少ＨＰ。",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 26,
+      "arrayIndex": 68,
+      "labelName": "BTR_STATE_15_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "睡意",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 27,
+      "arrayIndex": 69,
+      "labelName": "BTR_STATE_15_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "被招式击中的下一回合，",
+          "strWidth": 352.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "会陷入睡眠状态。",
+          "strWidth": 256.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 70,
+      "arrayIndex": 70,
+      "labelName": "BTR_STATE_44_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "光墙",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 71,
+      "arrayIndex": 71,
+      "labelName": "BTR_STATE_44_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在５回合内，",
+          "strWidth": 192.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "受到的特殊攻击",
+          "strWidth": 224.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "威力会减半。",
+          "strWidth": 192.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 72,
+      "arrayIndex": 72,
+      "labelName": "BTR_STATE_45_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "反射壁",
+          "strWidth": 96.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 73,
+      "arrayIndex": 73,
+      "labelName": "BTR_STATE_45_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在５回合内，",
+          "strWidth": 192.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "受到的物理攻击",
+          "strWidth": 224.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "威力会减半。",
+          "strWidth": 192.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 74,
+      "arrayIndex": 74,
+      "labelName": "BTR_STATE_46_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "封印",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 75,
+      "arrayIndex": 75,
+      "labelName": "BTR_STATE_46_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "使出封印的宝可梦",
+          "strWidth": 256.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "所学会的招式，",
+          "strWidth": 224.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "对手将无法使用。",
+          "strWidth": 256.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 76,
+      "arrayIndex": 76,
+      "labelName": "BTR_STATE_47_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "灭亡之歌",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 77,
+      "arrayIndex": 77,
+      "labelName": "BTR_STATE_47_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "听了灭亡之歌的所有宝可梦",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "将在３回合后陷入濒死。",
+          "strWidth": 352.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 78,
+      "arrayIndex": 78,
+      "labelName": "BTR_STATE_48_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "撒菱",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 79,
+      "arrayIndex": 79,
+      "labelName": "BTR_STATE_48_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "替换出场的宝可梦会受到伤害。",
+          "strWidth": 448.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "对飞行属性和飘浮特性的",
+          "strWidth": 352.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "宝可梦没有效果。",
+          "strWidth": 256.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 80,
+      "arrayIndex": 80,
+      "labelName": "BTR_STATE_50_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "同命",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 81,
+      "arrayIndex": 81,
+      "labelName": "BTR_STATE_50_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "陷入濒死时，",
+          "strWidth": 192.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "攻击自己的对手",
+          "strWidth": 224.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "也会一同陷入濒死。",
+          "strWidth": 288.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 64,
+      "arrayIndex": 82,
+      "labelName": "BTR_STATE_40_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "黏黏网",
+          "strWidth": 96.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 65,
+      "arrayIndex": 83,
+      "labelName": "BTR_STATE_40_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "降低替换出场的宝可梦的速度。",
+          "strWidth": 448.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 82,
+      "arrayIndex": 84,
+      "labelName": "BTR_STATE_52_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "寄生种子",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 83,
+      "arrayIndex": 85,
+      "labelName": "BTR_STATE_52_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "每回合结束时，",
+          "strWidth": 224.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "会被寄生种子夺走ＨＰ，",
+          "strWidth": 352.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "同时回复对手的ＨＰ。",
+          "strWidth": 320.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 84,
+      "arrayIndex": 86,
+      "labelName": "BTR_STATE_53_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "锁定",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 85,
+      "arrayIndex": 87,
+      "labelName": "BTR_STATE_53_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "招式必定会命中锁定了的对手。",
+          "strWidth": 448.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 86,
+      "arrayIndex": 88,
+      "labelName": "BTR_STATE_54_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "束缚",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 87,
+      "arrayIndex": 89,
+      "labelName": "BTR_STATE_54_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "遭到束缚，",
+          "strWidth": 160.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "每回合都会受到伤害。",
+          "strWidth": 320.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 88,
+      "arrayIndex": 92,
+      "labelName": "BTR_STATE_56_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "逆鳞",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 89,
+      "arrayIndex": 93,
+      "labelName": "BTR_STATE_56_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在２～３回合内",
+          "strWidth": 224.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "疯狂乱打对手进行攻击。",
+          "strWidth": 352.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "大闹一番后自己会陷入混乱。",
+          "strWidth": 416.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 90,
+      "arrayIndex": 94,
+      "labelName": "BTR_STATE_57_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "大闹一番",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 91,
+      "arrayIndex": 95,
+      "labelName": "BTR_STATE_57_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在２～３回合内",
+          "strWidth": 224.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "疯狂乱打对手进行攻击。",
+          "strWidth": 352.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "大闹一番后自己会陷入混乱。",
+          "strWidth": 416.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 92,
+      "arrayIndex": 96,
+      "labelName": "BTR_STATE_58_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "花瓣舞",
+          "strWidth": 96.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 93,
+      "arrayIndex": 97,
+      "labelName": "BTR_STATE_58_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在２～３回合内",
+          "strWidth": 224.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "疯狂乱打对手进行攻击。",
+          "strWidth": 352.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "大闹一番后自己会陷入混乱。",
+          "strWidth": 416.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 94,
+      "arrayIndex": 98,
+      "labelName": "BTR_STATE_59_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "剧毒",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 95,
+      "arrayIndex": 99,
+      "labelName": "BTR_STATE_59_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "剧毒状态。",
+          "strWidth": 160.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "中毒伤害会随著回合的进行而增加。",
+          "strWidth": 512.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 96,
+      "arrayIndex": 100,
+      "labelName": "BTR_STATE_61_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "吵闹",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 97,
+      "arrayIndex": 101,
+      "labelName": "BTR_STATE_61_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在３回合内大吵大闹攻击对手，",
+          "strWidth": 448.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在这段期间所有宝可梦",
+          "strWidth": 320.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "都不会陷入睡眠状态。",
+          "strWidth": 320.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 98,
+      "arrayIndex": 102,
+      "labelName": "BTR_STATE_62_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "水流环",
+          "strWidth": 96.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 99,
+      "arrayIndex": 103,
+      "labelName": "BTR_STATE_62_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在自己的身边套上水流环。",
+          "strWidth": 384.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "每回合会回复自己的ＨＰ。",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 102,
+      "arrayIndex": 104,
+      "labelName": "BTR_STATE_64_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "击落",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 103,
+      "arrayIndex": 105,
+      "labelName": "BTR_STATE_64_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "被击落后掉到地面的状态。",
+          "strWidth": 384.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 100,
+      "arrayIndex": 106,
+      "labelName": "BTR_STATE_63_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "身体轻量化",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 101,
+      "arrayIndex": 107,
+      "labelName": "BTR_STATE_63_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "速度会大幅提高，",
+          "strWidth": 256.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "体重也会变轻。",
+          "strWidth": 224.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 104,
+      "arrayIndex": 110,
+      "labelName": "BTR_STATE_73_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "地狱突刺",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 105,
+      "arrayIndex": 111,
+      "labelName": "BTR_STATE_73_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在２回合内，",
+          "strWidth": 192.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "无法使出会发出声音的招式。",
+          "strWidth": 416.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 108,
+      "arrayIndex": 112,
+      "labelName": "BTR_STATE_75_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "磨砺",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 109,
+      "arrayIndex": 113,
+      "labelName": "BTR_STATE_75_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在使用磨砺的下一回合，",
+          "strWidth": 352.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "招式必定会击中要害。",
+          "strWidth": 320.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 106,
+      "arrayIndex": 120,
+      "labelName": "BTR_STATE_74_01",
+      "styleInfo": {
+        "styleIndex": 124,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "极光幕",
+          "strWidth": 96.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 107,
+      "arrayIndex": 121,
+      "labelName": "BTR_STATE_74_02",
+      "styleInfo": {
+        "styleIndex": 60,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "在５回合内，",
+          "strWidth": 192.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "物理与特殊攻击的威力会减半。",
+          "strWidth": 448.0
+        }
+      ]
+    }
+  ]
+}

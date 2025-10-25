@@ -1,132 +1,132 @@
 {
-    "m_GameObject": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "m_Enabled": 1,
-    "m_Script": {
-        "m_FileID": 0,
-        "m_PathID": 3652094840918934080
-    },
-    "m_Name": "korean_ss_language_select",
-    "hash": -1485582600,
-    "langID": 8,
-    "isResident": 0,
-    "isKanji": 0,
-    "labelDataArray": [
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3652094840918934080
+  },
+  "m_Name": "korean_ss_language_select",
+  "hash": -1485582600,
+  "langID": 8,
+  "isResident": 0,
+  "isKanji": 0,
+  "labelDataArray": [
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "SS_language_select_000",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
         {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "SS_language_select_000",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "어떤 언어로 플레이하겠습니까?",
-                    "strWidth": 455.09375
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "취소선이 없는 언어만 지원합니다",
-                    "strWidth": 479.96875
-                }
-            ]
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "어떤 언어로 플레이하겠습니까?",
+          "strWidth": 455.09375
         },
         {
-            "labelIndex": 1,
-            "arrayIndex": 1,
-            "labelName": "SS_language_select_003",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "히라가나/한자는 “설정”에서",
-                    "strWidth": 405.40625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "언제든지 변경할 수 있습니다",
-                    "strWidth": 415.96875
-                }
-            ]
-        },
-        {
-            "labelIndex": 2,
-            "arrayIndex": 2,
-            "labelName": "SS_language_select_004",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "선택한 언어로",
-                    "strWidth": 202.65625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "게임을 시작하겠습니까?",
-                    "strWidth": 348.4375
-                }
-            ]
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "취소선이 없는 언어만 지원합니다",
+          "strWidth": 479.96875
         }
-    ]
+      ]
+    },
+    {
+      "labelIndex": 1,
+      "arrayIndex": 1,
+      "labelName": "SS_language_select_003",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "히라가나/한자는 “설정”에서",
+          "strWidth": 405.40625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "언제든지 변경할 수 있습니다",
+          "strWidth": 415.96875
+        }
+      ]
+    },
+    {
+      "labelIndex": 2,
+      "arrayIndex": 2,
+      "labelName": "SS_language_select_004",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "선택한 언어로",
+          "strWidth": 202.65625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "게임을 시작하겠습니까?",
+          "strWidth": 348.4375
+        }
+      ]
+    }
+  ]
 }
