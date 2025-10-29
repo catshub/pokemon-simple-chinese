@@ -1,0 +1,4264 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "jpn_kanji_ss_btl_state",
+    "hash": 1428977549,
+    "langID": 1,
+    "isResident": 0,
+    "isKanji": 1,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "BTR_STATE_01_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "にほんばれ",
+                    "strWidth": 159.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "BTR_STATE_01_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "天気が　はれ状態。",
+                    "strWidth": 272.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ほのおタイプの　威力が　上がる。",
+                    "strWidth": 492.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "みずタイプの　威力が　下がる。",
+                    "strWidth": 460.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "BTR_STATE_02_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "あめ",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 3,
+            "arrayIndex": 3,
+            "labelName": "BTR_STATE_02_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "天気が　あめ状態。",
+                    "strWidth": 272.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "みずタイプの　威力が　上がる。",
+                    "strWidth": 460.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ほのおタイプの　威力が　下がる。",
+                    "strWidth": 492.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 4,
+            "arrayIndex": 4,
+            "labelName": "BTR_STATE_03_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "すなあらし",
+                    "strWidth": 157.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 5,
+            "arrayIndex": 5,
+            "labelName": "BTR_STATE_03_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "天気が　すなあらし状態。",
+                    "strWidth": 365.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "いわ　じめん　はがねタイプ以外は",
+                    "strWidth": 506.04998779296875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "毎ターン　ダメージを　受ける。",
+                    "strWidth": 458.0999755859375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "いわタイプの　とくぼうが　強くなる。",
+                    "strWidth": 545.9000244140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 6,
+            "arrayIndex": 6,
+            "labelName": "BTR_STATE_04_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "あられ",
+                    "strWidth": 96.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 7,
+            "arrayIndex": 7,
+            "labelName": "BTR_STATE_04_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "天気が　あられ状態。",
+                    "strWidth": 304.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "こおりタイプ以外は",
+                    "strWidth": 279.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "毎ターン　ダメージを　受ける。",
+                    "strWidth": 458.0999755859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 14,
+            "arrayIndex": 8,
+            "labelName": "BTR_STATE_08_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "トリックルーム",
+                    "strWidth": 213.10000610351562
+                }
+            ]
+        },
+        {
+            "labelIndex": 15,
+            "arrayIndex": 9,
+            "labelName": "BTR_STATE_08_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "５ターンの間　すばやさの",
+                    "strWidth": 373.95001220703125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "遅い　ポケモンから",
+                    "strWidth": 286.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "行動　できる。",
+                    "strWidth": 205.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 20,
+            "arrayIndex": 10,
+            "labelName": "BTR_STATE_11_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "きゅうしょアップ",
+                    "strWidth": 235.0500030517578
+                }
+            ]
+        },
+        {
+            "labelIndex": 21,
+            "arrayIndex": 11,
+            "labelName": "BTR_STATE_11_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "相手の　急所に",
+                    "strWidth": 223.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "当たる　率が　高くなる。",
+                    "strWidth": 364.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 22,
+            "arrayIndex": 12,
+            "labelName": "BTR_STATE_12_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "こんらん",
+                    "strWidth": 126.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 23,
+            "arrayIndex": 13,
+            "labelName": "BTR_STATE_12_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "１－４ターンの間　自分を",
+                    "strWidth": 367.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "攻撃　することが　ある。",
+                    "strWidth": 364.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 24,
+            "arrayIndex": 14,
+            "labelName": "BTR_STATE_13_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "メロメロ",
+                    "strWidth": 124.0999984741211
+                }
+            ]
+        },
+        {
+            "labelIndex": 25,
+            "arrayIndex": 15,
+            "labelName": "BTR_STATE_13_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "♂なら♀に　♀なら♂に",
+                    "strWidth": 350.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "攻撃が　しにくくなる。",
+                    "strWidth": 324.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 8,
+            "arrayIndex": 16,
+            "labelName": "BTR_STATE_05_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "エレキフィールド",
+                    "strWidth": 240.9499969482422
+                }
+            ]
+        },
+        {
+            "labelIndex": 9,
+            "arrayIndex": 17,
+            "labelName": "BTR_STATE_05_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "５ターンの間　地面に　いる",
+                    "strWidth": 405.95001220703125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケモンは　ねむり状態に",
+                    "strWidth": 378.95001220703125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ならない。",
+                    "strWidth": 144.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "でんきタイプの　威力が　上がる。",
+                    "strWidth": 489.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 28,
+            "arrayIndex": 18,
+            "labelName": "BTR_STATE_16_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "アンコール",
+                    "strWidth": 152.0500030517578
+                }
+            ]
+        },
+        {
+            "labelIndex": 29,
+            "arrayIndex": 19,
+            "labelName": "BTR_STATE_16_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 7,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "アンコールを　受けると",
+                    "strWidth": 342.0500183105469
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "３回　",
+                    "strWidth": 88.94999694824219
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "しか",
+                    "strWidth": 61.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "使えなくなる。",
+                    "strWidth": 204.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 30,
+            "arrayIndex": 20,
+            "labelName": "BTR_STATE_17_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "とくせいなし",
+                    "strWidth": 183.9499969482422
+                }
+            ]
+        },
+        {
+            "labelIndex": 31,
+            "arrayIndex": 21,
+            "labelName": "BTR_STATE_17_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "とくせいが　消えて",
+                    "strWidth": 279.8999938964844
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "効果が　なくなる。",
+                    "strWidth": 268.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 32,
+            "arrayIndex": 22,
+            "labelName": "BTR_STATE_18_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "いちゃもん",
+                    "strWidth": 158.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 33,
+            "arrayIndex": 23,
+            "labelName": "BTR_STATE_18_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "同じ技が　続けて　出せない。",
+                    "strWidth": 427.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 34,
+            "arrayIndex": 24,
+            "labelName": "BTR_STATE_19_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "おいかぜ",
+                    "strWidth": 128.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 35,
+            "arrayIndex": 25,
+            "labelName": "BTR_STATE_19_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "４ターンの間　戦闘に　出ている",
+                    "strWidth": 466.9000244140625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケモンの　すばやさが　２倍になる。",
+                    "strWidth": 549.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 36,
+            "arrayIndex": 26,
+            "labelName": "BTR_STATE_21_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "おんねん",
+                    "strWidth": 128.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 37,
+            "arrayIndex": 27,
+            "labelName": "BTR_STATE_21_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "相手の　技で　ひんしに　されたとき",
+                    "strWidth": 533.9500122070312
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "その技の　ＰＰを　０に　する。",
+                    "strWidth": 435.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 10,
+            "arrayIndex": 28,
+            "labelName": "BTR_STATE_06_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "グラスフィールド",
+                    "strWidth": 239.0500030517578
+                }
+            ]
+        },
+        {
+            "labelIndex": 11,
+            "arrayIndex": 29,
+            "labelName": "BTR_STATE_06_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "５ターンの間　地面に　いる",
+                    "strWidth": 405.95001220703125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケモンは　少しずつ　ＨＰが",
+                    "strWidth": 424.95001220703125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "回復する。",
+                    "strWidth": 144.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "くさタイプの　威力が　上がる。",
+                    "strWidth": 455.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 12,
+            "arrayIndex": 30,
+            "labelName": "BTR_STATE_07_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ミストフィールド",
+                    "strWidth": 234.9499969482422
+                }
+            ]
+        },
+        {
+            "labelIndex": 13,
+            "arrayIndex": 31,
+            "labelName": "BTR_STATE_07_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "５ターンの間　地面に　いる",
+                    "strWidth": 405.95001220703125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケモンは　状態異常に　ならない。",
+                    "strWidth": 525.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ドラゴンタイプの　技の　ダメージも",
+                    "strWidth": 530.0499877929688
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "半分になる。",
+                    "strWidth": 175.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 38,
+            "arrayIndex": 32,
+            "labelName": "BTR_STATE_24_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "かなしばり",
+                    "strWidth": 154.9499969482422
+                }
+            ]
+        },
+        {
+            "labelIndex": 39,
+            "arrayIndex": 33,
+            "labelName": "BTR_STATE_24_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 7,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "４ターンの間",
+                    "strWidth": 182.9499969482422
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "が",
+                    "strWidth": 32.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "使えなくなる。",
+                    "strWidth": 204.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 40,
+            "arrayIndex": 34,
+            "labelName": "BTR_STATE_25_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "にげられない",
+                    "strWidth": 191.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 41,
+            "arrayIndex": 35,
+            "labelName": "BTR_STATE_25_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "逃げたり　交代することが",
+                    "strWidth": 378.9000244140625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "できない。",
+                    "strWidth": 141.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 42,
+            "arrayIndex": 36,
+            "labelName": "BTR_STATE_26_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ロックオン",
+                    "strWidth": 152.10000610351562
+                }
+            ]
+        },
+        {
+            "labelIndex": 43,
+            "arrayIndex": 37,
+            "labelName": "BTR_STATE_26_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ロックオンした　次の　ターン",
+                    "strWidth": 435.1000061035156
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "技が　必ず　当たる。",
+                    "strWidth": 304.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 16,
+            "arrayIndex": 38,
+            "labelName": "BTR_STATE_09_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "マジックルーム",
+                    "strWidth": 217.10000610351562
+                }
+            ]
+        },
+        {
+            "labelIndex": 17,
+            "arrayIndex": 39,
+            "labelName": "BTR_STATE_09_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "５ターンの間　持ち物が",
+                    "strWidth": 342.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "使えなくなる。",
+                    "strWidth": 204.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 44,
+            "arrayIndex": 40,
+            "labelName": "BTR_STATE_28_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "じゅうでん",
+                    "strWidth": 152.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 45,
+            "arrayIndex": 41,
+            "labelName": "BTR_STATE_28_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "じゅうでんした　次の　ターンは",
+                    "strWidth": 467.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "でんきタイプの　威力が　２倍になる。",
+                    "strWidth": 545.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 46,
+            "arrayIndex": 42,
+            "labelName": "BTR_STATE_29_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "じゅうりょく",
+                    "strWidth": 177.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 47,
+            "arrayIndex": 43,
+            "labelName": "BTR_STATE_29_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "５ターンの間　技が",
+                    "strWidth": 278.95001220703125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "当たりやすくなる。",
+                    "strWidth": 265.95001220703125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ふゆうや　ひこうタイプに",
+                    "strWidth": 373.8999938964844
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "じめん技が　当たる。",
+                    "strWidth": 302.04998779296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "空中に　飛ぶ技が　使えない。",
+                    "strWidth": 431.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 48,
+            "arrayIndex": 44,
+            "labelName": "BTR_STATE_30_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "しろいきり",
+                    "strWidth": 153.9499969482422
+                }
+            ]
+        },
+        {
+            "labelIndex": 49,
+            "arrayIndex": 45,
+            "labelName": "BTR_STATE_30_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "５ターンの間　能力を",
+                    "strWidth": 310.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "下げられない。",
+                    "strWidth": 208.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 50,
+            "arrayIndex": 46,
+            "labelName": "BTR_STATE_31_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "しんぴのまもり",
+                    "strWidth": 216.9499969482422
+                }
+            ]
+        },
+        {
+            "labelIndex": 51,
+            "arrayIndex": 47,
+            "labelName": "BTR_STATE_31_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "５ターンの間",
+                    "strWidth": 182.9499969482422
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "状態異常に　ならない。",
+                    "strWidth": 335.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 52,
+            "arrayIndex": 48,
+            "labelName": "BTR_STATE_32_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ステルスロック",
+                    "strWidth": 216.10000610351562
+                }
+            ]
+        },
+        {
+            "labelIndex": 53,
+            "arrayIndex": 49,
+            "labelName": "BTR_STATE_32_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "入れ替わった　ポケモンに",
+                    "strWidth": 377.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ダメージを　与える。",
+                    "strWidth": 300.1000061035156
+                }
+            ]
+        },
+        {
+            "labelIndex": 54,
+            "arrayIndex": 50,
+            "labelName": "BTR_STATE_33_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "たくわえる",
+                    "strWidth": 156.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 55,
+            "arrayIndex": 51,
+            "labelName": "BTR_STATE_33_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "たくわえている間",
+                    "strWidth": 248.9499969482422
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ぼうぎょと　とくぼうが　上がる。",
+                    "strWidth": 483.8500061035156
+                }
+            ]
+        },
+        {
+            "labelIndex": 56,
+            "arrayIndex": 52,
+            "labelName": "BTR_STATE_34_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ちょうはつ",
+                    "strWidth": 155.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 57,
+            "arrayIndex": 53,
+            "labelName": "BTR_STATE_34_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ダメージを　与える　技しか",
+                    "strWidth": 409.1000061035156
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "出せなくなる。",
+                    "strWidth": 204.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 58,
+            "arrayIndex": 56,
+            "labelName": "BTR_STATE_36_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "でんじふゆう",
+                    "strWidth": 187.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 59,
+            "arrayIndex": 57,
+            "labelName": "BTR_STATE_36_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "５ターンの間　じめんタイプの",
+                    "strWidth": 433.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "技が　当たらなくなる。",
+                    "strWidth": 332.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 60,
+            "arrayIndex": 58,
+            "labelName": "BTR_STATE_37_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "どくびし",
+                    "strWidth": 118.94999694824219
+                }
+            ]
+        },
+        {
+            "labelIndex": 61,
+            "arrayIndex": 59,
+            "labelName": "BTR_STATE_37_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "入れ替わった　ポケモンを",
+                    "strWidth": 377.04998779296875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "どく状態にする。",
+                    "strWidth": 233.9499969482422
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ひこうタイプや　とくせいふゆう　の",
+                    "strWidth": 529.8499755859375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケモンには　当たらない。",
+                    "strWidth": 397.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 18,
+            "arrayIndex": 60,
+            "labelName": "BTR_STATE_10_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ワンダールーム",
+                    "strWidth": 221.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 19,
+            "arrayIndex": 61,
+            "labelName": "BTR_STATE_10_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "５ターンの間　ポケモンの",
+                    "strWidth": 372.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ぼうぎょと　とくぼうが　入れ替わる。",
+                    "strWidth": 547.8499755859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 62,
+            "arrayIndex": 62,
+            "labelName": "BTR_STATE_39_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ねがいごと",
+                    "strWidth": 157.9499969482422
+                }
+            ]
+        },
+        {
+            "labelIndex": 63,
+            "arrayIndex": 63,
+            "labelName": "BTR_STATE_39_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ねがいごとを　使った　次の",
+                    "strWidth": 409.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ターンに　ＨＰが　回復する。",
+                    "strWidth": 411.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 66,
+            "arrayIndex": 64,
+            "labelName": "BTR_STATE_41_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ねをはる",
+                    "strWidth": 127.05000305175781
+                }
+            ]
+        },
+        {
+            "labelIndex": 67,
+            "arrayIndex": 65,
+            "labelName": "BTR_STATE_41_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ターンの　最後に　ＨＰを",
+                    "strWidth": 363.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "回復する。",
+                    "strWidth": 144.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "根を　張った　ポケモンは",
+                    "strWidth": 377.04998779296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "交代　できない。",
+                    "strWidth": 237.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 68,
+            "arrayIndex": 66,
+            "labelName": "BTR_STATE_42_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "のろい",
+                    "strWidth": 96.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 69,
+            "arrayIndex": 67,
+            "labelName": "BTR_STATE_42_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ターンの　最後に　ＨＰを　へらす。",
+                    "strWidth": 507.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 26,
+            "arrayIndex": 68,
+            "labelName": "BTR_STATE_15_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ねむけ",
+                    "strWidth": 96.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 27,
+            "arrayIndex": 69,
+            "labelName": "BTR_STATE_15_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "技を　受けた　次の　ターン",
+                    "strWidth": 413.04998779296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ねむり状態に　なる。",
+                    "strWidth": 300.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 70,
+            "arrayIndex": 70,
+            "labelName": "BTR_STATE_44_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ひかりのかべ",
+                    "strWidth": 188.9499969482422
+                }
+            ]
+        },
+        {
+            "labelIndex": 71,
+            "arrayIndex": 71,
+            "labelName": "BTR_STATE_44_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "５ターンの間",
+                    "strWidth": 182.9499969482422
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "とくしゅこうげきで　受ける",
+                    "strWidth": 398.8999938964844
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "威力を　半減する。",
+                    "strWidth": 271.04998779296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 72,
+            "arrayIndex": 72,
+            "labelName": "BTR_STATE_45_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "リフレクター",
+                    "strWidth": 183.10000610351562
+                }
+            ]
+        },
+        {
+            "labelIndex": 73,
+            "arrayIndex": 73,
+            "labelName": "BTR_STATE_45_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "５ターンの間",
+                    "strWidth": 182.9499969482422
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ぶつりこうげきで　受ける",
+                    "strWidth": 374.8999938964844
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "威力を　半減する。",
+                    "strWidth": 271.04998779296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 74,
+            "arrayIndex": 74,
+            "labelName": "BTR_STATE_46_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ふういん",
+                    "strWidth": 126.94999694824219
+                }
+            ]
+        },
+        {
+            "labelIndex": 75,
+            "arrayIndex": 75,
+            "labelName": "BTR_STATE_46_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ふういんした　ポケモンが",
+                    "strWidth": 377.95001220703125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "覚えている　技を　対戦相手の",
+                    "strWidth": 444.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケモンは　出せなくなる。",
+                    "strWidth": 394.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 76,
+            "arrayIndex": 76,
+            "labelName": "BTR_STATE_47_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ほろびのうた",
+                    "strWidth": 189.9499969482422
+                }
+            ]
+        },
+        {
+            "labelIndex": 77,
+            "arrayIndex": 77,
+            "labelName": "BTR_STATE_47_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ほろびのうたを　聴いた",
+                    "strWidth": 349.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "すべての　ポケモンが",
+                    "strWidth": 314.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "３ターン後に　ひんしに　なる。",
+                    "strWidth": 448.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 78,
+            "arrayIndex": 78,
+            "labelName": "BTR_STATE_48_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "まきびし",
+                    "strWidth": 122.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 79,
+            "arrayIndex": 79,
+            "labelName": "BTR_STATE_48_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "入れ替わった　ポケモンに",
+                    "strWidth": 377.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ダメージを　与える。",
+                    "strWidth": 300.1000061035156
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ひこうタイプや　とくせいふゆう　の",
+                    "strWidth": 529.8499755859375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケモンには　当たらない。",
+                    "strWidth": 397.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 80,
+            "arrayIndex": 80,
+            "labelName": "BTR_STATE_50_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "みちづれ",
+                    "strWidth": 127.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 81,
+            "arrayIndex": 81,
+            "labelName": "BTR_STATE_50_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "自分を　ひんしにさせた　相手を",
+                    "strWidth": 472.0999755859375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "みちづれにして　ひんしにする。",
+                    "strWidth": 450.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 64,
+            "arrayIndex": 82,
+            "labelName": "BTR_STATE_40_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ねばねばネット",
+                    "strWidth": 216.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 65,
+            "arrayIndex": 83,
+            "labelName": "BTR_STATE_40_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "交代して　出てくる　ポケモンの",
+                    "strWidth": 464.8999938964844
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "すばやさを　下げる。",
+                    "strWidth": 302.04998779296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 82,
+            "arrayIndex": 84,
+            "labelName": "BTR_STATE_52_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "やどりぎのタネ",
+                    "strWidth": 219.89999389648438
+                }
+            ]
+        },
+        {
+            "labelIndex": 83,
+            "arrayIndex": 85,
+            "labelName": "BTR_STATE_52_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ターンの　最後に",
+                    "strWidth": 253.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "やどりぎによって　ＨＰを　奪い取られ",
+                    "strWidth": 545.8499755859375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "相手を　回復する。",
+                    "strWidth": 271.04998779296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 84,
+            "arrayIndex": 86,
+            "labelName": "BTR_STATE_53_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ロックオン",
+                    "strWidth": 152.10000610351562
+                }
+            ]
+        },
+        {
+            "labelIndex": 85,
+            "arrayIndex": 87,
+            "labelName": "BTR_STATE_53_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ロックオンした　相手に",
+                    "strWidth": 340.1000061035156
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "技が　必ず　命中する。",
+                    "strWidth": 336.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 86,
+            "arrayIndex": 88,
+            "labelName": "BTR_STATE_54_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "バインド",
+                    "strWidth": 120.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 87,
+            "arrayIndex": 89,
+            "labelName": "BTR_STATE_54_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "しめつけられて　毎ターン",
+                    "strWidth": 374.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ダメージを　受ける。",
+                    "strWidth": 300.1000061035156
+                }
+            ]
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 88,
+            "arrayIndex": 92,
+            "labelName": "BTR_STATE_56_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "げきりん",
+                    "strWidth": 124.94999694824219
+                }
+            ]
+        },
+        {
+            "labelIndex": 89,
+            "arrayIndex": 93,
+            "labelName": "BTR_STATE_56_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "２ー３ターンの間",
+                    "strWidth": 239.9499969482422
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "暴れまくって　攻撃する。",
+                    "strWidth": 355.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "暴れた　後は　こんらん　する。",
+                    "strWidth": 462.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 90,
+            "arrayIndex": 94,
+            "labelName": "BTR_STATE_57_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "あばれる",
+                    "strWidth": 128.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 91,
+            "arrayIndex": 95,
+            "labelName": "BTR_STATE_57_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "２ー３ターンの間",
+                    "strWidth": 239.9499969482422
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "暴れまくって　攻撃する。",
+                    "strWidth": 355.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "暴れた　後は　こんらん　する。",
+                    "strWidth": 462.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 92,
+            "arrayIndex": 96,
+            "labelName": "BTR_STATE_58_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "はなびらのまい",
+                    "strWidth": 222.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 93,
+            "arrayIndex": 97,
+            "labelName": "BTR_STATE_58_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "２ー３ターンの間",
+                    "strWidth": 239.9499969482422
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "暴れまくって　攻撃する。",
+                    "strWidth": 355.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "暴れた　後は　こんらん　する。",
+                    "strWidth": 462.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 94,
+            "arrayIndex": 98,
+            "labelName": "BTR_STATE_59_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "もうどく",
+                    "strWidth": 121.9000015258789
+                }
+            ]
+        },
+        {
+            "labelIndex": 95,
+            "arrayIndex": 99,
+            "labelName": "BTR_STATE_59_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "もうどく状態。",
+                    "strWidth": 201.89999389648438
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ターンが　進むほど",
+                    "strWidth": 284.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "どくの　ダメージが　増えていく。",
+                    "strWidth": 480.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 96,
+            "arrayIndex": 100,
+            "labelName": "BTR_STATE_61_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "さわぐ",
+                    "strWidth": 94.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 97,
+            "arrayIndex": 101,
+            "labelName": "BTR_STATE_61_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "３ターンの間　騒いで",
+                    "strWidth": 308.95001220703125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "相手を　攻撃する。",
+                    "strWidth": 271.04998779296875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "その間は",
+                    "strWidth": 128.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "誰も　眠れなくなる。",
+                    "strWidth": 300.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 98,
+            "arrayIndex": 102,
+            "labelName": "BTR_STATE_62_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "アクアリング",
+                    "strWidth": 177.3000030517578
+                }
+            ]
+        },
+        {
+            "labelIndex": 99,
+            "arrayIndex": 103,
+            "labelName": "BTR_STATE_62_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "自分の　からだの　周りを",
+                    "strWidth": 381.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "水で　作った　ベールで　覆う。",
+                    "strWidth": 454.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "毎ターン　ＨＰを　回復する。",
+                    "strWidth": 412.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 102,
+            "arrayIndex": 104,
+            "labelName": "BTR_STATE_64_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "うちおとす",
+                    "strWidth": 157.89999389648438
+                }
+            ]
+        },
+        {
+            "labelIndex": 103,
+            "arrayIndex": 105,
+            "labelName": "BTR_STATE_64_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "打ち落とされて　地面に",
+                    "strWidth": 345.8999938964844
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "落ちた　状態。",
+                    "strWidth": 208.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 100,
+            "arrayIndex": 106,
+            "labelName": "BTR_STATE_63_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ボディパージ",
+                    "strWidth": 185.9499969482422
+                }
+            ]
+        },
+        {
+            "labelIndex": 101,
+            "arrayIndex": 107,
+            "labelName": "BTR_STATE_63_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "すばやさが　ぐーんと　上がり",
+                    "strWidth": 442.9000244140625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "体重も　軽くなる。",
+                    "strWidth": 268.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 104,
+            "arrayIndex": 110,
+            "labelName": "BTR_STATE_73_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "じごくづき",
+                    "strWidth": 151.0500030517578
+                }
+            ]
+        },
+        {
+            "labelIndex": 105,
+            "arrayIndex": 111,
+            "labelName": "BTR_STATE_73_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "２ターンの間",
+                    "strWidth": 183.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "音を　出す　技が　出せない。",
+                    "strWidth": 431.04998779296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 108,
+            "arrayIndex": 112,
+            "labelName": "BTR_STATE_75_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "とぎすます",
+                    "strWidth": 156.9499969482422
+                }
+            ]
+        },
+        {
+            "labelIndex": 109,
+            "arrayIndex": 113,
+            "labelName": "BTR_STATE_75_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "とぎすますを　使った　次の",
+                    "strWidth": 408.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ターンは　技が　必ず",
+                    "strWidth": 318.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "急所に　当たる。",
+                    "strWidth": 239.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": 0,
+                "fontSize": 0,
+                "maxWidth": 0,
+                "controlID": 0
+            },
+            "attributeValueArray": [],
+            "tagDataArray": [],
+            "wordDataArray": []
+        },
+        {
+            "labelIndex": 106,
+            "arrayIndex": 120,
+            "labelName": "BTR_STATE_74_01",
+            "styleInfo": {
+                "styleIndex": 124,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 462,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "オーロラベール",
+                    "strWidth": 224.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 107,
+            "arrayIndex": 121,
+            "labelName": "BTR_STATE_74_02",
+            "styleInfo": {
+                "styleIndex": 60,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "５ターンの間",
+                    "strWidth": 182.9499969482422
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ぶつりと　とくしゅの　威力を",
+                    "strWidth": 431.89996337890625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "半減する。",
+                    "strWidth": 144.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4755 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "jpn_kanji_ss_net_net_btl",
+    "hash": 924455957,
+    "langID": 1,
+    "isResident": 0,
+    "isKanji": 1,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "SS_net_net_btl_001",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "シングルバトル",
+                    "strWidth": 215.10000610351562
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "SS_net_net_btl_002",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ダブルバトル",
+                    "strWidth": 186.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "SS_net_net_btl_004",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 7,
+            "arrayIndex": 3,
+            "labelName": "SS_net_net_btl_009",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "通信待機中",
+                    "strWidth": 160.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "しばらく　お待ちください",
+                    "strWidth": 372.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 8,
+            "arrayIndex": 4,
+            "labelName": "SS_net_net_btl_010",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "対戦を　やめますか？",
+                    "strWidth": 312.04998779296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 9,
+            "arrayIndex": 5,
+            "labelName": "SS_net_net_btl_011",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "通信から　抜けた　人が",
+                    "strWidth": 352.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "いるため　終了します",
+                    "strWidth": 316.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 10,
+            "arrayIndex": 6,
+            "labelName": "SS_net_net_btl_012",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "通信を",
+                    "strWidth": 95.05000305175781
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "終了しています",
+                    "strWidth": 216.9499969482422
+                }
+            ]
+        },
+        {
+            "labelIndex": 12,
+            "arrayIndex": 7,
+            "labelName": "SS_net_net_btl_015",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "さんが",
+                    "strWidth": 95.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "対戦ルールを　決めますか？",
+                    "strWidth": 408.04998779296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 13,
+            "arrayIndex": 8,
+            "labelName": "SS_net_net_btl_016",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ルールを　決める人を選びます",
+                    "strWidth": 444.0999755859375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "しばらく　お待ちください",
+                    "strWidth": 372.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 14,
+            "arrayIndex": 9,
+            "labelName": "SS_net_net_btl_017",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "さんが",
+                    "strWidth": 95.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ルールを　決めるのを　やめました",
+                    "strWidth": 506.0999755859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 15,
+            "arrayIndex": 10,
+            "labelName": "SS_net_net_btl_018",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "さんが",
+                    "strWidth": 95.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "対戦ルールを　決めています",
+                    "strWidth": 411.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 16,
+            "arrayIndex": 11,
+            "labelName": "SS_net_net_btl_019",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "対戦ルールを　決めてください",
+                    "strWidth": 439.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 17,
+            "arrayIndex": 12,
+            "labelName": "SS_net_net_btl_021",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ルールを　決めるのを",
+                    "strWidth": 318.0999755859375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "他の人に　おまかせしますか？",
+                    "strWidth": 436.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 18,
+            "arrayIndex": 13,
+            "labelName": "SS_net_net_btl_022",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ルールを　送っています",
+                    "strWidth": 343.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "しばらく　お待ちください",
+                    "strWidth": 372.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 19,
+            "arrayIndex": 14,
+            "labelName": "SS_net_net_btl_024",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "選ぶのを　やめて",
+                    "strWidth": 252.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "別の　対戦ルールに　しますか？",
+                    "strWidth": 469.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 20,
+            "arrayIndex": 15,
+            "labelName": "SS_net_net_btl_025",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "この　対戦ルールに",
+                    "strWidth": 285.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "参加しないことを　送っています",
+                    "strWidth": 464.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 21,
+            "arrayIndex": 16,
+            "labelName": "SS_net_net_btl_026",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "参加できない人が　いるため",
+                    "strWidth": 413.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "対戦ルールを　選びなおします",
+                    "strWidth": 442.04998779296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 22,
+            "arrayIndex": 17,
+            "labelName": "SS_net_net_btl_027",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "現在の　対戦ルールで",
+                    "strWidth": 318.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 4,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "参加できない　場合には",
+                    "strWidth": 348.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 4,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "「ルールを　変える」を",
+                    "strWidth": 318.0999755859375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "選んでください",
+                    "strWidth": 217.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 23,
+            "arrayIndex": 18,
+            "labelName": "SS_net_net_btl_028",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "他の　人を　待っています",
+                    "strWidth": 375.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "しばらく　お待ちください",
+                    "strWidth": 372.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 24,
+            "arrayIndex": 19,
+            "labelName": "SS_net_net_btl_029",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "参加する　ポケモンを",
+                    "strWidth": 317.04998779296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "選んで　ください",
+                    "strWidth": 249.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 25,
+            "arrayIndex": 20,
+            "labelName": "SS_net_net_btl_030",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 0,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "番目は",
+                    "strWidth": 96.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "誰に　しますか？",
+                    "strWidth": 245.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 26,
+            "arrayIndex": 21,
+            "labelName": "SS_net_net_btl_031",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "チームを　振り分けています",
+                    "strWidth": 408.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "しばらく　お待ちください",
+                    "strWidth": 372.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 27,
+            "arrayIndex": 22,
+            "labelName": "SS_net_net_btl_032",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "続けて　遊びますか？",
+                    "strWidth": 308.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 28,
+            "arrayIndex": 23,
+            "labelName": "SS_net_net_btl_033",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "相手を　待っています",
+                    "strWidth": 311.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 29,
+            "arrayIndex": 24,
+            "labelName": "SS_net_net_btl_034",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ルールを　変えずに",
+                    "strWidth": 286.04998779296875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "もう一度　対戦します",
+                    "strWidth": 314.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 30,
+            "arrayIndex": 25,
+            "labelName": "SS_net_net_btl_035",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ルールを　変えて",
+                    "strWidth": 252.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "もう一度　対戦します",
+                    "strWidth": 314.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 31,
+            "arrayIndex": 26,
+            "labelName": "SS_net_net_btl_036",
+            "styleInfo": {
+                "styleIndex": 49,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 714,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "はい",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 32,
+            "arrayIndex": 27,
+            "labelName": "SS_net_net_btl_037",
+            "styleInfo": {
+                "styleIndex": 49,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 714,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "いいえ",
+                    "strWidth": 96.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 33,
+            "arrayIndex": 28,
+            "labelName": "SS_net_net_btl_038",
+            "styleInfo": {
+                "styleIndex": 49,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 714,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "自分が　決める",
+                    "strWidth": 224.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 34,
+            "arrayIndex": 29,
+            "labelName": "SS_net_net_btl_039",
+            "styleInfo": {
+                "styleIndex": 49,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 714,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "相手に　おまかせ",
+                    "strWidth": 254.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 35,
+            "arrayIndex": 30,
+            "labelName": "SS_net_net_btl_041",
+            "styleInfo": {
+                "styleIndex": 49,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 714,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "もどる",
+                    "strWidth": 94.94999694824219
+                }
+            ]
+        },
+        {
+            "labelIndex": 36,
+            "arrayIndex": 31,
+            "labelName": "SS_net_net_btl_044",
+            "styleInfo": {
+                "styleIndex": 49,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 714,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "勝負開始！",
+                    "strWidth": 148.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 37,
+            "arrayIndex": 32,
+            "labelName": "SS_net_net_btl_045",
+            "styleInfo": {
+                "styleIndex": 49,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 714,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "同じルールで　遊ぶ",
+                    "strWidth": 284.04998779296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 38,
+            "arrayIndex": 33,
+            "labelName": "SS_net_net_btl_046",
+            "styleInfo": {
+                "styleIndex": 49,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 714,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ルールを変えて　遊ぶ",
+                    "strWidth": 316.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 40,
+            "arrayIndex": 34,
+            "labelName": "SS_net_net_btl_051",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "おまかせにする",
+                    "strWidth": 222.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 41,
+            "arrayIndex": 35,
+            "labelName": "SS_net_net_btl_052",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 42,
+            "arrayIndex": 36,
+            "labelName": "SS_net_net_btl_054",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "やめる",
+                    "strWidth": 96.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 43,
+            "arrayIndex": 37,
+            "labelName": "SS_net_net_btl_056",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "決定",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 45,
+            "arrayIndex": 38,
+            "labelName": "SS_net_net_btl_058",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "戻る",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 47,
+            "arrayIndex": 39,
+            "labelName": "SS_net_net_btl_062",
+            "styleInfo": {
+                "styleIndex": 38,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 336,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "選んでいます",
+                    "strWidth": 189.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 48,
+            "arrayIndex": 40,
+            "labelName": "SS_net_net_btl_063",
+            "styleInfo": {
+                "styleIndex": 38,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 336,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "完了！",
+                    "strWidth": 84.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 49,
+            "arrayIndex": 41,
+            "labelName": "SS_net_net_btl_064",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ノーマルルール",
+                    "strWidth": 218.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 50,
+            "arrayIndex": 42,
+            "labelName": "SS_net_net_btl_065",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "バトルタワールール",
+                    "strWidth": 283.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 51,
+            "arrayIndex": 43,
+            "labelName": "SS_net_net_btl_066",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "制限なし",
+                    "strWidth": 125.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 52,
+            "arrayIndex": 44,
+            "labelName": "SS_net_net_btl_067",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "参加する　チーム",
+                    "strWidth": 256.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 53,
+            "arrayIndex": 45,
+            "labelName": "SS_net_net_btl_069",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 57,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 54,
+            "arrayIndex": 46,
+            "labelName": "SS_net_net_btl_070",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "戦闘曲",
+                    "strWidth": 96.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 55,
+            "arrayIndex": 47,
+            "labelName": "SS_net_net_btl_071",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 61,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 56,
+            "arrayIndex": 48,
+            "labelName": "SS_net_net_btl_073",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "受け取った　対戦ルールに",
+                    "strWidth": 379.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "問題が　あります",
+                    "strWidth": 252.9499969482422
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "対戦ルールを",
+                    "strWidth": 191.0500030517578
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "選びなおします",
+                    "strWidth": 219.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 57,
+            "arrayIndex": 49,
+            "labelName": "SS_net_net_btl_075",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ルールを　決めるのを",
+                    "strWidth": 318.0999755859375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "他の人に　おまかせしますか？",
+                    "strWidth": 436.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 58,
+            "arrayIndex": 50,
+            "labelName": "SS_net_net_btl_076",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ルールを　送っています",
+                    "strWidth": 343.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "しばらく　お待ちください",
+                    "strWidth": 372.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 59,
+            "arrayIndex": 51,
+            "labelName": "SS_net_net_btl_077",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "送った　対戦ルールに",
+                    "strWidth": 315.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "問題が　あります",
+                    "strWidth": 252.9499969482422
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "対戦ルールを",
+                    "strWidth": 191.0500030517578
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "選びなおしてください",
+                    "strWidth": 307.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 60,
+            "arrayIndex": 52,
+            "labelName": "SS_net_net_btl_079",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "対戦ルールを",
+                    "strWidth": 191.0500030517578
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "選びなおします",
+                    "strWidth": 219.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 61,
+            "arrayIndex": 53,
+            "labelName": "SS_net_net_btl_080",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "選んだ　バトルチームに",
+                    "strWidth": 347.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "問題が　あります",
+                    "strWidth": 252.9499969482422
+                }
+            ]
+        },
+        {
+            "labelIndex": 62,
+            "arrayIndex": 54,
+            "labelName": "SS_net_net_btl_081",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "相手の　バトルチームに",
+                    "strWidth": 347.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "問題が　あります",
+                    "strWidth": 252.9499969482422
+                }
+            ]
+        },
+        {
+            "labelIndex": 63,
+            "arrayIndex": 55,
+            "labelName": "SS_net_net_btl_090",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "追加した　人とは　二度と",
+                    "strWidth": 378.9000244140625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "通信で　遊べなくなります",
+                    "strWidth": 374.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "本当に　よろしいですか？",
+                    "strWidth": 372.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 64,
+            "arrayIndex": 56,
+            "labelName": "SS_net_net_btl_092",
+            "styleInfo": {
+                "styleIndex": 30,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "誰を　おことわりリストに",
+                    "strWidth": 370.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "追加しますか？",
+                    "strWidth": 214.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 65,
+            "arrayIndex": 57,
+            "labelName": "SS_net_net_btl_094",
+            "styleInfo": {
+                "styleIndex": 110,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 768,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "対戦するチームを　選んでください",
+                    "strWidth": 504.04998779296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 66,
+            "arrayIndex": 58,
+            "labelName": "SS_net_net_btl_095",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "チームの振り分けを　決めてください",
+                    "strWidth": 532.9500122070312
+                }
+            ]
+        },
+        {
+            "labelIndex": 67,
+            "arrayIndex": 59,
+            "labelName": "SS_net_net_btl_096",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 73,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 68,
+            "arrayIndex": 60,
+            "labelName": "SS_net_net_btl_097",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ルールを　変える",
+                    "strWidth": 255.0500030517578
+                }
+            ]
+        },
+        {
+            "labelIndex": 69,
+            "arrayIndex": 61,
+            "labelName": "SS_net_net_btl_098",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "この　対戦では",
+                    "strWidth": 220.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 4,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケモンの　ニックネームが",
+                    "strWidth": 408.1000061035156
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 4,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "通信相手から",
+                    "strWidth": 192.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "見られるように　なっています",
+                    "strWidth": 437.9000244140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 70,
+            "arrayIndex": 62,
+            "labelName": "SS_net_net_btl_099",
+            "styleInfo": {
+                "styleIndex": 34,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 168,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "やめる",
+                    "strWidth": 96.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 71,
+            "arrayIndex": 63,
+            "labelName": "SS_net_net_btl_100",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "チームミックス",
+                    "strWidth": 215.10000610351562
+                }
+            ]
+        },
+        {
+            "labelIndex": 72,
+            "arrayIndex": 64,
+            "labelName": "SS_net_net_btl_101",
+            "styleInfo": {
+                "styleIndex": 57,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 840,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ミックスチームが　決まりました！",
+                    "strWidth": 484.0500183105469
+                }
+            ]
+        },
+        {
+            "labelIndex": 3,
+            "arrayIndex": 65,
+            "labelName": "SS_net_net_btl_005",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ａチーム１",
+                    "strWidth": 144.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 4,
+            "arrayIndex": 66,
+            "labelName": "SS_net_net_btl_006",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ａチーム２",
+                    "strWidth": 144.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 73,
+            "arrayIndex": 67,
+            "labelName": "SS_net_net_btl_104",
+            "styleInfo": {
+                "styleIndex": 35,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 210,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 74,
+            "arrayIndex": 68,
+            "labelName": "SS_net_net_btl_105",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 1,
+                    "groupID": 2,
+                    "tagID": 1,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 5,
+            "arrayIndex": 69,
+            "labelName": "SS_net_net_btl_007",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ｂチーム１",
+                    "strWidth": 143.0500030517578
+                }
+            ]
+        },
+        {
+            "labelIndex": 6,
+            "arrayIndex": 70,
+            "labelName": "SS_net_net_btl_008",
+            "styleInfo": {
+                "styleIndex": 37,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 294,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ｂチーム２",
+                    "strWidth": 143.0500030517578
+                }
+            ]
+        },
+        {
+            "labelIndex": 11,
+            "arrayIndex": 71,
+            "labelName": "SS_net_net_btl_013",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "対戦ルールを　決める人を",
+                    "strWidth": 382.0999755859375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "選びます",
+                    "strWidth": 126.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 44,
+            "arrayIndex": 72,
+            "labelName": "SS_net_net_btl_057",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "完了",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 75,
+            "arrayIndex": 73,
+            "labelName": "SS_net_net_btl_106",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "どちらの　通信で",
+                    "strWidth": 252.9499969482422
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "対戦　しますか？",
+                    "strWidth": 246.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 76,
+            "arrayIndex": 74,
+            "labelName": "SS_net_net_btl_107",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "インターネット",
+                    "strWidth": 212.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 77,
+            "arrayIndex": 75,
+            "labelName": "SS_net_net_btl_108",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ローカル通信",
+                    "strWidth": 192.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 78,
+            "arrayIndex": 76,
+            "labelName": "SS_net_net_btl_109",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "やめる",
+                    "strWidth": 96.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 79,
+            "arrayIndex": 77,
+            "labelName": "SS_net_net_btl_110",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "コロシアムに　入りますか？",
+                    "strWidth": 399.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 80,
+            "arrayIndex": 78,
+            "labelName": "SS_net_net_btl_111",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "それでは　コロシアムを",
+                    "strWidth": 342.0999755859375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "お楽しみ　ください！",
+                    "strWidth": 300.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 81,
+            "arrayIndex": 79,
+            "labelName": "SS_net_net_btl_112",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "コロシアムから　退出　します",
+                    "strWidth": 437.04998779296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "よろしいですか？",
+                    "strWidth": 245.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 82,
+            "arrayIndex": 80,
+            "labelName": "SS_net_net_btl_113",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "通信を　終了　しています",
+                    "strWidth": 376.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "しばらく　お待ちください",
+                    "strWidth": 372.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 84,
+            "arrayIndex": 81,
+            "labelName": "SS_net_net_btl_114",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "準備が　できるまで　お待ちください",
+                    "strWidth": 533.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ｂボタン：やめる",
+                    "strWidth": 244.0500030517578
+                }
+            ]
+        },
+        {
+            "labelIndex": 85,
+            "arrayIndex": 82,
+            "labelName": "SS_net_net_btl_115",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "やめる",
+                    "strWidth": 96.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 86,
+            "arrayIndex": 83,
+            "labelName": "SS_net_net_btl_116",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "相手が　バトルルールの　変更を",
+                    "strWidth": 475.04998779296875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "提案　しています",
+                    "strWidth": 248.9499969482422
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "よろしいですか？",
+                    "strWidth": 245.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 87,
+            "arrayIndex": 84,
+            "labelName": "SS_net_net_btl_117",
+            "styleInfo": {
+                "styleIndex": 43,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 504,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 85,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "新しい　ルール：",
+                    "strWidth": 253.0
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 7,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 88,
+            "arrayIndex": 85,
+            "labelName": "SS_net_net_btl_118",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "準備が　できました！",
+                    "strWidth": 301.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "通信対戦を　始めます！",
+                    "strWidth": 338.04998779296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 89,
+            "arrayIndex": 86,
+            "labelName": "SS_net_net_btl_119",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "コロシアムへ　ようこそ",
+                    "strWidth": 342.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "なにか　わからないことが　ありましたら",
+                    "strWidth": 597.9000244140625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "お申しつけ　くださいませ！",
+                    "strWidth": 394.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 83,
+            "arrayIndex": 87,
+            "labelName": "SS_net_net_btl_124",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "コロシアムから　抜けた人が　いるため",
+                    "strWidth": 569.0499877929688
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "通信を　終了　します",
+                    "strWidth": 315.04998779296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 90,
+            "arrayIndex": 88,
+            "labelName": "SS_net_net_btl_121",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "コロシアムでは　さまざまな",
+                    "strWidth": 403.04998779296875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ルールで　対戦　できます",
+                    "strWidth": 378.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "全員が　所定の　位置に　つけば",
+                    "strWidth": 478.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "対戦が　始まります",
+                    "strWidth": 283.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 91,
+            "arrayIndex": 89,
+            "labelName": "SS_net_net_btl_122",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "バトルルールを　変更します",
+                    "strWidth": 407.04998779296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "よろしいですか？",
+                    "strWidth": 245.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 92,
+            "arrayIndex": 90,
+            "labelName": "SS_net_net_btl_123",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "マルチバトルでは",
+                    "strWidth": 250.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 3,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ルールの　変更が　できません",
+                    "strWidth": 444.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "変更したい　場合は",
+                    "strWidth": 285.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 4,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "コロシアムから　一度　退出して",
+                    "strWidth": 467.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ルールを　選び直して　ください",
+                    "strWidth": 467.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 93,
+            "arrayIndex": 91,
+            "labelName": "SS_net_net_btl_125",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "対戦相手を　探しています",
+                    "strWidth": 376.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 94,
+            "arrayIndex": 92,
+            "labelName": "SS_net_net_btl_126",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "対戦相手が　決まりました！",
+                    "strWidth": 396.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "通信対戦を　始めます！",
+                    "strWidth": 338.04998779296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 95,
+            "arrayIndex": 93,
+            "labelName": "SS_net_net_btl_127",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "やめる",
+                    "strWidth": 96.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 96,
+            "arrayIndex": 94,
+            "labelName": "SS_net_net_btl_128",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "決定",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 97,
+            "arrayIndex": 95,
+            "labelName": "SS_net_net_btl_129",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "チーム登録",
+                    "strWidth": 160.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 98,
+            "arrayIndex": 96,
+            "labelName": "SS_net_net_btl_130",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "戻る",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 99,
+            "arrayIndex": 97,
+            "labelName": "SS_net_net_btl_131",
+            "styleInfo": {
+                "styleIndex": 42,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 504,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "チームが　ありません",
+                    "strWidth": 316.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 100,
+            "arrayIndex": 98,
+            "labelName": "SS_net_net_btl_132",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "このチームで　よろしいですか？",
+                    "strWidth": 465.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 101,
+            "arrayIndex": 99,
+            "labelName": "SS_net_net_btl_133",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "同じ　種類の",
+                    "strWidth": 190.0500030517578
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケモンが　います",
+                    "strWidth": 285.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 102,
+            "arrayIndex": 100,
+            "labelName": "SS_net_net_btl_134",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "参加する　ポケモンの　数が",
+                    "strWidth": 414.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "不足　しています",
+                    "strWidth": 248.9499969482422
+                }
+            ]
+        },
+        {
+            "labelIndex": 108,
+            "arrayIndex": 101,
+            "labelName": "SS_net_net_btl_135",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "こちらの　ルールで",
+                    "strWidth": 284.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "よろしいですか？",
+                    "strWidth": 245.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 109,
+            "arrayIndex": 102,
+            "labelName": "SS_net_net_btl_136",
+            "styleInfo": {
+                "styleIndex": 35,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 210,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "相手",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 110,
+            "arrayIndex": 103,
+            "labelName": "SS_net_net_btl_137",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "お互いの　ポケモンを",
+                    "strWidth": 317.04998779296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ミックスします！",
+                    "strWidth": 231.10000610351562
+                }
+            ]
+        },
+        {
+            "labelIndex": 103,
+            "arrayIndex": 104,
+            "labelName": "SS_net_net_btl_141",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "タマゴは",
+                    "strWidth": 127.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "参加することが　できません",
+                    "strWidth": 408.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 104,
+            "arrayIndex": 105,
+            "labelName": "SS_net_net_btl_142",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "参加できない　ポケモンが　います",
+                    "strWidth": 506.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 105,
+            "arrayIndex": 106,
+            "labelName": "SS_net_net_btl_143",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "同じ　道具を　持っている",
+                    "strWidth": 374.0500183105469
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケモンが　います",
+                    "strWidth": 285.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 106,
+            "arrayIndex": 107,
+            "labelName": "SS_net_net_btl_144",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "バトルチームの　ポケモンに",
+                    "strWidth": 409.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "問題が　あります",
+                    "strWidth": 252.9499969482422
+                }
+            ]
+        },
+        {
+            "labelIndex": 107,
+            "arrayIndex": 108,
+            "labelName": "SS_net_net_btl_145",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "参加する　ポケモンに",
+                    "strWidth": 317.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "問題が　あります",
+                    "strWidth": 252.9499969482422
+                }
+            ]
+        },
+        {
+            "labelIndex": 111,
+            "arrayIndex": 109,
+            "labelName": "SS_net_net_btl_138",
+            "styleInfo": {
+                "styleIndex": 42,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 504,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "チーム選択",
+                    "strWidth": 160.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 112,
+            "arrayIndex": 110,
+            "labelName": "SS_net_net_btl_139",
+            "styleInfo": {
+                "styleIndex": 46,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 588,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "バトルルール選択",
+                    "strWidth": 252.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 113,
+            "arrayIndex": 111,
+            "labelName": "SS_net_net_btl_140",
+            "styleInfo": {
+                "styleIndex": 42,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 504,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ルール決定！",
+                    "strWidth": 180.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 115,
+            "arrayIndex": 112,
+            "labelName": "SS_net_net_btl_146",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケモンの数",
+                    "strWidth": 190.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 116,
+            "arrayIndex": 113,
+            "labelName": "SS_net_net_btl_147",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケモンのレベル",
+                    "strWidth": 253.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 117,
+            "arrayIndex": 114,
+            "labelName": "SS_net_net_btl_148",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "特別なポケモン",
+                    "strWidth": 222.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 118,
+            "arrayIndex": 115,
+            "labelName": "SS_net_net_btl_149",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "同じポケモン",
+                    "strWidth": 188.0500030517578
+                }
+            ]
+        },
+        {
+            "labelIndex": 119,
+            "arrayIndex": 116,
+            "labelName": "SS_net_net_btl_150",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "同じ道具",
+                    "strWidth": 126.05000305175781
+                }
+            ]
+        },
+        {
+            "labelIndex": 120,
+            "arrayIndex": 117,
+            "labelName": "SS_net_net_btl_151",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 0,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "匹",
+                    "strWidth": 32.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 121,
+            "arrayIndex": 118,
+            "labelName": "SS_net_net_btl_152",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 2,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "以上",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 122,
+            "arrayIndex": 119,
+            "labelName": "SS_net_net_btl_153",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 0,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": 1,
+                    "groupID": 2,
+                    "tagID": 0,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "～",
+                    "strWidth": 32.0
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "匹",
+                    "strWidth": 32.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 123,
+            "arrayIndex": 120,
+            "labelName": "SS_net_net_btl_154",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 2,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "すべて",
+                    "strWidth": 92.94999694824219
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "にする",
+                    "strWidth": 95.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 124,
+            "arrayIndex": 121,
+            "labelName": "SS_net_net_btl_155",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 2,
+                    "tagID": 2,
+                    "tagPatternID": 1,
+                    "forceArticle": 0,
+                    "tagParameter": 205,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "までにする",
+                    "strWidth": 156.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 125,
+            "arrayIndex": 122,
+            "labelName": "SS_net_net_btl_156",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "参加できる",
+                    "strWidth": 157.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 126,
+            "arrayIndex": 123,
+            "labelName": "SS_net_net_btl_157",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "参加できない",
+                    "strWidth": 189.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 127,
+            "arrayIndex": 124,
+            "labelName": "SS_net_net_btl_158",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "持たせられる",
+                    "strWidth": 192.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 128,
+            "arrayIndex": 125,
+            "labelName": "SS_net_net_btl_159",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "持たせられない",
+                    "strWidth": 224.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 129,
+            "arrayIndex": 126,
+            "labelName": "SS_net_net_btl_160",
+            "styleInfo": {
+                "styleIndex": 87,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 384,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "制限なし",
+                    "strWidth": 125.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 114,
+            "arrayIndex": 127,
+            "labelName": "SS_net_net_btl_161",
+            "styleInfo": {
+                "styleIndex": 7,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 540,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "バトルルール",
+                    "strWidth": 188.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 46,
+            "arrayIndex": 128,
+            "labelName": "SS_net_net_btl_061",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ルール確認",
+                    "strWidth": 160.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 39,
+            "arrayIndex": 129,
+            "labelName": "SS_net_net_btl_162",
+            "styleInfo": {
+                "styleIndex": 49,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 714,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "やめる",
+                    "strWidth": 96.0
+                }
+            ]
+        }
+    ]
+}

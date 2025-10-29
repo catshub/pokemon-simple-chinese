@@ -1,0 +1,3339 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "spanish_ss_xmenu_timeline",
+    "hash": -578219154,
+    "langID": 7,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "ui_msg_xmenu_timeline_info_00",
+            "styleInfo": {
+                "styleIndex": 36,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 252,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ver mapa",
+                    "strWidth": 124.859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "ui_msg_xmenu_timeline_guide_01",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": -1,
+                    "groupID": 23,
+                    "tagID": 0,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 255,
+                    "tagWordArray": [
+                        "o",
+                        "a"
+                    ],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "¡Bienvenid",
+                    "strWidth": 134.25
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " al mundo de los Pokémon!",
+                    "strWidth": 351.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "ui_msg_xmenu_timeline_guide_02",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Mira a ver qué echan en la tele.",
+                    "strWidth": 411.75
+                }
+            ]
+        },
+        {
+            "labelIndex": 3,
+            "arrayIndex": 3,
+            "labelName": "ui_msg_xmenu_timeline_guide_03",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ve al piso de abajo.",
+                    "strWidth": 260.75
+                }
+            ]
+        },
+        {
+            "labelIndex": 4,
+            "arrayIndex": 4,
+            "labelName": "ui_msg_xmenu_timeline_guide_04",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 1,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ve a buscar a ",
+                    "strWidth": 184.5
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": ".",
+                    "strWidth": 7.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 5,
+            "arrayIndex": 5,
+            "labelName": "ui_msg_xmenu_timeline_guide_05",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 1,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ve a ver qué tal está ",
+                    "strWidth": 277.78125
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": ".",
+                    "strWidth": 7.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 6,
+            "arrayIndex": 6,
+            "labelName": "ui_msg_xmenu_timeline_guide_06",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Dirígete al Lago Veraz.",
+                    "strWidth": 299.71875
+                }
+            ]
+        },
+        {
+            "labelIndex": 7,
+            "arrayIndex": 7,
+            "labelName": "ui_msg_xmenu_timeline_guide_07",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Devuelve al Pokémon.",
+                    "strWidth": 289.53125
+                }
+            ]
+        },
+        {
+            "labelIndex": 8,
+            "arrayIndex": 8,
+            "labelName": "ui_msg_xmenu_timeline_guide_08",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Visita el Laboratorio Pokémon.",
+                    "strWidth": 400.671875
+                }
+            ]
+        },
+        {
+            "labelIndex": 9,
+            "arrayIndex": 9,
+            "labelName": "ui_msg_xmenu_timeline_guide_09",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Avisa a tu madre de que te vas de aventura.",
+                    "strWidth": 570.15625
+                }
+            ]
+        },
+        {
+            "labelIndex": 10,
+            "arrayIndex": 10,
+            "labelName": "ui_msg_xmenu_timeline_guide_10",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ve a Ciudad Jubileo.",
+                    "strWidth": 272.46875
+                }
+            ]
+        },
+        {
+            "labelIndex": 11,
+            "arrayIndex": 11,
+            "labelName": "ui_msg_xmenu_timeline_guide_11",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Visita la Escuela de Entrenadores.",
+                    "strWidth": 436.484375
+                }
+            ]
+        },
+        {
+            "labelIndex": 12,
+            "arrayIndex": 12,
+            "labelName": "ui_msg_xmenu_timeline_guide_12",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Explora Ciudad Jubileo.",
+                    "strWidth": 309.984375
+                }
+            ]
+        },
+        {
+            "labelIndex": 13,
+            "arrayIndex": 13,
+            "labelName": "ui_msg_xmenu_timeline_guide_13",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Responde a las preguntas de la campaña del",
+                    "strWidth": 578.765625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Poké Reloj que te harán los tres payasos.",
+                    "strWidth": 530.984375
+                }
+            ]
+        },
+        {
+            "labelIndex": 14,
+            "arrayIndex": 14,
+            "labelName": "ui_msg_xmenu_timeline_guide_14",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Recibe tu Poké Reloj.",
+                    "strWidth": 278.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 15,
+            "arrayIndex": 15,
+            "labelName": "ui_msg_xmenu_timeline_guide_15",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ve a Ciudad Pirita.",
+                    "strWidth": 244.984375
+                }
+            ]
+        },
+        {
+            "labelIndex": 16,
+            "arrayIndex": 16,
+            "labelName": "ui_msg_xmenu_timeline_guide_16",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Busca al Líder de Gimnasio de Ciudad Pirita.",
+                    "strWidth": 577.9375
+                }
+            ]
+        },
+        {
+            "labelIndex": 17,
+            "arrayIndex": 17,
+            "labelName": "ui_msg_xmenu_timeline_guide_17",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Derrota al Líder de Gimnasio de Ciudad Pirita.",
+                    "strWidth": 604.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 18,
+            "arrayIndex": 18,
+            "labelName": "ui_msg_xmenu_timeline_guide_18",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sigue con tu aventura.",
+                    "strWidth": 288.53125
+                }
+            ]
+        },
+        {
+            "labelIndex": 19,
+            "arrayIndex": 19,
+            "labelName": "ui_msg_xmenu_timeline_guide_19",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Regresa a Ciudad Jubileo.",
+                    "strWidth": 338.71875
+                }
+            ]
+        },
+        {
+            "labelIndex": 20,
+            "arrayIndex": 20,
+            "labelName": "ui_msg_xmenu_timeline_guide_20",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ui_msg_xmenu_timeline_guide_20",
+                    "strWidth": 433.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 21,
+            "arrayIndex": 21,
+            "labelName": "ui_msg_xmenu_timeline_guide_21",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 1,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sigue a ",
+                    "strWidth": 103.4375
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " hasta Ciudad Vetusta.",
+                    "strWidth": 293.40625
+                }
+            ]
+        },
+        {
+            "labelIndex": 22,
+            "arrayIndex": 22,
+            "labelName": "ui_msg_xmenu_timeline_guide_22",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Dirígete a la central del Valle Eólico.",
+                    "strWidth": 479.109375
+                }
+            ]
+        },
+        {
+            "labelIndex": 23,
+            "arrayIndex": 23,
+            "labelName": "ui_msg_xmenu_timeline_guide_23",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Encuentra la Llave de la Central.",
+                    "strWidth": 420.84375
+                }
+            ]
+        },
+        {
+            "labelIndex": 24,
+            "arrayIndex": 24,
+            "labelName": "ui_msg_xmenu_timeline_guide_24",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Accede a la central del Valle Eólico.",
+                    "strWidth": 471.203125
+                }
+            ]
+        },
+        {
+            "labelIndex": 25,
+            "arrayIndex": 25,
+            "labelName": "ui_msg_xmenu_timeline_guide_25",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Derrota a los Reclutas del Equipo Galaxia en",
+                    "strWidth": 582.484375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "la central del Valle Eólico.",
+                    "strWidth": 341.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 26,
+            "arrayIndex": 26,
+            "labelName": "ui_msg_xmenu_timeline_guide_27",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Atraviesa el bosque junto a Malta.",
+                    "strWidth": 444.75
+                }
+            ]
+        },
+        {
+            "labelIndex": 27,
+            "arrayIndex": 27,
+            "labelName": "ui_msg_xmenu_timeline_guide_80",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Explora Ciudad Vetusta.",
+                    "strWidth": 314.453125
+                }
+            ]
+        },
+        {
+            "labelIndex": 28,
+            "arrayIndex": 28,
+            "labelName": "ui_msg_xmenu_timeline_guide_29",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Derrota a la Líder de Gimnasio de Ciudad",
+                    "strWidth": 545.0625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vetusta.",
+                    "strWidth": 106.359375
+                }
+            ]
+        },
+        {
+            "labelIndex": 29,
+            "arrayIndex": 29,
+            "labelName": "ui_msg_xmenu_timeline_guide_30",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Encuentra a las Entrenadoras que se han",
+                    "strWidth": 521.0625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "escondido dentro del gimnasio.",
+                    "strWidth": 407.8125
+                }
+            ]
+        },
+        {
+            "labelIndex": 31,
+            "arrayIndex": 30,
+            "labelName": "ui_msg_xmenu_timeline_guide_31",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Detén al Equipo Galaxia.",
+                    "strWidth": 326.46875
+                }
+            ]
+        },
+        {
+            "labelIndex": 32,
+            "arrayIndex": 31,
+            "labelName": "ui_msg_xmenu_timeline_guide_81",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Habla con el señor que ha ido al Edificio Galaxia",
+                    "strWidth": 636.734375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "de Ciudad Vetusta.",
+                    "strWidth": 250.25
+                }
+            ]
+        },
+        {
+            "labelIndex": 33,
+            "arrayIndex": 32,
+            "labelName": "ui_msg_xmenu_timeline_guide_32",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Talk to the owner of the Cycle Shop!",
+                    "strWidth": 412.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 34,
+            "arrayIndex": 33,
+            "labelName": "ui_msg_xmenu_timeline_guide_33",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Visita al Hombre Topo.",
+                    "strWidth": 302.53125
+                }
+            ]
+        },
+        {
+            "labelIndex": 35,
+            "arrayIndex": 34,
+            "labelName": "ui_msg_xmenu_timeline_guide_34",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Dirígete al sur por el Camino de Bicis.",
+                    "strWidth": 491.265625
+                }
+            ]
+        },
+        {
+            "labelIndex": 36,
+            "arrayIndex": 35,
+            "labelName": "ui_msg_xmenu_timeline_guide_35",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ve a Ciudad Corazón.",
+                    "strWidth": 286.609375
+                }
+            ]
+        },
+        {
+            "labelIndex": 37,
+            "arrayIndex": 36,
+            "labelName": "ui_msg_xmenu_timeline_guide_36",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ve al Auditorio.",
+                    "strWidth": 206.515625
+                }
+            ]
+        },
+        {
+            "labelIndex": 38,
+            "arrayIndex": 37,
+            "labelName": "ui_msg_xmenu_timeline_guide_37",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Explora Ciudad Corazón.",
+                    "strWidth": 324.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 39,
+            "arrayIndex": 38,
+            "labelName": "ui_msg_xmenu_timeline_guide_38",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Help the lady in distress!",
+                    "strWidth": 275.515625
+                }
+            ]
+        },
+        {
+            "labelIndex": 40,
+            "arrayIndex": 39,
+            "labelName": "ui_msg_xmenu_timeline_guide_82",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Explora Ciudad Rocavelo.",
+                    "strWidth": 335.015625
+                }
+            ]
+        },
+        {
+            "labelIndex": 41,
+            "arrayIndex": 40,
+            "labelName": "ui_msg_xmenu_timeline_guide_39",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Derrota a la Líder de Gimnasio de Ciudad",
+                    "strWidth": 545.0625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Rocavelo.",
+                    "strWidth": 126.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 42,
+            "arrayIndex": 41,
+            "labelName": "ui_msg_xmenu_timeline_guide_40",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Go to Route 209.",
+                    "strWidth": 269.59375
+                }
+            ]
+        },
+        {
+            "labelIndex": 43,
+            "arrayIndex": 42,
+            "labelName": "ui_msg_xmenu_timeline_guide_41",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 2,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Recupera la Pokédex de ",
+                    "strWidth": 324.25
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": ".",
+                    "strWidth": 7.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 44,
+            "arrayIndex": 43,
+            "labelName": "ui_msg_xmenu_timeline_guide_83",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ve a Ciudad Pradera.",
+                    "strWidth": 277.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 45,
+            "arrayIndex": 44,
+            "labelName": "ui_msg_xmenu_timeline_guide_42",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Derrota al Líder de Gimnasio de Ciudad Pradera.",
+                    "strWidth": 637.109375
+                }
+            ]
+        },
+        {
+            "labelIndex": 46,
+            "arrayIndex": 45,
+            "labelName": "ui_msg_xmenu_timeline_guide_43",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Explora Ciudad Pradera.",
+                    "strWidth": 315.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 47,
+            "arrayIndex": 46,
+            "labelName": "ui_msg_xmenu_timeline_guide_44",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Persigue al Recluta del Equipo Galaxia que ha",
+                    "strWidth": 599.328125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "huido al este de Ciudad Pradera.",
+                    "strWidth": 427.03125
+                }
+            ]
+        },
+        {
+            "labelIndex": 49,
+            "arrayIndex": 47,
+            "labelName": "ui_msg_xmenu_timeline_guide_46",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ayuda a los Psyduck de la Ruta 210.",
+                    "strWidth": 471.640625
+                }
+            ]
+        },
+        {
+            "labelIndex": 50,
+            "arrayIndex": 48,
+            "labelName": "ui_msg_xmenu_timeline_guide_47",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Lleva el Talismán hasta Pueblo Caelestis.",
+                    "strWidth": 529.734375
+                }
+            ]
+        },
+        {
+            "labelIndex": 51,
+            "arrayIndex": 49,
+            "labelName": "ui_msg_xmenu_timeline_guide_84",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Derrota al Recluta del Equipo Galaxia que",
+                    "strWidth": 550.90625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "hay frente a las ruinas.",
+                    "strWidth": 289.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 52,
+            "arrayIndex": 50,
+            "labelName": "ui_msg_xmenu_timeline_guide_85",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Explora las ruinas.",
+                    "strWidth": 232.53125
+                }
+            ]
+        },
+        {
+            "labelIndex": 53,
+            "arrayIndex": 51,
+            "labelName": "ui_msg_xmenu_timeline_guide_48",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Derrota a la Líder de Gimnasio de Ciudad",
+                    "strWidth": 545.0625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Corazón.",
+                    "strWidth": 116.03125
+                }
+            ]
+        },
+        {
+            "labelIndex": 54,
+            "arrayIndex": 52,
+            "labelName": "ui_msg_xmenu_timeline_guide_49",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ve a Ciudad Canal.",
+                    "strWidth": 252.6875
+                }
+            ]
+        },
+        {
+            "labelIndex": 55,
+            "arrayIndex": 53,
+            "labelName": "ui_msg_xmenu_timeline_guide_86",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Explora Ciudad Canal.",
+                    "strWidth": 290.203125
+                }
+            ]
+        },
+        {
+            "labelIndex": 56,
+            "arrayIndex": 54,
+            "labelName": "ui_msg_xmenu_timeline_guide_50",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Derrota al Líder de Gimnasio de Ciudad Canal.",
+                    "strWidth": 611.875
+                }
+            ]
+        },
+        {
+            "labelIndex": 57,
+            "arrayIndex": 55,
+            "labelName": "ui_msg_xmenu_timeline_guide_51",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 1,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sigue a ",
+                    "strWidth": 103.4375
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " hasta la Biblioteca de",
+                    "strWidth": 288.734375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ciudad Canal.",
+                    "strWidth": 184.078125
+                }
+            ]
+        },
+        {
+            "labelIndex": 58,
+            "arrayIndex": 56,
+            "labelName": "ui_msg_xmenu_timeline_guide_52",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sal de la biblioteca.",
+                    "strWidth": 258.703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 59,
+            "arrayIndex": 57,
+            "labelName": "ui_msg_xmenu_timeline_guide_53",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Investiga qué ocurre en el Lago Valor.",
+                    "strWidth": 494.203125
+                }
+            ]
+        },
+        {
+            "labelIndex": 60,
+            "arrayIndex": 58,
+            "labelName": "ui_msg_xmenu_timeline_guide_54",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ve al Lago Veraz a comprobar la situación.",
+                    "strWidth": 558.03125
+                }
+            ]
+        },
+        {
+            "labelIndex": 61,
+            "arrayIndex": 59,
+            "labelName": "ui_msg_xmenu_timeline_guide_87",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Derrota a la Comandante del Equipo Galaxia",
+                    "strWidth": 586.296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "en el Lago Veraz.",
+                    "strWidth": 226.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 62,
+            "arrayIndex": 60,
+            "labelName": "ui_msg_xmenu_timeline_guide_55",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ve al Lago Agudeza a comprobar la situación.",
+                    "strWidth": 597.546875
+                }
+            ]
+        },
+        {
+            "labelIndex": 63,
+            "arrayIndex": 61,
+            "labelName": "ui_msg_xmenu_timeline_guide_88",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Obtain the TM Strength at Iron Island!",
+                    "strWidth": 551.703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 64,
+            "arrayIndex": 62,
+            "labelName": "ui_msg_xmenu_timeline_guide_56",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ve al Gimnasio de Ciudad Puntaneva.",
+                    "strWidth": 491.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 66,
+            "arrayIndex": 63,
+            "labelName": "ui_msg_xmenu_timeline_guide_89",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ve a la Base Galaxia.",
+                    "strWidth": 276.109375
+                }
+            ]
+        },
+        {
+            "labelIndex": 67,
+            "arrayIndex": 64,
+            "labelName": "ui_msg_xmenu_timeline_guide_58",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Busca la forma de entrar en la Base Galaxia.",
+                    "strWidth": 571.859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 68,
+            "arrayIndex": 65,
+            "labelName": "ui_msg_xmenu_timeline_guide_59",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Abre la puerta del Almacén Galaxia.",
+                    "strWidth": 472.671875
+                }
+            ]
+        },
+        {
+            "labelIndex": 69,
+            "arrayIndex": 66,
+            "labelName": "ui_msg_xmenu_timeline_guide_90",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Explora la Base Galaxia.",
+                    "strWidth": 313.625
+                }
+            ]
+        },
+        {
+            "labelIndex": 70,
+            "arrayIndex": 67,
+            "labelName": "ui_msg_xmenu_timeline_guide_60",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Entra en el Edificio Galaxia de Ciudad Rocavelo.",
+                    "strWidth": 631.796875
+                }
+            ]
+        },
+        {
+            "labelIndex": 71,
+            "arrayIndex": 68,
+            "labelName": "ui_msg_xmenu_timeline_guide_61",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Rescata a los Pokémon secuestrados.",
+                    "strWidth": 479.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 72,
+            "arrayIndex": 69,
+            "labelName": "ui_msg_xmenu_timeline_guide_62",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Pulsa el botón y libera a los Pokémon.",
+                    "strWidth": 495.359375
+                }
+            ]
+        },
+        {
+            "labelIndex": 73,
+            "arrayIndex": 70,
+            "labelName": "ui_msg_xmenu_timeline_guide_63",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sube a la cima del Monte Corona y detén",
+                    "strWidth": 541.65625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "al Equipo Galaxia.",
+                    "strWidth": 238.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 74,
+            "arrayIndex": 71,
+            "labelName": "ui_msg_xmenu_timeline_guide_91",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Obtén la MT Treparrocas en la Ruta 217.",
+                    "strWidth": 533.6875
+                }
+            ]
+        },
+        {
+            "labelIndex": 75,
+            "arrayIndex": 72,
+            "labelName": "ui_msg_xmenu_timeline_guide_64",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ayuda a calmar los ánimos del Pokémon",
+                    "strWidth": 521.71875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "legendario.",
+                    "strWidth": 146.390625
+                }
+            ]
+        },
+        {
+            "labelIndex": 76,
+            "arrayIndex": 73,
+            "labelName": "ui_msg_xmenu_timeline_guide_65",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ve a Ciudad Marina a comprobar la situación.",
+                    "strWidth": 595.40625
+                }
+            ]
+        },
+        {
+            "labelIndex": 77,
+            "arrayIndex": 74,
+            "labelName": "ui_msg_xmenu_timeline_guide_66",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Busca al Líder de Gimnasio de Ciudad Marina.",
+                    "strWidth": 600.859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 78,
+            "arrayIndex": 75,
+            "labelName": "ui_msg_xmenu_timeline_guide_67",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Derrota al Líder de Gimnasio de Ciudad Marina.",
+                    "strWidth": 627.09375
+                }
+            ]
+        },
+        {
+            "labelIndex": 79,
+            "arrayIndex": 76,
+            "labelName": "ui_msg_xmenu_timeline_guide_68",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Dirígete a la Liga Pokémon.",
+                    "strWidth": 359.859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 80,
+            "arrayIndex": 77,
+            "labelName": "ui_msg_xmenu_timeline_guide_92",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Supera el desafío de la Liga Pokémon.",
+                    "strWidth": 497.546875
+                }
+            ]
+        },
+        {
+            "labelIndex": 81,
+            "arrayIndex": 78,
+            "labelName": "ui_msg_xmenu_timeline_guide_74",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ve a la planta baja.",
+                    "strWidth": 253.359375
+                }
+            ]
+        },
+        {
+            "labelIndex": 82,
+            "arrayIndex": 79,
+            "labelName": "ui_msg_xmenu_timeline_guide_75",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 1,
+                    "groupID": 1,
+                    "tagID": 0,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ve adonde está ",
+                    "strWidth": 213.375
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": ".",
+                    "strWidth": 7.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 83,
+            "arrayIndex": 80,
+            "labelName": "ui_msg_xmenu_timeline_guide_76",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Help battle Flint & Volkner!",
+                    "strWidth": 399.625
+                }
+            ]
+        },
+        {
+            "labelIndex": 84,
+            "arrayIndex": 81,
+            "labelName": "ui_msg_xmenu_timeline_guide_77",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Ve a la Torre Batalla.",
+                    "strWidth": 275.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 85,
+            "arrayIndex": 82,
+            "labelName": "ui_msg_xmenu_timeline_guide_78",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Informa de que has completado la Pokédex.",
+                    "strWidth": 572.59375
+                }
+            ]
+        },
+        {
+            "labelIndex": 86,
+            "arrayIndex": 83,
+            "labelName": "ui_msg_xmenu_timeline_guide_79",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Explora todos los rincones de la región de",
+                    "strWidth": 546.515625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sinnoh.",
+                    "strWidth": 94.859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 87,
+            "arrayIndex": 84,
+            "labelName": "ui_msg_xmenu_timeline_communication_01",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Parece que cerca de ti hay personas con las que",
+                    "strWidth": 623.03125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "puedes jugar mediante la comunicación local.",
+                    "strWidth": 590.53125
+                }
+            ]
+        },
+        {
+            "labelIndex": 88,
+            "arrayIndex": 85,
+            "labelName": "ui_msg_xmenu_timeline_pokeoutbreak_00",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 1,
+                    "groupID": 1,
+                    "tagID": 1,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 71,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Se han avistado gran cantidad de ",
+                    "strWidth": 440.5
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": 0.0
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": ".",
+                    "strWidth": 7.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 30,
+            "arrayIndex": 86,
+            "labelName": "ui_msg_xmenu_timeline_guide_93",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Explora el Edificio Galaxia de Ciudad Vetusta.",
+                    "strWidth": 602.046875
+                }
+            ]
+        },
+        {
+            "labelIndex": 48,
+            "arrayIndex": 87,
+            "labelName": "ui_msg_xmenu_timeline_guide_94",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Examina los alrededores de la entrada del",
+                    "strWidth": 545.3125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Lago Valor.",
+                    "strWidth": 150.078125
+                }
+            ]
+        },
+        {
+            "labelIndex": 65,
+            "arrayIndex": 88,
+            "labelName": "ui_msg_xmenu_timeline_guide_95",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Derrota a la Líder de Gimnasio de Ciudad",
+                    "strWidth": 545.0625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Puntaneva.",
+                    "strWidth": 141.609375
+                }
+            ]
+        },
+        {
+            "labelIndex": 89,
+            "arrayIndex": 89,
+            "labelName": "ui_msg_xmenu_timeline_guide_49_1",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Make your way to Renegade Park.",
+                    "strWidth": 426.15625
+                }
+            ]
+        },
+        {
+            "labelIndex": 90,
+            "arrayIndex": 90,
+            "labelName": "ui_msg_xmenu_timeline_guide_86_1",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Go train on Iron Island!",
+                    "strWidth": 371.75
+                }
+            ]
+        },
+        {
+            "labelIndex": 91,
+            "arrayIndex": 91,
+            "labelName": "ui_msg_xmenu_timeline_guide_86_2",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Explore Iron Island!",
+                    "strWidth": 371.75
+                }
+            ]
+        },
+        {
+            "labelIndex": 92,
+            "arrayIndex": 92,
+            "labelName": "ui_msg_xmenu_timeline_guide_48_1",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Go to Canalave City!",
+                    "strWidth": 371.75
+                }
+            ]
+        },
+        {
+            "labelIndex": 93,
+            "arrayIndex": 93,
+            "labelName": "ui_msg_xmenu_timeline_guide_64_1",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Go visit Professor Rowan!",
+                    "strWidth": 371.75
+                }
+            ]
+        },
+        {
+            "labelIndex": 94,
+            "arrayIndex": 94,
+            "labelName": "ui_msg_xmenu_timeline_guide_38_1",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Go to Veilstone City!",
+                    "strWidth": 371.75
+                }
+            ]
+        },
+        {
+            "labelIndex": 95,
+            "arrayIndex": 95,
+            "labelName": "ui_msg_xmenu_timeline_guide_34_1",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Go to the psychic signal!",
+                    "strWidth": 371.75
+                }
+            ]
+        },
+        {
+            "labelIndex": 96,
+            "arrayIndex": 96,
+            "labelName": "ui_msg_xmenu_timeline_guide_80_1",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Find Gardenia on Route 216!",
+                    "strWidth": 371.75
+                }
+            ]
+        },
+        {
+            "labelIndex": 97,
+            "arrayIndex": 97,
+            "labelName": "ui_msg_xmenu_timeline_guide_post_riley",
+            "styleInfo": {
+                "styleIndex": 20,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Talk to Byron on Iron Island!",
+                    "strWidth": 371.75
+                }
+            ]
+        }
+    ]
+}

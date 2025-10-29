@@ -1,0 +1,5373 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "simp_chinese_dp_townmap",
+    "hash": 2086161621,
+    "langID": 9,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "DP_townmap_001",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 5,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "要使用飞翔",
+                    "strWidth": 160.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "移动到",
+                    "strWidth": 96.0
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "吗？",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "DP_townmap_003",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "绿叶密布，",
+                    "strWidth": 160.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "树香四溢的林间小路。",
+                    "strWidth": 320.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "DP_townmap_004",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "年轻的训练家们经常在",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "曲径通幽的草丛中相互切磋。",
+                    "strWidth": 416.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 3,
+            "arrayIndex": 3,
+            "labelName": "DP_townmap_005",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "临近城镇",
+                    "strWidth": 128.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "但又保留着大自然气息的小路。",
+                    "strWidth": 448.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 4,
+            "arrayIndex": 4,
+            "labelName": "DP_townmap_006",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "穿过洞窟后，",
+                    "strWidth": 192.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "黑金市便在前方不远之处。",
+                    "strWidth": 384.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 5,
+            "arrayIndex": 5,
+            "labelName": "DP_townmap_007",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "池塘与树丛遍布两旁，",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "充满自然魅力的小路。",
+                    "strWidth": 320.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 6,
+            "arrayIndex": 6,
+            "labelName": "DP_townmap_008",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "穿过开掘高台铺建而成的荒芜小道，",
+                    "strWidth": 512.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "花苑镇近在眼前。",
+                    "strWidth": 256.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 7,
+            "arrayIndex": 7,
+            "labelName": "DP_townmap_009",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "宽阔的池面上横跨着宽敞的桥梁，",
+                    "strWidth": 480.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "垂钓者们正在桥上悠闲地放线垂钓。",
+                    "strWidth": 512.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 8,
+            "arrayIndex": 8,
+            "labelName": "DP_townmap_010",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "静静流淌的河川与起伏不平的地势，",
+                    "strWidth": 512.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "让这条路充满了探险的乐趣。",
+                    "strWidth": 416.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 9,
+            "arrayIndex": 9,
+            "labelName": "DP_townmap_011",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "百代森林入口旁，",
+                    "strWidth": 256.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "有一间供过客缓解疲劳的小屋。",
+                    "strWidth": 448.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 10,
+            "arrayIndex": 10,
+            "labelName": "DP_townmap_012",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "用沥青铺设的自行车道",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "是自行车爱好者们的天堂。",
+                    "strWidth": 384.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 11,
+            "arrayIndex": 11,
+            "labelName": "DP_townmap_013",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "自行车道下方可以看到",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "迷幻洞窟的入口。",
+                    "strWidth": 256.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 12,
+            "arrayIndex": 12,
+            "labelName": "DP_townmap_014",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "位于天冠山山脚下，",
+                    "strWidth": 288.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "由凹凸不平的岩面所构成的道路。",
+                    "strWidth": 480.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 13,
+            "arrayIndex": 13,
+            "labelName": "DP_townmap_015",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "位于天冠山的悬崖峭壁",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "与欣欣向荣的草丛间，",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "两侧景色对比鲜明的小路。",
+                    "strWidth": 384.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 14,
+            "arrayIndex": 14,
+            "labelName": "DP_townmap_016",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "热爱大自然、宝可梦与树果的",
+                    "strWidth": 416.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "树果爷爷居住于此。",
+                    "strWidth": 288.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 15,
+            "arrayIndex": 15,
+            "labelName": "DP_townmap_017",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "蜿蜒在树林与草丛间的小溪，",
+                    "strWidth": 416.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "给人一种心旷神怡的感觉。",
+                    "strWidth": 384.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 16,
+            "arrayIndex": 16,
+            "labelName": "DP_townmap_018",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "迷失塔是宝可梦在走到生命尽头后，",
+                    "strWidth": 512.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "其灵魂的安息之地。",
+                    "strWidth": 288.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 17,
+            "arrayIndex": 17,
+            "labelName": "DP_townmap_019",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "由大自然巧妙地",
+                    "strWidth": 224.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "在山间开辟而成的天然溪谷，",
+                    "strWidth": 416.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "在这里总是弥漫着浓浓的雾气。",
+                    "strWidth": 448.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 18,
+            "arrayIndex": 18,
+            "labelName": "DP_townmap_020",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "龙婆婆的家静静地坐落在",
+                    "strWidth": 352.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "远离人烟的山谷间。",
+                    "strWidth": 288.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 19,
+            "arrayIndex": 19,
+            "labelName": "DP_townmap_021",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "茂密高耸的杂草遍地丛生，",
+                    "strWidth": 384.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "搞得通行路人鼻头发痒。",
+                    "strWidth": 352.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 20,
+            "arrayIndex": 20,
+            "labelName": "DP_townmap_022",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "建于林间的山间小屋咖啡馆，",
+                    "strWidth": 416.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "以鲜榨鲜奶最为知名。",
+                    "strWidth": 320.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 21,
+            "arrayIndex": 21,
+            "labelName": "DP_townmap_023",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "山路从两侧贯穿了堪称",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "神奥地区内最陡峭的天冠山。",
+                    "strWidth": 416.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 22,
+            "arrayIndex": 22,
+            "labelName": "DP_townmap_024",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "高墙围住了大片土地，",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "占据了近半道路。",
+                    "strWidth": 256.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 23,
+            "arrayIndex": 23,
+            "labelName": "DP_townmap_025",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "围墙对面能看到一座",
+                    "strWidth": 288.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "被称作宝可梦屋的豪宅。",
+                    "strWidth": 352.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "那里的后院似乎是豪宅主人的骄傲。",
+                    "strWidth": 512.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 24,
+            "arrayIndex": 24,
+            "labelName": "DP_townmap_026",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "这里常年大雨连绵，",
+                    "strWidth": 288.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "道路上到处都是积水。",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "训练家也时常被淋成落汤鸡。",
+                    "strWidth": 416.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 25,
+            "arrayIndex": 25,
+            "labelName": "DP_townmap_027",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "在这栋房子里你可以使用",
+                    "strWidth": 352.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "红色、蓝色、黄色或绿色的碎片",
+                    "strWidth": 448.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "来交换各种招式学习器。",
+                    "strWidth": 352.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 26,
+            "arrayIndex": 26,
+            "labelName": "DP_townmap_028",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "近海的岩石作为防波堤",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "维护着岸边的宁静。",
+                    "strWidth": 288.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "高台建有一座度假酒店。",
+                    "strWidth": 352.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 27,
+            "arrayIndex": 27,
+            "labelName": "DP_townmap_029",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "位于海边的一栋小房子里，",
+                    "strWidth": 384.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "独居了一位被大家通称为",
+                    "strWidth": 352.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "足迹博士的步迈先生。",
+                    "strWidth": 320.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 28,
+            "arrayIndex": 28,
+            "labelName": "DP_townmap_030",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "连接帷幕市与湖泊的小路，",
+                    "strWidth": 384.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "往好了说这里维持了原本的自然风貌，",
+                    "strWidth": 544.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "往坏了说这里就是杂草丛生的荒野。",
+                    "strWidth": 512.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 29,
+            "arrayIndex": 29,
+            "labelName": "DP_townmap_031",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "山上敞开的洞口，",
+                    "strWidth": 256.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "是被遗迹迷挖掘出来的洞穴。",
+                    "strWidth": 416.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 30,
+            "arrayIndex": 30,
+            "labelName": "DP_townmap_032",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "这里常年大雨连绵。",
+                    "strWidth": 288.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "只有一些不怕雨淋的",
+                    "strWidth": 288.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "莽撞训练家会聚在这里。",
+                    "strWidth": 352.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 31,
+            "arrayIndex": 31,
+            "labelName": "DP_townmap_033",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "天冠山延伸而下的山路，",
+                    "strWidth": 352.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "常年积攒的厚厚积雪",
+                    "strWidth": 288.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "拖慢了路人的脚步。",
+                    "strWidth": 288.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 32,
+            "arrayIndex": 32,
+            "labelName": "DP_townmap_034",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "天冠山飘下的雪",
+                    "strWidth": 224.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "形成了暴风雪吹袭而来。",
+                    "strWidth": 352.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "请做好觉悟再踏入此地吧。",
+                    "strWidth": 384.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 33,
+            "arrayIndex": 33,
+            "labelName": "DP_townmap_035",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "虽然这只是一条不起眼的短短小路，",
+                    "strWidth": 512.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "但在垂钓爱好者之间",
+                    "strWidth": 288.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "这里却是个隐秘圣地。",
+                    "strWidth": 320.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 34,
+            "arrayIndex": 34,
+            "labelName": "DP_townmap_036",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "从真砂镇步行仅需５秒钟的白色沙滩，",
+                    "strWidth": 544.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "海风迎面扑来使人心旷神怡。",
+                    "strWidth": 416.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 35,
+            "arrayIndex": 35,
+            "labelName": "DP_townmap_037",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "微风轻拂，潮水流淌，",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "这里是享受海水浴的最佳海域。",
+                    "strWidth": 448.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "游累了还可以在沙洲小憩一下。",
+                    "strWidth": 448.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 36,
+            "arrayIndex": 36,
+            "labelName": "DP_townmap_038",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "径直穿过稀疏树林间的，",
+                    "strWidth": 352.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "一条充满绿意的小路。",
+                    "strWidth": 320.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 37,
+            "arrayIndex": 37,
+            "labelName": "DP_townmap_039",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "At the end of the path stands the gateway to",
+                    "strWidth": 582.34375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Renegade Park.",
+                    "strWidth": 185.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 38,
+            "arrayIndex": 38,
+            "labelName": "DP_townmap_040",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "路边延伸的沙滩上，",
+                    "strWidth": 288.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "人们熙熙攘攘的在此",
+                    "strWidth": 288.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "挑战享受着垂钓的乐趣。",
+                    "strWidth": 352.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 39,
+            "arrayIndex": 39,
+            "labelName": "DP_townmap_041",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "这附近有一位喜欢垂钓的大叔，",
+                    "strWidth": 448.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "还有一间屋子住着爱帮人比较",
+                    "strWidth": 416.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "他们钓到的宝可梦的大小的大叔。",
+                    "strWidth": 480.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 40,
+            "arrayIndex": 40,
+            "labelName": "DP_townmap_042",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "突出海面的礁石与浅滩",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "阻挡着路人的海路。",
+                    "strWidth": 288.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 41,
+            "arrayIndex": 41,
+            "labelName": "DP_townmap_043",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "草丛与岩山、大海与浅滩。",
+                    "strWidth": 384.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "这里婉如神奥地区的缩影一般。",
+                    "strWidth": 448.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 42,
+            "arrayIndex": 42,
+            "labelName": "DP_townmap_044",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "这是一条高低差变化极大的，",
+                    "strWidth": 416.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "会使你忙上忙下的小路。",
+                    "strWidth": 352.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 43,
+            "arrayIndex": 43,
+            "labelName": "DP_townmap_045",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "这是一条不成型的小路，",
+                    "strWidth": 352.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "周边悬崖高耸，浪花四溅。",
+                    "strWidth": 384.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 44,
+            "arrayIndex": 44,
+            "labelName": "DP_townmap_046",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "海湾中的小岛上，住着一位",
+                    "strWidth": 384.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "说着异国语言的神秘人物。",
+                    "strWidth": 384.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 45,
+            "arrayIndex": 45,
+            "labelName": "DP_townmap_047",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "落下的火山灰干扰着",
+                    "strWidth": 288.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "路人的视线的险峻道路。",
+                    "strWidth": 352.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 46,
+            "arrayIndex": 46,
+            "labelName": "DP_townmap_048",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "在强劲海风的吹袭下，",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "掀起了猛烈的沙暴，",
+                    "strWidth": 288.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "使得这条路寸步难行。",
+                    "strWidth": 320.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 47,
+            "arrayIndex": 47,
+            "labelName": "DP_townmap_049",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "一条自然生长着茂密草木的",
+                    "strWidth": 384.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "滨海小路。",
+                    "strWidth": 160.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 48,
+            "arrayIndex": 48,
+            "labelName": "DP_townmap_050",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "横向延伸的水路上，",
+                    "strWidth": 288.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "有一座充满草木花香的小岛。",
+                    "strWidth": 416.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 50,
+            "arrayIndex": 49,
+            "labelName": "DP_townmap_052",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "能让你感受到嫩叶气息，",
+                    "strWidth": 352.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "以及某种开端的小镇。",
+                    "strWidth": 320.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 51,
+            "arrayIndex": 50,
+            "labelName": "DP_townmap_053",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "你和朋友的家",
+                    "strWidth": 192.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "就坐落于此。",
+                    "strWidth": 192.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 52,
+            "arrayIndex": 51,
+            "labelName": "DP_townmap_054",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "这里紧靠海岸，是一个",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "可以嗅到清爽海风香气的沙之小镇。",
+                    "strWidth": 512.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 53,
+            "arrayIndex": 52,
+            "labelName": "DP_townmap_055",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "勤奋研究宝可梦的",
+                    "strWidth": 256.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "山梨博士的研究所，",
+                    "strWidth": 288.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "算是小镇的地标。",
+                    "strWidth": 256.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 54,
+            "arrayIndex": 53,
+            "labelName": "DP_townmap_056",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "这里各处花香四溢，是一座",
+                    "strWidth": 384.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "属于爱花人士的小镇。",
+                    "strWidth": 320.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 55,
+            "arrayIndex": 54,
+            "labelName": "DP_townmap_057",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "花径之外",
+                    "strWidth": 128.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "延伸出了一大片花田。",
+                    "strWidth": 320.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 56,
+            "arrayIndex": 55,
+            "labelName": "DP_townmap_058",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "小镇的中央坐落着一间",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "名为花花世界的花店。",
+                    "strWidth": 320.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 57,
+            "arrayIndex": 56,
+            "labelName": "DP_townmap_059",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "这个小镇气候温和，",
+                    "strWidth": 288.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "居民和宝可梦都能过得悠闲自在。",
+                    "strWidth": 480.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 58,
+            "arrayIndex": 57,
+            "labelName": "DP_townmap_060",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "这里有宝可梦寄放屋",
+                    "strWidth": 288.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "以及宝可梦中心。",
+                    "strWidth": 256.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 59,
+            "arrayIndex": 58,
+            "labelName": "DP_townmap_061",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "穿过这片树林，",
+                    "strWidth": 224.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "就能抵达随意遗迹的入口。",
+                    "strWidth": 384.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 60,
+            "arrayIndex": 59,
+            "labelName": "DP_townmap_062",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "将昔日生活气息与历史",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "传承至今的小镇。",
+                    "strWidth": 256.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 61,
+            "arrayIndex": 60,
+            "labelName": "DP_townmap_063",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "小镇中央还留存着",
+                    "strWidth": 256.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "一座古老的祠堂。",
+                    "strWidth": 256.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 62,
+            "arrayIndex": 61,
+            "labelName": "DP_townmap_064",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "热衷于对战的训练家",
+                    "strWidth": 288.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "精进自我的聚集之地。",
+                    "strWidth": 320.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 63,
+            "arrayIndex": 62,
+            "labelName": "DP_townmap_065",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "领悟对战之外的",
+                    "strWidth": 224.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "宝可梦的乐趣之人的聚集之地。",
+                    "strWidth": 448.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 64,
+            "arrayIndex": 63,
+            "labelName": "DP_townmap_066",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "在神奥地区里算是",
+                    "strWidth": 256.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "最为现代化发展的城镇。",
+                    "strWidth": 352.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "人来人往，热闹非凡。",
+                    "strWidth": 320.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 65,
+            "arrayIndex": 64,
+            "labelName": "DP_townmap_067",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "研发宝可表的",
+                    "strWidth": 192.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "宝可表公司就在这里。",
+                    "strWidth": 320.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 66,
+            "arrayIndex": 65,
+            "labelName": "DP_townmap_068",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "为您提供众多乐趣的电视台，",
+                    "strWidth": 416.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "祝庆电视台就在这里。",
+                    "strWidth": 320.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 67,
+            "arrayIndex": 66,
+            "labelName": "DP_townmap_069",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "全球奇迹交换中心，",
+                    "strWidth": 288.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "简称GMStation就在这里。",
+                    "strWidth": 393.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 68,
+            "arrayIndex": 67,
+            "labelName": "DP_townmap_070",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "教授众多宝可梦基础知识的",
+                    "strWidth": 384.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "训练家学校就在这里。",
+                    "strWidth": 320.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 69,
+            "arrayIndex": 68,
+            "labelName": "DP_townmap_071",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "一座被运河一分为二的，",
+                    "strWidth": 352.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "充满异国情调的港口城市。",
+                    "strWidth": 384.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 70,
+            "arrayIndex": 69,
+            "labelName": "DP_townmap_072",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "若想动脑思考，请前往图书馆。",
+                    "strWidth": 448.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "若想活动筋骨，请前往道馆。",
+                    "strWidth": 416.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 71,
+            "arrayIndex": 70,
+            "labelName": "DP_townmap_073",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "码头的栈桥处",
+                    "strWidth": 192.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "总有大船停靠。",
+                    "strWidth": 224.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 72,
+            "arrayIndex": 71,
+            "labelName": "DP_townmap_074",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "一座受到丰富天然资源恩惠，",
+                    "strWidth": 416.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "充满能量的炭坑都市。",
+                    "strWidth": 320.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 73,
+            "arrayIndex": 72,
+            "labelName": "DP_townmap_075",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "让矿工们在辛苦劳作之余，",
+                    "strWidth": 384.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "可以稍作休息的道馆就在这里。",
+                    "strWidth": 448.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 74,
+            "arrayIndex": 73,
+            "labelName": "DP_townmap_076",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "展示炭坑相关物品的博物馆",
+                    "strWidth": 384.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "就在这里。",
+                    "strWidth": 160.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 75,
+            "arrayIndex": 74,
+            "labelName": "DP_townmap_077",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "直到现在都沉睡着大量煤炭的",
+                    "strWidth": 416.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "黑金炭坑的入口就在这里。",
+                    "strWidth": 384.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 76,
+            "arrayIndex": 75,
+            "labelName": "DP_townmap_078",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "逐渐被人们遗忘的历史，",
+                    "strWidth": 352.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "在这座城市留下了淡淡的痕迹。",
+                    "strWidth": 448.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 77,
+            "arrayIndex": 76,
+            "labelName": "DP_townmap_079",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "一栋不太寻常的大楼，",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "和一家自行车店就在这里。",
+                    "strWidth": 384.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 78,
+            "arrayIndex": 77,
+            "labelName": "DP_townmap_080",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "这里供奉着一座",
+                    "strWidth": 224.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "远古时期的宝可梦的雕像。",
+                    "strWidth": 384.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 79,
+            "arrayIndex": 78,
+            "labelName": "DP_townmap_081",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "这里也有一座",
+                    "strWidth": 192.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "在人来人往的都市中必不可少的道馆。",
+                    "strWidth": 544.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 80,
+            "arrayIndex": 79,
+            "labelName": "DP_townmap_082",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "人们与宝可梦聚集后，",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "随着商业发展而形成的",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "友好都市。",
+                    "strWidth": 160.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 81,
+            "arrayIndex": 80,
+            "labelName": "DP_townmap_083",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "互动广场的入口就在这里。",
+                    "strWidth": 384.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "在这里你可以与宝可梦",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "悠闲自在地散步。",
+                    "strWidth": 256.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 82,
+            "arrayIndex": 81,
+            "labelName": "DP_townmap_084",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "如果你注重宝可梦的外表，",
+                    "strWidth": 384.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "请去华丽大赛会场。",
+                    "strWidth": 288.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "如果你注重宝可梦的实力，请去道馆。",
+                    "strWidth": 544.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 83,
+            "arrayIndex": 82,
+            "labelName": "DP_townmap_085",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "这座都市有着一座标志性建筑，",
+                    "strWidth": 448.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "象征着拥有不同文化特色",
+                    "strWidth": 352.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "的人们汇集于此。",
+                    "strWidth": 256.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 84,
+            "arrayIndex": 83,
+            "labelName": "DP_townmap_086",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "从喷泉、长椅，",
+                    "strWidth": 224.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "到宝可梦发烧友俱乐部等等，",
+                    "strWidth": 416.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "这里也具备了很多供人休息的设施。",
+                    "strWidth": 512.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 85,
+            "arrayIndex": 84,
+            "labelName": "DP_townmap_087",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "起初只是为了保护",
+                    "strWidth": 256.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "这一带辽阔的大湿地，",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "而自然形成的小镇。",
+                    "strWidth": 288.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 86,
+            "arrayIndex": 85,
+            "labelName": "DP_townmap_088",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "在这片拥有着充沛水资源的土地上，",
+                    "strWidth": 512.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "有一座与其相称的道馆。",
+                    "strWidth": 352.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 87,
+            "arrayIndex": 86,
+            "labelName": "DP_townmap_089",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "能够通向一览大湿地的展望台，",
+                    "strWidth": 448.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "以及狩猎游戏的入口就在这里。",
+                    "strWidth": 448.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 88,
+            "arrayIndex": 87,
+            "labelName": "DP_townmap_090",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "这座城镇是由陡峭的山体开凿而成，",
+                    "strWidth": 512.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "所以并不常与其他地方交流。",
+                    "strWidth": 416.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 89,
+            "arrayIndex": 88,
+            "labelName": "DP_townmap_091",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "众多的仓库是为了",
+                    "strWidth": 256.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "储存各种货物而建。",
+                    "strWidth": 288.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "此外，这里还有一家百货商店。",
+                    "strWidth": 448.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 90,
+            "arrayIndex": 89,
+            "labelName": "DP_townmap_092",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "建在偏高地段的大楼，",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "就是银河队总部。",
+                    "strWidth": 256.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 91,
+            "arrayIndex": 90,
+            "labelName": "DP_townmap_093",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "这座城市有间热爱游戏的老板开的服装店。",
+                    "strWidth": 608.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "当然，这里也有道馆。",
+                    "strWidth": 320.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 92,
+            "arrayIndex": 91,
+            "labelName": "DP_townmap_094",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "时尚精品馆里面挂满了",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "店老板精心挑选的个性服饰。",
+                    "strWidth": 416.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 93,
+            "arrayIndex": 92,
+            "labelName": "DP_townmap_095",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "建立在海角错综地形的港口城市。",
+                    "strWidth": 480.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "高架人行道是其最大的特色。",
+                    "strWidth": 416.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 94,
+            "arrayIndex": 93,
+            "labelName": "DP_townmap_096",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "高台上有一座道馆。",
+                    "strWidth": 288.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "而沙滩上还有一处热闹的集市。",
+                    "strWidth": 448.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 95,
+            "arrayIndex": 94,
+            "labelName": "DP_townmap_097",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "导航灯塔那明亮的光芒",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "照耀着神奥地区。",
+                    "strWidth": 256.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 96,
+            "arrayIndex": 95,
+            "labelName": "DP_townmap_098",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "树木和建筑覆盖着一层厚厚的积雪，",
+                    "strWidth": 512.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "城市也因此变成了银白色的世界。",
+                    "strWidth": 480.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 97,
+            "arrayIndex": 96,
+            "labelName": "DP_townmap_099",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "道馆位于城市的最中央，",
+                    "strWidth": 352.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "雪峰神殿坐落在其深处。",
+                    "strWidth": 352.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 98,
+            "arrayIndex": 97,
+            "labelName": "DP_townmap_100",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "这里是向往训练家巅峰的人们，",
+                    "strWidth": 448.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "在经历了跋山涉水的艰辛旅程后",
+                    "strWidth": 448.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "所聚集的地方。",
+                    "strWidth": 224.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 99,
+            "arrayIndex": 98,
+            "labelName": "DP_townmap_101",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "前往宝可梦联盟的前台就在这里。",
+                    "strWidth": 480.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "只有称霸所有道馆的人才有资格进去。",
+                    "strWidth": 544.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 100,
+            "arrayIndex": 99,
+            "labelName": "DP_townmap_102",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "通往宝可梦联盟的最终关卡，",
+                    "strWidth": 416.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "冠军之路就在这里。",
+                    "strWidth": 288.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 101,
+            "arrayIndex": 100,
+            "labelName": "DP_townmap_103",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "狭小的港口城市。",
+                    "strWidth": 256.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "比起一日三餐，",
+                    "strWidth": 224.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "聚集在此的人们更热爱对战。",
+                    "strWidth": 416.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 102,
+            "arrayIndex": 101,
+            "labelName": "DP_townmap_104",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "栈桥停靠着",
+                    "strWidth": 160.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "前往雪峰市的船。",
+                    "strWidth": 256.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 103,
+            "arrayIndex": 102,
+            "labelName": "DP_townmap_105",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "通往对战公园的入口就在这里。",
+                    "strWidth": 448.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 104,
+            "arrayIndex": 103,
+            "labelName": "DP_townmap_106",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "象征神奥地区充沛水源的湖泊之一。",
+                    "strWidth": 512.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "据说这里有着神秘的传说。",
+                    "strWidth": 384.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 105,
+            "arrayIndex": 104,
+            "labelName": "DP_townmap_107",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "从中央的小岛",
+                    "strWidth": 192.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "可以进入湖内的洞窟。",
+                    "strWidth": 320.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 106,
+            "arrayIndex": 105,
+            "labelName": "DP_townmap_108",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "象征神奥地区充沛水源的湖泊之一。",
+                    "strWidth": 512.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "据说这里有着神秘的传说。",
+                    "strWidth": 384.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 107,
+            "arrayIndex": 106,
+            "labelName": "DP_townmap_109",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "从中央的小岛",
+                    "strWidth": 192.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "可以进入湖内的洞窟。",
+                    "strWidth": 320.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 108,
+            "arrayIndex": 107,
+            "labelName": "DP_townmap_110",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "建在湖畔高台的",
+                    "strWidth": 224.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "高档餐厅。",
+                    "strWidth": 160.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 109,
+            "arrayIndex": 108,
+            "labelName": "DP_townmap_111",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "象征神奥地区充沛水源的湖泊之一。",
+                    "strWidth": 512.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "据说这里有着神秘的传说。",
+                    "strWidth": 384.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 110,
+            "arrayIndex": 109,
+            "labelName": "DP_townmap_112",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "从中央的小岛",
+                    "strWidth": 192.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "可以进入湖内的洞窟。",
+                    "strWidth": 320.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 111,
+            "arrayIndex": 110,
+            "labelName": "DP_townmap_113",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "被隐藏的第４个湖泊。",
+                    "strWidth": 320.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 112,
+            "arrayIndex": 111,
+            "labelName": "DP_townmap_114",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "湖中存在着",
+                    "strWidth": 160.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "空间被扭曲的洞窟。",
+                    "strWidth": 288.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 113,
+            "arrayIndex": 112,
+            "labelName": "DP_townmap_115",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "发电厂与其周边",
+                    "strWidth": 224.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "架设了不少风车。",
+                    "strWidth": 256.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 114,
+            "arrayIndex": 113,
+            "labelName": "DP_townmap_116",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "吹过山谷的风推动着风车，",
+                    "strWidth": 384.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "利用其产生的能量发电。",
+                    "strWidth": 352.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 115,
+            "arrayIndex": 114,
+            "labelName": "DP_townmap_117",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "在凉爽空气的环绕中，",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "森林中的树丛形成了一座",
+                    "strWidth": 352.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "天然的迷宫。",
+                    "strWidth": 192.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 116,
+            "arrayIndex": 115,
+            "labelName": "DP_townmap_118",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "森林的深处有一栋",
+                    "strWidth": 256.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "失去了主人的荒废洋馆。",
+                    "strWidth": 352.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 117,
+            "arrayIndex": 116,
+            "labelName": "DP_townmap_119",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "依林而立的大型钢铁厂。",
+                    "strWidth": 352.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 118,
+            "arrayIndex": 117,
+            "labelName": "DP_townmap_120",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "这座钢铁厂专门用来精炼",
+                    "strWidth": 352.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "天冠山挖掘而来的铁矿，",
+                    "strWidth": 352.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "将其加工成机械零件等物品。",
+                    "strWidth": 416.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 119,
+            "arrayIndex": 118,
+            "labelName": "DP_townmap_121",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "山顶常年被积雪覆盖，",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "内部则延伸着一个巨大的迷宫的",
+                    "strWidth": 448.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "神圣山峰。",
+                    "strWidth": 160.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 120,
+            "arrayIndex": 119,
+            "labelName": "DP_townmap_122",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "被称之为枪之柱的古代遗迹就在这里。",
+                    "strWidth": 544.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 121,
+            "arrayIndex": 120,
+            "labelName": "DP_townmap_123",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "位于封闭树林中的",
+                    "strWidth": 256.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "一片显眼的新月形水洼。",
+                    "strWidth": 352.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 122,
+            "arrayIndex": 121,
+            "labelName": "DP_townmap_124",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "一座被自身喷出的",
+                    "strWidth": 256.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "厚厚的火山灰所覆盖的，",
+                    "strWidth": 352.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "坚固的岩山。",
+                    "strWidth": 192.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 123,
+            "arrayIndex": 122,
+            "labelName": "DP_townmap_125",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "内部喷出的熔岩凝固后",
+                    "strWidth": 320.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "其缝隙形成了巨大的洞窟。",
+                    "strWidth": 384.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 124,
+            "arrayIndex": 123,
+            "labelName": "DP_townmap_126",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "遍地绽放着鲜花",
+                    "strWidth": 224.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "并位于神奥地区边境的小岛。",
+                    "strWidth": 416.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 125,
+            "arrayIndex": 124,
+            "labelName": "DP_townmap_127",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "位于百代市沿海的",
+                    "strWidth": 256.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "小型矿山岛。",
+                    "strWidth": 192.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 126,
+            "arrayIndex": 125,
+            "labelName": "DP_townmap_128",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "岛内还存留着",
+                    "strWidth": 192.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "开采矿石时的痕迹。",
+                    "strWidth": 288.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 127,
+            "arrayIndex": 126,
+            "labelName": "DP_townmap_129",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "位于封闭树林中的",
+                    "strWidth": 256.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "一片显眼的圆形水洼。",
+                    "strWidth": 320.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 128,
+            "arrayIndex": 127,
+            "labelName": "DP_townmap_130",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "精通宝可梦对战的人们大显身手的地方，",
+                    "strWidth": 576.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "对战塔就在这里。",
+                    "strWidth": 256.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 129,
+            "arrayIndex": 128,
+            "labelName": "DP_townmap_131",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "飞翔",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 130,
+            "arrayIndex": 129,
+            "labelName": "DP_townmap_132",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "当前所在地",
+                    "strWidth": 160.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 131,
+            "arrayIndex": 130,
+            "labelName": "DP_townmap_133",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "位置信息",
+                    "strWidth": 128.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 132,
+            "arrayIndex": 131,
+            "labelName": "DP_townmap_134",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "返回",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 49,
+            "arrayIndex": 132,
+            "labelName": "DP_townmap_051",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "一条沿着海面延伸的道路，",
+                    "strWidth": 384.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "它通向花之乐园。",
+                    "strWidth": 256.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 133,
+            "arrayIndex": 133,
+            "labelName": "DP_townmap_135",
+            "styleInfo": {
+                "styleIndex": 50,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "是",
+                    "strWidth": 32.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 134,
+            "arrayIndex": 134,
+            "labelName": "DP_townmap_136",
+            "styleInfo": {
+                "styleIndex": 50,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "否",
+                    "strWidth": 32.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 135,
+            "arrayIndex": 135,
+            "labelName": "DP_townmap_137",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "位置信息",
+                    "strWidth": 128.0
+                }
+            ]
+        }
+    ]
+}

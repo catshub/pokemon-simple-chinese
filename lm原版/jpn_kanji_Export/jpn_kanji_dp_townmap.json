@@ -1,0 +1,5589 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "jpn_kanji_dp_townmap",
+    "hash": 2086161621,
+    "langID": 1,
+    "isResident": 0,
+    "isKanji": 1,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "DP_townmap_001",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 5,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "まで",
+                    "strWidth": 61.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "そらをとぶで　移動しますか？",
+                    "strWidth": 434.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "DP_townmap_003",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "緑の葉が　こんもりと　生い茂る",
+                    "strWidth": 474.9000244140625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "木の香り　漂う　林の　小道。",
+                    "strWidth": 428.8999938964844
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "DP_townmap_004",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "曲がりくねった　道の　草むらでは",
+                    "strWidth": 499.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "若い　トレーナーたちが　腕を競う。",
+                    "strWidth": 521.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 3,
+            "arrayIndex": 3,
+            "labelName": "DP_townmap_005",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "大きな街の　そばに　ありながら",
+                    "strWidth": 475.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "未だ　自然の匂いが　残る道。",
+                    "strWidth": 432.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 4,
+            "arrayIndex": 4,
+            "labelName": "DP_townmap_006",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "洞窟を　抜けていけば",
+                    "strWidth": 316.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "クロガネシティまでは　すぐそこ。",
+                    "strWidth": 482.04998779296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 5,
+            "arrayIndex": 5,
+            "labelName": "DP_townmap_007",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "いくつもの　池と　木立が　立ち並ぶ",
+                    "strWidth": 537.9500122070312
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "自然の　魅力に　あふれた道。",
+                    "strWidth": 431.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 6,
+            "arrayIndex": 6,
+            "labelName": "DP_townmap_008",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "高台を　くり抜いて　作られた",
+                    "strWidth": 437.95001220703125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "荒れた抜け道を　通っていけば",
+                    "strWidth": 440.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ソノオタウンまでは　あっという間。",
+                    "strWidth": 509.9000244140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 7,
+            "arrayIndex": 7,
+            "labelName": "DP_townmap_009",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "大きな　池には　幅の広い",
+                    "strWidth": 382.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "橋が　かけられており　橋の上では",
+                    "strWidth": 504.9000244140625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "釣り人たちが　のんびり　糸を垂れる。",
+                    "strWidth": 553.9500122070312
+                }
+            ]
+        },
+        {
+            "labelIndex": 8,
+            "arrayIndex": 8,
+            "labelName": "DP_townmap_010",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "静かに　流れる　川と",
+                    "strWidth": 317.95001220703125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "起伏のある　地形が　冒険の",
+                    "strWidth": 416.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "楽しさを　演出している　道。",
+                    "strWidth": 421.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 9,
+            "arrayIndex": 9,
+            "labelName": "DP_townmap_011",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ハクタイの森の　入口の　そばには",
+                    "strWidth": 507.1000061035156
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "疲れを　癒してくれる　家がある。",
+                    "strWidth": 485.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 10,
+            "arrayIndex": 10,
+            "labelName": "DP_townmap_012",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "アスファルトで　舗装された",
+                    "strWidth": 394.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "サイクリングロードは　自転車を",
+                    "strWidth": 466.25
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "愛する者たちの　天国。",
+                    "strWidth": 336.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 11,
+            "arrayIndex": 11,
+            "labelName": "DP_townmap_013",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "サイクリングロードの　下には",
+                    "strWidth": 434.20001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "迷いの洞窟の　入口が　見える。",
+                    "strWidth": 464.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 12,
+            "arrayIndex": 12,
+            "labelName": "DP_townmap_014",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "デコボコした　岩肌が　荒々しい",
+                    "strWidth": 467.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "テンガン山の　麓の　道。",
+                    "strWidth": 364.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 13,
+            "arrayIndex": 13,
+            "labelName": "DP_townmap_015",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "テンガン山の　切り立った　岩肌と",
+                    "strWidth": 500.9000244140625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ふんわり　広がる　草むらが",
+                    "strWidth": 413.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "対照的な　景色を作る　道。",
+                    "strWidth": 399.04998779296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 14,
+            "arrayIndex": 14,
+            "labelName": "DP_townmap_016",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "自然と　ポケモンと　きのみを　愛する",
+                    "strWidth": 569.949951171875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "きのみじいさんの　住む家が　ある。",
+                    "strWidth": 524.0499877929688
+                }
+            ]
+        },
+        {
+            "labelIndex": 15,
+            "arrayIndex": 15,
+            "labelName": "DP_townmap_017",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "雑木林と　草むらの　間を",
+                    "strWidth": 382.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "縫うように　流れる　小川が",
+                    "strWidth": 412.8999938964844
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "心の　安らぎを　感じさせる。",
+                    "strWidth": 427.0999755859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 16,
+            "arrayIndex": 16,
+            "labelName": "DP_townmap_018",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ロストタワーは　命を　終えた",
+                    "strWidth": 441.04998779296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケモンの　魂が　眠る場所。",
+                    "strWidth": 430.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 17,
+            "arrayIndex": 17,
+            "labelName": "DP_townmap_019",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "山間を　切り開いて　作られた",
+                    "strWidth": 441.95001220703125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "大自然の　渓谷には",
+                    "strWidth": 287.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "いつも　深い霧が　立ち込めている。",
+                    "strWidth": 523.9500122070312
+                }
+            ]
+        },
+        {
+            "labelIndex": 18,
+            "arrayIndex": 18,
+            "labelName": "DP_townmap_020",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "人里　離れた　山間に",
+                    "strWidth": 319.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "タツばあさんの　家が　ひっそりと　建つ。",
+                    "strWidth": 613.9000244140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 19,
+            "arrayIndex": 19,
+            "labelName": "DP_townmap_021",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "背の高い草が　一面に　生い茂り",
+                    "strWidth": 476.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "踏み込んだ　者の　鼻を　くすぐる。",
+                    "strWidth": 522.0499877929688
+                }
+            ]
+        },
+        {
+            "labelIndex": 20,
+            "arrayIndex": 20,
+            "labelName": "DP_townmap_022",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "林の中に　建つ　カフェ山小屋。",
+                    "strWidth": 454.04998779296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "新鮮　搾りたての　ミルクが自慢。",
+                    "strWidth": 487.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 21,
+            "arrayIndex": 21,
+            "labelName": "DP_townmap_023",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "シンオウ地方　最大級の",
+                    "strWidth": 349.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "険しさを　誇る　テンガン山を",
+                    "strWidth": 438.0999755859375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "両側から　貫く　山道。",
+                    "strWidth": 332.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 22,
+            "arrayIndex": 22,
+            "labelName": "DP_townmap_024",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "道路の　半分近くを　占める",
+                    "strWidth": 411.04998779296875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "広大な　敷地を",
+                    "strWidth": 223.0500030517578
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "高い　塀が　ぐるりと　囲んでいる。",
+                    "strWidth": 521.9000244140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 23,
+            "arrayIndex": 23,
+            "labelName": "DP_townmap_025",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "塀の　向こうに　見えるのは",
+                    "strWidth": 411.95001220703125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケモン屋敷と　いわれる　豪邸。",
+                    "strWidth": 492.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "裏庭が　自慢のタネ　らしい。",
+                    "strWidth": 429.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 24,
+            "arrayIndex": 24,
+            "labelName": "DP_townmap_026",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "いつでも　大雨が　降っているので",
+                    "strWidth": 499.95001220703125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "道は　あちこち　水たまり　だらけ。",
+                    "strWidth": 522.9500122070312
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "トレーナーは　ずぶぬれで　大変。",
+                    "strWidth": 489.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 25,
+            "arrayIndex": 25,
+            "labelName": "DP_townmap_027",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "あか　あお　きいろに　みどりのかけら",
+                    "strWidth": 570.9000244140625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "いろいろなかけらを　わざマシンと",
+                    "strWidth": 506.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "交換　してくれる　家。",
+                    "strWidth": 325.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 26,
+            "arrayIndex": 26,
+            "labelName": "DP_townmap_028",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "沖合の　岩が　防波堤と　なって",
+                    "strWidth": 471.9000244140625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "浜辺の　静けさを　保っている。",
+                    "strWidth": 455.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "高台に　建つのは　リゾートホテル。",
+                    "strWidth": 521.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 27,
+            "arrayIndex": 27,
+            "labelName": "DP_townmap_029",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "浜辺の　小さな家には　フトマキさん",
+                    "strWidth": 532.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "通称　あしあと博士と　呼ばれる",
+                    "strWidth": 474.9000244140625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "人物が　一人で　住んでいる。",
+                    "strWidth": 428.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 28,
+            "arrayIndex": 28,
+            "labelName": "DP_townmap_030",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "トバリシティと　湖を　結ぶ道は",
+                    "strWidth": 466.9499816894531
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "よく言えば　自然のままの　姿",
+                    "strWidth": 442.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "悪く言えば　荒れ放題の　野原。",
+                    "strWidth": 460.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 29,
+            "arrayIndex": 29,
+            "labelName": "DP_townmap_031",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "山肌には　遺跡マニアが　開けた",
+                    "strWidth": 475.04998779296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "洞窟が　口を　開いている。",
+                    "strWidth": 396.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 30,
+            "arrayIndex": 30,
+            "labelName": "DP_townmap_032",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "いつでも　大雨が　降り続けている。",
+                    "strWidth": 519.9000244140625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ここに　集まるのは　雨にも　負けない",
+                    "strWidth": 569.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "無鉄砲な　トレーナー　ばかり。",
+                    "strWidth": 456.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 31,
+            "arrayIndex": 31,
+            "labelName": "DP_townmap_033",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "テンガン山から　伸びる　山道は",
+                    "strWidth": 475.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "やまない　雪が　分厚く　降り積もり",
+                    "strWidth": 534.9000244140625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "道行く者の　歩みを　鈍らせる。",
+                    "strWidth": 459.04998779296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 32,
+            "arrayIndex": 32,
+            "labelName": "DP_townmap_034",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "テンガン山から　吹き下ろす　雪が",
+                    "strWidth": 507.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "猛吹雪と　なって　襲いかかる。",
+                    "strWidth": 455.8999938964844
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "覚悟を決めて　足を　踏み入れよう。",
+                    "strWidth": 522.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 33,
+            "arrayIndex": 33,
+            "labelName": "DP_townmap_035",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ほんの　短い　道ながら",
+                    "strWidth": 352.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "熱心な　釣り人たちの　間では",
+                    "strWidth": 443.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "隠れた　名所と　なっている。",
+                    "strWidth": 423.9000244140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 34,
+            "arrayIndex": 34,
+            "labelName": "DP_townmap_036",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "マサゴタウンから　歩いてきても",
+                    "strWidth": 469.9000244140625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "たった　５秒の　白い　砂浜。",
+                    "strWidth": 420.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "海から　吹く　風が　気持ちいい。",
+                    "strWidth": 492.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 35,
+            "arrayIndex": 35,
+            "labelName": "DP_townmap_037",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "穏やかな　風と　潮の　流れは",
+                    "strWidth": 446.95001220703125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "海水浴に　最適な　海。",
+                    "strWidth": 335.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "泳ぎ疲れたら　中州で　ひと休み。",
+                    "strWidth": 490.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 36,
+            "arrayIndex": 36,
+            "labelName": "DP_townmap_038",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "まばらな　雑木林の　間を",
+                    "strWidth": 382.04998779296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "まっすぐに　抜ける　緑の　道。",
+                    "strWidth": 457.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 37,
+            "arrayIndex": 37,
+            "labelName": "DP_townmap_039",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "At the end of the path stands the gateway to",
+                    "strWidth": 582.34375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Renegade Park.",
+                    "strWidth": 185.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 38,
+            "arrayIndex": 38,
+            "labelName": "DP_townmap_040",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "道路沿いに　広がる　砂浜は",
+                    "strWidth": 415.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "磯釣りに　チャレンジする　人々の",
+                    "strWidth": 499.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "楽しそうな　姿で　にぎわっている。",
+                    "strWidth": 512.9000244140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 39,
+            "arrayIndex": 39,
+            "labelName": "DP_townmap_041",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "この辺りには　釣り好きの　おじさんや",
+                    "strWidth": 564.949951171875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "釣ったポケモンの　大きさ　比べを",
+                    "strWidth": 503.04998779296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "してくれる　おじさんの　家がある。",
+                    "strWidth": 515.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 40,
+            "arrayIndex": 40,
+            "labelName": "DP_townmap_042",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "水面に　突き出た　岩や　浅瀬が",
+                    "strWidth": 478.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "行く手を　阻む　海の道。",
+                    "strWidth": 363.04998779296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 41,
+            "arrayIndex": 41,
+            "labelName": "DP_townmap_043",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "草むらと　岩山　海と　浅瀬",
+                    "strWidth": 413.9000244140625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "まるで　シンオウ地方　全体を",
+                    "strWidth": 441.04998779296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "縮図に　したような　場所。",
+                    "strWidth": 394.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 42,
+            "arrayIndex": 42,
+            "labelName": "DP_townmap_044",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "高低差のある　地形を",
+                    "strWidth": 319.04998779296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "上がったり　下りたり　忙しい　道。",
+                    "strWidth": 514.8499755859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 43,
+            "arrayIndex": 43,
+            "labelName": "DP_townmap_045",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "波打ち際まで　高い　絶壁が",
+                    "strWidth": 413.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "迫ってくる　道無き　道。",
+                    "strWidth": 355.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 44,
+            "arrayIndex": 44,
+            "labelName": "DP_townmap_046",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "湾内に　浮かぶ　小さな　島には",
+                    "strWidth": 477.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "よその国の　言葉を　しゃべる",
+                    "strWidth": 442.04998779296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "不思議な　人物が　住んでいる。",
+                    "strWidth": 462.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 45,
+            "arrayIndex": 45,
+            "labelName": "DP_townmap_047",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "降り注ぐ　火山灰が　旅人の",
+                    "strWidth": 412.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "視界を　妨げる　険しい　道。",
+                    "strWidth": 428.04998779296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 46,
+            "arrayIndex": 46,
+            "labelName": "DP_townmap_048",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "強い　海風に　あおられて",
+                    "strWidth": 379.95001220703125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "横殴りの　砂嵐が　吹き荒れる",
+                    "strWidth": 444.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "過酷な　道。",
+                    "strWidth": 176.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 47,
+            "arrayIndex": 47,
+            "labelName": "DP_townmap_049",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "自然の　なすままに　草や　木が",
+                    "strWidth": 477.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "無規則に　茂る　海沿いの　道。",
+                    "strWidth": 463.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 48,
+            "arrayIndex": 48,
+            "labelName": "DP_townmap_050",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "横に伸びる　水路の　途中に",
+                    "strWidth": 413.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "草花の　生い茂る　島が　ある。",
+                    "strWidth": 464.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 50,
+            "arrayIndex": 49,
+            "labelName": "DP_townmap_052",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "若葉の　息吹と　なにかの　始まりを",
+                    "strWidth": 537.9500122070312
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "感じさせる　小さな　町。",
+                    "strWidth": 364.04998779296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 51,
+            "arrayIndex": 50,
+            "labelName": "DP_townmap_053",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "自分の　家と",
+                    "strWidth": 190.9499969482422
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "友達の　家が　ある。",
+                    "strWidth": 304.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 52,
+            "arrayIndex": 51,
+            "labelName": "DP_townmap_054",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "浜辺の　すぐそばに　あって",
+                    "strWidth": 406.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "潮風の　香り漂う　砂の町。",
+                    "strWidth": 396.8999938964844
+                }
+            ]
+        },
+        {
+            "labelIndex": 53,
+            "arrayIndex": 52,
+            "labelName": "DP_townmap_055",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケモンの　研究に　勤しむ",
+                    "strWidth": 410.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ナナカマド博士の　研究所が",
+                    "strWidth": 412.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "町の　目印。",
+                    "strWidth": 176.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 54,
+            "arrayIndex": 53,
+            "labelName": "DP_townmap_056",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "咲き誇る　花の香りに　包まれた",
+                    "strWidth": 474.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "花を　愛する　人々の　町。",
+                    "strWidth": 396.04998779296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 55,
+            "arrayIndex": 54,
+            "labelName": "DP_townmap_057",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "花のあぜ道を　進んだ　先には",
+                    "strWidth": 446.04998779296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "一面の　花畑が　広がる。",
+                    "strWidth": 368.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 56,
+            "arrayIndex": 55,
+            "labelName": "DP_townmap_058",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "町の　中央には",
+                    "strWidth": 223.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "フラワーショップ　色とりどりが　ある。",
+                    "strWidth": 568.7500610351562
+                }
+            ]
+        },
+        {
+            "labelIndex": 57,
+            "arrayIndex": 56,
+            "labelName": "DP_townmap_059",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "温暖な　気候で　人も　ポケモンも",
+                    "strWidth": 508.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "のんびり　気ままに　暮らせる　町。",
+                    "strWidth": 521.9500122070312
+                }
+            ]
+        },
+        {
+            "labelIndex": 58,
+            "arrayIndex": 57,
+            "labelName": "DP_townmap_060",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケモンの　預かり屋さんと",
+                    "strWidth": 409.9000244140625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケモンセンターが　ある。",
+                    "strWidth": 396.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 59,
+            "arrayIndex": 58,
+            "labelName": "DP_townmap_061",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "木立の　間を　抜けた　先には",
+                    "strWidth": 446.04998779296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ズイの遺跡の　入口が　ある。",
+                    "strWidth": 430.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 60,
+            "arrayIndex": 59,
+            "labelName": "DP_townmap_062",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "昔の　暮らしと　歴史を",
+                    "strWidth": 347.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "今に　伝える　小さな　町。",
+                    "strWidth": 398.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 61,
+            "arrayIndex": 60,
+            "labelName": "DP_townmap_063",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "町の　中央には　古の",
+                    "strWidth": 319.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ほこらが　残っている。",
+                    "strWidth": 326.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 62,
+            "arrayIndex": 61,
+            "labelName": "DP_townmap_064",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケモン勝負に　熱く　燃える",
+                    "strWidth": 441.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "者たちが　己を　鍛え直すために",
+                    "strWidth": 478.04998779296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "集まってくる　町。",
+                    "strWidth": 259.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 63,
+            "arrayIndex": 62,
+            "labelName": "DP_townmap_065",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "勝負する　以外にも　ポケモンの",
+                    "strWidth": 477.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "別の　楽しみを　知っている",
+                    "strWidth": 405.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "人たちが　集まってくる　町。",
+                    "strWidth": 419.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 64,
+            "arrayIndex": 63,
+            "labelName": "DP_townmap_066",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "シンオウ地方の　中でも　特に",
+                    "strWidth": 442.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "近代的な　発展を　遂げている",
+                    "strWidth": 444.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "たくさんの　人々が　行き交う　町。",
+                    "strWidth": 517.9500122070312
+                }
+            ]
+        },
+        {
+            "labelIndex": 65,
+            "arrayIndex": 64,
+            "labelName": "DP_townmap_067",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケッチの　開発を　している",
+                    "strWidth": 437.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケッチカンパニーが　ある。",
+                    "strWidth": 426.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 66,
+            "arrayIndex": 65,
+            "labelName": "DP_townmap_068",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "いろいろ　遊べる　テレビ局",
+                    "strWidth": 413.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "テレビ　コトブキが　ある。",
+                    "strWidth": 389.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 67,
+            "arrayIndex": 66,
+            "labelName": "DP_townmap_069",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "グローバルミラクルトレードステーション",
+                    "strWidth": 585.1500244140625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ちぢめて　GMStationが　ある。",
+                    "strWidth": 468.07501220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 68,
+            "arrayIndex": 67,
+            "labelName": "DP_townmap_070",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケモンの　基礎が　いろいろ　わかる",
+                    "strWidth": 574.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "トレーナーズスクールが　ある。",
+                    "strWidth": 456.1000061035156
+                }
+            ]
+        },
+        {
+            "labelIndex": 69,
+            "arrayIndex": 68,
+            "labelName": "DP_townmap_071",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "運河で　二つに　分断された",
+                    "strWidth": 411.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "異国情緒　あふれる　港街。",
+                    "strWidth": 400.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 70,
+            "arrayIndex": 69,
+            "labelName": "DP_townmap_072",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "頭脳を　働かせるなら　図書館。",
+                    "strWidth": 463.04998779296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "肉体を　動かすなら　ジムへ。",
+                    "strWidth": 430.04998779296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 71,
+            "arrayIndex": 70,
+            "labelName": "DP_townmap_073",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "船着き場の　桟橋には　いつも",
+                    "strWidth": 445.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "大きな　船が　泊まっている。",
+                    "strWidth": 422.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 72,
+            "arrayIndex": 71,
+            "labelName": "DP_townmap_074",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "天然　資源に　恵まれた",
+                    "strWidth": 350.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "エネルギー　みなぎる　炭鉱街。",
+                    "strWidth": 463.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 73,
+            "arrayIndex": 72,
+            "labelName": "DP_townmap_075",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "炭鉱で　働く　人々が",
+                    "strWidth": 311.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ハードな　仕事の　合間に",
+                    "strWidth": 379.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "息抜きをする　ジムが　ある。",
+                    "strWidth": 429.04998779296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 74,
+            "arrayIndex": 73,
+            "labelName": "DP_townmap_076",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "炭鉱に　関するものが　展示された",
+                    "strWidth": 510.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "博物館が　ある。",
+                    "strWidth": 240.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 75,
+            "arrayIndex": 74,
+            "labelName": "DP_townmap_077",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "今も　巨大な　石炭が　眠る",
+                    "strWidth": 416.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "クロガネ炭鉱の　入口は　こちら。",
+                    "strWidth": 492.1000061035156
+                }
+            ]
+        },
+        {
+            "labelIndex": 76,
+            "arrayIndex": 75,
+            "labelName": "DP_townmap_078",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "次第に　忘れられつつある　歴史の",
+                    "strWidth": 509.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "面影が　かすかに　残る　街。",
+                    "strWidth": 431.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 77,
+            "arrayIndex": 76,
+            "labelName": "DP_townmap_079",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "怪しげな　雰囲気の　ビルや",
+                    "strWidth": 411.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "サイクルショップが　ある。",
+                    "strWidth": 385.04998779296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 78,
+            "arrayIndex": 77,
+            "labelName": "DP_townmap_080",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "大昔の　ポケモンの　像が",
+                    "strWidth": 382.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "祭られている。",
+                    "strWidth": 204.9499969482422
+                }
+            ]
+        },
+        {
+            "labelIndex": 79,
+            "arrayIndex": 78,
+            "labelName": "DP_townmap_081",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "人の　出入りが　激しい　街には",
+                    "strWidth": 473.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "欠かせない　ジムが　ここにも　ある。",
+                    "strWidth": 554.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 80,
+            "arrayIndex": 79,
+            "labelName": "DP_townmap_082",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "人々や　ポケモンが　集まり",
+                    "strWidth": 407.95001220703125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "商業の　発展と　ともに",
+                    "strWidth": 348.8999938964844
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "できあがった　友好の　街。",
+                    "strWidth": 393.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 81,
+            "arrayIndex": 80,
+            "labelName": "DP_townmap_083",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケモンと　気ままに　お散歩　できる",
+                    "strWidth": 566.9500122070312
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ふれあい広場の　入口が　ある。",
+                    "strWidth": 464.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 82,
+            "arrayIndex": 81,
+            "labelName": "DP_townmap_084",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケモンの　見た目に　こだわるなら",
+                    "strWidth": 539.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "コンテスト会場へ。",
+                    "strWidth": 263.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "強さに　こだわるなら　ジムへ。",
+                    "strWidth": 459.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 83,
+            "arrayIndex": 82,
+            "labelName": "DP_townmap_085",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "この街が　異なる　文化を　持った",
+                    "strWidth": 505.04998779296875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "人々の　行き交う場所　であることを",
+                    "strWidth": 532.9500122070312
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "象徴する　建物が　ある。",
+                    "strWidth": 368.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 84,
+            "arrayIndex": 83,
+            "labelName": "DP_townmap_086",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "噴水や　ベンチ",
+                    "strWidth": 222.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケモンだいすきクラブなど",
+                    "strWidth": 408.0500183105469
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "憩いの施設も　充実　している。",
+                    "strWidth": 457.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 85,
+            "arrayIndex": 84,
+            "labelName": "DP_townmap_087",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "もともと　この土地に　広がっていた",
+                    "strWidth": 531.8499755859375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "大湿原を　保護するために",
+                    "strWidth": 382.04998779296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "自然と　形作られていった　街。",
+                    "strWidth": 455.8999938964844
+                }
+            ]
+        },
+        {
+            "labelIndex": 86,
+            "arrayIndex": 85,
+            "labelName": "DP_townmap_088",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "水が　豊富な　この土地には",
+                    "strWidth": 413.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "いかにも　それらしい　ジムが　ある。",
+                    "strWidth": 555.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 87,
+            "arrayIndex": 86,
+            "labelName": "DP_townmap_089",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "大湿原を　望む　展望台と",
+                    "strWidth": 382.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "サファリゲームへの　ゲートが　ある。",
+                    "strWidth": 544.9500122070312
+                }
+            ]
+        },
+        {
+            "labelIndex": 88,
+            "arrayIndex": 87,
+            "labelName": "DP_townmap_090",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "険しい　山を　切り崩して",
+                    "strWidth": 371.95001220703125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "作られたため　他の土地　とは",
+                    "strWidth": 446.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "あまり　交流を　持たない　街。",
+                    "strWidth": 460.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 89,
+            "arrayIndex": 88,
+            "labelName": "DP_townmap_091",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "さまざまな　物資を　保存するための",
+                    "strWidth": 539.0499877929688
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "倉庫群が　建っている。",
+                    "strWidth": 328.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "買い物を　するなら　デパートも　ある。",
+                    "strWidth": 587.0499877929688
+                }
+            ]
+        },
+        {
+            "labelIndex": 90,
+            "arrayIndex": 89,
+            "labelName": "DP_townmap_092",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "一段と　高くなった　ところに",
+                    "strWidth": 434.9000244140625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "建っているのは　ギンガ団の　本部。",
+                    "strWidth": 518.9500122070312
+                }
+            ]
+        },
+        {
+            "labelIndex": 91,
+            "arrayIndex": 90,
+            "labelName": "DP_townmap_093",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ゲーム好き　オーナーの　服屋がある",
+                    "strWidth": 543.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "この街には　もちろん　ジムも　ある。",
+                    "strWidth": 556.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 92,
+            "arrayIndex": 91,
+            "labelName": "DP_townmap_094",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ファッションスタイルには　オーナーが",
+                    "strWidth": 550.9000244140625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "選んだ　個性的な　服が",
+                    "strWidth": 352.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ところせましと　並んでいる。",
+                    "strWidth": 421.8999938964844
+                }
+            ]
+        },
+        {
+            "labelIndex": 93,
+            "arrayIndex": 92,
+            "labelName": "DP_townmap_095",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "岬の　入り組んだ　地形を",
+                    "strWidth": 381.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "利用して　作られた　港街。",
+                    "strWidth": 393.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "立体的な　歩道が　特徴。",
+                    "strWidth": 368.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 94,
+            "arrayIndex": 93,
+            "labelName": "DP_townmap_096",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "高台の　上には　ジムが　ある。",
+                    "strWidth": 462.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "砂浜には　にぎやかな　市場。",
+                    "strWidth": 429.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 95,
+            "arrayIndex": 94,
+            "labelName": "DP_townmap_097",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "シルベの灯台は　シンオウ地方に",
+                    "strWidth": 475.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "明るい光を　投げかける。",
+                    "strWidth": 367.04998779296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 96,
+            "arrayIndex": 95,
+            "labelName": "DP_townmap_098",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "立ち並ぶ　樹木も　建物も",
+                    "strWidth": 384.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "降り積もる　雪に　厚く　覆われ",
+                    "strWidth": 472.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "一面　銀世界となった　街。",
+                    "strWidth": 394.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 97,
+            "arrayIndex": 96,
+            "labelName": "DP_townmap_099",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "街の　中央には　ジムが　建ち",
+                    "strWidth": 446.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "奥には　キッサキ神殿が　ある。",
+                    "strWidth": 459.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 98,
+            "arrayIndex": 97,
+            "labelName": "DP_townmap_100",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "トレーナーの　頂点を　目指す者が",
+                    "strWidth": 506.04998779296875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "長く　険しい　道のりを",
+                    "strWidth": 342.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "乗り越えて　集まってくる　場所。",
+                    "strWidth": 478.8500061035156
+                }
+            ]
+        },
+        {
+            "labelIndex": 99,
+            "arrayIndex": 98,
+            "labelName": "DP_townmap_101",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケモンリーグへの　受付が　ある。",
+                    "strWidth": 523.0999755859375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "すべてのジムを　制覇した　者だけが",
+                    "strWidth": 536.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "入ることのできる　場所。",
+                    "strWidth": 361.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 100,
+            "arrayIndex": 99,
+            "labelName": "DP_townmap_102",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケモンリーグへの　最後の　関門",
+                    "strWidth": 507.1000061035156
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "チャンピオンロードが　ある。",
+                    "strWidth": 420.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 101,
+            "arrayIndex": 100,
+            "labelName": "DP_townmap_103",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "三度の　ご飯より　ポケモン勝負が",
+                    "strWidth": 506.95001220703125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "大好きな　人々が　やってくる",
+                    "strWidth": 432.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "とっても　小さな　港町。",
+                    "strWidth": 358.8999938964844
+                }
+            ]
+        },
+        {
+            "labelIndex": 102,
+            "arrayIndex": 101,
+            "labelName": "DP_townmap_104",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "桟橋には　キッサキシティへの",
+                    "strWidth": 436.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "船が　停泊　している。",
+                    "strWidth": 329.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 103,
+            "arrayIndex": 102,
+            "labelName": "DP_townmap_105",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "バトルパークへの　ゲートが　ある。",
+                    "strWidth": 518.0999755859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 104,
+            "arrayIndex": 103,
+            "labelName": "DP_townmap_106",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "水に　恵まれた　シンオウ地方を",
+                    "strWidth": 474.04998779296875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "象徴する　湖の　一つ。",
+                    "strWidth": 335.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "不思議な　伝説が　あるという。",
+                    "strWidth": 461.9000244140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 105,
+            "arrayIndex": 104,
+            "labelName": "DP_townmap_107",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "中央の　小島から",
+                    "strWidth": 256.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "湖　内部の　洞窟へ",
+                    "strWidth": 288.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "入ることが　できる。",
+                    "strWidth": 297.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 106,
+            "arrayIndex": 105,
+            "labelName": "DP_townmap_108",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "水に　恵まれた　シンオウ地方を",
+                    "strWidth": 474.04998779296875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "象徴する　湖の　一つ。",
+                    "strWidth": 335.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "不思議な　伝説が　あるという。",
+                    "strWidth": 461.9000244140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 107,
+            "arrayIndex": 106,
+            "labelName": "DP_townmap_109",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "中央の　小島から",
+                    "strWidth": 256.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "湖　内部の　洞窟へ",
+                    "strWidth": 288.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "入ることが　できる。",
+                    "strWidth": 297.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 108,
+            "arrayIndex": 107,
+            "labelName": "DP_townmap_110",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "湖畔の　高台に　建つ",
+                    "strWidth": 318.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "高級　レストラン。",
+                    "strWidth": 264.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 109,
+            "arrayIndex": 108,
+            "labelName": "DP_townmap_111",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "水に　恵まれた　シンオウ地方を",
+                    "strWidth": 474.04998779296875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "象徴する　湖の　一つ。",
+                    "strWidth": 335.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "不思議な　伝説が　あるという。",
+                    "strWidth": 461.9000244140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 110,
+            "arrayIndex": 109,
+            "labelName": "DP_townmap_112",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "中央の　小島から",
+                    "strWidth": 256.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "湖　内部の　洞窟へ",
+                    "strWidth": 288.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "入ることが　できる。",
+                    "strWidth": 297.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 111,
+            "arrayIndex": 110,
+            "labelName": "DP_townmap_113",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "隠されていた　第４の　湖。",
+                    "strWidth": 388.8999938964844
+                }
+            ]
+        },
+        {
+            "labelIndex": 112,
+            "arrayIndex": 111,
+            "labelName": "DP_townmap_114",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "湖の　底には",
+                    "strWidth": 191.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "空間の　捻じれた　洞窟が　ある。",
+                    "strWidth": 494.04998779296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 113,
+            "arrayIndex": 112,
+            "labelName": "DP_townmap_115",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "発電所と　その　周辺には",
+                    "strWidth": 381.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "いくつもの　風車が　建っている。",
+                    "strWidth": 483.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 114,
+            "arrayIndex": 113,
+            "labelName": "DP_townmap_116",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "谷間を　吹き抜ける　風の　力で",
+                    "strWidth": 476.04998779296875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "風車を　回し　そのエネルギーを",
+                    "strWidth": 475.0999755859375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "利用して　発電　している。",
+                    "strWidth": 387.9000244140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 115,
+            "arrayIndex": 114,
+            "labelName": "DP_townmap_117",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ひんやりとした　空気に　包まれた",
+                    "strWidth": 502.8999938964844
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "森の中は　立ち並ぶ　木立が",
+                    "strWidth": 416.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "天然の　迷路を　形成している。",
+                    "strWidth": 457.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 116,
+            "arrayIndex": 115,
+            "labelName": "DP_townmap_118",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "森の　奥には　主を　失って",
+                    "strWidth": 407.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "荒れ果てた　洋館が　建っている。",
+                    "strWidth": 485.9000244140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 117,
+            "arrayIndex": 116,
+            "labelName": "DP_townmap_119",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "森を背にして　大きな　製鉄所が",
+                    "strWidth": 471.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "建っている。",
+                    "strWidth": 168.9499969482422
+                }
+            ]
+        },
+        {
+            "labelIndex": 118,
+            "arrayIndex": 117,
+            "labelName": "DP_townmap_120",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "この　製鉄所では　テンガン山から",
+                    "strWidth": 504.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "掘り出した　鉄鉱石を　精製し",
+                    "strWidth": 439.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "機械部品などに　加工　している。",
+                    "strWidth": 487.9000244140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 119,
+            "arrayIndex": 118,
+            "labelName": "DP_townmap_121",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "山頂は　いつも　雪に　覆われ",
+                    "strWidth": 446.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "内部には　広大な　迷路が",
+                    "strWidth": 383.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "広がっている　神聖な　山。",
+                    "strWidth": 392.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 120,
+            "arrayIndex": 119,
+            "labelName": "DP_townmap_122",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "槍の柱　と呼ばれる",
+                    "strWidth": 286.95001220703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "古代の　遺跡が　ある。",
+                    "strWidth": 336.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 121,
+            "arrayIndex": 120,
+            "labelName": "DP_townmap_123",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "閉ざされた　森の　中に　浮かぶ",
+                    "strWidth": 477.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "小さな　三日月の　水たまり。",
+                    "strWidth": 427.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 122,
+            "arrayIndex": 121,
+            "labelName": "DP_townmap_124",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "自ら　吐き出した　火山灰が",
+                    "strWidth": 412.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "厚く　降り積もる",
+                    "strWidth": 249.9499969482422
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "堅牢　強固な　岩山。",
+                    "strWidth": 304.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 123,
+            "arrayIndex": 122,
+            "labelName": "DP_townmap_125",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "山の　内部は　噴火で　流れ出た",
+                    "strWidth": 478.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "溶岩の　隙間が",
+                    "strWidth": 224.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "巨大な　洞窟と　なっている。",
+                    "strWidth": 423.9000244140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 124,
+            "arrayIndex": 123,
+            "labelName": "DP_townmap_126",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "咲き乱れる　花で　埋め尽くされた",
+                    "strWidth": 504.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "最果ての　小さな　島。",
+                    "strWidth": 331.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 125,
+            "arrayIndex": 124,
+            "labelName": "DP_townmap_127",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ハクタイシティの　沖合に　浮かぶ",
+                    "strWidth": 501.04998779296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "小さな　鉱山の　島。",
+                    "strWidth": 303.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 126,
+            "arrayIndex": 125,
+            "labelName": "DP_townmap_128",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "島の　内部には　かつて　鉱石を",
+                    "strWidth": 474.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "掘り出していた　頃の　名残がある。",
+                    "strWidth": 519.9000244140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 127,
+            "arrayIndex": 126,
+            "labelName": "DP_townmap_129",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "閉ざされた　森の　中に　浮かぶ",
+                    "strWidth": 477.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "丸くて　小さな　水たまり。",
+                    "strWidth": 388.9000244140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 128,
+            "arrayIndex": 127,
+            "labelName": "DP_townmap_130",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ポケモン勝負を　極める　者たちが",
+                    "strWidth": 509.04998779296875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "自慢の腕を　競い合う　場所",
+                    "strWidth": 414.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "バトルタワーが　ある。",
+                    "strWidth": 331.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 129,
+            "arrayIndex": 128,
+            "labelName": "DP_townmap_131",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "そらをとぶ",
+                    "strWidth": 158.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 130,
+            "arrayIndex": 129,
+            "labelName": "DP_townmap_132",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "現在地",
+                    "strWidth": 96.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 131,
+            "arrayIndex": 130,
+            "labelName": "DP_townmap_133",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "位置情報",
+                    "strWidth": 128.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 132,
+            "arrayIndex": 131,
+            "labelName": "DP_townmap_134",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "戻る",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 49,
+            "arrayIndex": 132,
+            "labelName": "DP_townmap_051",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "海上を　まっすぐ　伸びる　道。",
+                    "strWidth": 456.04998779296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "花の楽園に　続いている。",
+                    "strWidth": 363.95001220703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 133,
+            "arrayIndex": 133,
+            "labelName": "DP_townmap_135",
+            "styleInfo": {
+                "styleIndex": 50,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "はい",
+                    "strWidth": 64.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 134,
+            "arrayIndex": 134,
+            "labelName": "DP_townmap_136",
+            "styleInfo": {
+                "styleIndex": 50,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "いいえ",
+                    "strWidth": 96.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 135,
+            "arrayIndex": 135,
+            "labelName": "DP_townmap_137",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                -1,
+                -1,
+                -1,
+                -1
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "位置情報",
+                    "strWidth": 128.0
+                }
+            ]
+        }
+    ]
+}

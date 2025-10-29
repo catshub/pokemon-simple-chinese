@@ -1,0 +1,1040 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "french_ss_strinput",
+    "hash": 1422704620,
+    "langID": 3,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "SS_strinput_000",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Quel est votre nom ?",
+                    "strWidth": 272.765625
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "SS_strinput_002",
+            "styleInfo": {
+                "styleIndex": 70,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1008,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vous ne pouvez pas utiliser ce nom.",
+                    "strWidth": 464.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 3,
+            "arrayIndex": 2,
+            "labelName": "SS_strinput_004",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Veuillez saisir un nom.",
+                    "strWidth": 287.453125
+                }
+            ]
+        },
+        {
+            "labelIndex": 4,
+            "arrayIndex": 3,
+            "labelName": "SS_strinput_005",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 1,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Quel surnom donner à ",
+                    "strWidth": 297.125
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " ?",
+                    "strWidth": 23.140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 5,
+            "arrayIndex": 4,
+            "labelName": "SS_strinput_006",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": -1,
+                    "groupID": 20,
+                    "tagID": 7,
+                    "tagPatternID": 5,
+                    "forceArticle": 1,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 3
+                },
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 1,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 3
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Quel surnom donner ",
+                    "strWidth": 273.15625
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " mâle ?",
+                    "strWidth": 93.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 6,
+            "arrayIndex": 5,
+            "labelName": "SS_strinput_007",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": -1,
+                    "groupID": 20,
+                    "tagID": 7,
+                    "tagPatternID": 5,
+                    "forceArticle": 1,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 3
+                },
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 1,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 3
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Quel surnom donner ",
+                    "strWidth": 273.15625
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " femelle ?",
+                    "strWidth": 127.765625
+                }
+            ]
+        },
+        {
+            "labelIndex": 7,
+            "arrayIndex": 6,
+            "labelName": "SS_strinput_010",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Quel nom voulez-vous donner à la Boîte ?",
+                    "strWidth": 545.15625
+                }
+            ]
+        },
+        {
+            "labelIndex": 8,
+            "arrayIndex": 7,
+            "labelName": "SS_strinput_012",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Quel nom voulez-vous donner à l’Équipe Combat ?",
+                    "strWidth": 662.84375
+                }
+            ]
+        },
+        {
+            "labelIndex": 9,
+            "arrayIndex": 8,
+            "labelName": "SS_strinput_015",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Veuillez saisir le code ou le mot de passe.",
+                    "strWidth": 543.515625
+                }
+            ]
+        },
+        {
+            "labelIndex": 10,
+            "arrayIndex": 9,
+            "labelName": "SS_strinput_021",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Quel est votre mois de naissance ?",
+                    "strWidth": 449.21875
+                }
+            ]
+        },
+        {
+            "labelIndex": 11,
+            "arrayIndex": 10,
+            "labelName": "SS_strinput_022",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Quel est votre jour de naissance ?",
+                    "strWidth": 439.9375
+                }
+            ]
+        },
+        {
+            "labelIndex": 12,
+            "arrayIndex": 11,
+            "labelName": "SS_strinput_026",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Saisissez un mot de passe à huit chiffres.",
+                    "strWidth": 521.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 13,
+            "arrayIndex": 12,
+            "labelName": "SS_strinput_028",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Veuillez saisir un ID Compétition.",
+                    "strWidth": 432.5625
+                }
+            ]
+        },
+        {
+            "labelIndex": 14,
+            "arrayIndex": 13,
+            "labelName": "SS_strinput_029",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Veuillez saisir un numéro de groupe de combat.",
+                    "strWidth": 618.0625
+                }
+            ]
+        },
+        {
+            "labelIndex": 15,
+            "arrayIndex": 14,
+            "labelName": "SS_strinput_030",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Veuillez saisir l’ID de l’équipe que vous souhaitez emprunter.",
+                    "strWidth": 792.1875
+                }
+            ]
+        },
+        {
+            "labelIndex": 16,
+            "arrayIndex": 15,
+            "labelName": "SS_strinput_031",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Veuillez saisir un code carte.",
+                    "strWidth": 369.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 17,
+            "arrayIndex": 16,
+            "labelName": "SS_strinput_032",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Veuillez saisir un nom pour la compétition.",
+                    "strWidth": 551.28125
+                }
+            ]
+        },
+        {
+            "labelIndex": 18,
+            "arrayIndex": 17,
+            "labelName": "SS_strinput_033",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Veuillez saisir un sous-titre pour la compétition.",
+                    "strWidth": 616.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 19,
+            "arrayIndex": 18,
+            "labelName": "SS_strinput_034",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "L’ajout d’un sous-titre est facultatif.",
+                    "strWidth": 462.03125
+                }
+            ]
+        },
+        {
+            "labelIndex": 20,
+            "arrayIndex": 19,
+            "labelName": "SS_strinput_035",
+            "styleInfo": {
+                "styleIndex": 70,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1008,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vous pouvez saisir cinq chiffres maximum.",
+                    "strWidth": 541.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 21,
+            "arrayIndex": 20,
+            "labelName": "SS_strinput_037",
+            "styleInfo": {
+                "styleIndex": 70,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1008,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Veuillez saisir un chiffre entre 1 et 12.",
+                    "strWidth": 488.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 22,
+            "arrayIndex": 21,
+            "labelName": "SS_strinput_038",
+            "styleInfo": {
+                "styleIndex": 70,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1008,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Veuillez saisir un chiffre entre 1 et 31.",
+                    "strWidth": 488.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 23,
+            "arrayIndex": 22,
+            "labelName": "SS_strinput_039",
+            "styleInfo": {
+                "styleIndex": 70,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1008,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Veuillez saisir un chiffre entre 1 et 30.",
+                    "strWidth": 492.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 24,
+            "arrayIndex": 23,
+            "labelName": "SS_strinput_040",
+            "styleInfo": {
+                "styleIndex": 70,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1008,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Veuillez saisir un chiffre entre 1 et 29.",
+                    "strWidth": 492.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 25,
+            "arrayIndex": 24,
+            "labelName": "SS_strinput_041",
+            "styleInfo": {
+                "styleIndex": 70,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1008,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Les données saisies sont invalides.",
+                    "strWidth": 442.140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 25,
+            "labelName": "SS_strinput_003",
+            "styleInfo": {
+                "styleIndex": 70,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1008,
+                "controlID": 1
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": 18,
+                    "groupID": 1,
+                    "tagID": 43,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vous ne pouvez pas utiliser",
+                    "strWidth": 353.375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 0,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "« ",
+                    "strWidth": 24.609375
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " ».",
+                    "strWidth": 32.515625
+                }
+            ]
+        },
+        {
+            "labelIndex": 26,
+            "arrayIndex": 26,
+            "labelName": "SS_strinput_042",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Quel est le nom de votre ami ?",
+                    "strWidth": 401.40625
+                }
+            ]
+        },
+        {
+            "labelIndex": 27,
+            "arrayIndex": 27,
+            "labelName": "SS_strinput_043",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Quel sera le nom du groupe ?",
+                    "strWidth": 386.515625
+                }
+            ]
+        },
+        {
+            "labelIndex": 28,
+            "arrayIndex": 28,
+            "labelName": "SS_strinput_044",
+            "styleInfo": {
+                "styleIndex": 73,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 1092,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Qui voulez-vous remercier ?",
+                    "strWidth": 362.34375
+                }
+            ]
+        }
+    ]
+}

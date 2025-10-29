@@ -1,0 +1,5663 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 3652094840918934080
+    },
+    "m_Name": "spanish_dp_townmap",
+    "hash": 2086161621,
+    "langID": 7,
+    "isResident": 0,
+    "isKanji": 0,
+    "labelDataArray": [
+        {
+            "labelIndex": 0,
+            "arrayIndex": 0,
+            "labelName": "DP_townmap_001",
+            "styleInfo": {
+                "styleIndex": 0,
+                "colorIndex": -1,
+                "fontSize": 54,
+                "maxWidth": 1080,
+                "controlID": 1
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [
+                {
+                    "tagIndex": -1,
+                    "groupID": 23,
+                    "tagID": 3,
+                    "tagPatternID": 5,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                },
+                {
+                    "tagIndex": 0,
+                    "groupID": 1,
+                    "tagID": 5,
+                    "tagPatternID": 0,
+                    "forceArticle": 0,
+                    "tagParameter": 0,
+                    "tagWordArray": [],
+                    "forceGrmID": 0
+                }
+            ],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "¿Quieres usar Vuelo para ir hasta",
+                    "strWidth": 429.546875
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 0,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 5,
+                    "eventID": 0,
+                    "tagIndex": 1,
+                    "tagValue": 0.0,
+                    "str": "",
+                    "strWidth": -1.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "?",
+                    "strWidth": 14.46875
+                }
+            ]
+        },
+        {
+            "labelIndex": 1,
+            "arrayIndex": 1,
+            "labelName": "DP_townmap_003",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Un pequeño camino que atraviesa un bosque",
+                    "strWidth": 585.546875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "verde y exuberante. Los árboles le confieren",
+                    "strWidth": 576.296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "un aroma muy característico.",
+                    "strWidth": 369.59375
+                }
+            ]
+        },
+        {
+            "labelIndex": 2,
+            "arrayIndex": 2,
+            "labelName": "DP_townmap_004",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Un camino que serpentea por campos de hierba.",
+                    "strWidth": 630.484375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Muchos Entrenadores jóvenes ponen a prueba",
+                    "strWidth": 598.09375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "sus habilidades aquí.",
+                    "strWidth": 268.09375
+                }
+            ]
+        },
+        {
+            "labelIndex": 3,
+            "arrayIndex": 3,
+            "labelName": "DP_townmap_005",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "A pesar de estar muy cerca de una gran urbe,",
+                    "strWidth": 588.796875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "este camino conserva una atmósfera natural y",
+                    "strWidth": 588.53125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "relajada.",
+                    "strWidth": 111.8125
+                }
+            ]
+        },
+        {
+            "labelIndex": 4,
+            "arrayIndex": 4,
+            "labelName": "DP_townmap_006",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Una vez que se deja el túnel atrás, Ciudad Pirita",
+                    "strWidth": 624.671875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "queda a tiro de piedra.",
+                    "strWidth": 300.078125
+                }
+            ]
+        },
+        {
+            "labelIndex": 5,
+            "arrayIndex": 5,
+            "labelName": "DP_townmap_007",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Una agradable senda campestre que pasa junto",
+                    "strWidth": 616.15625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "a varios estanques y arboledas.",
+                    "strWidth": 403.53125
+                }
+            ]
+        },
+        {
+            "labelIndex": 6,
+            "arrayIndex": 6,
+            "labelName": "DP_townmap_008",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La Senda Desolada se abre paso a través de un",
+                    "strWidth": 613.4375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "afloramiento rocoso. Este atajo lleva directo a",
+                    "strWidth": 596.9375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Pueblo Aromaflor.",
+                    "strWidth": 235.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 7,
+            "arrayIndex": 7,
+            "labelName": "DP_townmap_009",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Una pasarela de madera que atraviesa un gran",
+                    "strWidth": 601.921875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "estanque. Los Pescadores suelen reunirse aquí",
+                    "strWidth": 596.421875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "para pescar y pasar el rato.",
+                    "strWidth": 351.703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 8,
+            "arrayIndex": 8,
+            "labelName": "DP_townmap_010",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "El terreno accidentado y un arroyo tranquilo",
+                    "strWidth": 573.921875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "hacen de esta zona un lugar ideal para la",
+                    "strWidth": 533.0625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "aventura.",
+                    "strWidth": 119.40625
+                }
+            ]
+        },
+        {
+            "labelIndex": 9,
+            "arrayIndex": 9,
+            "labelName": "DP_townmap_011",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Cerca de la entrada al Bosque Vetusto, hay una",
+                    "strWidth": 618.6875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "casita en la que se ofrece descanso a todos los",
+                    "strWidth": 608.34375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "viajeros.",
+                    "strWidth": 106.515625
+                }
+            ]
+        },
+        {
+            "labelIndex": 10,
+            "arrayIndex": 10,
+            "labelName": "DP_townmap_012",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "El Camino de Bicis, perfectamente pavimentado,",
+                    "strWidth": 630.96875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "es el paraíso de los amantes del ciclismo.",
+                    "strWidth": 533.078125
+                }
+            ]
+        },
+        {
+            "labelIndex": 11,
+            "arrayIndex": 11,
+            "labelName": "DP_townmap_013",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Debajo del Camino de Bicis puede verse la",
+                    "strWidth": 559.015625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "entrada a la Cueva Extravío.",
+                    "strWidth": 365.421875
+                }
+            ]
+        },
+        {
+            "labelIndex": 12,
+            "arrayIndex": 12,
+            "labelName": "DP_townmap_014",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Este camino, situado al pie del Monte Corona,",
+                    "strWidth": 603.296875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "atraviesa un terreno escarpado y rocoso.",
+                    "strWidth": 525.5625
+                }
+            ]
+        },
+        {
+            "labelIndex": 13,
+            "arrayIndex": 13,
+            "labelName": "DP_townmap_015",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Un exuberante campo de hierba se extiende",
+                    "strWidth": 576.09375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "junto a la rocosa ladera del Monte Corona,",
+                    "strWidth": 560.46875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "lo que crea un contraste bastante vistoso.",
+                    "strWidth": 539.03125
+                }
+            ]
+        },
+        {
+            "labelIndex": 14,
+            "arrayIndex": 14,
+            "labelName": "DP_townmap_016",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Aquí se encuentra la casa del Bayólogo,",
+                    "strWidth": 519.15625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "un anciano amante de la naturaleza, las bayas",
+                    "strWidth": 594.25
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "y los Pokémon.",
+                    "strWidth": 195.75
+                }
+            ]
+        },
+        {
+            "labelIndex": 15,
+            "arrayIndex": 15,
+            "labelName": "DP_townmap_017",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Los arroyos que vadea este camino serpentean",
+                    "strWidth": 605.875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "entre los árboles y la hierba creando una",
+                    "strWidth": 529.15625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "atmósfera serena y sosegada.",
+                    "strWidth": 379.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 16,
+            "arrayIndex": 16,
+            "labelName": "DP_townmap_018",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La Torre Perdida es el lugar en el que descansan",
+                    "strWidth": 629.09375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "los Pokémon que ya no están entre nosotros.",
+                    "strWidth": 581.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 17,
+            "arrayIndex": 17,
+            "labelName": "DP_townmap_019",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Este camino atraviesa un cañón situado entre",
+                    "strWidth": 582.90625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "dos montañas y envuelto en una densa niebla",
+                    "strWidth": 589.5
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "perpetua.",
+                    "strWidth": 124.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 18,
+            "arrayIndex": 18,
+            "labelName": "DP_townmap_020",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La casa de la Abuela Ela se yergue solitaria",
+                    "strWidth": 560.140625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "al amparo de las montañas.",
+                    "strWidth": 354.078125
+                }
+            ]
+        },
+        {
+            "labelIndex": 19,
+            "arrayIndex": 19,
+            "labelName": "DP_townmap_021",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Esta estrecha ruta está bordeada por hierba alta",
+                    "strWidth": 623.828125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "que hace cosquillas en la nariz a todo aquel que",
+                    "strWidth": 626.609375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "sale de la senda.",
+                    "strWidth": 216.453125
+                }
+            ]
+        },
+        {
+            "labelIndex": 20,
+            "arrayIndex": 20,
+            "labelName": "DP_townmap_022",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Entre los árboles se encuentra el Café Rodeo,",
+                    "strWidth": 593.03125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "famoso por su Leche Mu-mu recién ordeñada.",
+                    "strWidth": 594.453125
+                }
+            ]
+        },
+        {
+            "labelIndex": 21,
+            "arrayIndex": 21,
+            "labelName": "DP_townmap_023",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Un paso de montaña que atraviesa el Monte",
+                    "strWidth": 575.84375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Corona, el más alto de la región de Sinnoh.",
+                    "strWidth": 563.453125
+                }
+            ]
+        },
+        {
+            "labelIndex": 22,
+            "arrayIndex": 22,
+            "labelName": "DP_townmap_024",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Un muro grande y sólido rodea una finca tan",
+                    "strWidth": 579.1875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "extensa que ocupa casi la mitad del camino.",
+                    "strWidth": 573.265625
+                }
+            ]
+        },
+        {
+            "labelIndex": 23,
+            "arrayIndex": 23,
+            "labelName": "DP_townmap_025",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Al otro lado del muro se yergue la majestuosa",
+                    "strWidth": 595.671875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Mansión Pokémon, acompañada de su preciado",
+                    "strWidth": 620.21875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "jardín trasero.",
+                    "strWidth": 178.625
+                }
+            ]
+        },
+        {
+            "labelIndex": 24,
+            "arrayIndex": 24,
+            "labelName": "DP_townmap_026",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Este camino zigzaguea entre varios charcos fruto",
+                    "strWidth": 627.75
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "de la persistente lluvia. Los Entrenadores que",
+                    "strWidth": 587.53125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "pasan por aquí terminan empapados.",
+                    "strWidth": 479.546875
+                }
+            ]
+        },
+        {
+            "labelIndex": 25,
+            "arrayIndex": 25,
+            "labelName": "DP_townmap_027",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "En esta ruta hay una casa donde intercambian",
+                    "strWidth": 593.125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Máquinas Técnicas por Partes Rojas, Azules,",
+                    "strWidth": 571.90625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Amarillas o Verdes.",
+                    "strWidth": 250.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 26,
+            "arrayIndex": 26,
+            "labelName": "DP_townmap_028",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Las rocas de la orilla forman un rompeolas que",
+                    "strWidth": 605.0
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "resguarda la playa. Hay un gran hotel con vistas",
+                    "strWidth": 619.640625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "al mar.",
+                    "strWidth": 87.328125
+                }
+            ]
+        },
+        {
+            "labelIndex": 27,
+            "arrayIndex": 27,
+            "labelName": "DP_townmap_029",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "En la pequeña casa de la playa vive un hombre",
+                    "strWidth": 609.078125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "que se hace llamar doctor Pisada.",
+                    "strWidth": 435.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 28,
+            "arrayIndex": 28,
+            "labelName": "DP_townmap_030",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Según algunos, la ruta que une Ciudad Rocavelo",
+                    "strWidth": 629.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "con cierto lago es naturaleza en estado puro.",
+                    "strWidth": 585.578125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Según otros, un caos repleto de maleza.",
+                    "strWidth": 519.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 29,
+            "arrayIndex": 29,
+            "labelName": "DP_townmap_031",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "A un lado del camino hay una cueva excavada",
+                    "strWidth": 599.734375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "en la pared de roca, obra de un Ruinamaníaco.",
+                    "strWidth": 608.5625
+                }
+            ]
+        },
+        {
+            "labelIndex": 30,
+            "arrayIndex": 30,
+            "labelName": "DP_townmap_032",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Esta área está permanentemente inundada por",
+                    "strWidth": 602.984375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "las lluvias. Solo los Entrenadores más tenaces",
+                    "strWidth": 585.578125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "se reúnen aquí.",
+                    "strWidth": 196.828125
+                }
+            ]
+        },
+        {
+            "labelIndex": 31,
+            "arrayIndex": 31,
+            "labelName": "DP_townmap_033",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Este camino escarpado lleva al Monte Corona.",
+                    "strWidth": 602.8125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Las constantes nevadas y ventiscas de la zona",
+                    "strWidth": 591.484375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "suponen un obstáculo para los viajeros.",
+                    "strWidth": 509.34375
+                }
+            ]
+        },
+        {
+            "labelIndex": 32,
+            "arrayIndex": 32,
+            "labelName": "DP_townmap_034",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La nieve cae desde el Monte Corona y produce",
+                    "strWidth": 616.875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "fuertes ventiscas. Hay que estar preparado para",
+                    "strWidth": 619.3125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "lo peor.",
+                    "strWidth": 101.546875
+                }
+            ]
+        },
+        {
+            "labelIndex": 33,
+            "arrayIndex": 33,
+            "labelName": "DP_townmap_035",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Esta senda está muy poco concurrida, algo muy",
+                    "strWidth": 613.703125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "apreciado por los aficionados a la pesca que se",
+                    "strWidth": 616.25
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "reúnen aquí.",
+                    "strWidth": 160.671875
+                }
+            ]
+        },
+        {
+            "labelIndex": 34,
+            "arrayIndex": 34,
+            "labelName": "DP_townmap_036",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Una hermosa playa de arena blanca a dos pasos",
+                    "strWidth": 623.671875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "de Pueblo Arena. La brisa que sopla desde el",
+                    "strWidth": 588.359375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "mar resulta muy agradable.",
+                    "strWidth": 350.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 35,
+            "arrayIndex": 35,
+            "labelName": "DP_townmap_037",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Esta zona del mar, con vientos y mareas suaves,",
+                    "strWidth": 616.921875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "es perfecta para nadar. También hay bancos de",
+                    "strWidth": 615.40625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "arena que invitan a descansar un rato.",
+                    "strWidth": 491.03125
+                }
+            ]
+        },
+        {
+            "labelIndex": 36,
+            "arrayIndex": 36,
+            "labelName": "DP_townmap_038",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Un camino recto cubierto de verde y bordeado",
+                    "strWidth": 611.5625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "por pequeños grupos de árboles.",
+                    "strWidth": 428.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 37,
+            "arrayIndex": 37,
+            "labelName": "DP_townmap_039",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "At the end of the path stands the gateway to",
+                    "strWidth": 582.34375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Renegade Park.",
+                    "strWidth": 185.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 38,
+            "arrayIndex": 38,
+            "labelName": "DP_townmap_040",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Desde el camino se extiende una playa arenosa.",
+                    "strWidth": 624.8125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "En la orilla siempre hay varios apasionados de la",
+                    "strWidth": 627.6875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "pesca pasándoselo en grande.",
+                    "strWidth": 391.21875
+                }
+            ]
+        },
+        {
+            "labelIndex": 39,
+            "arrayIndex": 39,
+            "labelName": "DP_townmap_041",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "En esta zona vive un hombre que adora a los",
+                    "strWidth": 579.84375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Pikachu. También hay otro que mide el tamaño",
+                    "strWidth": 610.78125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "de los Pokémon que pesca la gente.",
+                    "strWidth": 468.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 40,
+            "arrayIndex": 40,
+            "labelName": "DP_townmap_042",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Una ruta marina en la que los viajeros deben",
+                    "strWidth": 578.890625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "navegar entre rocas y bancos de arena.",
+                    "strWidth": 506.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 41,
+            "arrayIndex": 41,
+            "labelName": "DP_townmap_043",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Esta zona de campos de hierba, áreas rocosas,",
+                    "strWidth": 601.859375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "mar y bancos de arena es como una versión en",
+                    "strWidth": 603.921875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "miniatura de la región de Sinnoh.",
+                    "strWidth": 429.34375
+                }
+            ]
+        },
+        {
+            "labelIndex": 42,
+            "arrayIndex": 42,
+            "labelName": "DP_townmap_044",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Este camino repleto de desniveles y escaleras",
+                    "strWidth": 589.390625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "supone todo un desafío físico.",
+                    "strWidth": 390.640625
+                }
+            ]
+        },
+        {
+            "labelIndex": 43,
+            "arrayIndex": 43,
+            "labelName": "DP_townmap_045",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Un camino que serpentea peligrosamente por",
+                    "strWidth": 591.4375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "acantilados escarpados que se alzan justo por",
+                    "strWidth": 592.71875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "encima de las olas del mar.",
+                    "strWidth": 350.6875
+                }
+            ]
+        },
+        {
+            "labelIndex": 44,
+            "arrayIndex": 44,
+            "labelName": "DP_townmap_046",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "En la pequeña isla que hay en la bahía, vive un",
+                    "strWidth": 607.796875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "hombre pintoresco que habla varios idiomas.",
+                    "strWidth": 580.015625
+                }
+            ]
+        },
+        {
+            "labelIndex": 45,
+            "arrayIndex": 45,
+            "labelName": "DP_townmap_047",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Una ruta de montaña vertiginosa y accidentada",
+                    "strWidth": 612.390625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "donde la visión está limitada por la ceniza",
+                    "strWidth": 545.640625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "volcánica que cae constantemente.",
+                    "strWidth": 454.09375
+                }
+            ]
+        },
+        {
+            "labelIndex": 46,
+            "arrayIndex": 46,
+            "labelName": "DP_townmap_048",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Una tormenta de arena impulsada por los fuertes",
+                    "strWidth": 633.78125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "vientos marinos barre sin piedad este peligroso",
+                    "strWidth": 610.515625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "camino.",
+                    "strWidth": 100.21875
+                }
+            ]
+        },
+        {
+            "labelIndex": 47,
+            "arrayIndex": 47,
+            "labelName": "DP_townmap_049",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Una senda costera que se abre camino entre un",
+                    "strWidth": 616.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "mar de árboles y hierba alta.",
+                    "strWidth": 370.96875
+                }
+            ]
+        },
+        {
+            "labelIndex": 48,
+            "arrayIndex": 48,
+            "labelName": "DP_townmap_050",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Una ruta marina que va de este a oeste y en la",
+                    "strWidth": 604.25
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "que se encuentra una isla con abundante flora.",
+                    "strWidth": 605.421875
+                }
+            ]
+        },
+        {
+            "labelIndex": 50,
+            "arrayIndex": 49,
+            "labelName": "DP_townmap_052",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Un pequeño pueblo envuelto en el refrescante",
+                    "strWidth": 605.546875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "aroma de las hojas jóvenes. Parece el lugar ideal",
+                    "strWidth": 629.03125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "para comenzar una nueva aventura.",
+                    "strWidth": 457.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 51,
+            "arrayIndex": 50,
+            "labelName": "DP_townmap_053",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Aquí se encuentra tu casa, así como la de tu",
+                    "strWidth": 571.625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "mejor amigo.",
+                    "strWidth": 168.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 52,
+            "arrayIndex": 51,
+            "labelName": "DP_townmap_054",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Un pueblo arenoso situado a pie de playa.",
+                    "strWidth": 552.703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "El aroma salino del mar impregna cada rincón.",
+                    "strWidth": 597.625
+                }
+            ]
+        },
+        {
+            "labelIndex": 53,
+            "arrayIndex": 52,
+            "labelName": "DP_townmap_055",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "El laboratorio del Profesor Serbal es el edificio",
+                    "strWidth": 606.171875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "más emblemático. Allí realiza sus estudios sobre",
+                    "strWidth": 620.703125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "los Pokémon.",
+                    "strWidth": 172.703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 54,
+            "arrayIndex": 53,
+            "labelName": "DP_townmap_056",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Pueblo Aromaflor es un lugar lleno de amantes",
+                    "strWidth": 607.109375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "de las flores, cuyo dulce aroma perfuma el aire",
+                    "strWidth": 608.15625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "constantemente.",
+                    "strWidth": 213.328125
+                }
+            ]
+        },
+        {
+            "labelIndex": 55,
+            "arrayIndex": 54,
+            "labelName": "DP_townmap_057",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "El pequeño sendero que hay entre las flores",
+                    "strWidth": 569.96875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "desemboca en un espléndido prado florido.",
+                    "strWidth": 567.515625
+                }
+            ]
+        },
+        {
+            "labelIndex": 56,
+            "arrayIndex": 55,
+            "labelName": "DP_townmap_058",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "En el centro del pueblo está la Floristería",
+                    "strWidth": 534.609375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Arco Iris.",
+                    "strWidth": 114.640625
+                }
+            ]
+        },
+        {
+            "labelIndex": 57,
+            "arrayIndex": 56,
+            "labelName": "DP_townmap_059",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Su clima templado hace de este pueblo un lugar",
+                    "strWidth": 625.453125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "relajado y tranquilo para la gente y los Pokémon",
+                    "strWidth": 630.328125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "que viven en él.",
+                    "strWidth": 205.359375
+                }
+            ]
+        },
+        {
+            "labelIndex": 58,
+            "arrayIndex": 57,
+            "labelName": "DP_townmap_060",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Aquí podrás disfrutar de los servicios de",
+                    "strWidth": 519.203125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Cuidados Pokémon y de un Centro Pokémon.",
+                    "strWidth": 588.6875
+                }
+            ]
+        },
+        {
+            "labelIndex": 59,
+            "arrayIndex": 58,
+            "labelName": "DP_townmap_061",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La entrada a las Ruinas Sosiego se encuentra al",
+                    "strWidth": 611.09375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "final de un camino bordeado por varios árboles.",
+                    "strWidth": 622.40625
+                }
+            ]
+        },
+        {
+            "labelIndex": 60,
+            "arrayIndex": 59,
+            "labelName": "DP_townmap_062",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Un pequeño pueblo que preserva la historia",
+                    "strWidth": 570.484375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "y las viejas tradiciones de Sinnoh.",
+                    "strWidth": 433.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 61,
+            "arrayIndex": 60,
+            "labelName": "DP_townmap_063",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "En el centro del pueblo hay un pequeño",
+                    "strWidth": 521.4375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "santuario que data de tiempos ancestrales.",
+                    "strWidth": 553.84375
+                }
+            ]
+        },
+        {
+            "labelIndex": 62,
+            "arrayIndex": 61,
+            "labelName": "DP_townmap_064",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Un lugar en el que se reúnen los Entrenadores",
+                    "strWidth": 596.734375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "más feroces para perfeccionar sus habilidades.",
+                    "strWidth": 601.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 63,
+            "arrayIndex": 62,
+            "labelName": "DP_townmap_065",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Un lugar al que llegan los Entrenadores que",
+                    "strWidth": 567.453125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "quieren divertirse con sus Pokémon sin luchar.",
+                    "strWidth": 594.484375
+                }
+            ]
+        },
+        {
+            "labelIndex": 64,
+            "arrayIndex": 63,
+            "labelName": "DP_townmap_066",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La ciudad más moderna y bulliciosa de la región",
+                    "strWidth": 624.21875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "de Sinnoh.",
+                    "strWidth": 136.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 65,
+            "arrayIndex": 64,
+            "labelName": "DP_townmap_067",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Aquí tiene su sede Poké Reloj S. A., la empresa",
+                    "strWidth": 613.390625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "fabricante del Poké Reloj.",
+                    "strWidth": 335.453125
+                }
+            ]
+        },
+        {
+            "labelIndex": 66,
+            "arrayIndex": 65,
+            "labelName": "DP_townmap_068",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Jubileo TV, la cadena de televisión de Sinnoh,",
+                    "strWidth": 602.6875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "se encuentra aquí. Sus instalaciones ofrecen",
+                    "strWidth": 567.640625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "actividades de todo tipo.",
+                    "strWidth": 326.8125
+                }
+            ]
+        },
+        {
+            "labelIndex": 67,
+            "arrayIndex": 66,
+            "labelName": "DP_townmap_069",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La Estación Global de Intercambio Prodigioso,",
+                    "strWidth": 602.53125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "más conocida como GWS, está en este lugar.",
+                    "strWidth": 585.734375
+                }
+            ]
+        },
+        {
+            "labelIndex": 68,
+            "arrayIndex": 67,
+            "labelName": "DP_townmap_070",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Aquí se encuentra la Escuela de Entrenadores,",
+                    "strWidth": 598.375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "donde se pueden adquirir conocimientos básicos",
+                    "strWidth": 632.0
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "sobre los Pokémon.",
+                    "strWidth": 252.921875
+                }
+            ]
+        },
+        {
+            "labelIndex": 69,
+            "arrayIndex": 68,
+            "labelName": "DP_townmap_071",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Una ciudad portuaria dividida por un gran canal",
+                    "strWidth": 621.359375
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "en la que se respira una característica atmósfera",
+                    "strWidth": 622.328125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "de lo más exótica.",
+                    "strWidth": 236.140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 70,
+            "arrayIndex": 69,
+            "labelName": "DP_townmap_072",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Si quieres ejercitar la mente, visita la biblioteca.",
+                    "strWidth": 622.078125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Si prefieres entrenar, dirígete al gimnasio.",
+                    "strWidth": 541.34375
+                }
+            ]
+        },
+        {
+            "labelIndex": 71,
+            "arrayIndex": 70,
+            "labelName": "DP_townmap_073",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "En el muelle de la ciudad siempre hay grandes",
+                    "strWidth": 601.09375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "barcos amarrados.",
+                    "strWidth": 235.28125
+                }
+            ]
+        },
+        {
+            "labelIndex": 72,
+            "arrayIndex": 71,
+            "labelName": "DP_townmap_074",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Una vibrante ciudad minera que goza de",
+                    "strWidth": 527.3125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "abundantes recursos naturales.",
+                    "strWidth": 396.359375
+                }
+            ]
+        },
+        {
+            "labelIndex": 73,
+            "arrayIndex": 72,
+            "labelName": "DP_townmap_075",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Hay un Gimnasio Pokémon en el que los mineros",
+                    "strWidth": 633.484375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "descansan de sus duros turnos de trabajo.",
+                    "strWidth": 539.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 74,
+            "arrayIndex": 73,
+            "labelName": "DP_townmap_076",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Hay un museo especializado en exposiciones",
+                    "strWidth": 582.15625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "relacionadas con la mina de carbón de la ciudad.",
+                    "strWidth": 636.109375
+                }
+            ]
+        },
+        {
+            "labelIndex": 75,
+            "arrayIndex": 74,
+            "labelName": "DP_townmap_077",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Aquí se encuentra la entrada a la Mina Pirita,",
+                    "strWidth": 585.453125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "que cuenta aún con abundantes reservas de",
+                    "strWidth": 566.71875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "carbón.",
+                    "strWidth": 96.796875
+                }
+            ]
+        },
+        {
+            "labelIndex": 76,
+            "arrayIndex": 75,
+            "labelName": "DP_townmap_078",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Una ciudad antigua que alberga vestigios casi",
+                    "strWidth": 593.171875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "olvidados de la historia ancestral de la región.",
+                    "strWidth": 598.140625
+                }
+            ]
+        },
+        {
+            "labelIndex": 77,
+            "arrayIndex": 76,
+            "labelName": "DP_townmap_079",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Hay una tienda de bicis, así como un gran",
+                    "strWidth": 542.59375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "edificio con una atmósfera algo siniestra.",
+                    "strWidth": 530.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 78,
+            "arrayIndex": 77,
+            "labelName": "DP_townmap_080",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La estatua de un antiguo Pokémon, objeto de",
+                    "strWidth": 593.234375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "veneración, se yergue solemne.",
+                    "strWidth": 405.5
+                }
+            ]
+        },
+        {
+            "labelIndex": 79,
+            "arrayIndex": 78,
+            "labelName": "DP_townmap_081",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Un Gimnasio Pokémon es algo indispensable",
+                    "strWidth": 580.875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "en cualquier población por la que pase mucha",
+                    "strWidth": 599.109375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "gente, y esta ciudad no es la excepción.",
+                    "strWidth": 520.59375
+                }
+            ]
+        },
+        {
+            "labelIndex": 80,
+            "arrayIndex": 79,
+            "labelName": "DP_townmap_082",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Esta agradable ciudad nació como un punto de",
+                    "strWidth": 611.015625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "reunión entre humanos y Pokémon, lo que ayudó",
+                    "strWidth": 634.796875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "a asentar los cimientos de su desarrollo.",
+                    "strWidth": 516.796875
+                }
+            ]
+        },
+        {
+            "labelIndex": 81,
+            "arrayIndex": 80,
+            "labelName": "DP_townmap_083",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Aquí está la entrada a la Plaza Amistad, donde",
+                    "strWidth": 607.75
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "los Entrenadores pasean tranquilamente con sus",
+                    "strWidth": 619.96875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Pokémon.",
+                    "strWidth": 127.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 82,
+            "arrayIndex": 81,
+            "labelName": "DP_townmap_084",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Si valoras el aspecto de tus Pokémon, dirígete al",
+                    "strWidth": 630.453125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Auditorio. Si valoras su fuerza, visita el gimnasio.",
+                    "strWidth": 631.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 83,
+            "arrayIndex": 82,
+            "labelName": "DP_townmap_085",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Aquí hay un edificio que representa el espíritu",
+                    "strWidth": 599.375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "multicultural de la ciudad.",
+                    "strWidth": 336.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 84,
+            "arrayIndex": 83,
+            "labelName": "DP_townmap_086",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La ciudad cuenta con unas hermosas fuentes con",
+                    "strWidth": 629.5625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "bancos y el Club de Fans de Pokémon, entre",
+                    "strWidth": 579.875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "otras cosas.",
+                    "strWidth": 149.6875
+                }
+            ]
+        },
+        {
+            "labelIndex": 85,
+            "arrayIndex": 84,
+            "labelName": "DP_townmap_087",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Esta ciudad, fundada originalmente para",
+                    "strWidth": 523.953125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "proteger el Gran Pantano de la zona, ha ido",
+                    "strWidth": 573.25
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "creciendo poco a poco con el paso de los años.",
+                    "strWidth": 620.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 86,
+            "arrayIndex": 85,
+            "labelName": "DP_townmap_088",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "El Gimnasio Pokémon local es un buen ejemplo",
+                    "strWidth": 613.96875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "de los abundantes recursos hídricos de la",
+                    "strWidth": 532.8125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "ciudad.",
+                    "strWidth": 94.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 87,
+            "arrayIndex": 86,
+            "labelName": "DP_townmap_089",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Aquí hay un mirador desde el que puede verse",
+                    "strWidth": 605.578125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "el Gran Pantano. La entrada al safari también",
+                    "strWidth": 587.53125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "está aquí.",
+                    "strWidth": 125.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 88,
+            "arrayIndex": 87,
+            "labelName": "DP_townmap_090",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Esta ciudad se construyó horadando montañas",
+                    "strWidth": 599.03125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "rocosas y escarpadas, por lo que está algo",
+                    "strWidth": 550.265625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "aislada del resto de poblaciones.",
+                    "strWidth": 427.8125
+                }
+            ]
+        },
+        {
+            "labelIndex": 89,
+            "arrayIndex": 88,
+            "labelName": "DP_townmap_091",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Hay almacenes destinados a hacer acopio de",
+                    "strWidth": 584.46875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "diversos productos, así como un gran centro",
+                    "strWidth": 570.875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "comercial.",
+                    "strWidth": 132.0
+                }
+            ]
+        },
+        {
+            "labelIndex": 90,
+            "arrayIndex": 89,
+            "labelName": "DP_townmap_092",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La base del Equipo Galaxia está situada en el",
+                    "strWidth": 591.25
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "punto más alto de la ciudad.",
+                    "strWidth": 370.015625
+                }
+            ]
+        },
+        {
+            "labelIndex": 91,
+            "arrayIndex": 90,
+            "labelName": "DP_townmap_093",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Hay una tienda de ropa con un dueño al que le",
+                    "strWidth": 614.3125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "encantan los juegos y, por supuesto, también un",
+                    "strWidth": 624.515625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Gimnasio Pokémon.",
+                    "strWidth": 257.0625
+                }
+            ]
+        },
+        {
+            "labelIndex": 92,
+            "arrayIndex": 91,
+            "labelName": "DP_townmap_094",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Metronomoda ofrece una amplia variedad de",
+                    "strWidth": 587.953125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "conjuntos con mucha personalidad, elegidos",
+                    "strWidth": 574.359375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "personalmente por el dueño del local.",
+                    "strWidth": 494.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 93,
+            "arrayIndex": 92,
+            "labelName": "DP_townmap_095",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Una ciudad costera edificada en la bahía del",
+                    "strWidth": 580.265625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "cabo famosa por sus pasos elevados.",
+                    "strWidth": 477.125
+                }
+            ]
+        },
+        {
+            "labelIndex": 94,
+            "arrayIndex": 93,
+            "labelName": "DP_townmap_096",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "El Gimnasio Pokémon se encuentra sobre un",
+                    "strWidth": 573.953125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "afloramiento rocoso, y cerca de la playa hay",
+                    "strWidth": 574.9375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "un mercado muy animado.",
+                    "strWidth": 340.71875
+                }
+            ]
+        },
+        {
+            "labelIndex": 95,
+            "arrayIndex": 94,
+            "labelName": "DP_townmap_097",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La brillante luz del Faro Visión ilumina toda",
+                    "strWidth": 565.046875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "la región de Sinnoh.",
+                    "strWidth": 259.359375
+                }
+            ]
+        },
+        {
+            "labelIndex": 96,
+            "arrayIndex": 95,
+            "labelName": "DP_townmap_098",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Una hermosa ciudad invernal en la que una",
+                    "strWidth": 559.265625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "espesa capa de nieve cubre edificios y árboles",
+                    "strWidth": 602.34375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "por igual.",
+                    "strWidth": 123.09375
+                }
+            ]
+        },
+        {
+            "labelIndex": 97,
+            "arrayIndex": 96,
+            "labelName": "DP_townmap_099",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "El Gimnasio Pokémon está situado en el corazón",
+                    "strWidth": 629.25
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "de la ciudad. Al norte, se encuentra el Templo",
+                    "strWidth": 602.609375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Puntaneva.",
+                    "strWidth": 141.609375
+                }
+            ]
+        },
+        {
+            "labelIndex": 98,
+            "arrayIndex": 97,
+            "labelName": "DP_townmap_100",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Los Entrenadores que aspiran a lo más alto",
+                    "strWidth": 554.96875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "recorren un duro y largo viaje para llegar aquí.",
+                    "strWidth": 602.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 99,
+            "arrayIndex": 98,
+            "labelName": "DP_townmap_101",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Aquí se lleva a cabo la inscripción para la Liga",
+                    "strWidth": 601.171875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Pokémon, pero solo pueden participar aquellos",
+                    "strWidth": 615.109375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "que hayan vencido en todos los gimnasios.",
+                    "strWidth": 552.859375
+                }
+            ]
+        },
+        {
+            "labelIndex": 100,
+            "arrayIndex": 99,
+            "labelName": "DP_townmap_102",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La Calle Victoria es el último y más duro desafío",
+                    "strWidth": 627.015625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "para llegar a la Liga Pokémon.",
+                    "strWidth": 393.546875
+                }
+            ]
+        },
+        {
+            "labelIndex": 101,
+            "arrayIndex": 100,
+            "labelName": "DP_townmap_103",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Un pequeño pueblo portuario en el que se",
+                    "strWidth": 554.40625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "reúnen Entrenadores deseosos de combatir.",
+                    "strWidth": 565.484375
+                }
+            ]
+        },
+        {
+            "labelIndex": 102,
+            "arrayIndex": 101,
+            "labelName": "DP_townmap_104",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "El ferry con destino a Ciudad Puntaneva está",
+                    "strWidth": 580.71875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "amarrado en el muelle.",
+                    "strWidth": 297.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 103,
+            "arrayIndex": 102,
+            "labelName": "DP_townmap_105",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Aquí se encuentra la entrada al Parque Batalla.",
+                    "strWidth": 608.46875
+                }
+            ]
+        },
+        {
+            "labelIndex": 104,
+            "arrayIndex": 103,
+            "labelName": "DP_townmap_106",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Uno de los lagos que reflejan la riqueza acuática",
+                    "strWidth": 631.796875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "de la región de Sinnoh. Una extraña leyenda gira",
+                    "strWidth": 635.5
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "en torno a él.",
+                    "strWidth": 174.109375
+                }
+            ]
+        },
+        {
+            "labelIndex": 105,
+            "arrayIndex": 104,
+            "labelName": "DP_townmap_107",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La isla situada en el centro del lago permite",
+                    "strWidth": 568.796875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "acceder a la cueva que se encuentra debajo",
+                    "strWidth": 570.25
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "de él.",
+                    "strWidth": 73.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 106,
+            "arrayIndex": 105,
+            "labelName": "DP_townmap_108",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Uno de los lagos que reflejan la riqueza acuática",
+                    "strWidth": 631.796875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "de la región de Sinnoh. Una extraña leyenda gira",
+                    "strWidth": 635.5
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "en torno a él.",
+                    "strWidth": 174.109375
+                }
+            ]
+        },
+        {
+            "labelIndex": 107,
+            "arrayIndex": 106,
+            "labelName": "DP_townmap_109",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La isla situada en el centro del lago permite",
+                    "strWidth": 568.796875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "acceder a la cueva que se encuentra debajo",
+                    "strWidth": 570.25
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "de él.",
+                    "strWidth": 73.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 108,
+            "arrayIndex": 107,
+            "labelName": "DP_townmap_110",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Hay un restaurante de alta cocina situado",
+                    "strWidth": 539.1875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "en una colina que domina el lago.",
+                    "strWidth": 439.953125
+                }
+            ]
+        },
+        {
+            "labelIndex": 109,
+            "arrayIndex": 108,
+            "labelName": "DP_townmap_111",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Uno de los lagos que reflejan la riqueza acuática",
+                    "strWidth": 631.796875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "de la región de Sinnoh. Una extraña leyenda gira",
+                    "strWidth": 635.5
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "en torno a él.",
+                    "strWidth": 174.109375
+                }
+            ]
+        },
+        {
+            "labelIndex": 110,
+            "arrayIndex": 109,
+            "labelName": "DP_townmap_112",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La isla situada en el centro del lago permite",
+                    "strWidth": 568.796875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "acceder a la cueva que se encuentra debajo",
+                    "strWidth": 570.25
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "de él.",
+                    "strWidth": 73.578125
+                }
+            ]
+        },
+        {
+            "labelIndex": 111,
+            "arrayIndex": 110,
+            "labelName": "DP_townmap_113",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "El cuarto lago de Sinnoh; un secreto muy bien",
+                    "strWidth": 595.921875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "guardado.",
+                    "strWidth": 131.640625
+                }
+            ]
+        },
+        {
+            "labelIndex": 112,
+            "arrayIndex": 111,
+            "labelName": "DP_townmap_114",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Bajo la superficie del lago hay una cueva donde",
+                    "strWidth": 621.71875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "el espacio está distorsionado.",
+                    "strWidth": 384.109375
+                }
+            ]
+        },
+        {
+            "labelIndex": 113,
+            "arrayIndex": 112,
+            "labelName": "DP_townmap_115",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "En el Valle Eólico hay varias turbinas eólicas.",
+                    "strWidth": 580.625
+                }
+            ]
+        },
+        {
+            "labelIndex": 114,
+            "arrayIndex": 113,
+            "labelName": "DP_townmap_116",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Los vientos que soplan a través del valle mueven",
+                    "strWidth": 632.0625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "las turbinas eólicas para producir electricidad de",
+                    "strWidth": 629.734375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "forma limpia.",
+                    "strWidth": 169.4375
+                }
+            ]
+        },
+        {
+            "labelIndex": 115,
+            "arrayIndex": 114,
+            "labelName": "DP_townmap_117",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Un bosque donde sopla un aire muy refrescante.",
+                    "strWidth": 628.28125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sus grandes grupos de árboles hacen de él un",
+                    "strWidth": 593.15625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "laberinto natural.",
+                    "strWidth": 222.15625
+                }
+            ]
+        },
+        {
+            "labelIndex": 116,
+            "arrayIndex": 115,
+            "labelName": "DP_townmap_118",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "En lo más profundo del bosque se yergue la",
+                    "strWidth": 568.765625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Vieja Mansión, abandonada y en mal estado.",
+                    "strWidth": 583.984375
+                }
+            ]
+        },
+        {
+            "labelIndex": 117,
+            "arrayIndex": 116,
+            "labelName": "DP_townmap_119",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La próspera Forja Fuego se sitúa de espaldas",
+                    "strWidth": 584.046875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "al bosque.",
+                    "strWidth": 134.40625
+                }
+            ]
+        },
+        {
+            "labelIndex": 118,
+            "arrayIndex": 117,
+            "labelName": "DP_townmap_120",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Esta forja refina el mineral de hierro extraído",
+                    "strWidth": 581.203125
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "del Monte Corona para producir metal y piezas",
+                    "strWidth": 614.0625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "mecánicas.",
+                    "strWidth": 139.796875
+                }
+            ]
+        },
+        {
+            "labelIndex": 119,
+            "arrayIndex": 118,
+            "labelName": "DP_townmap_121",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Una montaña sagrada cuya cumbre está cubierta",
+                    "strWidth": 628.96875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "por nieves perpetuas. Su interior es un enorme",
+                    "strWidth": 601.921875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "laberinto.",
+                    "strWidth": 124.25
+                }
+            ]
+        },
+        {
+            "labelIndex": 120,
+            "arrayIndex": 119,
+            "labelName": "DP_townmap_122",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Las antiguas ruinas que hay en esta montaña",
+                    "strWidth": 574.953125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "reciben el nombre de Columnas Lanza.",
+                    "strWidth": 502.625
+                }
+            ]
+        },
+        {
+            "labelIndex": 121,
+            "arrayIndex": 120,
+            "labelName": "DP_townmap_123",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Un pequeño estanque con forma de media luna",
+                    "strWidth": 617.28125
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "dentro de un bosque frondoso.",
+                    "strWidth": 402.703125
+                }
+            ]
+        },
+        {
+            "labelIndex": 122,
+            "arrayIndex": 121,
+            "labelName": "DP_townmap_124",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Una escarpada montaña de roca maciza cubierta",
+                    "strWidth": 630.015625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "por sus propias cenizas volcánicas.",
+                    "strWidth": 446.171875
+                }
+            ]
+        },
+        {
+            "labelIndex": 123,
+            "arrayIndex": 122,
+            "labelName": "DP_townmap_125",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "La lava se abrió camino hacia el corazón de la",
+                    "strWidth": 597.171875
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "montaña y creó enormes galerías subterráneas",
+                    "strWidth": 597.34375
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "al solidificarse.",
+                    "strWidth": 192.375
+                }
+            ]
+        },
+        {
+            "labelIndex": 124,
+            "arrayIndex": 123,
+            "labelName": "DP_townmap_126",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Una diminuta isla alejada de toda civilización",
+                    "strWidth": 586.71875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "y cubierta por un manto de flores.",
+                    "strWidth": 440.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 125,
+            "arrayIndex": 124,
+            "labelName": "DP_townmap_127",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Una pequeña isla rica en minerales situada",
+                    "strWidth": 552.15625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "frente a la costa cercana a Ciudad Vetusta.",
+                    "strWidth": 558.6875
+                }
+            ]
+        },
+        {
+            "labelIndex": 126,
+            "arrayIndex": 125,
+            "labelName": "DP_townmap_128",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Todavía quedan vestigios de las antiguas minas",
+                    "strWidth": 612.21875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "de hierro que había en la isla.",
+                    "strWidth": 385.5
+                }
+            ]
+        },
+        {
+            "labelIndex": 127,
+            "arrayIndex": 126,
+            "labelName": "DP_townmap_129",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Un pequeño estanque con forma circular dentro",
+                    "strWidth": 621.421875
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "de un bosque frondoso.",
+                    "strWidth": 308.34375
+                }
+            ]
+        },
+        {
+            "labelIndex": 128,
+            "arrayIndex": 127,
+            "labelName": "DP_townmap_130",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Aquí se encuentra la Torre Batalla, donde los",
+                    "strWidth": 586.40625
+                },
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "mejores Entrenadores se reúnen para ponerse",
+                    "strWidth": 589.625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "a prueba.",
+                    "strWidth": 122.875
+                }
+            ]
+        },
+        {
+            "labelIndex": 129,
+            "arrayIndex": 128,
+            "labelName": "DP_townmap_131",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " Vuelo",
+                    "strWidth": 85.15625
+                }
+            ]
+        },
+        {
+            "labelIndex": 130,
+            "arrayIndex": 129,
+            "labelName": "DP_townmap_132",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " Ubicación actual",
+                    "strWidth": 225.046875
+                }
+            ]
+        },
+        {
+            "labelIndex": 131,
+            "arrayIndex": 130,
+            "labelName": "DP_townmap_133",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " Mostrar/ocultar árboles",
+                    "strWidth": 313.546875
+                }
+            ]
+        },
+        {
+            "labelIndex": 132,
+            "arrayIndex": 131,
+            "labelName": "DP_townmap_134",
+            "styleInfo": {
+                "styleIndex": 83,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 320,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": " Atrás",
+                    "strWidth": 75.3125
+                }
+            ]
+        },
+        {
+            "labelIndex": 49,
+            "arrayIndex": 132,
+            "labelName": "DP_townmap_051",
+            "styleInfo": {
+                "styleIndex": 104,
+                "colorIndex": -1,
+                "fontSize": 32,
+                "maxWidth": 640,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 7,
+                    "eventID": 1,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Un camino recto con el mar a ambos lados que",
+                    "strWidth": 609.265625
+                },
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "lleva al Paraíso Floral.",
+                    "strWidth": 284.546875
+                }
+            ]
+        },
+        {
+            "labelIndex": 133,
+            "arrayIndex": 133,
+            "labelName": "DP_townmap_135",
+            "styleInfo": {
+                "styleIndex": 50,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Sí",
+                    "strWidth": 23.0625
+                }
+            ]
+        },
+        {
+            "labelIndex": 134,
+            "arrayIndex": 134,
+            "labelName": "DP_townmap_136",
+            "styleInfo": {
+                "styleIndex": 50,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 756,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "No",
+                    "strWidth": 38.78125
+                }
+            ]
+        },
+        {
+            "labelIndex": 135,
+            "arrayIndex": 135,
+            "labelName": "DP_townmap_137",
+            "styleInfo": {
+                "styleIndex": 39,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 420,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Árboles y bayas",
+                    "strWidth": 204.90625
+                }
+            ]
+        }
+    ]
+}
