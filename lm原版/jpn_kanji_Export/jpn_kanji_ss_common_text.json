@@ -1,194 +1,194 @@
 {
-    "m_GameObject": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "m_Enabled": 1,
-    "m_Script": {
-        "m_FileID": 0,
-        "m_PathID": 3652094840918934080
-    },
-    "m_Name": "jpn_kanji_ss_common_text",
-    "hash": -972630522,
-    "langID": 1,
-    "isResident": 0,
-    "isKanji": 1,
-    "labelDataArray": [
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3652094840918934080
+  },
+  "m_Name": "jpn_kanji_ss_common_text",
+  "hash": -972630522,
+  "langID": 1,
+  "isResident": 0,
+  "isKanji": 1,
+  "labelDataArray": [
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "SS_common_text_01",
+      "styleInfo": {
+        "styleIndex": 64,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
         {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "SS_common_text_01",
-            "styleInfo": {
-                "styleIndex": 64,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "バックアップデータを　ロードしました",
-                    "strWidth": 548.199951171875
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "レポートを　するときは",
-                    "strWidth": 344.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "このデータが　記録されますので",
-                    "strWidth": 474.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ご注意ください",
-                    "strWidth": 218.0
-                }
-            ]
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "バックアップデータを　ロードしました",
+          "strWidth": 548.199951171875
         },
         {
-            "labelIndex": 1,
-            "arrayIndex": 1,
-            "labelName": "SS_common_text_02",
-            "styleInfo": {
-                "styleIndex": 64,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "バックアップデータが　ないので",
-                    "strWidth": 462.1499938964844
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ロードできません",
-                    "strWidth": 248.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "タイトルへ　戻ります",
-                    "strWidth": 310.95001220703125
-                }
-            ]
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "レポートを　するときは",
+          "strWidth": 344.0
         },
         {
-            "labelIndex": 2,
-            "arrayIndex": 2,
-            "labelName": "SS_common_text_03",
-            "styleInfo": {
-                "styleIndex": 86,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 352,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "レポート中・・・",
-                    "strWidth": 203.0
-                }
-            ]
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "このデータが　記録されますので",
+          "strWidth": 474.0
         },
         {
-            "labelIndex": 3,
-            "arrayIndex": 3,
-            "labelName": "SS_common_text_04",
-            "styleInfo": {
-                "styleIndex": 64,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "レポートが　壊れています",
-                    "strWidth": 374.95001220703125
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "本体から　セーブデータを",
-                    "strWidth": 381.04998779296875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "消して　ください",
-                    "strWidth": 244.9499969482422
-                }
-            ]
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ご注意ください",
+          "strWidth": 218.0
         }
-    ]
+      ]
+    },
+    {
+      "labelIndex": 1,
+      "arrayIndex": 1,
+      "labelName": "SS_common_text_02",
+      "styleInfo": {
+        "styleIndex": 64,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "バックアップデータが　ないので",
+          "strWidth": 462.1499938964844
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ロードできません",
+          "strWidth": 248.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "タイトルへ　戻ります",
+          "strWidth": 310.95001220703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 2,
+      "arrayIndex": 2,
+      "labelName": "SS_common_text_03",
+      "styleInfo": {
+        "styleIndex": 86,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 352,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "レポート中・・・",
+          "strWidth": 203.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 3,
+      "arrayIndex": 3,
+      "labelName": "SS_common_text_04",
+      "styleInfo": {
+        "styleIndex": 64,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "レポートが　壊れています",
+          "strWidth": 374.95001220703125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "本体から　セーブデータを",
+          "strWidth": 381.04998779296875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "消して　ください",
+          "strWidth": 244.9499969482422
+        }
+      ]
+    }
+  ]
 }

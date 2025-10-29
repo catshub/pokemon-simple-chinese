@@ -1,768 +1,768 @@
 {
-    "m_GameObject": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "m_Enabled": 1,
-    "m_Script": {
-        "m_FileID": 0,
-        "m_PathID": 3652094840918934080
-    },
-    "m_Name": "french_ss_seikaku",
-    "hash": 154375652,
-    "langID": 3,
-    "isResident": 0,
-    "isKanji": 0,
-    "labelDataArray": [
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3652094840918934080
+  },
+  "m_Name": "french_ss_seikaku",
+  "hash": 154375652,
+  "langID": 3,
+  "isResident": 0,
+  "isKanji": 0,
+  "labelDataArray": [
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "SEIKAKU_000",
+      "styleInfo": {
+        "styleIndex": 80,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 192,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
         {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "SEIKAKU_000",
-            "styleInfo": {
-                "styleIndex": 80,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 192,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Hardi",
-                    "strWidth": 71.859375
-                }
-            ]
-        },
-        {
-            "labelIndex": 1,
-            "arrayIndex": 1,
-            "labelName": "SEIKAKU_001",
-            "styleInfo": {
-                "styleIndex": 80,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 192,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Solo",
-                    "strWidth": 57.546875
-                }
-            ]
-        },
-        {
-            "labelIndex": 2,
-            "arrayIndex": 2,
-            "labelName": "SEIKAKU_002",
-            "styleInfo": {
-                "styleIndex": 80,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 192,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Brave",
-                    "strWidth": 72.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 3,
-            "arrayIndex": 3,
-            "labelName": "SEIKAKU_003",
-            "styleInfo": {
-                "styleIndex": 80,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 192,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Rigide",
-                    "strWidth": 82.28125
-                }
-            ]
-        },
-        {
-            "labelIndex": 4,
-            "arrayIndex": 4,
-            "labelName": "SEIKAKU_004",
-            "styleInfo": {
-                "styleIndex": 80,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 192,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Mauvais",
-                    "strWidth": 105.359375
-                }
-            ]
-        },
-        {
-            "labelIndex": 5,
-            "arrayIndex": 5,
-            "labelName": "SEIKAKU_005",
-            "styleInfo": {
-                "styleIndex": 80,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 192,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Assuré",
-                    "strWidth": 84.359375
-                }
-            ]
-        },
-        {
-            "labelIndex": 6,
-            "arrayIndex": 6,
-            "labelName": "SEIKAKU_006",
-            "styleInfo": {
-                "styleIndex": 80,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 192,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Docile",
-                    "strWidth": 84.578125
-                }
-            ]
-        },
-        {
-            "labelIndex": 7,
-            "arrayIndex": 7,
-            "labelName": "SEIKAKU_007",
-            "styleInfo": {
-                "styleIndex": 80,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 192,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Relax",
-                    "strWidth": 71.140625
-                }
-            ]
-        },
-        {
-            "labelIndex": 8,
-            "arrayIndex": 8,
-            "labelName": "SEIKAKU_008",
-            "styleInfo": {
-                "styleIndex": 80,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 192,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Malin",
-                    "strWidth": 72.25
-                }
-            ]
-        },
-        {
-            "labelIndex": 9,
-            "arrayIndex": 9,
-            "labelName": "SEIKAKU_009",
-            "styleInfo": {
-                "styleIndex": 80,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 192,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Lâche",
-                    "strWidth": 75.765625
-                }
-            ]
-        },
-        {
-            "labelIndex": 10,
-            "arrayIndex": 10,
-            "labelName": "SEIKAKU_010",
-            "styleInfo": {
-                "styleIndex": 80,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 192,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Timide",
-                    "strWidth": 88.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 11,
-            "arrayIndex": 11,
-            "labelName": "SEIKAKU_011",
-            "styleInfo": {
-                "styleIndex": 80,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 192,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Pressé",
-                    "strWidth": 80.90625
-                }
-            ]
-        },
-        {
-            "labelIndex": 12,
-            "arrayIndex": 12,
-            "labelName": "SEIKAKU_012",
-            "styleInfo": {
-                "styleIndex": 80,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 192,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Sérieux",
-                    "strWidth": 94.703125
-                }
-            ]
-        },
-        {
-            "labelIndex": 13,
-            "arrayIndex": 13,
-            "labelName": "SEIKAKU_013",
-            "styleInfo": {
-                "styleIndex": 80,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 192,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Jovial",
-                    "strWidth": 74.5625
-                }
-            ]
-        },
-        {
-            "labelIndex": 14,
-            "arrayIndex": 14,
-            "labelName": "SEIKAKU_014",
-            "styleInfo": {
-                "styleIndex": 80,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 192,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Naïf",
-                    "strWidth": 54.296875
-                }
-            ]
-        },
-        {
-            "labelIndex": 15,
-            "arrayIndex": 15,
-            "labelName": "SEIKAKU_015",
-            "styleInfo": {
-                "styleIndex": 80,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 192,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Modeste",
-                    "strWidth": 113.921875
-                }
-            ]
-        },
-        {
-            "labelIndex": 16,
-            "arrayIndex": 16,
-            "labelName": "SEIKAKU_016",
-            "styleInfo": {
-                "styleIndex": 80,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 192,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Doux",
-                    "strWidth": 69.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 17,
-            "arrayIndex": 17,
-            "labelName": "SEIKAKU_017",
-            "styleInfo": {
-                "styleIndex": 80,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 192,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Discret",
-                    "strWidth": 90.859375
-                }
-            ]
-        },
-        {
-            "labelIndex": 18,
-            "arrayIndex": 18,
-            "labelName": "SEIKAKU_018",
-            "styleInfo": {
-                "styleIndex": 80,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 192,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Pudique",
-                    "strWidth": 105.578125
-                }
-            ]
-        },
-        {
-            "labelIndex": 19,
-            "arrayIndex": 19,
-            "labelName": "SEIKAKU_019",
-            "styleInfo": {
-                "styleIndex": 80,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 192,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Foufou",
-                    "strWidth": 91.390625
-                }
-            ]
-        },
-        {
-            "labelIndex": 20,
-            "arrayIndex": 20,
-            "labelName": "SEIKAKU_020",
-            "styleInfo": {
-                "styleIndex": 80,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 192,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Calme",
-                    "strWidth": 82.015625
-                }
-            ]
-        },
-        {
-            "labelIndex": 21,
-            "arrayIndex": 21,
-            "labelName": "SEIKAKU_021",
-            "styleInfo": {
-                "styleIndex": 80,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 192,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Gentil",
-                    "strWidth": 80.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 22,
-            "arrayIndex": 22,
-            "labelName": "SEIKAKU_022",
-            "styleInfo": {
-                "styleIndex": 80,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 192,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Malpoli",
-                    "strWidth": 98.859375
-                }
-            ]
-        },
-        {
-            "labelIndex": 23,
-            "arrayIndex": 23,
-            "labelName": "SEIKAKU_023",
-            "styleInfo": {
-                "styleIndex": 80,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 192,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Prudent",
-                    "strWidth": 100.390625
-                }
-            ]
-        },
-        {
-            "labelIndex": 24,
-            "arrayIndex": 24,
-            "labelName": "SEIKAKU_024",
-            "styleInfo": {
-                "styleIndex": 80,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 192,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Bizarre",
-                    "strWidth": 88.53125
-                }
-            ]
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Hardi",
+          "strWidth": 71.859375
         }
-    ]
+      ]
+    },
+    {
+      "labelIndex": 1,
+      "arrayIndex": 1,
+      "labelName": "SEIKAKU_001",
+      "styleInfo": {
+        "styleIndex": 80,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 192,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Solo",
+          "strWidth": 57.546875
+        }
+      ]
+    },
+    {
+      "labelIndex": 2,
+      "arrayIndex": 2,
+      "labelName": "SEIKAKU_002",
+      "styleInfo": {
+        "styleIndex": 80,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 192,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Brave",
+          "strWidth": 72.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 3,
+      "arrayIndex": 3,
+      "labelName": "SEIKAKU_003",
+      "styleInfo": {
+        "styleIndex": 80,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 192,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Rigide",
+          "strWidth": 82.28125
+        }
+      ]
+    },
+    {
+      "labelIndex": 4,
+      "arrayIndex": 4,
+      "labelName": "SEIKAKU_004",
+      "styleInfo": {
+        "styleIndex": 80,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 192,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Mauvais",
+          "strWidth": 105.359375
+        }
+      ]
+    },
+    {
+      "labelIndex": 5,
+      "arrayIndex": 5,
+      "labelName": "SEIKAKU_005",
+      "styleInfo": {
+        "styleIndex": 80,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 192,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Assuré",
+          "strWidth": 84.359375
+        }
+      ]
+    },
+    {
+      "labelIndex": 6,
+      "arrayIndex": 6,
+      "labelName": "SEIKAKU_006",
+      "styleInfo": {
+        "styleIndex": 80,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 192,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Docile",
+          "strWidth": 84.578125
+        }
+      ]
+    },
+    {
+      "labelIndex": 7,
+      "arrayIndex": 7,
+      "labelName": "SEIKAKU_007",
+      "styleInfo": {
+        "styleIndex": 80,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 192,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Relax",
+          "strWidth": 71.140625
+        }
+      ]
+    },
+    {
+      "labelIndex": 8,
+      "arrayIndex": 8,
+      "labelName": "SEIKAKU_008",
+      "styleInfo": {
+        "styleIndex": 80,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 192,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Malin",
+          "strWidth": 72.25
+        }
+      ]
+    },
+    {
+      "labelIndex": 9,
+      "arrayIndex": 9,
+      "labelName": "SEIKAKU_009",
+      "styleInfo": {
+        "styleIndex": 80,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 192,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Lâche",
+          "strWidth": 75.765625
+        }
+      ]
+    },
+    {
+      "labelIndex": 10,
+      "arrayIndex": 10,
+      "labelName": "SEIKAKU_010",
+      "styleInfo": {
+        "styleIndex": 80,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 192,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Timide",
+          "strWidth": 88.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 11,
+      "arrayIndex": 11,
+      "labelName": "SEIKAKU_011",
+      "styleInfo": {
+        "styleIndex": 80,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 192,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Pressé",
+          "strWidth": 80.90625
+        }
+      ]
+    },
+    {
+      "labelIndex": 12,
+      "arrayIndex": 12,
+      "labelName": "SEIKAKU_012",
+      "styleInfo": {
+        "styleIndex": 80,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 192,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Sérieux",
+          "strWidth": 94.703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 13,
+      "arrayIndex": 13,
+      "labelName": "SEIKAKU_013",
+      "styleInfo": {
+        "styleIndex": 80,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 192,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Jovial",
+          "strWidth": 74.5625
+        }
+      ]
+    },
+    {
+      "labelIndex": 14,
+      "arrayIndex": 14,
+      "labelName": "SEIKAKU_014",
+      "styleInfo": {
+        "styleIndex": 80,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 192,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Naïf",
+          "strWidth": 54.296875
+        }
+      ]
+    },
+    {
+      "labelIndex": 15,
+      "arrayIndex": 15,
+      "labelName": "SEIKAKU_015",
+      "styleInfo": {
+        "styleIndex": 80,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 192,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Modeste",
+          "strWidth": 113.921875
+        }
+      ]
+    },
+    {
+      "labelIndex": 16,
+      "arrayIndex": 16,
+      "labelName": "SEIKAKU_016",
+      "styleInfo": {
+        "styleIndex": 80,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 192,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Doux",
+          "strWidth": 69.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 17,
+      "arrayIndex": 17,
+      "labelName": "SEIKAKU_017",
+      "styleInfo": {
+        "styleIndex": 80,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 192,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Discret",
+          "strWidth": 90.859375
+        }
+      ]
+    },
+    {
+      "labelIndex": 18,
+      "arrayIndex": 18,
+      "labelName": "SEIKAKU_018",
+      "styleInfo": {
+        "styleIndex": 80,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 192,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Pudique",
+          "strWidth": 105.578125
+        }
+      ]
+    },
+    {
+      "labelIndex": 19,
+      "arrayIndex": 19,
+      "labelName": "SEIKAKU_019",
+      "styleInfo": {
+        "styleIndex": 80,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 192,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Foufou",
+          "strWidth": 91.390625
+        }
+      ]
+    },
+    {
+      "labelIndex": 20,
+      "arrayIndex": 20,
+      "labelName": "SEIKAKU_020",
+      "styleInfo": {
+        "styleIndex": 80,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 192,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Calme",
+          "strWidth": 82.015625
+        }
+      ]
+    },
+    {
+      "labelIndex": 21,
+      "arrayIndex": 21,
+      "labelName": "SEIKAKU_021",
+      "styleInfo": {
+        "styleIndex": 80,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 192,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Gentil",
+          "strWidth": 80.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 22,
+      "arrayIndex": 22,
+      "labelName": "SEIKAKU_022",
+      "styleInfo": {
+        "styleIndex": 80,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 192,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Malpoli",
+          "strWidth": 98.859375
+        }
+      ]
+    },
+    {
+      "labelIndex": 23,
+      "arrayIndex": 23,
+      "labelName": "SEIKAKU_023",
+      "styleInfo": {
+        "styleIndex": 80,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 192,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Prudent",
+          "strWidth": 100.390625
+        }
+      ]
+    },
+    {
+      "labelIndex": 24,
+      "arrayIndex": 24,
+      "labelName": "SEIKAKU_024",
+      "styleInfo": {
+        "styleIndex": 80,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 192,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Bizarre",
+          "strWidth": 88.53125
+        }
+      ]
+    }
+  ]
 }

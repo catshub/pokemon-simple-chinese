@@ -1,811 +1,811 @@
 {
-    "m_GameObject": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "m_Enabled": 1,
-    "m_Script": {
-        "m_FileID": 0,
-        "m_PathID": 3652094840918934080
-    },
-    "m_Name": "trad_chinese_ss_shinka_demo",
-    "hash": -1409454431,
-    "langID": 10,
-    "isResident": 0,
-    "isKanji": 0,
-    "labelDataArray": [
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3652094840918934080
+  },
+  "m_Name": "trad_chinese_ss_shinka_demo",
+  "hash": -1409454431,
+  "langID": 10,
+  "isResident": 0,
+  "isKanji": 0,
+  "labelDataArray": [
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "SS_shinka_demo_01_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
         {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "SS_shinka_demo_01_01",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "……哦！？",
-                    "strWidth": 160.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 2,
-            "arrayIndex": 1,
-            "labelName": "SS_shinka_demo_02_01",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 2,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "咦……？",
-                    "strWidth": 128.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "的變化停止了！",
-                    "strWidth": 224.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 3,
-            "arrayIndex": 2,
-            "labelName": "SS_shinka_demo_03_01",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 2,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 1,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "恭喜！",
-                    "strWidth": 96.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": 0.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "進化為",
-                    "strWidth": 96.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "了！",
-                    "strWidth": 64.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 4,
-            "arrayIndex": 3,
-            "labelName": "SS_shinka_demo_04_01",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 2,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 7,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": 0.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "學會了",
-                    "strWidth": 96.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 5,
-                    "tagIndex": -1,
-                    "tagValue": 4.0,
-                    "str": "！",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 5,
-                    "tagIndex": -1,
-                    "tagValue": 1.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": 0.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 5,
-            "arrayIndex": 4,
-            "labelName": "SS_shinka_demo_05_01",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 2,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 7,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 2,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 2,
-                    "groupID": 1,
-                    "tagID": 7,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 2,
-                    "tagIndex": -1,
-                    "tagValue": 0.19999998807907104,
-                    "str": "１",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 2,
-                    "tagIndex": -1,
-                    "tagValue": 0.19999998807907104,
-                    "str": "、２",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 2,
-                    "tagIndex": -1,
-                    "tagValue": 0.19999998807907104,
-                    "str": "…",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 2,
-                    "tagIndex": -1,
-                    "tagValue": 0.19999998807907104,
-                    "str": "…",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 5,
-                    "tagIndex": -1,
-                    "tagValue": 3.0,
-                    "str": "空！",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 5,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 3,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": 0.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "把",
-                    "strWidth": 32.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": 0.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 3,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "的使用方法忘得一乾二淨了！",
-                    "strWidth": 416.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 3,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "於是……！",
-                    "strWidth": 160.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 2,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "學會了",
-                    "strWidth": 96.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 3,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 5,
-                    "tagIndex": -1,
-                    "tagValue": 4.0,
-                    "str": "！",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 5,
-                    "tagIndex": -1,
-                    "tagValue": 1.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": 0.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 6,
-            "arrayIndex": 5,
-            "labelName": "SS_shinka_demo_06_01",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 2,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 7,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "最終沒有學會",
-                    "strWidth": 192.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "！",
-                    "strWidth": 32.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 7,
-            "arrayIndex": 6,
-            "labelName": "SS_shinka_demo_07_01",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 2,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 7,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 7,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "想要學習",
-                    "strWidth": 128.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 3,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "……",
-                    "strWidth": 64.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "為了學習",
-                    "strWidth": 128.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 2,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "，",
-                    "strWidth": 32.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "要忘記其他的招式嗎？",
-                    "strWidth": 320.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 8,
-            "arrayIndex": 7,
-            "labelName": "SS_shinka_demo_10_01",
-            "styleInfo": {
-                "styleIndex": 50,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 756,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "忘記",
-                    "strWidth": 64.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 9,
-            "arrayIndex": 8,
-            "labelName": "SS_shinka_demo_10_02",
-            "styleInfo": {
-                "styleIndex": 50,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 756,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "不忘記",
-                    "strWidth": 96.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 1,
-            "arrayIndex": 9,
-            "labelName": "SS_shinka_demo_01_02",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 2,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "的樣子……！",
-                    "strWidth": 192.0
-                }
-            ]
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "……哦！？",
+          "strWidth": 160.0
         }
-    ]
+      ]
+    },
+    {
+      "labelIndex": 2,
+      "arrayIndex": 1,
+      "labelName": "SS_shinka_demo_02_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "咦……？",
+          "strWidth": 128.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "的變化停止了！",
+          "strWidth": 224.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 3,
+      "arrayIndex": 2,
+      "labelName": "SS_shinka_demo_03_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 1,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "恭喜！",
+          "strWidth": 96.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "進化為",
+          "strWidth": 96.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "了！",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 4,
+      "arrayIndex": 3,
+      "labelName": "SS_shinka_demo_04_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "學會了",
+          "strWidth": 96.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 5,
+          "tagIndex": -1,
+          "tagValue": 4.0,
+          "str": "！",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 5,
+          "tagIndex": -1,
+          "tagValue": 1.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 5,
+      "arrayIndex": 4,
+      "labelName": "SS_shinka_demo_05_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 2,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 2,
+          "tagIndex": -1,
+          "tagValue": 0.19999998807907104,
+          "str": "１",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 2,
+          "tagIndex": -1,
+          "tagValue": 0.19999998807907104,
+          "str": "、２",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 2,
+          "tagIndex": -1,
+          "tagValue": 0.19999998807907104,
+          "str": "…",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 2,
+          "tagIndex": -1,
+          "tagValue": 0.19999998807907104,
+          "str": "…",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 5,
+          "tagIndex": -1,
+          "tagValue": 3.0,
+          "str": "空！",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 5,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "把",
+          "strWidth": 32.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "的使用方法忘得一乾二淨了！",
+          "strWidth": 416.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "於是……！",
+          "strWidth": 160.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "學會了",
+          "strWidth": 96.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 3,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 5,
+          "tagIndex": -1,
+          "tagValue": 4.0,
+          "str": "！",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 5,
+          "tagIndex": -1,
+          "tagValue": 1.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 6,
+      "arrayIndex": 5,
+      "labelName": "SS_shinka_demo_06_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "最終沒有學會",
+          "strWidth": 192.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "！",
+          "strWidth": 32.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 7,
+      "arrayIndex": 6,
+      "labelName": "SS_shinka_demo_07_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "想要學習",
+          "strWidth": 128.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "……",
+          "strWidth": 64.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "為了學習",
+          "strWidth": 128.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "，",
+          "strWidth": 32.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "要忘記其他的招式嗎？",
+          "strWidth": 320.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 8,
+      "arrayIndex": 7,
+      "labelName": "SS_shinka_demo_10_01",
+      "styleInfo": {
+        "styleIndex": 50,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "忘記",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 9,
+      "arrayIndex": 8,
+      "labelName": "SS_shinka_demo_10_02",
+      "styleInfo": {
+        "styleIndex": 50,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "不忘記",
+          "strWidth": 96.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 1,
+      "arrayIndex": 9,
+      "labelName": "SS_shinka_demo_01_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "的樣子……！",
+          "strWidth": 192.0
+        }
+      ]
+    }
+  ]
 }

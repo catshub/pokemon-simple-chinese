@@ -1,1472 +1,1472 @@
 {
-    "m_GameObject": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "m_Enabled": 1,
-    "m_Script": {
-        "m_FileID": 0,
-        "m_PathID": 3652094840918934080
-    },
-    "m_Name": "korean_ss_fld_dressup",
-    "hash": -1259198660,
-    "langID": 8,
-    "isResident": 0,
-    "isKanji": 0,
-    "labelDataArray": [
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3652094840918934080
+  },
+  "m_Name": "korean_ss_fld_dressup",
+  "hash": -1259198660,
+  "langID": 8,
+  "isResident": 0,
+  "isKanji": 0,
+  "labelDataArray": [
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "SS_fld_dressup_000",
+      "styleInfo": {
+        "styleIndex": 80,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 192,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
         {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "SS_fld_dressup_000",
-            "styleInfo": {
-                "styleIndex": 80,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 192,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "용돈",
-                    "strWidth": 64.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 1,
-            "arrayIndex": 1,
-            "labelName": "SS_fld_dressup_003",
-            "styleInfo": {
-                "styleIndex": 48,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 672,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 59,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 7,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 2,
-            "arrayIndex": 2,
-            "labelName": "SS_fld_dressup_004",
-            "styleInfo": {
-                "styleIndex": 93,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 512,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 59,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 7,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 3,
-            "arrayIndex": 3,
-            "labelName": "SS_fld_dressup_005",
-            "styleInfo": {
-                "styleIndex": 91,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 448,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 60,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 7,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 5,
-            "arrayIndex": 4,
-            "labelName": "SS_fld_dressup_006",
-            "styleInfo": {
-                "styleIndex": 38,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 336,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "이미 구매함",
-                    "strWidth": 170.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 6,
-            "arrayIndex": 5,
-            "labelName": "SS_fld_dressup_007",
-            "styleInfo": {
-                "styleIndex": 8,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 648,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "아이템이 없습니다",
-                    "strWidth": 266.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 7,
-            "arrayIndex": 6,
-            "labelName": "SS_fld_dressup_008",
-            "styleInfo": {
-                "styleIndex": 34,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 168,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "예",
-                    "strWidth": 32.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 8,
-            "arrayIndex": 7,
-            "labelName": "SS_fld_dressup_009",
-            "styleInfo": {
-                "styleIndex": 34,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 168,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "아니요",
-                    "strWidth": 96.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 9,
-            "arrayIndex": 8,
-            "labelName": "SS_fld_dressup_010",
-            "styleInfo": {
-                "styleIndex": 30,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 2,
-                    "tagID": 6,
-                    "tagPatternID": 1,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "원입니다만",
-                    "strWidth": 160.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "구입하겠습니까?",
-                    "strWidth": 241.78125
-                }
-            ]
-        },
-        {
-            "labelIndex": 10,
-            "arrayIndex": 9,
-            "labelName": "SS_fld_dressup_011",
-            "styleInfo": {
-                "styleIndex": 30,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 2,
-                    "tagID": 6,
-                    "tagPatternID": 1,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 3,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "원입니다",
-                    "strWidth": 128.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "지금 모습에는 사용할 수 없습니다만",
-                    "strWidth": 522.625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "괜찮겠습니까?",
-                    "strWidth": 209.78125
-                }
-            ]
-        },
-        {
-            "labelIndex": 11,
-            "arrayIndex": 10,
-            "labelName": "SS_fld_dressup_012",
-            "styleInfo": {
-                "styleIndex": 30,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "돈이 부족합니다!",
-                    "strWidth": 243.5625
-                }
-            ]
-        },
-        {
-            "labelIndex": 12,
-            "arrayIndex": 11,
-            "labelName": "SS_fld_dressup_013",
-            "styleInfo": {
-                "styleIndex": 30,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "이 스타일은",
-                    "strWidth": 170.65625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "이미 구매했습니다",
-                    "strWidth": 266.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 13,
-            "arrayIndex": 12,
-            "labelName": "SS_fld_dressup_016",
-            "styleInfo": {
-                "styleIndex": 30,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "감사합니다! 구입한 스타일로",
-                    "strWidth": 414.21875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "갈아입겠습니까?",
-                    "strWidth": 241.78125
-                }
-            ]
-        },
-        {
-            "labelIndex": 14,
-            "arrayIndex": 13,
-            "labelName": "SS_fld_dressup_017",
-            "styleInfo": {
-                "styleIndex": 30,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "감사합니다!",
-                    "strWidth": 168.90625
-                }
-            ]
-        },
-        {
-            "labelIndex": 15,
-            "arrayIndex": 14,
-            "labelName": "SS_fld_dressup_018",
-            "styleInfo": {
-                "styleIndex": 30,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "이 스타일로 갈아입겠습니까?",
-                    "strWidth": 423.09375
-                }
-            ]
-        },
-        {
-            "labelIndex": 16,
-            "arrayIndex": 15,
-            "labelName": "SS_fld_dressup_020",
-            "styleInfo": {
-                "styleIndex": 30,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "쇼핑을 그만두겠습니까?",
-                    "strWidth": 348.4375
-                }
-            ]
-        },
-        {
-            "labelIndex": 17,
-            "arrayIndex": 16,
-            "labelName": "SS_fld_dressup_021",
-            "styleInfo": {
-                "styleIndex": 30,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "갈아입기를 그만두겠습니까?",
-                    "strWidth": 412.4375
-                }
-            ]
-        },
-        {
-            "labelIndex": 4,
-            "arrayIndex": 17,
-            "labelName": "SS_fld_dressup_044",
-            "styleInfo": {
-                "styleIndex": 154,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 462,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 2,
-                    "tagID": 6,
-                    "tagPatternID": 1,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "원",
-                    "strWidth": 32.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 20,
-            "arrayIndex": 18,
-            "labelName": "SS_fld_dressup_023",
-            "styleInfo": {
-                "styleIndex": 83,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 320,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "결정",
-                    "strWidth": 64.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 21,
-            "arrayIndex": 19,
-            "labelName": "SS_fld_dressup_024",
-            "styleInfo": {
-                "styleIndex": 83,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 320,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "끝낸다",
-                    "strWidth": 96.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 22,
-            "arrayIndex": 20,
-            "labelName": "SS_fld_dressup_025",
-            "styleInfo": {
-                "styleIndex": 83,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 320,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "모습을 본다",
-                    "strWidth": 170.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 23,
-            "arrayIndex": 21,
-            "labelName": "SS_fld_dressup_026",
-            "styleInfo": {
-                "styleIndex": 83,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 320,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "벗는다",
-                    "strWidth": 96.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 24,
-            "arrayIndex": 22,
-            "labelName": "SS_fld_dressup_027",
-            "styleInfo": {
-                "styleIndex": 83,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 320,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "갈아입는다",
-                    "strWidth": 160.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 25,
-            "arrayIndex": 23,
-            "labelName": "SS_fld_dressup_028",
-            "styleInfo": {
-                "styleIndex": 83,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 320,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "줌 인",
-                    "strWidth": 74.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 26,
-            "arrayIndex": 24,
-            "labelName": "SS_fld_dressup_029",
-            "styleInfo": {
-                "styleIndex": 83,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 320,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "줌 아웃",
-                    "strWidth": 106.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 27,
-            "arrayIndex": 25,
-            "labelName": "SS_fld_dressup_030",
-            "styleInfo": {
-                "styleIndex": 83,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 320,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "돌아간다",
-                    "strWidth": 128.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 28,
-            "arrayIndex": 26,
-            "labelName": "SS_fld_dressup_031",
-            "styleInfo": {
-                "styleIndex": 83,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 320,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "겉옷을 벗는다",
-                    "strWidth": 202.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 29,
-            "arrayIndex": 27,
-            "labelName": "SS_fld_dressup_033",
-            "styleInfo": {
-                "styleIndex": 83,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 320,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "겉옷을 입는다",
-                    "strWidth": 202.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 30,
-            "arrayIndex": 28,
-            "labelName": "SS_fld_dressup_035",
-            "styleInfo": {
-                "styleIndex": 83,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 320,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "갈아입지 않고 끝낸다",
-                    "strWidth": 309.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 31,
-            "arrayIndex": 29,
-            "labelName": "SS_fld_dressup_036",
-            "styleInfo": {
-                "styleIndex": 83,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 320,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "사러 왔다",
-                    "strWidth": 138.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 32,
-            "arrayIndex": 30,
-            "labelName": "SS_fld_dressup_037",
-            "styleInfo": {
-                "styleIndex": 83,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 320,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "특별히 없다",
-                    "strWidth": 170.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 33,
-            "arrayIndex": 31,
-            "labelName": "SS_fld_dressup_038",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "그럼 피팅룸으로 모시겠습니다!",
-                    "strWidth": 446.21875
-                }
-            ]
-        },
-        {
-            "labelIndex": 34,
-            "arrayIndex": 32,
-            "labelName": "SS_fld_dressup_039",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 77,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 1,
-                    "groupID": 2,
-                    "tagID": 2,
-                    "tagPatternID": 1,
-                    "forceArticle": 0,
-                    "tagParameter": 205,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "매번 감사합니다",
-                    "strWidth": 234.65625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "특전으로 ",
-                    "strWidth": 138.65625
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 4,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": 0.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "개를 드리겠습니다!",
-                    "strWidth": 275.5625
-                }
-            ]
-        },
-        {
-            "labelIndex": 35,
-            "arrayIndex": 33,
-            "labelName": "SS_fld_dressup_040",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "감사합니다!",
-                    "strWidth": 168.90625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "다음에 또 오세요!",
-                    "strWidth": 254.21875
-                }
-            ]
-        },
-        {
-            "labelIndex": 36,
-            "arrayIndex": 34,
-            "labelName": "SS_fld_dressup_041",
-            "styleInfo": {
-                "styleIndex": 91,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 448,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "전환",
-                    "strWidth": 64.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 37,
-            "arrayIndex": 35,
-            "labelName": "SS_fld_dressup_042",
-            "styleInfo": {
-                "styleIndex": 91,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 448,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "스타일 선택",
-                    "strWidth": 170.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 38,
-            "arrayIndex": 36,
-            "labelName": "SS_fld_dressup_043",
-            "styleInfo": {
-                "styleIndex": 91,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 448,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "회전",
-                    "strWidth": 64.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 18,
-            "arrayIndex": 37,
-            "labelName": "SS_fld_dressup_045",
-            "styleInfo": {
-                "styleIndex": 30,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 77,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": -1,
-                    "groupID": 25,
-                    "tagID": 0,
-                    "tagPatternID": 5,
-                    "forceArticle": 0,
-                    "tagParameter": 2,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 3,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "손님! 잠시만요!",
-                    "strWidth": 220.46875
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "이번에 구입해 주신 스타일을 마지막으로",
-                    "strWidth": 586.625
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 4,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "손님께서는 모든 스타일을",
-                    "strWidth": 373.3125
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 3,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "구입해 주셨습니다!",
-                    "strWidth": 275.5625
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "감사의 뜻으로",
-                    "strWidth": 202.65625
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " 드리겠습니다!",
-                    "strWidth": 211.5625
-                }
-            ]
-        },
-        {
-            "labelIndex": 19,
-            "arrayIndex": 38,
-            "labelName": "SS_fld_dressup_046",
-            "styleInfo": {
-                "styleIndex": 30,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "앞으로도 저희 패션스타일 손가락흔들기를",
-                    "strWidth": 607.96875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "많이 사랑해 주세요!",
-                    "strWidth": 286.21875
-                }
-            ]
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "용돈",
+          "strWidth": 64.0
         }
-    ]
+      ]
+    },
+    {
+      "labelIndex": 1,
+      "arrayIndex": 1,
+      "labelName": "SS_fld_dressup_003",
+      "styleInfo": {
+        "styleIndex": 48,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 672,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 59,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 2,
+      "arrayIndex": 2,
+      "labelName": "SS_fld_dressup_004",
+      "styleInfo": {
+        "styleIndex": 93,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 512,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 59,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 3,
+      "arrayIndex": 3,
+      "labelName": "SS_fld_dressup_005",
+      "styleInfo": {
+        "styleIndex": 91,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 448,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 60,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 5,
+      "arrayIndex": 4,
+      "labelName": "SS_fld_dressup_006",
+      "styleInfo": {
+        "styleIndex": 38,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 336,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "이미 구매함",
+          "strWidth": 170.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 6,
+      "arrayIndex": 5,
+      "labelName": "SS_fld_dressup_007",
+      "styleInfo": {
+        "styleIndex": 8,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 648,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "아이템이 없습니다",
+          "strWidth": 266.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 7,
+      "arrayIndex": 6,
+      "labelName": "SS_fld_dressup_008",
+      "styleInfo": {
+        "styleIndex": 34,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 168,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "예",
+          "strWidth": 32.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 8,
+      "arrayIndex": 7,
+      "labelName": "SS_fld_dressup_009",
+      "styleInfo": {
+        "styleIndex": 34,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 168,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "아니요",
+          "strWidth": 96.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 9,
+      "arrayIndex": 8,
+      "labelName": "SS_fld_dressup_010",
+      "styleInfo": {
+        "styleIndex": 30,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 2,
+          "tagID": 6,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "원입니다만",
+          "strWidth": 160.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "구입하겠습니까?",
+          "strWidth": 241.78125
+        }
+      ]
+    },
+    {
+      "labelIndex": 10,
+      "arrayIndex": 9,
+      "labelName": "SS_fld_dressup_011",
+      "styleInfo": {
+        "styleIndex": 30,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 2,
+          "tagID": 6,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "원입니다",
+          "strWidth": 128.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "지금 모습에는 사용할 수 없습니다만",
+          "strWidth": 522.625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "괜찮겠습니까?",
+          "strWidth": 209.78125
+        }
+      ]
+    },
+    {
+      "labelIndex": 11,
+      "arrayIndex": 10,
+      "labelName": "SS_fld_dressup_012",
+      "styleInfo": {
+        "styleIndex": 30,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "돈이 부족합니다!",
+          "strWidth": 243.5625
+        }
+      ]
+    },
+    {
+      "labelIndex": 12,
+      "arrayIndex": 11,
+      "labelName": "SS_fld_dressup_013",
+      "styleInfo": {
+        "styleIndex": 30,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "이 스타일은",
+          "strWidth": 170.65625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "이미 구매했습니다",
+          "strWidth": 266.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 13,
+      "arrayIndex": 12,
+      "labelName": "SS_fld_dressup_016",
+      "styleInfo": {
+        "styleIndex": 30,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "감사합니다! 구입한 스타일로",
+          "strWidth": 414.21875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "갈아입겠습니까?",
+          "strWidth": 241.78125
+        }
+      ]
+    },
+    {
+      "labelIndex": 14,
+      "arrayIndex": 13,
+      "labelName": "SS_fld_dressup_017",
+      "styleInfo": {
+        "styleIndex": 30,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "감사합니다!",
+          "strWidth": 168.90625
+        }
+      ]
+    },
+    {
+      "labelIndex": 15,
+      "arrayIndex": 14,
+      "labelName": "SS_fld_dressup_018",
+      "styleInfo": {
+        "styleIndex": 30,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "이 스타일로 갈아입겠습니까?",
+          "strWidth": 423.09375
+        }
+      ]
+    },
+    {
+      "labelIndex": 16,
+      "arrayIndex": 15,
+      "labelName": "SS_fld_dressup_020",
+      "styleInfo": {
+        "styleIndex": 30,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "쇼핑을 그만두겠습니까?",
+          "strWidth": 348.4375
+        }
+      ]
+    },
+    {
+      "labelIndex": 17,
+      "arrayIndex": 16,
+      "labelName": "SS_fld_dressup_021",
+      "styleInfo": {
+        "styleIndex": 30,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "갈아입기를 그만두겠습니까?",
+          "strWidth": 412.4375
+        }
+      ]
+    },
+    {
+      "labelIndex": 4,
+      "arrayIndex": 17,
+      "labelName": "SS_fld_dressup_044",
+      "styleInfo": {
+        "styleIndex": 154,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 462,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 2,
+          "tagID": 6,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "원",
+          "strWidth": 32.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 20,
+      "arrayIndex": 18,
+      "labelName": "SS_fld_dressup_023",
+      "styleInfo": {
+        "styleIndex": 83,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 320,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "결정",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 21,
+      "arrayIndex": 19,
+      "labelName": "SS_fld_dressup_024",
+      "styleInfo": {
+        "styleIndex": 83,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 320,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "끝낸다",
+          "strWidth": 96.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 22,
+      "arrayIndex": 20,
+      "labelName": "SS_fld_dressup_025",
+      "styleInfo": {
+        "styleIndex": 83,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 320,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "모습을 본다",
+          "strWidth": 170.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 23,
+      "arrayIndex": 21,
+      "labelName": "SS_fld_dressup_026",
+      "styleInfo": {
+        "styleIndex": 83,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 320,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "벗는다",
+          "strWidth": 96.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 24,
+      "arrayIndex": 22,
+      "labelName": "SS_fld_dressup_027",
+      "styleInfo": {
+        "styleIndex": 83,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 320,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "갈아입는다",
+          "strWidth": 160.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 25,
+      "arrayIndex": 23,
+      "labelName": "SS_fld_dressup_028",
+      "styleInfo": {
+        "styleIndex": 83,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 320,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "줌 인",
+          "strWidth": 74.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 26,
+      "arrayIndex": 24,
+      "labelName": "SS_fld_dressup_029",
+      "styleInfo": {
+        "styleIndex": 83,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 320,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "줌 아웃",
+          "strWidth": 106.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 27,
+      "arrayIndex": 25,
+      "labelName": "SS_fld_dressup_030",
+      "styleInfo": {
+        "styleIndex": 83,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 320,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "돌아간다",
+          "strWidth": 128.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 28,
+      "arrayIndex": 26,
+      "labelName": "SS_fld_dressup_031",
+      "styleInfo": {
+        "styleIndex": 83,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 320,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "겉옷을 벗는다",
+          "strWidth": 202.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 29,
+      "arrayIndex": 27,
+      "labelName": "SS_fld_dressup_033",
+      "styleInfo": {
+        "styleIndex": 83,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 320,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "겉옷을 입는다",
+          "strWidth": 202.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 30,
+      "arrayIndex": 28,
+      "labelName": "SS_fld_dressup_035",
+      "styleInfo": {
+        "styleIndex": 83,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 320,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "갈아입지 않고 끝낸다",
+          "strWidth": 309.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 31,
+      "arrayIndex": 29,
+      "labelName": "SS_fld_dressup_036",
+      "styleInfo": {
+        "styleIndex": 83,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 320,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "사러 왔다",
+          "strWidth": 138.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 32,
+      "arrayIndex": 30,
+      "labelName": "SS_fld_dressup_037",
+      "styleInfo": {
+        "styleIndex": 83,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 320,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "특별히 없다",
+          "strWidth": 170.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 33,
+      "arrayIndex": 31,
+      "labelName": "SS_fld_dressup_038",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "그럼 피팅룸으로 모시겠습니다!",
+          "strWidth": 446.21875
+        }
+      ]
+    },
+    {
+      "labelIndex": 34,
+      "arrayIndex": 32,
+      "labelName": "SS_fld_dressup_039",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 77,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 2,
+          "tagID": 2,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "매번 감사합니다",
+          "strWidth": 234.65625
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "특전으로 ",
+          "strWidth": 138.65625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "개를 드리겠습니다!",
+          "strWidth": 275.5625
+        }
+      ]
+    },
+    {
+      "labelIndex": 35,
+      "arrayIndex": 33,
+      "labelName": "SS_fld_dressup_040",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "감사합니다!",
+          "strWidth": 168.90625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "다음에 또 오세요!",
+          "strWidth": 254.21875
+        }
+      ]
+    },
+    {
+      "labelIndex": 36,
+      "arrayIndex": 34,
+      "labelName": "SS_fld_dressup_041",
+      "styleInfo": {
+        "styleIndex": 91,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 448,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "전환",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 37,
+      "arrayIndex": 35,
+      "labelName": "SS_fld_dressup_042",
+      "styleInfo": {
+        "styleIndex": 91,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 448,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "스타일 선택",
+          "strWidth": 170.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 38,
+      "arrayIndex": 36,
+      "labelName": "SS_fld_dressup_043",
+      "styleInfo": {
+        "styleIndex": 91,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 448,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "회전",
+          "strWidth": 64.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 18,
+      "arrayIndex": 37,
+      "labelName": "SS_fld_dressup_045",
+      "styleInfo": {
+        "styleIndex": 30,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 77,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": -1,
+          "groupID": 25,
+          "tagID": 0,
+          "tagPatternID": 5,
+          "forceArticle": 0,
+          "tagParameter": 2,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "손님! 잠시만요!",
+          "strWidth": 220.46875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "이번에 구입해 주신 스타일을 마지막으로",
+          "strWidth": 586.625
+        },
+        {
+          "patternID": 7,
+          "eventID": 4,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "손님께서는 모든 스타일을",
+          "strWidth": 373.3125
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "구입해 주셨습니다!",
+          "strWidth": 275.5625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "감사의 뜻으로",
+          "strWidth": 202.65625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " 드리겠습니다!",
+          "strWidth": 211.5625
+        }
+      ]
+    },
+    {
+      "labelIndex": 19,
+      "arrayIndex": 38,
+      "labelName": "SS_fld_dressup_046",
+      "styleInfo": {
+        "styleIndex": 30,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "앞으로도 저희 패션스타일 손가락흔들기를",
+          "strWidth": 607.96875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "많이 사랑해 주세요!",
+          "strWidth": 286.21875
+        }
+      ]
+    }
+  ]
 }

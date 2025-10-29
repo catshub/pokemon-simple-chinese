@@ -1,726 +1,726 @@
 {
-    "m_GameObject": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "m_Enabled": 1,
-    "m_Script": {
-        "m_FileID": 0,
-        "m_PathID": 3652094840918934080
-    },
-    "m_Name": "german_ss_shinka_demo",
-    "hash": -1409454431,
-    "langID": 5,
-    "isResident": 0,
-    "isKanji": 0,
-    "labelDataArray": [
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3652094840918934080
+  },
+  "m_Name": "german_ss_shinka_demo",
+  "hash": -1409454431,
+  "langID": 5,
+  "isResident": 0,
+  "isKanji": 0,
+  "labelDataArray": [
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "SS_shinka_demo_01_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        -1,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
         {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "SS_shinka_demo_01_01",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                -1,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Nanu?",
-                    "strWidth": 82.546875
-                }
-            ]
-        },
-        {
-            "labelIndex": 2,
-            "arrayIndex": 1,
-            "labelName": "SS_shinka_demo_02_01",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                -1,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Hm? Die Entwicklung wurde abgebrochen!",
-                    "strWidth": 547.765625
-                }
-            ]
-        },
-        {
-            "labelIndex": 3,
-            "arrayIndex": 2,
-            "labelName": "SS_shinka_demo_03_01",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                -1,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 2,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 1,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Glückwunsch! Dein ",
-                    "strWidth": 253.34375
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " hat sich",
-                    "strWidth": 106.921875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "zu einem ",
-                    "strWidth": 123.796875
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " entwickelt!",
-                    "strWidth": 147.515625
-                }
-            ]
-        },
-        {
-            "labelIndex": 4,
-            "arrayIndex": 3,
-            "labelName": "SS_shinka_demo_04_01",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                -1,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 2,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 7,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " erlernt",
-                    "strWidth": 93.328125
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 5,
-                    "tagIndex": -1,
-                    "tagValue": 4.0,
-                    "str": "!",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 5,
-                    "tagIndex": -1,
-                    "tagValue": 1.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": 0.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 5,
-            "arrayIndex": 4,
-            "labelName": "SS_shinka_demo_05_01",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                -1,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 2,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 7,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 2,
-                    "groupID": 1,
-                    "tagID": 7,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 2,
-                    "tagIndex": -1,
-                    "tagValue": 0.19999998807907104,
-                    "str": "Eins,",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 2,
-                    "tagIndex": -1,
-                    "tagValue": 0.19999998807907104,
-                    "str": " zwei",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 2,
-                    "tagIndex": -1,
-                    "tagValue": 0.19999998807907104,
-                    "str": " und",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 5,
-                    "tagIndex": -1,
-                    "tagValue": 3.0,
-                    "str": "... schwupp!",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 5,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 3,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": 0.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " hat ",
-                    "strWidth": 58.265625
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": 0.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "vergessen und ",
-                    "strWidth": 192.21875
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 2,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 5,
-                    "tagIndex": -1,
-                    "tagValue": 4.0,
-                    "str": " erlernt!",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 5,
-                    "tagIndex": -1,
-                    "tagValue": 1.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": 0.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 6,
-            "arrayIndex": 5,
-            "labelName": "SS_shinka_demo_06_01",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                -1,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 2,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 7,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " hat",
-                    "strWidth": 49.59375
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " nicht erlernt.",
-                    "strWidth": 172.671875
-                }
-            ]
-        },
-        {
-            "labelIndex": 7,
-            "arrayIndex": 6,
-            "labelName": "SS_shinka_demo_07_01",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                -1,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 2,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 7,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 7,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " versucht,",
-                    "strWidth": 123.875
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 3,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " zu erlernen.",
-                    "strWidth": 160.015625
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Soll eine bekannte Attacke durch",
-                    "strWidth": 430.78125
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 2,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " ersetzt werden?",
-                    "strWidth": 212.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 8,
-            "arrayIndex": 7,
-            "labelName": "SS_shinka_demo_10_01",
-            "styleInfo": {
-                "styleIndex": 50,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 756,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                -1,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Ja",
-                    "strWidth": 27.9375
-                }
-            ]
-        },
-        {
-            "labelIndex": 9,
-            "arrayIndex": 8,
-            "labelName": "SS_shinka_demo_10_02",
-            "styleInfo": {
-                "styleIndex": 50,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 756,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                -1,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Nein",
-                    "strWidth": 60.78125
-                }
-            ]
-        },
-        {
-            "labelIndex": 1,
-            "arrayIndex": 9,
-            "labelName": "SS_shinka_demo_01_02",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                -1,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 2,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " entwickelt sich!",
-                    "strWidth": 204.84375
-                }
-            ]
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Nanu?",
+          "strWidth": 82.546875
         }
-    ]
+      ]
+    },
+    {
+      "labelIndex": 2,
+      "arrayIndex": 1,
+      "labelName": "SS_shinka_demo_02_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        -1,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Hm? Die Entwicklung wurde abgebrochen!",
+          "strWidth": 547.765625
+        }
+      ]
+    },
+    {
+      "labelIndex": 3,
+      "arrayIndex": 2,
+      "labelName": "SS_shinka_demo_03_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        -1,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 1,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Glückwunsch! Dein ",
+          "strWidth": 253.34375
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " hat sich",
+          "strWidth": 106.921875
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "zu einem ",
+          "strWidth": 123.796875
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " entwickelt!",
+          "strWidth": 147.515625
+        }
+      ]
+    },
+    {
+      "labelIndex": 4,
+      "arrayIndex": 3,
+      "labelName": "SS_shinka_demo_04_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        -1,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " erlernt",
+          "strWidth": 93.328125
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 5,
+          "tagIndex": -1,
+          "tagValue": 4.0,
+          "str": "!",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 5,
+          "tagIndex": -1,
+          "tagValue": 1.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 5,
+      "arrayIndex": 4,
+      "labelName": "SS_shinka_demo_05_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        -1,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 2,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 2,
+          "tagIndex": -1,
+          "tagValue": 0.19999998807907104,
+          "str": "Eins,",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 2,
+          "tagIndex": -1,
+          "tagValue": 0.19999998807907104,
+          "str": " zwei",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 2,
+          "tagIndex": -1,
+          "tagValue": 0.19999998807907104,
+          "str": " und",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 5,
+          "tagIndex": -1,
+          "tagValue": 3.0,
+          "str": "... schwupp!",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 5,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " hat ",
+          "strWidth": 58.265625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "vergessen und ",
+          "strWidth": 192.21875
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 5,
+          "tagIndex": -1,
+          "tagValue": 4.0,
+          "str": " erlernt!",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 5,
+          "tagIndex": -1,
+          "tagValue": 1.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 6,
+      "arrayIndex": 5,
+      "labelName": "SS_shinka_demo_06_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        -1,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " hat",
+          "strWidth": 49.59375
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " nicht erlernt.",
+          "strWidth": 172.671875
+        }
+      ]
+    },
+    {
+      "labelIndex": 7,
+      "arrayIndex": 6,
+      "labelName": "SS_shinka_demo_07_01",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        -1,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " versucht,",
+          "strWidth": 123.875
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 3,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " zu erlernen.",
+          "strWidth": 160.015625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Soll eine bekannte Attacke durch",
+          "strWidth": 430.78125
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " ersetzt werden?",
+          "strWidth": 212.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 8,
+      "arrayIndex": 7,
+      "labelName": "SS_shinka_demo_10_01",
+      "styleInfo": {
+        "styleIndex": 50,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        -1,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Ja",
+          "strWidth": 27.9375
+        }
+      ]
+    },
+    {
+      "labelIndex": 9,
+      "arrayIndex": 8,
+      "labelName": "SS_shinka_demo_10_02",
+      "styleInfo": {
+        "styleIndex": 50,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 756,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        -1,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Nein",
+          "strWidth": 60.78125
+        }
+      ]
+    },
+    {
+      "labelIndex": 1,
+      "arrayIndex": 9,
+      "labelName": "SS_shinka_demo_01_02",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        -1,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " entwickelt sich!",
+          "strWidth": 204.84375
+        }
+      ]
+    }
+  ]
 }

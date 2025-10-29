@@ -1,286 +1,286 @@
 {
-    "m_GameObject": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "m_Enabled": 1,
-    "m_Script": {
-        "m_FileID": 0,
-        "m_PathID": 3652094840918934080
-    },
-    "m_Name": "french_ss_gameover",
-    "hash": -1328388585,
-    "langID": 3,
-    "isResident": 0,
-    "isKanji": 0,
-    "labelDataArray": [
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3652094840918934080
+  },
+  "m_Name": "french_ss_gameover",
+  "hash": -1328388585,
+  "langID": 3,
+  "isResident": 0,
+  "isKanji": 0,
+  "labelDataArray": [
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "SS_gameover_01",
+      "styleInfo": {
+        "styleIndex": 22,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [
         {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "SS_gameover_01",
-            "styleInfo": {
-                "styleIndex": 22,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": -1,
-                    "groupID": 20,
-                    "tagID": 1,
-                    "tagPatternID": 5,
-                    "forceArticle": 0,
-                    "tagParameter": 253,
-                    "tagWordArray": [
-                        "votre",
-                        "vos"
-                    ],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": -1,
-                    "groupID": 20,
-                    "tagID": 1,
-                    "tagPatternID": 5,
-                    "forceArticle": 0,
-                    "tagParameter": 253,
-                    "tagWordArray": [
-                        "",
-                        "s"
-                    ],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": -1,
-                    "groupID": 20,
-                    "tagID": 1,
-                    "tagPatternID": 5,
-                    "forceArticle": 0,
-                    "tagParameter": 253,
-                    "tagWordArray": [
-                        "",
-                        "nt"
-                    ],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Vous vous hâtez vers un Centre Pokémon",
-                    "strWidth": 534.046875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "pour éviter que ",
-                    "strWidth": 207.8125
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " pauvre",
-                    "strWidth": 96.5
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " Pokémon",
-                    "strWidth": 128.34375
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ne souffre",
-                    "strWidth": 129.625
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 2,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " davantage.",
-                    "strWidth": 151.609375
-                }
-            ]
+          "tagIndex": -1,
+          "groupID": 20,
+          "tagID": 1,
+          "tagPatternID": 5,
+          "forceArticle": 0,
+          "tagParameter": 253,
+          "tagWordArray": [
+            "votre",
+            "vos"
+          ],
+          "forceGrmID": 0
         },
         {
-            "labelIndex": 1,
-            "arrayIndex": 1,
-            "labelName": "SS_gameover_02",
-            "styleInfo": {
-                "styleIndex": 22,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": -1,
-                    "groupID": 20,
-                    "tagID": 1,
-                    "tagPatternID": 5,
-                    "forceArticle": 0,
-                    "tagParameter": 253,
-                    "tagWordArray": [
-                        "votre",
-                        "vos"
-                    ],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": -1,
-                    "groupID": 20,
-                    "tagID": 1,
-                    "tagPatternID": 5,
-                    "forceArticle": 0,
-                    "tagParameter": 253,
-                    "tagWordArray": [
-                        "",
-                        "s"
-                    ],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": -1,
-                    "groupID": 20,
-                    "tagID": 1,
-                    "tagPatternID": 5,
-                    "forceArticle": 0,
-                    "tagParameter": 253,
-                    "tagWordArray": [
-                        "",
-                        "nt"
-                    ],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Vous vous hâtez de rentrer à la maison",
-                    "strWidth": 501.234375
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "pour éviter que ",
-                    "strWidth": 207.8125
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " pauvre",
-                    "strWidth": 96.5
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " Pokémon",
-                    "strWidth": 128.34375
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ne souffre",
-                    "strWidth": 129.625
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 2,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " davantage.",
-                    "strWidth": 151.609375
-                }
-            ]
+          "tagIndex": -1,
+          "groupID": 20,
+          "tagID": 1,
+          "tagPatternID": 5,
+          "forceArticle": 0,
+          "tagParameter": 253,
+          "tagWordArray": [
+            "",
+            "s"
+          ],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": -1,
+          "groupID": 20,
+          "tagID": 1,
+          "tagPatternID": 5,
+          "forceArticle": 0,
+          "tagParameter": 253,
+          "tagWordArray": [
+            "",
+            "nt"
+          ],
+          "forceGrmID": 0
         }
-    ]
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vous vous hâtez vers un Centre Pokémon",
+          "strWidth": 534.046875
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "pour éviter que ",
+          "strWidth": 207.8125
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " pauvre",
+          "strWidth": 96.5
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " Pokémon",
+          "strWidth": 128.34375
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ne souffre",
+          "strWidth": 129.625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " davantage.",
+          "strWidth": 151.609375
+        }
+      ]
+    },
+    {
+      "labelIndex": 1,
+      "arrayIndex": 1,
+      "labelName": "SS_gameover_02",
+      "styleInfo": {
+        "styleIndex": 22,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": -1,
+          "groupID": 20,
+          "tagID": 1,
+          "tagPatternID": 5,
+          "forceArticle": 0,
+          "tagParameter": 253,
+          "tagWordArray": [
+            "votre",
+            "vos"
+          ],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": -1,
+          "groupID": 20,
+          "tagID": 1,
+          "tagPatternID": 5,
+          "forceArticle": 0,
+          "tagParameter": 253,
+          "tagWordArray": [
+            "",
+            "s"
+          ],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": -1,
+          "groupID": 20,
+          "tagID": 1,
+          "tagPatternID": 5,
+          "forceArticle": 0,
+          "tagParameter": 253,
+          "tagWordArray": [
+            "",
+            "nt"
+          ],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vous vous hâtez de rentrer à la maison",
+          "strWidth": 501.234375
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "pour éviter que ",
+          "strWidth": 207.8125
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " pauvre",
+          "strWidth": 96.5
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " Pokémon",
+          "strWidth": 128.34375
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ne souffre",
+          "strWidth": 129.625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " davantage.",
+          "strWidth": 151.609375
+        }
+      ]
+    }
+  ]
 }

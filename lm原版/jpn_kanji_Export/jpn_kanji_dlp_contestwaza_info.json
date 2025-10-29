@@ -1,698 +1,698 @@
 {
-    "m_GameObject": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "m_Enabled": 1,
-    "m_Script": {
-        "m_FileID": 0,
-        "m_PathID": 3652094840918934080
-    },
-    "m_Name": "jpn_kanji_dlp_contestwaza_info",
-    "hash": 1016260163,
-    "langID": 1,
-    "isResident": 0,
-    "isKanji": 1,
-    "labelDataArray": [
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3652094840918934080
+  },
+  "m_Name": "jpn_kanji_dlp_contestwaza_info",
+  "hash": 1016260163,
+  "langID": 1,
+  "isResident": 0,
+  "isKanji": 1,
+  "labelDataArray": [
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "CONTESTWAZA_INFO_000",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
         {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "CONTESTWAZA_INFO_000",
-            "styleInfo": {
-                "styleIndex": 109,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 736,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "―",
-                    "strWidth": 32.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "―",
-                    "strWidth": 32.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "―",
-                    "strWidth": 32.0
-                }
-            ]
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "―",
+          "strWidth": 32.0
         },
         {
-            "labelIndex": 1,
-            "arrayIndex": 1,
-            "labelName": "CONTESTWAZA_INFO_001",
-            "styleInfo": {
-                "styleIndex": 109,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 736,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "追加効果　なし",
-                    "strWidth": 221.0
-                }
-            ]
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "―",
+          "strWidth": 32.0
         },
         {
-            "labelIndex": 2,
-            "arrayIndex": 2,
-            "labelName": "CONTESTWAZA_INFO_002",
-            "styleInfo": {
-                "styleIndex": 109,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 736,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 2,
-                    "tagID": 1,
-                    "tagPatternID": 1,
-                    "forceArticle": 0,
-                    "tagParameter": 205,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "秒の　間",
-                    "strWidth": 128.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ノーツ判定が　失敗に　ならない",
-                    "strWidth": 473.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 10,
-            "arrayIndex": 3,
-            "labelName": "CONTESTWAZA_INFO_018",
-            "styleInfo": {
-                "styleIndex": 109,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 736,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "この技は　使えません",
-                    "strWidth": 317.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "思い出すことが　できなくなりますが",
-                    "strWidth": 530.9000244140625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "技を　忘れることを　おすすめします",
-                    "strWidth": 535.0499877929688
-                }
-            ]
-        },
-        {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": 0,
-                "fontSize": 0,
-                "maxWidth": 0,
-                "controlID": 0
-            },
-            "attributeValueArray": [],
-            "tagDataArray": [],
-            "wordDataArray": []
-        },
-        {
-            "labelIndex": 3,
-            "arrayIndex": 5,
-            "labelName": "CONTESTWAZA_INFO_005",
-            "styleInfo": {
-                "styleIndex": 109,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 736,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 2,
-                    "tagID": 1,
-                    "tagPatternID": 1,
-                    "forceArticle": 0,
-                    "tagParameter": 205,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "秒の　間",
-                    "strWidth": 128.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "テンションが　下がらなくなる",
-                    "strWidth": 434.95001220703125
-                }
-            ]
-        },
-        {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": 0,
-                "fontSize": 0,
-                "maxWidth": 0,
-                "controlID": 0
-            },
-            "attributeValueArray": [],
-            "tagDataArray": [],
-            "wordDataArray": []
-        },
-        {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": 0,
-                "fontSize": 0,
-                "maxWidth": 0,
-                "controlID": 0
-            },
-            "attributeValueArray": [],
-            "tagDataArray": [],
-            "wordDataArray": []
-        },
-        {
-            "labelIndex": 4,
-            "arrayIndex": 8,
-            "labelName": "CONTESTWAZA_INFO_008",
-            "styleInfo": {
-                "styleIndex": 109,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 736,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 2,
-                    "tagID": 1,
-                    "tagPatternID": 1,
-                    "forceArticle": 0,
-                    "tagParameter": 205,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "秒の　間",
-                    "strWidth": 128.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ハートゲージが　少し　溜まりやすくなる",
-                    "strWidth": 592.9500122070312
-                }
-            ]
-        },
-        {
-            "labelIndex": 5,
-            "arrayIndex": 9,
-            "labelName": "CONTESTWAZA_INFO_009",
-            "styleInfo": {
-                "styleIndex": 109,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 736,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 2,
-                    "tagID": 1,
-                    "tagPatternID": 1,
-                    "forceArticle": 0,
-                    "tagParameter": 205,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "秒の　間",
-                    "strWidth": 128.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ハートゲージが　溜まりやすくなる",
-                    "strWidth": 499.95001220703125
-                }
-            ]
-        },
-        {
-            "labelIndex": 6,
-            "arrayIndex": 10,
-            "labelName": "CONTESTWAZA_INFO_010",
-            "styleInfo": {
-                "styleIndex": 109,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 736,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 2,
-                    "tagID": 1,
-                    "tagPatternID": 1,
-                    "forceArticle": 0,
-                    "tagParameter": 205,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "秒の　間",
-                    "strWidth": 128.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ハートゲージが　とても　溜まりやすくなる",
-                    "strWidth": 623.8500366210938
-                }
-            ]
-        },
-        {
-            "labelIndex": 7,
-            "arrayIndex": 11,
-            "labelName": "CONTESTWAZA_INFO_011",
-            "styleInfo": {
-                "styleIndex": 109,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 736,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 2,
-                    "tagID": 0,
-                    "tagPatternID": 1,
-                    "forceArticle": 0,
-                    "tagParameter": 205,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ポケモンの　テンションが　プラスの　場合",
-                    "strWidth": 625.9500122070312
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "もらえる　ショーポイントが　",
-                    "strWidth": 434.95001220703125
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "増える",
-                    "strWidth": 96.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": 0,
-                "fontSize": 0,
-                "maxWidth": 0,
-                "controlID": 0
-            },
-            "attributeValueArray": [],
-            "tagDataArray": [],
-            "wordDataArray": []
-        },
-        {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": 0,
-                "fontSize": 0,
-                "maxWidth": 0,
-                "controlID": 0
-            },
-            "attributeValueArray": [],
-            "tagDataArray": [],
-            "wordDataArray": []
-        },
-        {
-            "labelIndex": 8,
-            "arrayIndex": 14,
-            "labelName": "CONTESTWAZA_INFO_014",
-            "styleInfo": {
-                "styleIndex": 109,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 736,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 2,
-                    "tagID": 0,
-                    "tagPatternID": 1,
-                    "forceArticle": 0,
-                    "tagParameter": 205,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ポケモンの　テンションが　マイナスの　場合",
-                    "strWidth": 657.9500122070312
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "もらえる　ショーポイントが　",
-                    "strWidth": 434.95001220703125
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "増える",
-                    "strWidth": 96.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": 0,
-                "fontSize": 0,
-                "maxWidth": 0,
-                "controlID": 0
-            },
-            "attributeValueArray": [],
-            "tagDataArray": [],
-            "wordDataArray": []
-        },
-        {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": 0,
-                "fontSize": 0,
-                "maxWidth": 0,
-                "controlID": 0
-            },
-            "attributeValueArray": [],
-            "tagDataArray": [],
-            "wordDataArray": []
-        },
-        {
-            "labelIndex": 9,
-            "arrayIndex": 17,
-            "labelName": "CONTESTWAZA_INFO_017",
-            "styleInfo": {
-                "styleIndex": 109,
-                "colorIndex": -1,
-                "fontSize": 32,
-                "maxWidth": 736,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ポケモンの　テンション　によって",
-                    "strWidth": 492.9000244140625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ショーポイントが　１～５　もらえる",
-                    "strWidth": 516.9000244140625
-                }
-            ]
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "―",
+          "strWidth": 32.0
         }
-    ]
+      ]
+    },
+    {
+      "labelIndex": 1,
+      "arrayIndex": 1,
+      "labelName": "CONTESTWAZA_INFO_001",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "追加効果　なし",
+          "strWidth": 221.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 2,
+      "arrayIndex": 2,
+      "labelName": "CONTESTWAZA_INFO_002",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 2,
+          "tagID": 1,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "秒の　間",
+          "strWidth": 128.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ノーツ判定が　失敗に　ならない",
+          "strWidth": 473.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 10,
+      "arrayIndex": 3,
+      "labelName": "CONTESTWAZA_INFO_018",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "この技は　使えません",
+          "strWidth": 317.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "思い出すことが　できなくなりますが",
+          "strWidth": 530.9000244140625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "技を　忘れることを　おすすめします",
+          "strWidth": 535.0499877929688
+        }
+      ]
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 3,
+      "arrayIndex": 5,
+      "labelName": "CONTESTWAZA_INFO_005",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 2,
+          "tagID": 1,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "秒の　間",
+          "strWidth": 128.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "テンションが　下がらなくなる",
+          "strWidth": 434.95001220703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 4,
+      "arrayIndex": 8,
+      "labelName": "CONTESTWAZA_INFO_008",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 2,
+          "tagID": 1,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "秒の　間",
+          "strWidth": 128.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ハートゲージが　少し　溜まりやすくなる",
+          "strWidth": 592.9500122070312
+        }
+      ]
+    },
+    {
+      "labelIndex": 5,
+      "arrayIndex": 9,
+      "labelName": "CONTESTWAZA_INFO_009",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 2,
+          "tagID": 1,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "秒の　間",
+          "strWidth": 128.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ハートゲージが　溜まりやすくなる",
+          "strWidth": 499.95001220703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 6,
+      "arrayIndex": 10,
+      "labelName": "CONTESTWAZA_INFO_010",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 2,
+          "tagID": 1,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "秒の　間",
+          "strWidth": 128.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ハートゲージが　とても　溜まりやすくなる",
+          "strWidth": 623.8500366210938
+        }
+      ]
+    },
+    {
+      "labelIndex": 7,
+      "arrayIndex": 11,
+      "labelName": "CONTESTWAZA_INFO_011",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 2,
+          "tagID": 0,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンの　テンションが　プラスの　場合",
+          "strWidth": 625.9500122070312
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "もらえる　ショーポイントが　",
+          "strWidth": 434.95001220703125
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "増える",
+          "strWidth": 96.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 8,
+      "arrayIndex": 14,
+      "labelName": "CONTESTWAZA_INFO_014",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 2,
+          "tagID": 0,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンの　テンションが　マイナスの　場合",
+          "strWidth": 657.9500122070312
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "もらえる　ショーポイントが　",
+          "strWidth": 434.95001220703125
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "増える",
+          "strWidth": 96.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 9,
+      "arrayIndex": 17,
+      "labelName": "CONTESTWAZA_INFO_017",
+      "styleInfo": {
+        "styleIndex": 109,
+        "colorIndex": -1,
+        "fontSize": 32,
+        "maxWidth": 736,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンの　テンション　によって",
+          "strWidth": 492.9000244140625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ショーポイントが　１～５　もらえる",
+          "strWidth": 516.9000244140625
+        }
+      ]
+    }
+  ]
 }

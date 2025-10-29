@@ -1,708 +1,708 @@
 {
-    "m_GameObject": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "m_Enabled": 1,
-    "m_Script": {
-        "m_FileID": 0,
-        "m_PathID": 3652094840918934080
-    },
-    "m_Name": "french_ss_net_trade_demo",
-    "hash": -2120665447,
-    "langID": 3,
-    "isResident": 0,
-    "isKanji": 0,
-    "labelDataArray": [
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3652094840918934080
+  },
+  "m_Name": "french_ss_net_trade_demo",
+  "hash": -2120665447,
+  "langID": 3,
+  "isResident": 0,
+  "isKanji": 0,
+  "labelDataArray": [
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "SS_net_trade_demo_06",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 1
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [
         {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "SS_net_trade_demo_06",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 1
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": -1,
-                    "groupID": 20,
-                    "tagID": 11,
-                    "tagPatternID": 5,
-                    "forceArticle": 1,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 2,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 0,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 2,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Envoi ",
-                    "strWidth": 78.9375
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " à ",
-                    "strWidth": 32.640625
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 2,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": ".",
-                    "strWidth": 7.90625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Bye-bye, ",
-                    "strWidth": 123.953125
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 3,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " !",
-                    "strWidth": 15.9375
-                }
-            ]
+          "tagIndex": -1,
+          "groupID": 20,
+          "tagID": 11,
+          "tagPatternID": 5,
+          "forceArticle": 1,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
         },
         {
-            "labelIndex": 1,
-            "arrayIndex": 1,
-            "labelName": "SS_net_trade_demo_07",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 1
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": -1,
-                    "groupID": 20,
-                    "tagID": 11,
-                    "tagPatternID": 5,
-                    "forceArticle": 1,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 2,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 0,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 2,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Renvoi ",
-                    "strWidth": 96.6875
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " à ",
-                    "strWidth": 32.640625
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 2,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": ".",
-                    "strWidth": 7.90625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Merci, ",
-                    "strWidth": 90.671875
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 3,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " !",
-                    "strWidth": 15.9375
-                }
-            ]
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
         },
         {
-            "labelIndex": 2,
-            "arrayIndex": 2,
-            "labelName": "SS_net_trade_demo_08",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 0,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 2,
-                    "groupID": 1,
-                    "tagID": 2,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " a envoyé ",
-                    "strWidth": 134.4375
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": ".",
-                    "strWidth": 7.90625
-                }
-            ]
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
         },
         {
-            "labelIndex": 3,
-            "arrayIndex": 3,
-            "labelName": "SS_net_trade_demo_09",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": -1,
-                    "groupID": 20,
-                    "tagID": 11,
-                    "tagPatternID": 5,
-                    "forceArticle": 1,
-                    "tagParameter": 2,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 2,
-                    "groupID": 1,
-                    "tagID": 2,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Prends bien soin ",
-                    "strWidth": 220.5625
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " !",
-                    "strWidth": 15.9375
-                }
-            ]
-        },
-        {
-            "labelIndex": 4,
-            "arrayIndex": 4,
-            "labelName": "SS_net_trade_demo_10",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 1
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 2,
-                    "groupID": 1,
-                    "tagID": 2,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 0,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " revient de chez",
-                    "strWidth": 206.703125
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " !",
-                    "strWidth": 15.9375
-                }
-            ]
-        },
-        {
-            "labelIndex": 5,
-            "arrayIndex": 5,
-            "labelName": "SS_net_trade_demo_11",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": -1,
-                    "groupID": 20,
-                    "tagID": 0,
-                    "tagPatternID": 5,
-                    "forceArticle": 0,
-                    "tagParameter": 255,
-                    "tagWordArray": [
-                        "",
-                        "e"
-                    ],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 2,
-                    "groupID": 1,
-                    "tagID": 2,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Content",
-                    "strWidth": 104.625
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " de te revoir, ",
-                    "strWidth": 176.90625
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " !",
-                    "strWidth": 15.9375
-                }
-            ]
-        },
-        {
-            "labelIndex": 6,
-            "arrayIndex": 6,
-            "labelName": "SS_net_trade_demo_12",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": -1,
-                    "groupID": 20,
-                    "tagID": 11,
-                    "tagPatternID": 5,
-                    "forceArticle": 1,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 2,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 2,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Envoi ",
-                    "strWidth": 78.9375
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " par Échange Miracle.",
-                    "strWidth": 280.78125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Bye-bye, ",
-                    "strWidth": 123.953125
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 2,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " !",
-                    "strWidth": 15.9375
-                }
-            ]
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
         }
-    ]
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Envoi ",
+          "strWidth": 78.9375
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " à ",
+          "strWidth": 32.640625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": ".",
+          "strWidth": 7.90625
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Bye-bye, ",
+          "strWidth": 123.953125
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 3,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " !",
+          "strWidth": 15.9375
+        }
+      ]
+    },
+    {
+      "labelIndex": 1,
+      "arrayIndex": 1,
+      "labelName": "SS_net_trade_demo_07",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 1
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": -1,
+          "groupID": 20,
+          "tagID": 11,
+          "tagPatternID": 5,
+          "forceArticle": 1,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Renvoi ",
+          "strWidth": 96.6875
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " à ",
+          "strWidth": 32.640625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": ".",
+          "strWidth": 7.90625
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Merci, ",
+          "strWidth": 90.671875
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 3,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " !",
+          "strWidth": 15.9375
+        }
+      ]
+    },
+    {
+      "labelIndex": 2,
+      "arrayIndex": 2,
+      "labelName": "SS_net_trade_demo_08",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 2,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " a envoyé ",
+          "strWidth": 134.4375
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": ".",
+          "strWidth": 7.90625
+        }
+      ]
+    },
+    {
+      "labelIndex": 3,
+      "arrayIndex": 3,
+      "labelName": "SS_net_trade_demo_09",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": -1,
+          "groupID": 20,
+          "tagID": 11,
+          "tagPatternID": 5,
+          "forceArticle": 1,
+          "tagParameter": 2,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 2,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Prends bien soin ",
+          "strWidth": 220.5625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " !",
+          "strWidth": 15.9375
+        }
+      ]
+    },
+    {
+      "labelIndex": 4,
+      "arrayIndex": 4,
+      "labelName": "SS_net_trade_demo_10",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 1
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 2,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " revient de chez",
+          "strWidth": 206.703125
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " !",
+          "strWidth": 15.9375
+        }
+      ]
+    },
+    {
+      "labelIndex": 5,
+      "arrayIndex": 5,
+      "labelName": "SS_net_trade_demo_11",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": -1,
+          "groupID": 20,
+          "tagID": 0,
+          "tagPatternID": 5,
+          "forceArticle": 0,
+          "tagParameter": 255,
+          "tagWordArray": [
+            "",
+            "e"
+          ],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 2,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Content",
+          "strWidth": 104.625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " de te revoir, ",
+          "strWidth": 176.90625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " !",
+          "strWidth": 15.9375
+        }
+      ]
+    },
+    {
+      "labelIndex": 6,
+      "arrayIndex": 6,
+      "labelName": "SS_net_trade_demo_12",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": -1,
+          "groupID": 20,
+          "tagID": 11,
+          "tagPatternID": 5,
+          "forceArticle": 1,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 2,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Envoi ",
+          "strWidth": 78.9375
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " par Échange Miracle.",
+          "strWidth": 280.78125
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Bye-bye, ",
+          "strWidth": 123.953125
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 2,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " !",
+          "strWidth": 15.9375
+        }
+      ]
+    }
+  ]
 }

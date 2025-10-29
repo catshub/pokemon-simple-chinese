@@ -1,2291 +1,2291 @@
 {
-    "m_GameObject": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "m_Enabled": 1,
-    "m_Script": {
-        "m_FileID": 0,
-        "m_PathID": 3652094840918934080
-    },
-    "m_Name": "jpn_ss_net_mystery_card",
-    "hash": 1129314065,
-    "langID": 1,
-    "isResident": 0,
-    "isKanji": 0,
-    "labelDataArray": [
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3652094840918934080
+  },
+  "m_Name": "jpn_ss_net_mystery_card",
+  "hash": 1129314065,
+  "langID": 1,
+  "isResident": 0,
+  "isKanji": 0,
+  "labelDataArray": [
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "SS_net_mystery_card_01",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
         {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "SS_net_mystery_card_01",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 1,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " プレゼント",
-                    "strWidth": 162.046875
-                }
-            ]
-        },
-        {
-            "labelIndex": 1,
-            "arrayIndex": 1,
-            "labelName": "SS_net_mystery_card_02",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ポケモンのタマゴ プレゼント",
-                    "strWidth": 415.046875
-                }
-            ]
-        },
-        {
-            "labelIndex": 2,
-            "arrayIndex": 2,
-            "labelName": "SS_net_mystery_card_03",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ポケモン プレゼント",
-                    "strWidth": 288.046875
-                }
-            ]
-        },
-        {
-            "labelIndex": 3,
-            "arrayIndex": 3,
-            "labelName": "SS_net_mystery_card_04",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 8,
-                    "groupID": 1,
-                    "tagID": 9,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " プレゼント",
-                    "strWidth": 162.046875
-                }
-            ]
-        },
-        {
-            "labelIndex": 4,
-            "arrayIndex": 4,
-            "labelName": "SS_net_mystery_card_05",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "どうぐセット プレゼント",
-                    "strWidth": 342.9468688964844
-                }
-            ]
-        },
-        {
-            "labelIndex": 5,
-            "arrayIndex": 5,
-            "labelName": "SS_net_mystery_card_06",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "どうぐ プレゼント",
-                    "strWidth": 254.94686889648438
-                }
-            ]
-        },
-        {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": 0,
-                "fontSize": 0,
-                "maxWidth": 0,
-                "controlID": 0
-            },
-            "attributeValueArray": [],
-            "tagDataArray": [],
-            "wordDataArray": []
-        },
-        {
-            "labelIndex": 6,
-            "arrayIndex": 7,
-            "labelName": "SS_net_mystery_card_09",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 4,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 1,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " ",
-                    "strWidth": 11.046875
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 7,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 7,
-            "arrayIndex": 8,
-            "labelName": "SS_net_mystery_card_10",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 1,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "でんせつのポケモン ",
-                    "strWidth": 294.046875
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 7,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 8,
-            "arrayIndex": 9,
-            "labelName": "SS_net_mystery_card_11",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 1,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "まぼろしのポケモン ",
-                    "strWidth": 293.046875
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 7,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 9,
-            "arrayIndex": 10,
-            "labelName": "SS_net_mystery_card_12",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 3,
-                    "groupID": 1,
-                    "tagID": 0,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 1,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "の ",
-                    "strWidth": 43.046875
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 7,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 10,
-            "arrayIndex": 11,
-            "labelName": "SS_net_mystery_card_13",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 1,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "いろちがいの ",
-                    "strWidth": 203.046875
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 7,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 11,
-            "arrayIndex": 12,
-            "labelName": "SS_net_mystery_card_14",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 2,
-                    "groupID": 1,
-                    "tagID": 72,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 1,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "の ",
-                    "strWidth": 43.046875
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 7,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 12,
-            "arrayIndex": 13,
-            "labelName": "SS_net_mystery_card_15",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 2,
-                    "groupID": 1,
-                    "tagID": 72,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " プレゼント",
-                    "strWidth": 162.046875
-                }
-            ]
-        },
-        {
-            "labelIndex": 13,
-            "arrayIndex": 14,
-            "labelName": "SS_net_mystery_card_16",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 1,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "かくれとくせいの ",
-                    "strWidth": 257.99688720703125
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 7,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 14,
-            "arrayIndex": 15,
-            "labelName": "SS_net_mystery_card_17",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 4,
-                    "groupID": 1,
-                    "tagID": 7,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 1,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "を おぼえた ",
-                    "strWidth": 181.1437530517578
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 7,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 15,
-            "arrayIndex": 16,
-            "labelName": "SS_net_mystery_card_18",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 5,
-                    "groupID": 1,
-                    "tagID": 7,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 1,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "を おぼえた ",
-                    "strWidth": 181.1437530517578
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 7,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 16,
-            "arrayIndex": 17,
-            "labelName": "SS_net_mystery_card_19",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 6,
-                    "groupID": 1,
-                    "tagID": 7,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 1,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "を おぼえた ",
-                    "strWidth": 181.1437530517578
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 7,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 17,
-            "arrayIndex": 18,
-            "labelName": "SS_net_mystery_card_20",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 7,
-                    "groupID": 1,
-                    "tagID": 7,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 1,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "を おぼえた ",
-                    "strWidth": 181.1437530517578
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 7,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 18,
-            "arrayIndex": 19,
-            "labelName": "SS_net_mystery_card_21",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 9,
-                    "groupID": 1,
-                    "tagID": 9,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 1,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "を もった ",
-                    "strWidth": 145.1437530517578
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 7,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": 0,
-                "fontSize": 0,
-                "maxWidth": 0,
-                "controlID": 0
-            },
-            "attributeValueArray": [],
-            "tagDataArray": [],
-            "wordDataArray": []
-        },
-        {
-            "labelIndex": 19,
-            "arrayIndex": 21,
-            "labelName": "SS_net_mystery_card_24",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ダウンロードばん とくてん",
-                    "strWidth": 380.9468994140625
-                }
-            ]
-        },
-        {
-            "labelIndex": 20,
-            "arrayIndex": 22,
-            "labelName": "SS_net_mystery_card_25",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ダブルパック こうにゅうとくてん",
-                    "strWidth": 466.9469299316406
-                }
-            ]
-        },
-        {
-            "labelIndex": 21,
-            "arrayIndex": 23,
-            "labelName": "SS_net_mystery_card_26",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "てんぽべつ こうにゅうとくてん",
-                    "strWidth": 438.7969055175781
-                }
-            ]
-        },
-        {
-            "labelIndex": 22,
-            "arrayIndex": 24,
-            "labelName": "SS_net_mystery_card_27",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "こうりゃくぼん こうにゅうとくてん",
-                    "strWidth": 495.7469177246094
-                }
-            ]
-        },
-        {
-            "labelIndex": 23,
-            "arrayIndex": 25,
-            "labelName": "SS_net_mystery_card_28",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "こうにゅうとくてん",
-                    "strWidth": 271.79998779296875
-                }
-            ]
-        },
-        {
-            "labelIndex": 24,
-            "arrayIndex": 26,
-            "labelName": "SS_net_mystery_card_29",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "おたんじょうび おめでとう！",
-                    "strWidth": 403.99688720703125
-                }
-            ]
-        },
-        {
-            "labelIndex": 25,
-            "arrayIndex": 27,
-            "labelName": "SS_net_mystery_card_30",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "バーチャルコンソール とくてん",
-                    "strWidth": 443.9468994140625
-                }
-            ]
-        },
-        {
-            "labelIndex": 26,
-            "arrayIndex": 28,
-            "labelName": "SS_net_mystery_card_31",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ポケモントレーナークラブ",
-                    "strWidth": 373.1000061035156
-                }
-            ]
-        },
-        {
-            "labelIndex": 27,
-            "arrayIndex": 29,
-            "labelName": "SS_net_mystery_card_32",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ポケモングローバルリンク",
-                    "strWidth": 375.20001220703125
-                }
-            ]
-        },
-        {
-            "labelIndex": 28,
-            "arrayIndex": 30,
-            "labelName": "SS_net_mystery_card_33",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ポケモンバンク",
-                    "strWidth": 218.10000610351562
-                }
-            ]
-        },
-        {
-            "labelIndex": 29,
-            "arrayIndex": 31,
-            "labelName": "SS_net_mystery_card_34",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Pokémon HOME",
-                    "strWidth": 260.234375
-                }
-            ]
-        },
-        {
-            "labelIndex": 30,
-            "arrayIndex": 32,
-            "labelName": "SS_net_mystery_card_35",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "おこづかい プレゼント",
-                    "strWidth": 319.046875
-                }
-            ]
-        },
-        {
-            "labelIndex": 31,
-            "arrayIndex": 33,
-            "labelName": "SS_net_mystery_card_36",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 12,
-                    "groupID": 2,
-                    "tagID": 6,
-                    "tagPatternID": 1,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "円 キャッシュバック",
-                    "strWidth": 283.1968688964844
-                }
-            ]
-        },
-        {
-            "labelIndex": 32,
-            "arrayIndex": 34,
-            "labelName": "SS_net_mystery_card_37",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "きせかえアイテム プレゼント",
-                    "strWidth": 411.09686279296875
-                }
-            ]
-        },
-        {
-            "labelIndex": 33,
-            "arrayIndex": 35,
-            "labelName": "SS_net_mystery_card_38",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ランクバトル ほうしゅう",
-                    "strWidth": 347.0469055175781
-                }
-            ]
-        },
-        {
-            "labelIndex": 34,
-            "arrayIndex": 36,
-            "labelName": "SS_net_mystery_card_39",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "インターネットたいかい さんかしょう",
-                    "strWidth": 535.046875
-                }
-            ]
-        },
-        {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": 0,
-                "fontSize": 0,
-                "maxWidth": 0,
-                "controlID": 0
-            },
-            "attributeValueArray": [],
-            "tagDataArray": [],
-            "wordDataArray": []
-        },
-        {
-            "labelIndex": 35,
-            "arrayIndex": 38,
-            "labelName": "SS_net_mystery_card_41",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "こうしきたいかい どうぐ",
-                    "strWidth": 352.89691162109375
-                }
-            ]
-        },
-        {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": 0,
-                "fontSize": 0,
-                "maxWidth": 0,
-                "controlID": 0
-            },
-            "attributeValueArray": [],
-            "tagDataArray": [],
-            "wordDataArray": []
-        },
-        {
-            "labelIndex": 36,
-            "arrayIndex": 40,
-            "labelName": "SS_net_mystery_card_43",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "こうしきたいかい ポケモン",
-                    "strWidth": 385.99688720703125
-                }
-            ]
-        },
-        {
-            "labelIndex": 37,
-            "arrayIndex": 41,
-            "labelName": "SS_net_mystery_card_44",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "こうしきたいかい タマゴ",
-                    "strWidth": 354.99688720703125
-                }
-            ]
-        },
-        {
-            "labelIndex": 38,
-            "arrayIndex": 42,
-            "labelName": "SS_net_mystery_card_45",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "こうしきたいかい きせかえアイテム",
-                    "strWidth": 509.046875
-                }
-            ]
-        },
-        {
-            "labelIndex": 39,
-            "arrayIndex": 43,
-            "labelName": "SS_net_mystery_card_46",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 10,
-                    "groupID": 2,
-                    "tagID": 1,
-                    "tagPatternID": 1,
-                    "forceArticle": 0,
-                    "tagParameter": 205,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "シングル シーズン",
-                    "strWidth": 259.1468811035156
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " どうぐ",
-                    "strWidth": 103.9468765258789
-                }
-            ]
-        },
-        {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": 0,
-                "fontSize": 0,
-                "maxWidth": 0,
-                "controlID": 0
-            },
-            "attributeValueArray": [],
-            "tagDataArray": [],
-            "wordDataArray": []
-        },
-        {
-            "labelIndex": 40,
-            "arrayIndex": 45,
-            "labelName": "SS_net_mystery_card_48",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 10,
-                    "groupID": 2,
-                    "tagID": 1,
-                    "tagPatternID": 1,
-                    "forceArticle": 0,
-                    "tagParameter": 205,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "シングル シーズン",
-                    "strWidth": 259.1468811035156
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " ポケモン",
-                    "strWidth": 137.046875
-                }
-            ]
-        },
-        {
-            "labelIndex": 41,
-            "arrayIndex": 46,
-            "labelName": "SS_net_mystery_card_49",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 10,
-                    "groupID": 2,
-                    "tagID": 1,
-                    "tagPatternID": 1,
-                    "forceArticle": 0,
-                    "tagParameter": 205,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "シングル シーズン",
-                    "strWidth": 259.1468811035156
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " タマゴ",
-                    "strWidth": 106.046875
-                }
-            ]
-        },
-        {
-            "labelIndex": 42,
-            "arrayIndex": 47,
-            "labelName": "SS_net_mystery_card_50",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 10,
-                    "groupID": 2,
-                    "tagID": 1,
-                    "tagPatternID": 1,
-                    "forceArticle": 0,
-                    "tagParameter": 205,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "シングル シーズン",
-                    "strWidth": 259.1468811035156
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " きせかえアイテム",
-                    "strWidth": 260.09686279296875
-                }
-            ]
-        },
-        {
-            "labelIndex": 43,
-            "arrayIndex": 48,
-            "labelName": "SS_net_mystery_card_51",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 10,
-                    "groupID": 2,
-                    "tagID": 1,
-                    "tagPatternID": 1,
-                    "forceArticle": 0,
-                    "tagParameter": 205,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ダブル シーズン",
-                    "strWidth": 230.046875
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " どうぐ",
-                    "strWidth": 103.9468765258789
-                }
-            ]
-        },
-        {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": 0,
-                "fontSize": 0,
-                "maxWidth": 0,
-                "controlID": 0
-            },
-            "attributeValueArray": [],
-            "tagDataArray": [],
-            "wordDataArray": []
-        },
-        {
-            "labelIndex": 44,
-            "arrayIndex": 50,
-            "labelName": "SS_net_mystery_card_53",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 10,
-                    "groupID": 2,
-                    "tagID": 1,
-                    "tagPatternID": 1,
-                    "forceArticle": 0,
-                    "tagParameter": 205,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ダブル シーズン",
-                    "strWidth": 230.046875
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " ポケモン",
-                    "strWidth": 137.046875
-                }
-            ]
-        },
-        {
-            "labelIndex": 45,
-            "arrayIndex": 51,
-            "labelName": "SS_net_mystery_card_54",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 10,
-                    "groupID": 2,
-                    "tagID": 1,
-                    "tagPatternID": 1,
-                    "forceArticle": 0,
-                    "tagParameter": 205,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ダブル シーズン",
-                    "strWidth": 230.046875
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " タマゴ",
-                    "strWidth": 106.046875
-                }
-            ]
-        },
-        {
-            "labelIndex": 46,
-            "arrayIndex": 52,
-            "labelName": "SS_net_mystery_card_55",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 10,
-                    "groupID": 2,
-                    "tagID": 1,
-                    "tagPatternID": 1,
-                    "forceArticle": 0,
-                    "tagParameter": 205,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ダブル シーズン",
-                    "strWidth": 230.046875
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " きせかえアイテム",
-                    "strWidth": 260.09686279296875
-                }
-            ]
-        },
-        {
-            "labelIndex": 47,
-            "arrayIndex": 53,
-            "labelName": "SS_net_mystery_card_56",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ポケモンのせきぞう プレゼント",
-                    "strWidth": 445.99688720703125
-                }
-            ]
-        },
-        {
-            "labelIndex": 48,
-            "arrayIndex": 54,
-            "labelName": "SS_net_mystery_card_57",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 13,
-                    "groupID": 1,
-                    "tagID": 22,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " プレゼント",
-                    "strWidth": 162.046875
-                }
-            ]
-        },
-        {
-            "labelIndex": 49,
-            "arrayIndex": 55,
-            "labelName": "SS_net_mystery_card_58",
-            "styleInfo": {
-                "styleIndex": 56,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 840,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "マナフィのタマゴ プレゼント",
-                    "strWidth": 406.99688720703125
-                }
-            ]
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 1,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
         }
-    ]
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " プレゼント",
+          "strWidth": 162.046875
+        }
+      ]
+    },
+    {
+      "labelIndex": 1,
+      "arrayIndex": 1,
+      "labelName": "SS_net_mystery_card_02",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンのタマゴ プレゼント",
+          "strWidth": 415.046875
+        }
+      ]
+    },
+    {
+      "labelIndex": 2,
+      "arrayIndex": 2,
+      "labelName": "SS_net_mystery_card_03",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモン プレゼント",
+          "strWidth": 288.046875
+        }
+      ]
+    },
+    {
+      "labelIndex": 3,
+      "arrayIndex": 3,
+      "labelName": "SS_net_mystery_card_04",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 8,
+          "groupID": 1,
+          "tagID": 9,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " プレゼント",
+          "strWidth": 162.046875
+        }
+      ]
+    },
+    {
+      "labelIndex": 4,
+      "arrayIndex": 4,
+      "labelName": "SS_net_mystery_card_05",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "どうぐセット プレゼント",
+          "strWidth": 342.9468688964844
+        }
+      ]
+    },
+    {
+      "labelIndex": 5,
+      "arrayIndex": 5,
+      "labelName": "SS_net_mystery_card_06",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "どうぐ プレゼント",
+          "strWidth": 254.94686889648438
+        }
+      ]
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 6,
+      "arrayIndex": 7,
+      "labelName": "SS_net_mystery_card_09",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 4,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 1,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " ",
+          "strWidth": 11.046875
+        },
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 7,
+      "arrayIndex": 8,
+      "labelName": "SS_net_mystery_card_10",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 1,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "でんせつのポケモン ",
+          "strWidth": 294.046875
+        },
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 8,
+      "arrayIndex": 9,
+      "labelName": "SS_net_mystery_card_11",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 1,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "まぼろしのポケモン ",
+          "strWidth": 293.046875
+        },
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 9,
+      "arrayIndex": 10,
+      "labelName": "SS_net_mystery_card_12",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 3,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 1,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "の ",
+          "strWidth": 43.046875
+        },
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 10,
+      "arrayIndex": 11,
+      "labelName": "SS_net_mystery_card_13",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 1,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "いろちがいの ",
+          "strWidth": 203.046875
+        },
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 11,
+      "arrayIndex": 12,
+      "labelName": "SS_net_mystery_card_14",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 2,
+          "groupID": 1,
+          "tagID": 72,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 1,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "の ",
+          "strWidth": 43.046875
+        },
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 12,
+      "arrayIndex": 13,
+      "labelName": "SS_net_mystery_card_15",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 2,
+          "groupID": 1,
+          "tagID": 72,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " プレゼント",
+          "strWidth": 162.046875
+        }
+      ]
+    },
+    {
+      "labelIndex": 13,
+      "arrayIndex": 14,
+      "labelName": "SS_net_mystery_card_16",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 1,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "かくれとくせいの ",
+          "strWidth": 257.99688720703125
+        },
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 14,
+      "arrayIndex": 15,
+      "labelName": "SS_net_mystery_card_17",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 4,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 1,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "を おぼえた ",
+          "strWidth": 181.1437530517578
+        },
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 15,
+      "arrayIndex": 16,
+      "labelName": "SS_net_mystery_card_18",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 5,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 1,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "を おぼえた ",
+          "strWidth": 181.1437530517578
+        },
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 16,
+      "arrayIndex": 17,
+      "labelName": "SS_net_mystery_card_19",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 6,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 1,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "を おぼえた ",
+          "strWidth": 181.1437530517578
+        },
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 17,
+      "arrayIndex": 18,
+      "labelName": "SS_net_mystery_card_20",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 7,
+          "groupID": 1,
+          "tagID": 7,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 1,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "を おぼえた ",
+          "strWidth": 181.1437530517578
+        },
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 18,
+      "arrayIndex": 19,
+      "labelName": "SS_net_mystery_card_21",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 9,
+          "groupID": 1,
+          "tagID": 9,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 1,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "を もった ",
+          "strWidth": 145.1437530517578
+        },
+        {
+          "patternID": 5,
+          "eventID": 7,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 19,
+      "arrayIndex": 21,
+      "labelName": "SS_net_mystery_card_24",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ダウンロードばん とくてん",
+          "strWidth": 380.9468994140625
+        }
+      ]
+    },
+    {
+      "labelIndex": 20,
+      "arrayIndex": 22,
+      "labelName": "SS_net_mystery_card_25",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ダブルパック こうにゅうとくてん",
+          "strWidth": 466.9469299316406
+        }
+      ]
+    },
+    {
+      "labelIndex": 21,
+      "arrayIndex": 23,
+      "labelName": "SS_net_mystery_card_26",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "てんぽべつ こうにゅうとくてん",
+          "strWidth": 438.7969055175781
+        }
+      ]
+    },
+    {
+      "labelIndex": 22,
+      "arrayIndex": 24,
+      "labelName": "SS_net_mystery_card_27",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "こうりゃくぼん こうにゅうとくてん",
+          "strWidth": 495.7469177246094
+        }
+      ]
+    },
+    {
+      "labelIndex": 23,
+      "arrayIndex": 25,
+      "labelName": "SS_net_mystery_card_28",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "こうにゅうとくてん",
+          "strWidth": 271.79998779296875
+        }
+      ]
+    },
+    {
+      "labelIndex": 24,
+      "arrayIndex": 26,
+      "labelName": "SS_net_mystery_card_29",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "おたんじょうび おめでとう！",
+          "strWidth": 403.99688720703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 25,
+      "arrayIndex": 27,
+      "labelName": "SS_net_mystery_card_30",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "バーチャルコンソール とくてん",
+          "strWidth": 443.9468994140625
+        }
+      ]
+    },
+    {
+      "labelIndex": 26,
+      "arrayIndex": 28,
+      "labelName": "SS_net_mystery_card_31",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモントレーナークラブ",
+          "strWidth": 373.1000061035156
+        }
+      ]
+    },
+    {
+      "labelIndex": 27,
+      "arrayIndex": 29,
+      "labelName": "SS_net_mystery_card_32",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモングローバルリンク",
+          "strWidth": 375.20001220703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 28,
+      "arrayIndex": 30,
+      "labelName": "SS_net_mystery_card_33",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンバンク",
+          "strWidth": 218.10000610351562
+        }
+      ]
+    },
+    {
+      "labelIndex": 29,
+      "arrayIndex": 31,
+      "labelName": "SS_net_mystery_card_34",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Pokémon HOME",
+          "strWidth": 260.234375
+        }
+      ]
+    },
+    {
+      "labelIndex": 30,
+      "arrayIndex": 32,
+      "labelName": "SS_net_mystery_card_35",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "おこづかい プレゼント",
+          "strWidth": 319.046875
+        }
+      ]
+    },
+    {
+      "labelIndex": 31,
+      "arrayIndex": 33,
+      "labelName": "SS_net_mystery_card_36",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 12,
+          "groupID": 2,
+          "tagID": 6,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "円 キャッシュバック",
+          "strWidth": 283.1968688964844
+        }
+      ]
+    },
+    {
+      "labelIndex": 32,
+      "arrayIndex": 34,
+      "labelName": "SS_net_mystery_card_37",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "きせかえアイテム プレゼント",
+          "strWidth": 411.09686279296875
+        }
+      ]
+    },
+    {
+      "labelIndex": 33,
+      "arrayIndex": 35,
+      "labelName": "SS_net_mystery_card_38",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ランクバトル ほうしゅう",
+          "strWidth": 347.0469055175781
+        }
+      ]
+    },
+    {
+      "labelIndex": 34,
+      "arrayIndex": 36,
+      "labelName": "SS_net_mystery_card_39",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "インターネットたいかい さんかしょう",
+          "strWidth": 535.046875
+        }
+      ]
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 35,
+      "arrayIndex": 38,
+      "labelName": "SS_net_mystery_card_41",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "こうしきたいかい どうぐ",
+          "strWidth": 352.89691162109375
+        }
+      ]
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 36,
+      "arrayIndex": 40,
+      "labelName": "SS_net_mystery_card_43",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "こうしきたいかい ポケモン",
+          "strWidth": 385.99688720703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 37,
+      "arrayIndex": 41,
+      "labelName": "SS_net_mystery_card_44",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "こうしきたいかい タマゴ",
+          "strWidth": 354.99688720703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 38,
+      "arrayIndex": 42,
+      "labelName": "SS_net_mystery_card_45",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "こうしきたいかい きせかえアイテム",
+          "strWidth": 509.046875
+        }
+      ]
+    },
+    {
+      "labelIndex": 39,
+      "arrayIndex": 43,
+      "labelName": "SS_net_mystery_card_46",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 10,
+          "groupID": 2,
+          "tagID": 1,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "シングル シーズン",
+          "strWidth": 259.1468811035156
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " どうぐ",
+          "strWidth": 103.9468765258789
+        }
+      ]
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 40,
+      "arrayIndex": 45,
+      "labelName": "SS_net_mystery_card_48",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 10,
+          "groupID": 2,
+          "tagID": 1,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "シングル シーズン",
+          "strWidth": 259.1468811035156
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " ポケモン",
+          "strWidth": 137.046875
+        }
+      ]
+    },
+    {
+      "labelIndex": 41,
+      "arrayIndex": 46,
+      "labelName": "SS_net_mystery_card_49",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 10,
+          "groupID": 2,
+          "tagID": 1,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "シングル シーズン",
+          "strWidth": 259.1468811035156
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " タマゴ",
+          "strWidth": 106.046875
+        }
+      ]
+    },
+    {
+      "labelIndex": 42,
+      "arrayIndex": 47,
+      "labelName": "SS_net_mystery_card_50",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 10,
+          "groupID": 2,
+          "tagID": 1,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "シングル シーズン",
+          "strWidth": 259.1468811035156
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " きせかえアイテム",
+          "strWidth": 260.09686279296875
+        }
+      ]
+    },
+    {
+      "labelIndex": 43,
+      "arrayIndex": 48,
+      "labelName": "SS_net_mystery_card_51",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 10,
+          "groupID": 2,
+          "tagID": 1,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ダブル シーズン",
+          "strWidth": 230.046875
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " どうぐ",
+          "strWidth": 103.9468765258789
+        }
+      ]
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 44,
+      "arrayIndex": 50,
+      "labelName": "SS_net_mystery_card_53",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 10,
+          "groupID": 2,
+          "tagID": 1,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ダブル シーズン",
+          "strWidth": 230.046875
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " ポケモン",
+          "strWidth": 137.046875
+        }
+      ]
+    },
+    {
+      "labelIndex": 45,
+      "arrayIndex": 51,
+      "labelName": "SS_net_mystery_card_54",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 10,
+          "groupID": 2,
+          "tagID": 1,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ダブル シーズン",
+          "strWidth": 230.046875
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " タマゴ",
+          "strWidth": 106.046875
+        }
+      ]
+    },
+    {
+      "labelIndex": 46,
+      "arrayIndex": 52,
+      "labelName": "SS_net_mystery_card_55",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 10,
+          "groupID": 2,
+          "tagID": 1,
+          "tagPatternID": 1,
+          "forceArticle": 0,
+          "tagParameter": 205,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ダブル シーズン",
+          "strWidth": 230.046875
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " きせかえアイテム",
+          "strWidth": 260.09686279296875
+        }
+      ]
+    },
+    {
+      "labelIndex": 47,
+      "arrayIndex": 53,
+      "labelName": "SS_net_mystery_card_56",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンのせきぞう プレゼント",
+          "strWidth": 445.99688720703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 48,
+      "arrayIndex": 54,
+      "labelName": "SS_net_mystery_card_57",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 13,
+          "groupID": 1,
+          "tagID": 22,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " プレゼント",
+          "strWidth": 162.046875
+        }
+      ]
+    },
+    {
+      "labelIndex": 49,
+      "arrayIndex": 55,
+      "labelName": "SS_net_mystery_card_58",
+      "styleInfo": {
+        "styleIndex": 56,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 840,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "マナフィのタマゴ プレゼント",
+          "strWidth": 406.99688720703125
+        }
+      ]
+    }
+  ]
 }

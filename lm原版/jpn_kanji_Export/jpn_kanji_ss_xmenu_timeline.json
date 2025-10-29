@@ -1,3517 +1,3517 @@
 {
-    "m_GameObject": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "m_Enabled": 1,
-    "m_Script": {
-        "m_FileID": 0,
-        "m_PathID": 3652094840918934080
-    },
-    "m_Name": "jpn_kanji_ss_xmenu_timeline",
-    "hash": -578219154,
-    "langID": 1,
-    "isResident": 0,
-    "isKanji": 1,
-    "labelDataArray": [
-        {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "ui_msg_xmenu_timeline_info_00",
-            "styleInfo": {
-                "styleIndex": 36,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 252,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "みにいく",
-                    "strWidth": 123.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 1,
-            "arrayIndex": 1,
-            "labelName": "ui_msg_xmenu_timeline_guide_01",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ポケットモンスターの",
-                    "strWidth": 309.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "世界へ　ようこそ",
-                    "strWidth": 252.9499969482422
-                }
-            ]
-        },
-        {
-            "labelIndex": 2,
-            "arrayIndex": 2,
-            "labelName": "ui_msg_xmenu_timeline_guide_02",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "テレビを　見よう",
-                    "strWidth": 251.9499969482422
-                }
-            ]
-        },
-        {
-            "labelIndex": 3,
-            "arrayIndex": 3,
-            "labelName": "ui_msg_xmenu_timeline_guide_03",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "１階に　行こう",
-                    "strWidth": 212.9499969482422
-                }
-            ]
-        },
-        {
-            "labelIndex": 4,
-            "arrayIndex": 4,
-            "labelName": "ui_msg_xmenu_timeline_guide_04",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 0,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "に　会いに行こう",
-                    "strWidth": 250.9499969482422
-                }
-            ]
-        },
-        {
-            "labelIndex": 5,
-            "arrayIndex": 5,
-            "labelName": "ui_msg_xmenu_timeline_guide_05",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 0,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "の　様子を",
-                    "strWidth": 159.0500030517578
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "見に行こう",
-                    "strWidth": 155.9499969482422
-                }
-            ]
-        },
-        {
-            "labelIndex": 6,
-            "arrayIndex": 6,
-            "labelName": "ui_msg_xmenu_timeline_guide_06",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "シンジ湖を　見に行こう",
-                    "strWidth": 343.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 7,
-            "arrayIndex": 7,
-            "labelName": "ui_msg_xmenu_timeline_guide_07",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ポケモンを　返しに行こう",
-                    "strWidth": 374.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 8,
-            "arrayIndex": 8,
-            "labelName": "ui_msg_xmenu_timeline_guide_08",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ポケモン研究所へ　行こう",
-                    "strWidth": 378.95001220703125
-                }
-            ]
-        },
-        {
-            "labelIndex": 9,
-            "arrayIndex": 9,
-            "labelName": "ui_msg_xmenu_timeline_guide_09",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "冒険に　出ることを",
-                    "strWidth": 283.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ママに　伝えよう",
-                    "strWidth": 253.9499969482422
-                }
-            ]
-        },
-        {
-            "labelIndex": 10,
-            "arrayIndex": 10,
-            "labelName": "ui_msg_xmenu_timeline_guide_10",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "コトブキシティへ　行こう",
-                    "strWidth": 366.9000244140625
-                }
-            ]
-        },
-        {
-            "labelIndex": 11,
-            "arrayIndex": 11,
-            "labelName": "ui_msg_xmenu_timeline_guide_11",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "トレーナーズスクールへ　行こう",
-                    "strWidth": 469.0500183105469
-                }
-            ]
-        },
-        {
-            "labelIndex": 12,
-            "arrayIndex": 12,
-            "labelName": "ui_msg_xmenu_timeline_guide_12",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "コトブキシティを　探索しよう",
-                    "strWidth": 428.95001220703125
-                }
-            ]
-        },
-        {
-            "labelIndex": 13,
-            "arrayIndex": 13,
-            "labelName": "ui_msg_xmenu_timeline_guide_13",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "３人の　ピエロが　出す",
-                    "strWidth": 343.8999938964844
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ポケッチクイズに　答えよう",
-                    "strWidth": 406.0500183105469
-                }
-            ]
-        },
-        {
-            "labelIndex": 14,
-            "arrayIndex": 14,
-            "labelName": "ui_msg_xmenu_timeline_guide_14",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ポケッチを　もらいに　行こう",
-                    "strWidth": 439.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 15,
-            "arrayIndex": 15,
-            "labelName": "ui_msg_xmenu_timeline_guide_15",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "クロガネシティへ　行こう",
-                    "strWidth": 373.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 16,
-            "arrayIndex": 16,
-            "labelName": "ui_msg_xmenu_timeline_guide_16",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "クロガネジムの　ジムリーダーを",
-                    "strWidth": 474.1499938964844
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "探しに　行こう",
-                    "strWidth": 216.9499969482422
-                }
-            ]
-        },
-        {
-            "labelIndex": 17,
-            "arrayIndex": 17,
-            "labelName": "ui_msg_xmenu_timeline_guide_17",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "クロガネジムの　ヒョウタを",
-                    "strWidth": 407.0500183105469
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "倒そう",
-                    "strWidth": 94.94999694824219
-                }
-            ]
-        },
-        {
-            "labelIndex": 18,
-            "arrayIndex": 18,
-            "labelName": "ui_msg_xmenu_timeline_guide_18",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "次の　冒険へ　向かおう",
-                    "strWidth": 350.95001220703125
-                }
-            ]
-        },
-        {
-            "labelIndex": 19,
-            "arrayIndex": 19,
-            "labelName": "ui_msg_xmenu_timeline_guide_19",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "コトブキシティに　戻ろう",
-                    "strWidth": 367.9000244140625
-                }
-            ]
-        },
-        {
-            "labelIndex": 20,
-            "arrayIndex": 20,
-            "labelName": "ui_msg_xmenu_timeline_guide_20",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "未使用",
-                    "strWidth": 96.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 21,
-            "arrayIndex": 21,
-            "labelName": "ui_msg_xmenu_timeline_guide_21",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 0,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "が　向かった",
-                    "strWidth": 188.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ハクタイシティへ　行こう",
-                    "strWidth": 371.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 22,
-            "arrayIndex": 22,
-            "labelName": "ui_msg_xmenu_timeline_guide_22",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "谷間の発電所を",
-                    "strWidth": 223.0500030517578
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "見に行こう",
-                    "strWidth": 155.9499969482422
-                }
-            ]
-        },
-        {
-            "labelIndex": 23,
-            "arrayIndex": 23,
-            "labelName": "ui_msg_xmenu_timeline_guide_23",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "はつでんしょキーを",
-                    "strWidth": 278.1000061035156
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "探しに　行こう",
-                    "strWidth": 216.9499969482422
-                }
-            ]
-        },
-        {
-            "labelIndex": 24,
-            "arrayIndex": 24,
-            "labelName": "ui_msg_xmenu_timeline_guide_24",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "谷間の発電所に　入ろう",
-                    "strWidth": 349.95001220703125
-                }
-            ]
-        },
-        {
-            "labelIndex": 25,
-            "arrayIndex": 25,
-            "labelName": "ui_msg_xmenu_timeline_guide_25",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "発電所にいる",
-                    "strWidth": 191.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ギンガ団を　倒そう",
-                    "strWidth": 284.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 26,
-            "arrayIndex": 26,
-            "labelName": "ui_msg_xmenu_timeline_guide_27",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "モミと　協力して",
-                    "strWidth": 246.89999389648438
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "森を　抜けよう",
-                    "strWidth": 222.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 27,
-            "arrayIndex": 27,
-            "labelName": "ui_msg_xmenu_timeline_guide_80",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ハクタイシティを　探索しよう",
-                    "strWidth": 433.0500183105469
-                }
-            ]
-        },
-        {
-            "labelIndex": 28,
-            "arrayIndex": 28,
-            "labelName": "ui_msg_xmenu_timeline_guide_29",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ハクタイジムの　ナタネを",
-                    "strWidth": 378.1499938964844
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "倒そう",
-                    "strWidth": 94.94999694824219
-                }
-            ]
-        },
-        {
-            "labelIndex": 29,
-            "arrayIndex": 29,
-            "labelName": "ui_msg_xmenu_timeline_guide_30",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ジムに　隠れている",
-                    "strWidth": 282.95001220703125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "トレーナーを　見つけよう",
-                    "strWidth": 376.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 31,
-            "arrayIndex": 30,
-            "labelName": "ui_msg_xmenu_timeline_guide_31",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ギンガ団を　止めに行こう",
-                    "strWidth": 377.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 32,
-            "arrayIndex": 31,
-            "labelName": "ui_msg_xmenu_timeline_guide_81",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ギンガ　ハクタイビルに　いる",
-                    "strWidth": 440.0500183105469
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "おじさんに　話しかけよう",
-                    "strWidth": 376.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 33,
-            "arrayIndex": 32,
-            "labelName": "ui_msg_xmenu_timeline_guide_32",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Talk to the owner of the Cycle Shop!",
-                    "strWidth": 412.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 34,
-            "arrayIndex": 33,
-            "labelName": "ui_msg_xmenu_timeline_guide_33",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "地下おじさんを　訪ねよう",
-                    "strWidth": 379.0500183105469
-                }
-            ]
-        },
-        {
-            "labelIndex": 35,
-            "arrayIndex": 34,
-            "labelName": "ui_msg_xmenu_timeline_guide_34",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "サイクリングロードを　通って",
-                    "strWidth": 427.20001220703125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "南へ　行こう",
-                    "strWidth": 188.9499969482422
-                }
-            ]
-        },
-        {
-            "labelIndex": 36,
-            "arrayIndex": 35,
-            "labelName": "ui_msg_xmenu_timeline_guide_35",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ヨスガシティへ　行こう",
-                    "strWidth": 339.95001220703125
-                }
-            ]
-        },
-        {
-            "labelIndex": 37,
-            "arrayIndex": 36,
-            "labelName": "ui_msg_xmenu_timeline_guide_36",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "コンテスト会場へ　行こう",
-                    "strWidth": 371.95001220703125
-                }
-            ]
-        },
-        {
-            "labelIndex": 38,
-            "arrayIndex": 37,
-            "labelName": "ui_msg_xmenu_timeline_guide_37",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ヨスガシティを　探索しよう",
-                    "strWidth": 402.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 39,
-            "arrayIndex": 38,
-            "labelName": "ui_msg_xmenu_timeline_guide_38",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Help the lady in distress!",
-                    "strWidth": 275.515625
-                }
-            ]
-        },
-        {
-            "labelIndex": 40,
-            "arrayIndex": 39,
-            "labelName": "ui_msg_xmenu_timeline_guide_82",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "トバリシティを　探索しよう",
-                    "strWidth": 399.95001220703125
-                }
-            ]
-        },
-        {
-            "labelIndex": 41,
-            "arrayIndex": 40,
-            "labelName": "ui_msg_xmenu_timeline_guide_39",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "トバリジムの　ジムリーダーを",
-                    "strWidth": 439.04998779296875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "倒そう",
-                    "strWidth": 94.94999694824219
-                }
-            ]
-        },
-        {
-            "labelIndex": 42,
-            "arrayIndex": 41,
-            "labelName": "ui_msg_xmenu_timeline_guide_40",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Go to Route 209.",
-                    "strWidth": 269.59375
-                }
-            ]
-        },
-        {
-            "labelIndex": 43,
-            "arrayIndex": 42,
-            "labelName": "ui_msg_xmenu_timeline_guide_41",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 2,
-                    "groupID": 1,
-                    "tagID": 0,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "の　ポケモン図鑑を",
-                    "strWidth": 285.04998779296875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "取り返しに　行こう",
-                    "strWidth": 278.8999938964844
-                }
-            ]
-        },
-        {
-            "labelIndex": 44,
-            "arrayIndex": 43,
-            "labelName": "ui_msg_xmenu_timeline_guide_83",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ノモセシティへ　行こう",
-                    "strWidth": 336.9000244140625
-                }
-            ]
-        },
-        {
-            "labelIndex": 45,
-            "arrayIndex": 44,
-            "labelName": "ui_msg_xmenu_timeline_guide_42",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ノモセジムの　ジムリーダーを",
-                    "strWidth": 438.04998779296875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "倒そう",
-                    "strWidth": 94.94999694824219
-                }
-            ]
-        },
-        {
-            "labelIndex": 46,
-            "arrayIndex": 45,
-            "labelName": "ui_msg_xmenu_timeline_guide_43",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ノモセシティを　探索しよう",
-                    "strWidth": 398.95001220703125
-                }
-            ]
-        },
-        {
-            "labelIndex": 47,
-            "arrayIndex": 46,
-            "labelName": "ui_msg_xmenu_timeline_guide_44",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ノモセシティの　東へ　逃げた",
-                    "strWidth": 435.95001220703125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "したっぱを　追いかけよう",
-                    "strWidth": 375.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 49,
-            "arrayIndex": 47,
-            "labelName": "ui_msg_xmenu_timeline_guide_46",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "２１０番道路の",
-                    "strWidth": 202.9499969482422
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "コダックたちを　助けよう",
-                    "strWidth": 374.10003662109375
-                }
-            ]
-        },
-        {
-            "labelIndex": 50,
-            "arrayIndex": 48,
-            "labelName": "ui_msg_xmenu_timeline_guide_47",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "カンナギタウンまで",
-                    "strWidth": 281.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "こだいのおまもりを　届けよう",
-                    "strWidth": 440.95001220703125
-                }
-            ]
-        },
-        {
-            "labelIndex": 51,
-            "arrayIndex": 49,
-            "labelName": "ui_msg_xmenu_timeline_guide_84",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "遺跡の　前にいる",
-                    "strWidth": 255.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ギンガ団を　止めに行こう",
-                    "strWidth": 377.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 52,
-            "arrayIndex": 50,
-            "labelName": "ui_msg_xmenu_timeline_guide_85",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "遺跡を　調べよう",
-                    "strWidth": 254.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 53,
-            "arrayIndex": 51,
-            "labelName": "ui_msg_xmenu_timeline_guide_48",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ヨスガジムの　メリッサを",
-                    "strWidth": 372.1499938964844
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "倒そう",
-                    "strWidth": 94.94999694824219
-                }
-            ]
-        },
-        {
-            "labelIndex": 54,
-            "arrayIndex": 52,
-            "labelName": "ui_msg_xmenu_timeline_guide_49",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ミオシティへ　行こう",
-                    "strWidth": 308.9000244140625
-                }
-            ]
-        },
-        {
-            "labelIndex": 55,
-            "arrayIndex": 53,
-            "labelName": "ui_msg_xmenu_timeline_guide_86",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ミオシティを　探索しよう",
-                    "strWidth": 370.95001220703125
-                }
-            ]
-        },
-        {
-            "labelIndex": 56,
-            "arrayIndex": 54,
-            "labelName": "ui_msg_xmenu_timeline_guide_50",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ミオジムの　ジムリーダーを",
-                    "strWidth": 410.04998779296875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "倒そう",
-                    "strWidth": 94.94999694824219
-                }
-            ]
-        },
-        {
-            "labelIndex": 57,
-            "arrayIndex": 55,
-            "labelName": "ui_msg_xmenu_timeline_guide_51",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 0,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "を　追って",
-                    "strWidth": 152.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ミオ図書館へ　行こう",
-                    "strWidth": 314.95001220703125
-                }
-            ]
-        },
-        {
-            "labelIndex": 58,
-            "arrayIndex": 56,
-            "labelName": "ui_msg_xmenu_timeline_guide_52",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "図書館の　外へ　出てみよう",
-                    "strWidth": 411.9000244140625
-                }
-            ]
-        },
-        {
-            "labelIndex": 59,
-            "arrayIndex": 57,
-            "labelName": "ui_msg_xmenu_timeline_guide_53",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "リッシ湖に　なにが起きているか",
-                    "strWidth": 467.95001220703125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "調べに　行こう",
-                    "strWidth": 219.9499969482422
-                }
-            ]
-        },
-        {
-            "labelIndex": 60,
-            "arrayIndex": 58,
-            "labelName": "ui_msg_xmenu_timeline_guide_54",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "シンジ湖の　様子を",
-                    "strWidth": 283.04998779296875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "見に行こう",
-                    "strWidth": 155.9499969482422
-                }
-            ]
-        },
-        {
-            "labelIndex": 61,
-            "arrayIndex": 59,
-            "labelName": "ui_msg_xmenu_timeline_guide_87",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "シンジ湖に　いる",
-                    "strWidth": 251.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ギンガ団を　止めよう",
-                    "strWidth": 316.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 62,
-            "arrayIndex": 60,
-            "labelName": "ui_msg_xmenu_timeline_guide_55",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "エイチ湖の　様子を",
-                    "strWidth": 285.04998779296875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "見に行こう",
-                    "strWidth": 155.9499969482422
-                }
-            ]
-        },
-        {
-            "labelIndex": 63,
-            "arrayIndex": 61,
-            "labelName": "ui_msg_xmenu_timeline_guide_88",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Obtain the TM Strength at Iron Island!",
-                    "strWidth": 551.703125
-                }
-            ]
-        },
-        {
-            "labelIndex": 64,
-            "arrayIndex": 62,
-            "labelName": "ui_msg_xmenu_timeline_guide_56",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "キッサキジムへ　行こう",
-                    "strWidth": 343.95001220703125
-                }
-            ]
-        },
-        {
-            "labelIndex": 66,
-            "arrayIndex": 63,
-            "labelName": "ui_msg_xmenu_timeline_guide_89",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ギンガ団の　アジトへ",
-                    "strWidth": 309.04998779296875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "向かおう",
-                    "strWidth": 126.94999694824219
-                }
-            ]
-        },
-        {
-            "labelIndex": 67,
-            "arrayIndex": 64,
-            "labelName": "ui_msg_xmenu_timeline_guide_58",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ギンガ団の　アジトに",
-                    "strWidth": 308.04998779296875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "入る　方法を　探そう",
-                    "strWidth": 318.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 68,
-            "arrayIndex": 65,
-            "labelName": "ui_msg_xmenu_timeline_guide_59",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ギンガ団の　倉庫の",
-                    "strWidth": 286.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "扉を　開けに行こう",
-                    "strWidth": 283.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 69,
-            "arrayIndex": 66,
-            "labelName": "ui_msg_xmenu_timeline_guide_90",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ギンガ団の　アジトを",
-                    "strWidth": 308.0999755859375
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "探索しよう",
-                    "strWidth": 155.9499969482422
-                }
-            ]
-        },
-        {
-            "labelIndex": 70,
-            "arrayIndex": 67,
-            "labelName": "ui_msg_xmenu_timeline_guide_60",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ギンガ　トバリビル　から",
-                    "strWidth": 375.95001220703125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "入り直そう",
-                    "strWidth": 156.89999389648438
-                }
-            ]
-        },
-        {
-            "labelIndex": 71,
-            "arrayIndex": 68,
-            "labelName": "ui_msg_xmenu_timeline_guide_61",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "とらわれた　ポケモンたちを",
-                    "strWidth": 412.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "助けよう",
-                    "strWidth": 126.94999694824219
-                }
-            ]
-        },
-        {
-            "labelIndex": 72,
-            "arrayIndex": 69,
-            "labelName": "ui_msg_xmenu_timeline_guide_62",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ボタンを　押して　とらわれた",
-                    "strWidth": 437.95001220703125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ポケモンたちを　助けよう",
-                    "strWidth": 380.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 73,
-            "arrayIndex": 70,
-            "labelName": "ui_msg_xmenu_timeline_guide_63",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "テンガン山の　頂上に",
-                    "strWidth": 315.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "いる　ギンガ団を　止めよう",
-                    "strWidth": 412.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 74,
-            "arrayIndex": 71,
-            "labelName": "ui_msg_xmenu_timeline_guide_91",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "２１７番道路で　ロッククライムの",
-                    "strWidth": 479.1500244140625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "わざマシンを　手に入れよう",
-                    "strWidth": 409.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 75,
-            "arrayIndex": 72,
-            "labelName": "ui_msg_xmenu_timeline_guide_64",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "伝説の　ポケモンの",
-                    "strWidth": 286.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "暴走を　鎮めよう",
-                    "strWidth": 254.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 76,
-            "arrayIndex": 73,
-            "labelName": "ui_msg_xmenu_timeline_guide_65",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ナギサシティの　様子を",
-                    "strWidth": 345.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "見に行こう",
-                    "strWidth": 155.9499969482422
-                }
-            ]
-        },
-        {
-            "labelIndex": 77,
-            "arrayIndex": 74,
-            "labelName": "ui_msg_xmenu_timeline_guide_66",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ナギサジムの　ジムリーダーを",
-                    "strWidth": 444.04998779296875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "探しに行こう",
-                    "strWidth": 184.9499969482422
-                }
-            ]
-        },
-        {
-            "labelIndex": 78,
-            "arrayIndex": 75,
-            "labelName": "ui_msg_xmenu_timeline_guide_67",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ナギサジムの　ジムリーダーを",
-                    "strWidth": 444.04998779296875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "倒そう",
-                    "strWidth": 94.94999694824219
-                }
-            ]
-        },
-        {
-            "labelIndex": 79,
-            "arrayIndex": 76,
-            "labelName": "ui_msg_xmenu_timeline_guide_68",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ポケモンリーグへ　向かおう",
-                    "strWidth": 410.0500183105469
-                }
-            ]
-        },
-        {
-            "labelIndex": 80,
-            "arrayIndex": 77,
-            "labelName": "ui_msg_xmenu_timeline_guide_92",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ポケモンリーグを　勝ち抜こう",
-                    "strWidth": 439.10003662109375
-                }
-            ]
-        },
-        {
-            "labelIndex": 81,
-            "arrayIndex": 78,
-            "labelName": "ui_msg_xmenu_timeline_guide_74",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "１階へ　行こう",
-                    "strWidth": 213.9499969482422
-                }
-            ]
-        },
-        {
-            "labelIndex": 82,
-            "arrayIndex": 79,
-            "labelName": "ui_msg_xmenu_timeline_guide_75",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 0,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "が　呼んでいる場所へ",
-                    "strWidth": 318.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "向かおう",
-                    "strWidth": 126.94999694824219
-                }
-            ]
-        },
-        {
-            "labelIndex": 83,
-            "arrayIndex": 80,
-            "labelName": "ui_msg_xmenu_timeline_guide_76",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Help battle Flint & Volkner!",
-                    "strWidth": 399.625
-                }
-            ]
-        },
-        {
-            "labelIndex": 84,
-            "arrayIndex": 81,
-            "labelName": "ui_msg_xmenu_timeline_guide_77",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "バトルタワーへ　行ってみよう",
-                    "strWidth": 434.9000244140625
-                }
-            ]
-        },
-        {
-            "labelIndex": 85,
-            "arrayIndex": 82,
-            "labelName": "ui_msg_xmenu_timeline_guide_78",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ポケモン図鑑を",
-                    "strWidth": 221.0500030517578
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "完成させて　報告しよう",
-                    "strWidth": 343.9000244140625
-                }
-            ]
-        },
-        {
-            "labelIndex": 86,
-            "arrayIndex": 83,
-            "labelName": "ui_msg_xmenu_timeline_guide_79",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "シンオウ地方の　あちこちを",
-                    "strWidth": 410.04998779296875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "冒険しよう",
-                    "strWidth": 155.9499969482422
-                }
-            ]
-        },
-        {
-            "labelIndex": 87,
-            "arrayIndex": 84,
-            "labelName": "ui_msg_xmenu_timeline_communication_01",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ローカル通信で　遊べる　人が",
-                    "strWidth": 446.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "近くに　いるようです",
-                    "strWidth": 311.95001220703125
-                }
-            ]
-        },
-        {
-            "labelIndex": 88,
-            "arrayIndex": 85,
-            "labelName": "ui_msg_xmenu_timeline_pokeoutbreak_00",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 5,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 1,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "で　",
-                    "strWidth": 62.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "が",
-                    "strWidth": 32.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "たくさん　目撃　されました！",
-                    "strWidth": 426.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 30,
-            "arrayIndex": 86,
-            "labelName": "ui_msg_xmenu_timeline_guide_93",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ギンガ　ハクタイビルの",
-                    "strWidth": 345.0500183105469
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "中を　調べよう",
-                    "strWidth": 222.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 48,
-            "arrayIndex": 87,
-            "labelName": "ui_msg_xmenu_timeline_guide_94",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "リッシ湖の　入口　付近を",
-                    "strWidth": 377.04998779296875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "調べよう",
-                    "strWidth": 126.94999694824219
-                }
-            ]
-        },
-        {
-            "labelIndex": 65,
-            "arrayIndex": 88,
-            "labelName": "ui_msg_xmenu_timeline_guide_95",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "キッサキジムの　ジムリーダーを",
-                    "strWidth": 472.04998779296875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "倒そう",
-                    "strWidth": 94.94999694824219
-                }
-            ]
-        },
-        {
-            "labelIndex": 89,
-            "arrayIndex": 89,
-            "labelName": "ui_msg_xmenu_timeline_guide_49_1",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Make your way to Renegade Park.",
-                    "strWidth": 426.15625
-                }
-            ]
-        },
-        {
-            "labelIndex": 90,
-            "arrayIndex": 90,
-            "labelName": "ui_msg_xmenu_timeline_guide_86_1",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Go train on Iron Island!",
-                    "strWidth": 371.75
-                }
-            ]
-        },
-        {
-            "labelIndex": 91,
-            "arrayIndex": 91,
-            "labelName": "ui_msg_xmenu_timeline_guide_86_2",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Explore Iron Island!",
-                    "strWidth": 371.75
-                }
-            ]
-        },
-        {
-            "labelIndex": 92,
-            "arrayIndex": 92,
-            "labelName": "ui_msg_xmenu_timeline_guide_48_1",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Go to Canalave City!",
-                    "strWidth": 371.75
-                }
-            ]
-        },
-        {
-            "labelIndex": 93,
-            "arrayIndex": 93,
-            "labelName": "ui_msg_xmenu_timeline_guide_64_1",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Go visit Professor Rowan!",
-                    "strWidth": 371.75
-                }
-            ]
-        },
-        {
-            "labelIndex": 94,
-            "arrayIndex": 94,
-            "labelName": "ui_msg_xmenu_timeline_guide_38_1",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Go to Veilstone City!",
-                    "strWidth": 371.75
-                }
-            ]
-        },
-        {
-            "labelIndex": 95,
-            "arrayIndex": 95,
-            "labelName": "ui_msg_xmenu_timeline_guide_34_1",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Go to the psychic signal!",
-                    "strWidth": 371.75
-                }
-            ]
-        },
-        {
-            "labelIndex": 96,
-            "arrayIndex": 96,
-            "labelName": "ui_msg_xmenu_timeline_guide_80_1",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Find Gardenia on Route 216!",
-                    "strWidth": 371.75
-                }
-            ]
-        },
-        {
-            "labelIndex": 97,
-            "arrayIndex": 97,
-            "labelName": "ui_msg_xmenu_timeline_guide_post_riley",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Talk to Byron on Iron Island!",
-                    "strWidth": 371.75
-                }
-            ]
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3652094840918934080
+  },
+  "m_Name": "jpn_kanji_ss_xmenu_timeline",
+  "hash": -578219154,
+  "langID": 1,
+  "isResident": 0,
+  "isKanji": 1,
+  "labelDataArray": [
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "ui_msg_xmenu_timeline_info_00",
+      "styleInfo": {
+        "styleIndex": 36,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 252,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "みにいく",
+          "strWidth": 123.0
         }
-    ]
+      ]
+    },
+    {
+      "labelIndex": 1,
+      "arrayIndex": 1,
+      "labelName": "ui_msg_xmenu_timeline_guide_01",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケットモンスターの",
+          "strWidth": 309.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "世界へ　ようこそ",
+          "strWidth": 252.9499969482422
+        }
+      ]
+    },
+    {
+      "labelIndex": 2,
+      "arrayIndex": 2,
+      "labelName": "ui_msg_xmenu_timeline_guide_02",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "テレビを　見よう",
+          "strWidth": 251.9499969482422
+        }
+      ]
+    },
+    {
+      "labelIndex": 3,
+      "arrayIndex": 3,
+      "labelName": "ui_msg_xmenu_timeline_guide_03",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "１階に　行こう",
+          "strWidth": 212.9499969482422
+        }
+      ]
+    },
+    {
+      "labelIndex": 4,
+      "arrayIndex": 4,
+      "labelName": "ui_msg_xmenu_timeline_guide_04",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "に　会いに行こう",
+          "strWidth": 250.9499969482422
+        }
+      ]
+    },
+    {
+      "labelIndex": 5,
+      "arrayIndex": 5,
+      "labelName": "ui_msg_xmenu_timeline_guide_05",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "の　様子を",
+          "strWidth": 159.0500030517578
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "見に行こう",
+          "strWidth": 155.9499969482422
+        }
+      ]
+    },
+    {
+      "labelIndex": 6,
+      "arrayIndex": 6,
+      "labelName": "ui_msg_xmenu_timeline_guide_06",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "シンジ湖を　見に行こう",
+          "strWidth": 343.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 7,
+      "arrayIndex": 7,
+      "labelName": "ui_msg_xmenu_timeline_guide_07",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンを　返しに行こう",
+          "strWidth": 374.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 8,
+      "arrayIndex": 8,
+      "labelName": "ui_msg_xmenu_timeline_guide_08",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモン研究所へ　行こう",
+          "strWidth": 378.95001220703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 9,
+      "arrayIndex": 9,
+      "labelName": "ui_msg_xmenu_timeline_guide_09",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "冒険に　出ることを",
+          "strWidth": 283.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ママに　伝えよう",
+          "strWidth": 253.9499969482422
+        }
+      ]
+    },
+    {
+      "labelIndex": 10,
+      "arrayIndex": 10,
+      "labelName": "ui_msg_xmenu_timeline_guide_10",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "コトブキシティへ　行こう",
+          "strWidth": 366.9000244140625
+        }
+      ]
+    },
+    {
+      "labelIndex": 11,
+      "arrayIndex": 11,
+      "labelName": "ui_msg_xmenu_timeline_guide_11",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "トレーナーズスクールへ　行こう",
+          "strWidth": 469.0500183105469
+        }
+      ]
+    },
+    {
+      "labelIndex": 12,
+      "arrayIndex": 12,
+      "labelName": "ui_msg_xmenu_timeline_guide_12",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "コトブキシティを　探索しよう",
+          "strWidth": 428.95001220703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 13,
+      "arrayIndex": 13,
+      "labelName": "ui_msg_xmenu_timeline_guide_13",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "３人の　ピエロが　出す",
+          "strWidth": 343.8999938964844
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケッチクイズに　答えよう",
+          "strWidth": 406.0500183105469
+        }
+      ]
+    },
+    {
+      "labelIndex": 14,
+      "arrayIndex": 14,
+      "labelName": "ui_msg_xmenu_timeline_guide_14",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケッチを　もらいに　行こう",
+          "strWidth": 439.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 15,
+      "arrayIndex": 15,
+      "labelName": "ui_msg_xmenu_timeline_guide_15",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "クロガネシティへ　行こう",
+          "strWidth": 373.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 16,
+      "arrayIndex": 16,
+      "labelName": "ui_msg_xmenu_timeline_guide_16",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "クロガネジムの　ジムリーダーを",
+          "strWidth": 474.1499938964844
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "探しに　行こう",
+          "strWidth": 216.9499969482422
+        }
+      ]
+    },
+    {
+      "labelIndex": 17,
+      "arrayIndex": 17,
+      "labelName": "ui_msg_xmenu_timeline_guide_17",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "クロガネジムの　ヒョウタを",
+          "strWidth": 407.0500183105469
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "倒そう",
+          "strWidth": 94.94999694824219
+        }
+      ]
+    },
+    {
+      "labelIndex": 18,
+      "arrayIndex": 18,
+      "labelName": "ui_msg_xmenu_timeline_guide_18",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "次の　冒険へ　向かおう",
+          "strWidth": 350.95001220703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 19,
+      "arrayIndex": 19,
+      "labelName": "ui_msg_xmenu_timeline_guide_19",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "コトブキシティに　戻ろう",
+          "strWidth": 367.9000244140625
+        }
+      ]
+    },
+    {
+      "labelIndex": 20,
+      "arrayIndex": 20,
+      "labelName": "ui_msg_xmenu_timeline_guide_20",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "未使用",
+          "strWidth": 96.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 21,
+      "arrayIndex": 21,
+      "labelName": "ui_msg_xmenu_timeline_guide_21",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "が　向かった",
+          "strWidth": 188.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ハクタイシティへ　行こう",
+          "strWidth": 371.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 22,
+      "arrayIndex": 22,
+      "labelName": "ui_msg_xmenu_timeline_guide_22",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "谷間の発電所を",
+          "strWidth": 223.0500030517578
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "見に行こう",
+          "strWidth": 155.9499969482422
+        }
+      ]
+    },
+    {
+      "labelIndex": 23,
+      "arrayIndex": 23,
+      "labelName": "ui_msg_xmenu_timeline_guide_23",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "はつでんしょキーを",
+          "strWidth": 278.1000061035156
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "探しに　行こう",
+          "strWidth": 216.9499969482422
+        }
+      ]
+    },
+    {
+      "labelIndex": 24,
+      "arrayIndex": 24,
+      "labelName": "ui_msg_xmenu_timeline_guide_24",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "谷間の発電所に　入ろう",
+          "strWidth": 349.95001220703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 25,
+      "arrayIndex": 25,
+      "labelName": "ui_msg_xmenu_timeline_guide_25",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "発電所にいる",
+          "strWidth": 191.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ギンガ団を　倒そう",
+          "strWidth": 284.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 26,
+      "arrayIndex": 26,
+      "labelName": "ui_msg_xmenu_timeline_guide_27",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "モミと　協力して",
+          "strWidth": 246.89999389648438
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "森を　抜けよう",
+          "strWidth": 222.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 27,
+      "arrayIndex": 27,
+      "labelName": "ui_msg_xmenu_timeline_guide_80",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ハクタイシティを　探索しよう",
+          "strWidth": 433.0500183105469
+        }
+      ]
+    },
+    {
+      "labelIndex": 28,
+      "arrayIndex": 28,
+      "labelName": "ui_msg_xmenu_timeline_guide_29",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ハクタイジムの　ナタネを",
+          "strWidth": 378.1499938964844
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "倒そう",
+          "strWidth": 94.94999694824219
+        }
+      ]
+    },
+    {
+      "labelIndex": 29,
+      "arrayIndex": 29,
+      "labelName": "ui_msg_xmenu_timeline_guide_30",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ジムに　隠れている",
+          "strWidth": 282.95001220703125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "トレーナーを　見つけよう",
+          "strWidth": 376.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 31,
+      "arrayIndex": 30,
+      "labelName": "ui_msg_xmenu_timeline_guide_31",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ギンガ団を　止めに行こう",
+          "strWidth": 377.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 32,
+      "arrayIndex": 31,
+      "labelName": "ui_msg_xmenu_timeline_guide_81",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ギンガ　ハクタイビルに　いる",
+          "strWidth": 440.0500183105469
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "おじさんに　話しかけよう",
+          "strWidth": 376.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 33,
+      "arrayIndex": 32,
+      "labelName": "ui_msg_xmenu_timeline_guide_32",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Talk to the owner of the Cycle Shop!",
+          "strWidth": 412.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 34,
+      "arrayIndex": 33,
+      "labelName": "ui_msg_xmenu_timeline_guide_33",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "地下おじさんを　訪ねよう",
+          "strWidth": 379.0500183105469
+        }
+      ]
+    },
+    {
+      "labelIndex": 35,
+      "arrayIndex": 34,
+      "labelName": "ui_msg_xmenu_timeline_guide_34",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "サイクリングロードを　通って",
+          "strWidth": 427.20001220703125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "南へ　行こう",
+          "strWidth": 188.9499969482422
+        }
+      ]
+    },
+    {
+      "labelIndex": 36,
+      "arrayIndex": 35,
+      "labelName": "ui_msg_xmenu_timeline_guide_35",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ヨスガシティへ　行こう",
+          "strWidth": 339.95001220703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 37,
+      "arrayIndex": 36,
+      "labelName": "ui_msg_xmenu_timeline_guide_36",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "コンテスト会場へ　行こう",
+          "strWidth": 371.95001220703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 38,
+      "arrayIndex": 37,
+      "labelName": "ui_msg_xmenu_timeline_guide_37",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ヨスガシティを　探索しよう",
+          "strWidth": 402.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 39,
+      "arrayIndex": 38,
+      "labelName": "ui_msg_xmenu_timeline_guide_38",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Help the lady in distress!",
+          "strWidth": 275.515625
+        }
+      ]
+    },
+    {
+      "labelIndex": 40,
+      "arrayIndex": 39,
+      "labelName": "ui_msg_xmenu_timeline_guide_82",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "トバリシティを　探索しよう",
+          "strWidth": 399.95001220703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 41,
+      "arrayIndex": 40,
+      "labelName": "ui_msg_xmenu_timeline_guide_39",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "トバリジムの　ジムリーダーを",
+          "strWidth": 439.04998779296875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "倒そう",
+          "strWidth": 94.94999694824219
+        }
+      ]
+    },
+    {
+      "labelIndex": 42,
+      "arrayIndex": 41,
+      "labelName": "ui_msg_xmenu_timeline_guide_40",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Go to Route 209.",
+          "strWidth": 269.59375
+        }
+      ]
+    },
+    {
+      "labelIndex": 43,
+      "arrayIndex": 42,
+      "labelName": "ui_msg_xmenu_timeline_guide_41",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 2,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "の　ポケモン図鑑を",
+          "strWidth": 285.04998779296875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "取り返しに　行こう",
+          "strWidth": 278.8999938964844
+        }
+      ]
+    },
+    {
+      "labelIndex": 44,
+      "arrayIndex": 43,
+      "labelName": "ui_msg_xmenu_timeline_guide_83",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ノモセシティへ　行こう",
+          "strWidth": 336.9000244140625
+        }
+      ]
+    },
+    {
+      "labelIndex": 45,
+      "arrayIndex": 44,
+      "labelName": "ui_msg_xmenu_timeline_guide_42",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ノモセジムの　ジムリーダーを",
+          "strWidth": 438.04998779296875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "倒そう",
+          "strWidth": 94.94999694824219
+        }
+      ]
+    },
+    {
+      "labelIndex": 46,
+      "arrayIndex": 45,
+      "labelName": "ui_msg_xmenu_timeline_guide_43",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ノモセシティを　探索しよう",
+          "strWidth": 398.95001220703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 47,
+      "arrayIndex": 46,
+      "labelName": "ui_msg_xmenu_timeline_guide_44",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ノモセシティの　東へ　逃げた",
+          "strWidth": 435.95001220703125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "したっぱを　追いかけよう",
+          "strWidth": 375.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 49,
+      "arrayIndex": 47,
+      "labelName": "ui_msg_xmenu_timeline_guide_46",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "２１０番道路の",
+          "strWidth": 202.9499969482422
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "コダックたちを　助けよう",
+          "strWidth": 374.10003662109375
+        }
+      ]
+    },
+    {
+      "labelIndex": 50,
+      "arrayIndex": 48,
+      "labelName": "ui_msg_xmenu_timeline_guide_47",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "カンナギタウンまで",
+          "strWidth": 281.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "こだいのおまもりを　届けよう",
+          "strWidth": 440.95001220703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 51,
+      "arrayIndex": 49,
+      "labelName": "ui_msg_xmenu_timeline_guide_84",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "遺跡の　前にいる",
+          "strWidth": 255.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ギンガ団を　止めに行こう",
+          "strWidth": 377.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 52,
+      "arrayIndex": 50,
+      "labelName": "ui_msg_xmenu_timeline_guide_85",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "遺跡を　調べよう",
+          "strWidth": 254.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 53,
+      "arrayIndex": 51,
+      "labelName": "ui_msg_xmenu_timeline_guide_48",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ヨスガジムの　メリッサを",
+          "strWidth": 372.1499938964844
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "倒そう",
+          "strWidth": 94.94999694824219
+        }
+      ]
+    },
+    {
+      "labelIndex": 54,
+      "arrayIndex": 52,
+      "labelName": "ui_msg_xmenu_timeline_guide_49",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ミオシティへ　行こう",
+          "strWidth": 308.9000244140625
+        }
+      ]
+    },
+    {
+      "labelIndex": 55,
+      "arrayIndex": 53,
+      "labelName": "ui_msg_xmenu_timeline_guide_86",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ミオシティを　探索しよう",
+          "strWidth": 370.95001220703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 56,
+      "arrayIndex": 54,
+      "labelName": "ui_msg_xmenu_timeline_guide_50",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ミオジムの　ジムリーダーを",
+          "strWidth": 410.04998779296875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "倒そう",
+          "strWidth": 94.94999694824219
+        }
+      ]
+    },
+    {
+      "labelIndex": 57,
+      "arrayIndex": 55,
+      "labelName": "ui_msg_xmenu_timeline_guide_51",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "を　追って",
+          "strWidth": 152.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ミオ図書館へ　行こう",
+          "strWidth": 314.95001220703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 58,
+      "arrayIndex": 56,
+      "labelName": "ui_msg_xmenu_timeline_guide_52",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "図書館の　外へ　出てみよう",
+          "strWidth": 411.9000244140625
+        }
+      ]
+    },
+    {
+      "labelIndex": 59,
+      "arrayIndex": 57,
+      "labelName": "ui_msg_xmenu_timeline_guide_53",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "リッシ湖に　なにが起きているか",
+          "strWidth": 467.95001220703125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "調べに　行こう",
+          "strWidth": 219.9499969482422
+        }
+      ]
+    },
+    {
+      "labelIndex": 60,
+      "arrayIndex": 58,
+      "labelName": "ui_msg_xmenu_timeline_guide_54",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "シンジ湖の　様子を",
+          "strWidth": 283.04998779296875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "見に行こう",
+          "strWidth": 155.9499969482422
+        }
+      ]
+    },
+    {
+      "labelIndex": 61,
+      "arrayIndex": 59,
+      "labelName": "ui_msg_xmenu_timeline_guide_87",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "シンジ湖に　いる",
+          "strWidth": 251.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ギンガ団を　止めよう",
+          "strWidth": 316.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 62,
+      "arrayIndex": 60,
+      "labelName": "ui_msg_xmenu_timeline_guide_55",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "エイチ湖の　様子を",
+          "strWidth": 285.04998779296875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "見に行こう",
+          "strWidth": 155.9499969482422
+        }
+      ]
+    },
+    {
+      "labelIndex": 63,
+      "arrayIndex": 61,
+      "labelName": "ui_msg_xmenu_timeline_guide_88",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Obtain the TM Strength at Iron Island!",
+          "strWidth": 551.703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 64,
+      "arrayIndex": 62,
+      "labelName": "ui_msg_xmenu_timeline_guide_56",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "キッサキジムへ　行こう",
+          "strWidth": 343.95001220703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 66,
+      "arrayIndex": 63,
+      "labelName": "ui_msg_xmenu_timeline_guide_89",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ギンガ団の　アジトへ",
+          "strWidth": 309.04998779296875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "向かおう",
+          "strWidth": 126.94999694824219
+        }
+      ]
+    },
+    {
+      "labelIndex": 67,
+      "arrayIndex": 64,
+      "labelName": "ui_msg_xmenu_timeline_guide_58",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ギンガ団の　アジトに",
+          "strWidth": 308.04998779296875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "入る　方法を　探そう",
+          "strWidth": 318.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 68,
+      "arrayIndex": 65,
+      "labelName": "ui_msg_xmenu_timeline_guide_59",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ギンガ団の　倉庫の",
+          "strWidth": 286.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "扉を　開けに行こう",
+          "strWidth": 283.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 69,
+      "arrayIndex": 66,
+      "labelName": "ui_msg_xmenu_timeline_guide_90",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ギンガ団の　アジトを",
+          "strWidth": 308.0999755859375
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "探索しよう",
+          "strWidth": 155.9499969482422
+        }
+      ]
+    },
+    {
+      "labelIndex": 70,
+      "arrayIndex": 67,
+      "labelName": "ui_msg_xmenu_timeline_guide_60",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ギンガ　トバリビル　から",
+          "strWidth": 375.95001220703125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "入り直そう",
+          "strWidth": 156.89999389648438
+        }
+      ]
+    },
+    {
+      "labelIndex": 71,
+      "arrayIndex": 68,
+      "labelName": "ui_msg_xmenu_timeline_guide_61",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "とらわれた　ポケモンたちを",
+          "strWidth": 412.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "助けよう",
+          "strWidth": 126.94999694824219
+        }
+      ]
+    },
+    {
+      "labelIndex": 72,
+      "arrayIndex": 69,
+      "labelName": "ui_msg_xmenu_timeline_guide_62",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ボタンを　押して　とらわれた",
+          "strWidth": 437.95001220703125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンたちを　助けよう",
+          "strWidth": 380.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 73,
+      "arrayIndex": 70,
+      "labelName": "ui_msg_xmenu_timeline_guide_63",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "テンガン山の　頂上に",
+          "strWidth": 315.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "いる　ギンガ団を　止めよう",
+          "strWidth": 412.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 74,
+      "arrayIndex": 71,
+      "labelName": "ui_msg_xmenu_timeline_guide_91",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "２１７番道路で　ロッククライムの",
+          "strWidth": 479.1500244140625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "わざマシンを　手に入れよう",
+          "strWidth": 409.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 75,
+      "arrayIndex": 72,
+      "labelName": "ui_msg_xmenu_timeline_guide_64",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "伝説の　ポケモンの",
+          "strWidth": 286.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "暴走を　鎮めよう",
+          "strWidth": 254.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 76,
+      "arrayIndex": 73,
+      "labelName": "ui_msg_xmenu_timeline_guide_65",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ナギサシティの　様子を",
+          "strWidth": 345.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "見に行こう",
+          "strWidth": 155.9499969482422
+        }
+      ]
+    },
+    {
+      "labelIndex": 77,
+      "arrayIndex": 74,
+      "labelName": "ui_msg_xmenu_timeline_guide_66",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ナギサジムの　ジムリーダーを",
+          "strWidth": 444.04998779296875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "探しに行こう",
+          "strWidth": 184.9499969482422
+        }
+      ]
+    },
+    {
+      "labelIndex": 78,
+      "arrayIndex": 75,
+      "labelName": "ui_msg_xmenu_timeline_guide_67",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ナギサジムの　ジムリーダーを",
+          "strWidth": 444.04998779296875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "倒そう",
+          "strWidth": 94.94999694824219
+        }
+      ]
+    },
+    {
+      "labelIndex": 79,
+      "arrayIndex": 76,
+      "labelName": "ui_msg_xmenu_timeline_guide_68",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンリーグへ　向かおう",
+          "strWidth": 410.0500183105469
+        }
+      ]
+    },
+    {
+      "labelIndex": 80,
+      "arrayIndex": 77,
+      "labelName": "ui_msg_xmenu_timeline_guide_92",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモンリーグを　勝ち抜こう",
+          "strWidth": 439.10003662109375
+        }
+      ]
+    },
+    {
+      "labelIndex": 81,
+      "arrayIndex": 78,
+      "labelName": "ui_msg_xmenu_timeline_guide_74",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "１階へ　行こう",
+          "strWidth": 213.9499969482422
+        }
+      ]
+    },
+    {
+      "labelIndex": 82,
+      "arrayIndex": 79,
+      "labelName": "ui_msg_xmenu_timeline_guide_75",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "が　呼んでいる場所へ",
+          "strWidth": 318.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "向かおう",
+          "strWidth": 126.94999694824219
+        }
+      ]
+    },
+    {
+      "labelIndex": 83,
+      "arrayIndex": 80,
+      "labelName": "ui_msg_xmenu_timeline_guide_76",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Help battle Flint & Volkner!",
+          "strWidth": 399.625
+        }
+      ]
+    },
+    {
+      "labelIndex": 84,
+      "arrayIndex": 81,
+      "labelName": "ui_msg_xmenu_timeline_guide_77",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "バトルタワーへ　行ってみよう",
+          "strWidth": 434.9000244140625
+        }
+      ]
+    },
+    {
+      "labelIndex": 85,
+      "arrayIndex": 82,
+      "labelName": "ui_msg_xmenu_timeline_guide_78",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ポケモン図鑑を",
+          "strWidth": 221.0500030517578
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "完成させて　報告しよう",
+          "strWidth": 343.9000244140625
+        }
+      ]
+    },
+    {
+      "labelIndex": 86,
+      "arrayIndex": 83,
+      "labelName": "ui_msg_xmenu_timeline_guide_79",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "シンオウ地方の　あちこちを",
+          "strWidth": 410.04998779296875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "冒険しよう",
+          "strWidth": 155.9499969482422
+        }
+      ]
+    },
+    {
+      "labelIndex": 87,
+      "arrayIndex": 84,
+      "labelName": "ui_msg_xmenu_timeline_communication_01",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ローカル通信で　遊べる　人が",
+          "strWidth": 446.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "近くに　いるようです",
+          "strWidth": 311.95001220703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 88,
+      "arrayIndex": 85,
+      "labelName": "ui_msg_xmenu_timeline_pokeoutbreak_00",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 5,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 1,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "で　",
+          "strWidth": 62.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "が",
+          "strWidth": 32.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "たくさん　目撃　されました！",
+          "strWidth": 426.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 30,
+      "arrayIndex": 86,
+      "labelName": "ui_msg_xmenu_timeline_guide_93",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ギンガ　ハクタイビルの",
+          "strWidth": 345.0500183105469
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "中を　調べよう",
+          "strWidth": 222.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 48,
+      "arrayIndex": 87,
+      "labelName": "ui_msg_xmenu_timeline_guide_94",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "リッシ湖の　入口　付近を",
+          "strWidth": 377.04998779296875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "調べよう",
+          "strWidth": 126.94999694824219
+        }
+      ]
+    },
+    {
+      "labelIndex": 65,
+      "arrayIndex": 88,
+      "labelName": "ui_msg_xmenu_timeline_guide_95",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "キッサキジムの　ジムリーダーを",
+          "strWidth": 472.04998779296875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "倒そう",
+          "strWidth": 94.94999694824219
+        }
+      ]
+    },
+    {
+      "labelIndex": 89,
+      "arrayIndex": 89,
+      "labelName": "ui_msg_xmenu_timeline_guide_49_1",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Make your way to Renegade Park.",
+          "strWidth": 426.15625
+        }
+      ]
+    },
+    {
+      "labelIndex": 90,
+      "arrayIndex": 90,
+      "labelName": "ui_msg_xmenu_timeline_guide_86_1",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Go train on Iron Island!",
+          "strWidth": 371.75
+        }
+      ]
+    },
+    {
+      "labelIndex": 91,
+      "arrayIndex": 91,
+      "labelName": "ui_msg_xmenu_timeline_guide_86_2",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Explore Iron Island!",
+          "strWidth": 371.75
+        }
+      ]
+    },
+    {
+      "labelIndex": 92,
+      "arrayIndex": 92,
+      "labelName": "ui_msg_xmenu_timeline_guide_48_1",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Go to Canalave City!",
+          "strWidth": 371.75
+        }
+      ]
+    },
+    {
+      "labelIndex": 93,
+      "arrayIndex": 93,
+      "labelName": "ui_msg_xmenu_timeline_guide_64_1",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Go visit Professor Rowan!",
+          "strWidth": 371.75
+        }
+      ]
+    },
+    {
+      "labelIndex": 94,
+      "arrayIndex": 94,
+      "labelName": "ui_msg_xmenu_timeline_guide_38_1",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Go to Veilstone City!",
+          "strWidth": 371.75
+        }
+      ]
+    },
+    {
+      "labelIndex": 95,
+      "arrayIndex": 95,
+      "labelName": "ui_msg_xmenu_timeline_guide_34_1",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Go to the psychic signal!",
+          "strWidth": 371.75
+        }
+      ]
+    },
+    {
+      "labelIndex": 96,
+      "arrayIndex": 96,
+      "labelName": "ui_msg_xmenu_timeline_guide_80_1",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Find Gardenia on Route 216!",
+          "strWidth": 371.75
+        }
+      ]
+    },
+    {
+      "labelIndex": 97,
+      "arrayIndex": 97,
+      "labelName": "ui_msg_xmenu_timeline_guide_post_riley",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Talk to Byron on Iron Island!",
+          "strWidth": 371.75
+        }
+      ]
+    }
+  ]
 }

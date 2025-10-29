@@ -1,3327 +1,3327 @@
 {
-    "m_GameObject": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "m_Enabled": 1,
-    "m_Script": {
-        "m_FileID": 0,
-        "m_PathID": 3652094840918934080
-    },
-    "m_Name": "french_ss_xmenu_timeline",
-    "hash": -578219154,
-    "langID": 3,
-    "isResident": 0,
-    "isKanji": 0,
-    "labelDataArray": [
-        {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "ui_msg_xmenu_timeline_info_00",
-            "styleInfo": {
-                "styleIndex": 36,
-                "colorIndex": -1,
-                "fontSize": 42,
-                "maxWidth": 252,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Voir la Carte",
-                    "strWidth": 166.0625
-                }
-            ]
-        },
-        {
-            "labelIndex": 1,
-            "arrayIndex": 1,
-            "labelName": "ui_msg_xmenu_timeline_guide_01",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Bienvenue dans l’univers des Pokémon !",
-                    "strWidth": 514.96875
-                }
-            ]
-        },
-        {
-            "labelIndex": 2,
-            "arrayIndex": 2,
-            "labelName": "ui_msg_xmenu_timeline_guide_02",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Et si vous regardiez un peu la télévision ?",
-                    "strWidth": 534.1875
-                }
-            ]
-        },
-        {
-            "labelIndex": 3,
-            "arrayIndex": 3,
-            "labelName": "ui_msg_xmenu_timeline_guide_03",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Descendez au rez-de-chaussée.",
-                    "strWidth": 407.1875
-                }
-            ]
-        },
-        {
-            "labelIndex": 4,
-            "arrayIndex": 4,
-            "labelName": "ui_msg_xmenu_timeline_guide_04",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 0,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Allez voir ",
-                    "strWidth": 130.53125
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": ".",
-                    "strWidth": 7.90625
-                }
-            ]
-        },
-        {
-            "labelIndex": 5,
-            "arrayIndex": 5,
-            "labelName": "ui_msg_xmenu_timeline_guide_05",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 0,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Allez voir ce que fait ",
-                    "strWidth": 278.015625
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": ".",
-                    "strWidth": 7.90625
-                }
-            ]
-        },
-        {
-            "labelIndex": 6,
-            "arrayIndex": 6,
-            "labelName": "ui_msg_xmenu_timeline_guide_06",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Rendez-vous au Lac Vérité.",
-                    "strWidth": 353.25
-                }
-            ]
-        },
-        {
-            "labelIndex": 7,
-            "arrayIndex": 7,
-            "labelName": "ui_msg_xmenu_timeline_guide_07",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Vous devriez aller rendre le Pokémon.",
-                    "strWidth": 493.125
-                }
-            ]
-        },
-        {
-            "labelIndex": 8,
-            "arrayIndex": 8,
-            "labelName": "ui_msg_xmenu_timeline_guide_08",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Rendez-vous au Laboratoire Pokémon.",
-                    "strWidth": 499.515625
-                }
-            ]
-        },
-        {
-            "labelIndex": 9,
-            "arrayIndex": 9,
-            "labelName": "ui_msg_xmenu_timeline_guide_09",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Allez prévenir votre mère que vous partez",
-                    "strWidth": 542.109375
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "à l’aventure.",
-                    "strWidth": 160.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 10,
-            "arrayIndex": 10,
-            "labelName": "ui_msg_xmenu_timeline_guide_10",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Il est temps d’aller à Féli-Cité.",
-                    "strWidth": 392.953125
-                }
-            ]
-        },
-        {
-            "labelIndex": 11,
-            "arrayIndex": 11,
-            "labelName": "ui_msg_xmenu_timeline_guide_11",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Rendez-vous à l’École de Dresseurs.",
-                    "strWidth": 466.921875
-                }
-            ]
-        },
-        {
-            "labelIndex": 12,
-            "arrayIndex": 12,
-            "labelName": "ui_msg_xmenu_timeline_guide_12",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Visitez Féli-Cité.",
-                    "strWidth": 214.953125
-                }
-            ]
-        },
-        {
-            "labelIndex": 13,
-            "arrayIndex": 13,
-            "labelName": "ui_msg_xmenu_timeline_guide_13",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Répondez aux questions du quiz Pokémontre",
-                    "strWidth": 582.515625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "posées par les trois Arlequins.",
-                    "strWidth": 386.515625
-                }
-            ]
-        },
-        {
-            "labelIndex": 14,
-            "arrayIndex": 14,
-            "labelName": "ui_msg_xmenu_timeline_guide_14",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Allez récupérer votre Pokémontre.",
-                    "strWidth": 444.515625
-                }
-            ]
-        },
-        {
-            "labelIndex": 15,
-            "arrayIndex": 15,
-            "labelName": "ui_msg_xmenu_timeline_guide_15",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Rendez-vous à Charbourg.",
-                    "strWidth": 342.140625
-                }
-            ]
-        },
-        {
-            "labelIndex": 16,
-            "arrayIndex": 16,
-            "labelName": "ui_msg_xmenu_timeline_guide_16",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Trouvez le Champion de l’Arène de Charbourg.",
-                    "strWidth": 614.734375
-                }
-            ]
-        },
-        {
-            "labelIndex": 17,
-            "arrayIndex": 17,
-            "labelName": "ui_msg_xmenu_timeline_guide_17",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Battez Pierrick à l’Arène de Charbourg.",
-                    "strWidth": 507.578125
-                }
-            ]
-        },
-        {
-            "labelIndex": 18,
-            "arrayIndex": 18,
-            "labelName": "ui_msg_xmenu_timeline_guide_18",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Lancez-vous dans votre prochaine aventure.",
-                    "strWidth": 567.71875
-                }
-            ]
-        },
-        {
-            "labelIndex": 19,
-            "arrayIndex": 19,
-            "labelName": "ui_msg_xmenu_timeline_guide_19",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Retournez à Féli-Cité.",
-                    "strWidth": 283.75
-                }
-            ]
-        },
-        {
-            "labelIndex": 20,
-            "arrayIndex": 20,
-            "labelName": "ui_msg_xmenu_timeline_guide_20",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "[Non utilisé]",
-                    "strWidth": 161.359375
-                }
-            ]
-        },
-        {
-            "labelIndex": 21,
-            "arrayIndex": 21,
-            "labelName": "ui_msg_xmenu_timeline_guide_21",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 0,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Allez à Vestigion, comme ",
-                    "strWidth": 337.6875
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": ".",
-                    "strWidth": 7.90625
-                }
-            ]
-        },
-        {
-            "labelIndex": 22,
-            "arrayIndex": 22,
-            "labelName": "ui_msg_xmenu_timeline_guide_22",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Rendez-vous au Parc Éolien.",
-                    "strWidth": 364.90625
-                }
-            ]
-        },
-        {
-            "labelIndex": 23,
-            "arrayIndex": 23,
-            "labelName": "ui_msg_xmenu_timeline_guide_23",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Cherchez la Clé Parc Éolien.",
-                    "strWidth": 364.78125
-                }
-            ]
-        },
-        {
-            "labelIndex": 24,
-            "arrayIndex": 24,
-            "labelName": "ui_msg_xmenu_timeline_guide_24",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Entrez dans la centrale du Parc Éolien.",
-                    "strWidth": 495.046875
-                }
-            ]
-        },
-        {
-            "labelIndex": 25,
-            "arrayIndex": 25,
-            "labelName": "ui_msg_xmenu_timeline_guide_25",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Battez les membres de la Team Galaxie qui",
-                    "strWidth": 561.125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "se trouvent dans la centrale du Parc Éolien.",
-                    "strWidth": 559.1875
-                }
-            ]
-        },
-        {
-            "labelIndex": 26,
-            "arrayIndex": 26,
-            "labelName": "ui_msg_xmenu_timeline_guide_27",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Accompagnez Sara afin de sortir de la forêt.",
-                    "strWidth": 571.59375
-                }
-            ]
-        },
-        {
-            "labelIndex": 27,
-            "arrayIndex": 27,
-            "labelName": "ui_msg_xmenu_timeline_guide_80",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Visitez Vestigion.",
-                    "strWidth": 224.03125
-                }
-            ]
-        },
-        {
-            "labelIndex": 28,
-            "arrayIndex": 28,
-            "labelName": "ui_msg_xmenu_timeline_guide_29",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Battez Flo à l’Arène de Vestigion.",
-                    "strWidth": 438.1875
-                }
-            ]
-        },
-        {
-            "labelIndex": 29,
-            "arrayIndex": 29,
-            "labelName": "ui_msg_xmenu_timeline_guide_30",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Trouvez toutes les Dresseuses cachées",
-                    "strWidth": 496.40625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "dans l’Arène.",
-                    "strWidth": 170.15625
-                }
-            ]
-        },
-        {
-            "labelIndex": 31,
-            "arrayIndex": 30,
-            "labelName": "ui_msg_xmenu_timeline_guide_31",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Arrêtez la Team Galaxie.",
-                    "strWidth": 322.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 32,
-            "arrayIndex": 31,
-            "labelName": "ui_msg_xmenu_timeline_guide_81",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Parlez à l’homme d’un certain âge qui se trouve",
-                    "strWidth": 616.703125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "au Centre Galaxie de Vestigion.",
-                    "strWidth": 415.609375
-                }
-            ]
-        },
-        {
-            "labelIndex": 33,
-            "arrayIndex": 32,
-            "labelName": "ui_msg_xmenu_timeline_guide_32",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Talk to the owner of the Cycle Shop!",
-                    "strWidth": 412.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 34,
-            "arrayIndex": 33,
-            "labelName": "ui_msg_xmenu_timeline_guide_33",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Allez rendre visite à l’Homme des Souterrains.",
-                    "strWidth": 596.328125
-                }
-            ]
-        },
-        {
-            "labelIndex": 35,
-            "arrayIndex": 34,
-            "labelName": "ui_msg_xmenu_timeline_guide_34",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Dirigez-vous vers le sud en empruntant",
-                    "strWidth": 503.671875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "la Piste Cyclable.",
-                    "strWidth": 222.40625
-                }
-            ]
-        },
-        {
-            "labelIndex": 36,
-            "arrayIndex": 35,
-            "labelName": "ui_msg_xmenu_timeline_guide_35",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Allez à Unionpolis.",
-                    "strWidth": 243.8125
-                }
-            ]
-        },
-        {
-            "labelIndex": 37,
-            "arrayIndex": 36,
-            "labelName": "ui_msg_xmenu_timeline_guide_36",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Rendez-vous à la Salle de Concours.",
-                    "strWidth": 471.0
-                }
-            ]
-        },
-        {
-            "labelIndex": 38,
-            "arrayIndex": 37,
-            "labelName": "ui_msg_xmenu_timeline_guide_37",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Visitez Unionpolis.",
-                    "strWidth": 240.9375
-                }
-            ]
-        },
-        {
-            "labelIndex": 39,
-            "arrayIndex": 38,
-            "labelName": "ui_msg_xmenu_timeline_guide_38",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Help the lady in distress!",
-                    "strWidth": 275.515625
-                }
-            ]
-        },
-        {
-            "labelIndex": 40,
-            "arrayIndex": 39,
-            "labelName": "ui_msg_xmenu_timeline_guide_82",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Visitez Voilaroc.",
-                    "strWidth": 210.96875
-                }
-            ]
-        },
-        {
-            "labelIndex": 41,
-            "arrayIndex": 40,
-            "labelName": "ui_msg_xmenu_timeline_guide_39",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Battez la Championne de l’Arène de Voilaroc.",
-                    "strWidth": 596.71875
-                }
-            ]
-        },
-        {
-            "labelIndex": 42,
-            "arrayIndex": 41,
-            "labelName": "ui_msg_xmenu_timeline_guide_40",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Go to Route 209.",
-                    "strWidth": 269.59375
-                }
-            ]
-        },
-        {
-            "labelIndex": 43,
-            "arrayIndex": 42,
-            "labelName": "ui_msg_xmenu_timeline_guide_41",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": -1,
-                    "groupID": 20,
-                    "tagID": 11,
-                    "tagPatternID": 5,
-                    "forceArticle": 1,
-                    "tagParameter": 2,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 2,
-                    "groupID": 1,
-                    "tagID": 0,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Récupérez le Pokédex ",
-                    "strWidth": 296.703125
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": ".",
-                    "strWidth": 7.90625
-                }
-            ]
-        },
-        {
-            "labelIndex": 44,
-            "arrayIndex": 43,
-            "labelName": "ui_msg_xmenu_timeline_guide_83",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Allez à Verchamps.",
-                    "strWidth": 247.171875
-                }
-            ]
-        },
-        {
-            "labelIndex": 45,
-            "arrayIndex": 44,
-            "labelName": "ui_msg_xmenu_timeline_guide_42",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Battez le Champion de l’Arène de Verchamps.",
-                    "strWidth": 599.171875
-                }
-            ]
-        },
-        {
-            "labelIndex": 46,
-            "arrayIndex": 45,
-            "labelName": "ui_msg_xmenu_timeline_guide_43",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Visitez Verchamps.",
-                    "strWidth": 244.296875
-                }
-            ]
-        },
-        {
-            "labelIndex": 47,
-            "arrayIndex": 46,
-            "labelName": "ui_msg_xmenu_timeline_guide_44",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Poursuivez le Sbire qui s’est enfui vers l’est",
-                    "strWidth": 555.046875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "de Verchamps.",
-                    "strWidth": 191.765625
-                }
-            ]
-        },
-        {
-            "labelIndex": 49,
-            "arrayIndex": 47,
-            "labelName": "ui_msg_xmenu_timeline_guide_46",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Aidez les Psykokwak de la Route 210.",
-                    "strWidth": 490.75
-                }
-            ]
-        },
-        {
-            "labelIndex": 50,
-            "arrayIndex": 48,
-            "labelName": "ui_msg_xmenu_timeline_guide_47",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Livrez le Vieux Grigri à Célestia.",
-                    "strWidth": 417.734375
-                }
-            ]
-        },
-        {
-            "labelIndex": 51,
-            "arrayIndex": 49,
-            "labelName": "ui_msg_xmenu_timeline_guide_84",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Battez le membre de la Team Galaxie",
-                    "strWidth": 488.953125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "qui se trouve devant les ruines.",
-                    "strWidth": 401.125
-                }
-            ]
-        },
-        {
-            "labelIndex": 52,
-            "arrayIndex": 50,
-            "labelName": "ui_msg_xmenu_timeline_guide_85",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Explorez les ruines.",
-                    "strWidth": 247.578125
-                }
-            ]
-        },
-        {
-            "labelIndex": 53,
-            "arrayIndex": 51,
-            "labelName": "ui_msg_xmenu_timeline_guide_48",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Battez Kiméra à l’Arène d’Unionpolis.",
-                    "strWidth": 488.484375
-                }
-            ]
-        },
-        {
-            "labelIndex": 54,
-            "arrayIndex": 52,
-            "labelName": "ui_msg_xmenu_timeline_guide_49",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Allez à Joliberges.",
-                    "strWidth": 236.96875
-                }
-            ]
-        },
-        {
-            "labelIndex": 55,
-            "arrayIndex": 53,
-            "labelName": "ui_msg_xmenu_timeline_guide_86",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Visitez Joliberges.",
-                    "strWidth": 234.09375
-                }
-            ]
-        },
-        {
-            "labelIndex": 56,
-            "arrayIndex": 54,
-            "labelName": "ui_msg_xmenu_timeline_guide_50",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Battez le Champion de l’Arène de Joliberges.",
-                    "strWidth": 588.96875
-                }
-            ]
-        },
-        {
-            "labelIndex": 57,
-            "arrayIndex": 55,
-            "labelName": "ui_msg_xmenu_timeline_guide_51",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 0,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Suivez ",
-                    "strWidth": 90.390625
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " jusqu’à la Bibliothèque",
-                    "strWidth": 305.640625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "de Joliberges.",
-                    "strWidth": 181.5625
-                }
-            ]
-        },
-        {
-            "labelIndex": 58,
-            "arrayIndex": 56,
-            "labelName": "ui_msg_xmenu_timeline_guide_52",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Sortez de la bibliothèque.",
-                    "strWidth": 336.640625
-                }
-            ]
-        },
-        {
-            "labelIndex": 59,
-            "arrayIndex": 57,
-            "labelName": "ui_msg_xmenu_timeline_guide_53",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Rendez-vous au Lac Courage pour voir",
-                    "strWidth": 501.671875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "ce qu’il s’y passe.",
-                    "strWidth": 227.1875
-                }
-            ]
-        },
-        {
-            "labelIndex": 60,
-            "arrayIndex": 58,
-            "labelName": "ui_msg_xmenu_timeline_guide_54",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Allez voir ce qu’il se passe au Lac Vérité.",
-                    "strWidth": 530.84375
-                }
-            ]
-        },
-        {
-            "labelIndex": 61,
-            "arrayIndex": 59,
-            "labelName": "ui_msg_xmenu_timeline_guide_87",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Arrêtez les membres de la Team Galaxie",
-                    "strWidth": 524.734375
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "qui sont au Lac Vérité.",
-                    "strWidth": 291.703125
-                }
-            ]
-        },
-        {
-            "labelIndex": 62,
-            "arrayIndex": 60,
-            "labelName": "ui_msg_xmenu_timeline_guide_55",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Allez voir ce qu’il se passe au Lac Savoir.",
-                    "strWidth": 530.84375
-                }
-            ]
-        },
-        {
-            "labelIndex": 63,
-            "arrayIndex": 61,
-            "labelName": "ui_msg_xmenu_timeline_guide_88",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Obtain the TM Strength at Iron Island!",
-                    "strWidth": 551.703125
-                }
-            ]
-        },
-        {
-            "labelIndex": 64,
-            "arrayIndex": 62,
-            "labelName": "ui_msg_xmenu_timeline_guide_56",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Allez à l’Arène de Frimapic.",
-                    "strWidth": 359.984375
-                }
-            ]
-        },
-        {
-            "labelIndex": 66,
-            "arrayIndex": 63,
-            "labelName": "ui_msg_xmenu_timeline_guide_89",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Dirigez-vous vers le QG de la Team Galaxie.",
-                    "strWidth": 580.1875
-                }
-            ]
-        },
-        {
-            "labelIndex": 67,
-            "arrayIndex": 64,
-            "labelName": "ui_msg_xmenu_timeline_guide_58",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Trouvez un moyen d’entrer dans le QG",
-                    "strWidth": 505.703125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "de la Team Galaxie.",
-                    "strWidth": 261.109375
-                }
-            ]
-        },
-        {
-            "labelIndex": 68,
-            "arrayIndex": 65,
-            "labelName": "ui_msg_xmenu_timeline_guide_59",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Allez ouvrir la porte du hangar de la Team",
-                    "strWidth": 548.84375
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Galaxie.",
-                    "strWidth": 107.65625
-                }
-            ]
-        },
-        {
-            "labelIndex": 69,
-            "arrayIndex": 66,
-            "labelName": "ui_msg_xmenu_timeline_guide_90",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Explorez le QG de la Team Galaxie.",
-                    "strWidth": 469.75
-                }
-            ]
-        },
-        {
-            "labelIndex": 70,
-            "arrayIndex": 67,
-            "labelName": "ui_msg_xmenu_timeline_guide_60",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Entrez dans le Centre Galaxie de Voilaroc.",
-                    "strWidth": 552.5625
-                }
-            ]
-        },
-        {
-            "labelIndex": 71,
-            "arrayIndex": 68,
-            "labelName": "ui_msg_xmenu_timeline_guide_61",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Sauvez les Pokémon qui ont été capturés.",
-                    "strWidth": 538.78125
-                }
-            ]
-        },
-        {
-            "labelIndex": 72,
-            "arrayIndex": 69,
-            "labelName": "ui_msg_xmenu_timeline_guide_62",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Appuyez sur le bouton pour libérer les Pokémon.",
-                    "strWidth": 633.921875
-                }
-            ]
-        },
-        {
-            "labelIndex": 73,
-            "arrayIndex": 70,
-            "labelName": "ui_msg_xmenu_timeline_guide_63",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Arrêtez les membres de la Team Galaxie qui",
-                    "strWidth": 573.875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "se trouvent au sommet du Mont Couronné.",
-                    "strWidth": 555.078125
-                }
-            ]
-        },
-        {
-            "labelIndex": 74,
-            "arrayIndex": 71,
-            "labelName": "ui_msg_xmenu_timeline_guide_91",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Trouvez la CT Escalade sur la Route 217.",
-                    "strWidth": 530.75
-                }
-            ]
-        },
-        {
-            "labelIndex": 75,
-            "arrayIndex": 72,
-            "labelName": "ui_msg_xmenu_timeline_guide_64",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Apaisez la fureur du Pokémon légendaire.",
-                    "strWidth": 541.171875
-                }
-            ]
-        },
-        {
-            "labelIndex": 76,
-            "arrayIndex": 73,
-            "labelName": "ui_msg_xmenu_timeline_guide_65",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Allez à Rivamar.",
-                    "strWidth": 207.515625
-                }
-            ]
-        },
-        {
-            "labelIndex": 77,
-            "arrayIndex": 74,
-            "labelName": "ui_msg_xmenu_timeline_guide_66",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Trouvez le Champion de l’Arène de Rivamar.",
-                    "strWidth": 580.40625
-                }
-            ]
-        },
-        {
-            "labelIndex": 78,
-            "arrayIndex": 75,
-            "labelName": "ui_msg_xmenu_timeline_guide_67",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Battez le Champion de l’Arène de Rivamar.",
-                    "strWidth": 559.515625
-                }
-            ]
-        },
-        {
-            "labelIndex": 79,
-            "arrayIndex": 76,
-            "labelName": "ui_msg_xmenu_timeline_guide_68",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Dirigez-vous vers la Ligue Pokémon.",
-                    "strWidth": 468.578125
-                }
-            ]
-        },
-        {
-            "labelIndex": 80,
-            "arrayIndex": 77,
-            "labelName": "ui_msg_xmenu_timeline_guide_92",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Battez les membres de la Ligue Pokémon.",
-                    "strWidth": 539.015625
-                }
-            ]
-        },
-        {
-            "labelIndex": 81,
-            "arrayIndex": 78,
-            "labelName": "ui_msg_xmenu_timeline_guide_74",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Descendez au rez-de-chaussée.",
-                    "strWidth": 407.1875
-                }
-            ]
-        },
-        {
-            "labelIndex": 82,
-            "arrayIndex": 79,
-            "labelName": "ui_msg_xmenu_timeline_guide_75",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 1
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 0,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Rendez-vous à l’endroit où ",
-                    "strWidth": 357.609375
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": 0.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "vous a demandé d’aller.",
-                    "strWidth": 310.234375
-                }
-            ]
-        },
-        {
-            "labelIndex": 83,
-            "arrayIndex": 80,
-            "labelName": "ui_msg_xmenu_timeline_guide_76",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Help battle Flint & Volkner!",
-                    "strWidth": 399.625
-                }
-            ]
-        },
-        {
-            "labelIndex": 84,
-            "arrayIndex": 81,
-            "labelName": "ui_msg_xmenu_timeline_guide_77",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Rendez-vous à la Tour de Combat.",
-                    "strWidth": 450.109375
-                }
-            ]
-        },
-        {
-            "labelIndex": 85,
-            "arrayIndex": 82,
-            "labelName": "ui_msg_xmenu_timeline_guide_78",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Complétez votre Pokédex, puis allez annoncer",
-                    "strWidth": 601.78125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "la bonne nouvelle au Professeur.",
-                    "strWidth": 421.03125
-                }
-            ]
-        },
-        {
-            "labelIndex": 86,
-            "arrayIndex": 83,
-            "labelName": "ui_msg_xmenu_timeline_guide_79",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Explorez chaque recoin de la région de Sinnoh.",
-                    "strWidth": 612.03125
-                }
-            ]
-        },
-        {
-            "labelIndex": 87,
-            "arrayIndex": 84,
-            "labelName": "ui_msg_xmenu_timeline_communication_01",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Une personne pouvant jouer par communication",
-                    "strWidth": 622.75
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "sans fil locale semble se trouver près de vous.",
-                    "strWidth": 591.078125
-                }
-            ]
-        },
-        {
-            "labelIndex": 88,
-            "arrayIndex": 85,
-            "labelName": "ui_msg_xmenu_timeline_pokeoutbreak_00",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 1
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [
-                {
-                    "tagIndex": 1,
-                    "groupID": 1,
-                    "tagID": 1,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                },
-                {
-                    "tagIndex": 0,
-                    "groupID": 1,
-                    "tagID": 71,
-                    "tagPatternID": 0,
-                    "forceArticle": 0,
-                    "tagParameter": 0,
-                    "tagWordArray": [],
-                    "forceGrmID": 0
-                }
-            ],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 0,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "De nombreux ",
-                    "strWidth": 183.796875
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 0,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": " sont apparus",
-                    "strWidth": 173.484375
-                },
-                {
-                    "patternID": 5,
-                    "eventID": 0,
-                    "tagIndex": 1,
-                    "tagValue": 0.0,
-                    "str": "",
-                    "strWidth": -1.0
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": ".",
-                    "strWidth": 7.90625
-                }
-            ]
-        },
-        {
-            "labelIndex": 30,
-            "arrayIndex": 86,
-            "labelName": "ui_msg_xmenu_timeline_guide_93",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Explorez le Centre Galaxie de Vestigion.",
-                    "strWidth": 528.3125
-                }
-            ]
-        },
-        {
-            "labelIndex": 48,
-            "arrayIndex": 87,
-            "labelName": "ui_msg_xmenu_timeline_guide_94",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Explorez l’entrée du Lac Courage.",
-                    "strWidth": 440.71875
-                }
-            ]
-        },
-        {
-            "labelIndex": 65,
-            "arrayIndex": 88,
-            "labelName": "ui_msg_xmenu_timeline_guide_95",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                0,
-                0,
-                0,
-                0,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Battez la Championne de l’Arène de Frimapic.",
-                    "strWidth": 598.359375
-                }
-            ]
-        },
-        {
-            "labelIndex": 89,
-            "arrayIndex": 89,
-            "labelName": "ui_msg_xmenu_timeline_guide_49_1",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Make your way to Renegade Park.",
-                    "strWidth": 426.15625
-                }
-            ]
-        },
-        {
-            "labelIndex": 90,
-            "arrayIndex": 90,
-            "labelName": "ui_msg_xmenu_timeline_guide_86_1",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Go train on Iron Island!",
-                    "strWidth": 371.75
-                }
-            ]
-        },
-        {
-            "labelIndex": 91,
-            "arrayIndex": 91,
-            "labelName": "ui_msg_xmenu_timeline_guide_86_2",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Explore Iron Island!",
-                    "strWidth": 371.75
-                }
-            ]
-        },
-        {
-            "labelIndex": 92,
-            "arrayIndex": 92,
-            "labelName": "ui_msg_xmenu_timeline_guide_48_1",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Go to Canalave City!",
-                    "strWidth": 371.75
-                }
-            ]
-        },
-        {
-            "labelIndex": 93,
-            "arrayIndex": 93,
-            "labelName": "ui_msg_xmenu_timeline_guide_64_1",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Go visit Professor Rowan!",
-                    "strWidth": 371.75
-                }
-            ]
-        },
-        {
-            "labelIndex": 94,
-            "arrayIndex": 94,
-            "labelName": "ui_msg_xmenu_timeline_guide_38_1",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Go to Veilstone City!",
-                    "strWidth": 371.75
-                }
-            ]
-        },
-        {
-            "labelIndex": 95,
-            "arrayIndex": 95,
-            "labelName": "ui_msg_xmenu_timeline_guide_34_1",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Go to the psychic signal!",
-                    "strWidth": 371.75
-                }
-            ]
-        },
-        {
-            "labelIndex": 96,
-            "arrayIndex": 96,
-            "labelName": "ui_msg_xmenu_timeline_guide_80_1",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Find Gardenia on Route 216!",
-                    "strWidth": 371.75
-                }
-            ]
-        },
-        {
-            "labelIndex": 97,
-            "arrayIndex": 97,
-            "labelName": "ui_msg_xmenu_timeline_guide_post_riley",
-            "styleInfo": {
-                "styleIndex": 20,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                0,
-                0,
-                -1,
-                0
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Talk to Byron on Iron Island!",
-                    "strWidth": 371.75
-                }
-            ]
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3652094840918934080
+  },
+  "m_Name": "french_ss_xmenu_timeline",
+  "hash": -578219154,
+  "langID": 3,
+  "isResident": 0,
+  "isKanji": 0,
+  "labelDataArray": [
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "ui_msg_xmenu_timeline_info_00",
+      "styleInfo": {
+        "styleIndex": 36,
+        "colorIndex": -1,
+        "fontSize": 42,
+        "maxWidth": 252,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Voir la Carte",
+          "strWidth": 166.0625
         }
-    ]
+      ]
+    },
+    {
+      "labelIndex": 1,
+      "arrayIndex": 1,
+      "labelName": "ui_msg_xmenu_timeline_guide_01",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Bienvenue dans l’univers des Pokémon !",
+          "strWidth": 514.96875
+        }
+      ]
+    },
+    {
+      "labelIndex": 2,
+      "arrayIndex": 2,
+      "labelName": "ui_msg_xmenu_timeline_guide_02",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Et si vous regardiez un peu la télévision ?",
+          "strWidth": 534.1875
+        }
+      ]
+    },
+    {
+      "labelIndex": 3,
+      "arrayIndex": 3,
+      "labelName": "ui_msg_xmenu_timeline_guide_03",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Descendez au rez-de-chaussée.",
+          "strWidth": 407.1875
+        }
+      ]
+    },
+    {
+      "labelIndex": 4,
+      "arrayIndex": 4,
+      "labelName": "ui_msg_xmenu_timeline_guide_04",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Allez voir ",
+          "strWidth": 130.53125
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": ".",
+          "strWidth": 7.90625
+        }
+      ]
+    },
+    {
+      "labelIndex": 5,
+      "arrayIndex": 5,
+      "labelName": "ui_msg_xmenu_timeline_guide_05",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Allez voir ce que fait ",
+          "strWidth": 278.015625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": ".",
+          "strWidth": 7.90625
+        }
+      ]
+    },
+    {
+      "labelIndex": 6,
+      "arrayIndex": 6,
+      "labelName": "ui_msg_xmenu_timeline_guide_06",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Rendez-vous au Lac Vérité.",
+          "strWidth": 353.25
+        }
+      ]
+    },
+    {
+      "labelIndex": 7,
+      "arrayIndex": 7,
+      "labelName": "ui_msg_xmenu_timeline_guide_07",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Vous devriez aller rendre le Pokémon.",
+          "strWidth": 493.125
+        }
+      ]
+    },
+    {
+      "labelIndex": 8,
+      "arrayIndex": 8,
+      "labelName": "ui_msg_xmenu_timeline_guide_08",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Rendez-vous au Laboratoire Pokémon.",
+          "strWidth": 499.515625
+        }
+      ]
+    },
+    {
+      "labelIndex": 9,
+      "arrayIndex": 9,
+      "labelName": "ui_msg_xmenu_timeline_guide_09",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Allez prévenir votre mère que vous partez",
+          "strWidth": 542.109375
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "à l’aventure.",
+          "strWidth": 160.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 10,
+      "arrayIndex": 10,
+      "labelName": "ui_msg_xmenu_timeline_guide_10",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Il est temps d’aller à Féli-Cité.",
+          "strWidth": 392.953125
+        }
+      ]
+    },
+    {
+      "labelIndex": 11,
+      "arrayIndex": 11,
+      "labelName": "ui_msg_xmenu_timeline_guide_11",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Rendez-vous à l’École de Dresseurs.",
+          "strWidth": 466.921875
+        }
+      ]
+    },
+    {
+      "labelIndex": 12,
+      "arrayIndex": 12,
+      "labelName": "ui_msg_xmenu_timeline_guide_12",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Visitez Féli-Cité.",
+          "strWidth": 214.953125
+        }
+      ]
+    },
+    {
+      "labelIndex": 13,
+      "arrayIndex": 13,
+      "labelName": "ui_msg_xmenu_timeline_guide_13",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Répondez aux questions du quiz Pokémontre",
+          "strWidth": 582.515625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "posées par les trois Arlequins.",
+          "strWidth": 386.515625
+        }
+      ]
+    },
+    {
+      "labelIndex": 14,
+      "arrayIndex": 14,
+      "labelName": "ui_msg_xmenu_timeline_guide_14",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Allez récupérer votre Pokémontre.",
+          "strWidth": 444.515625
+        }
+      ]
+    },
+    {
+      "labelIndex": 15,
+      "arrayIndex": 15,
+      "labelName": "ui_msg_xmenu_timeline_guide_15",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Rendez-vous à Charbourg.",
+          "strWidth": 342.140625
+        }
+      ]
+    },
+    {
+      "labelIndex": 16,
+      "arrayIndex": 16,
+      "labelName": "ui_msg_xmenu_timeline_guide_16",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Trouvez le Champion de l’Arène de Charbourg.",
+          "strWidth": 614.734375
+        }
+      ]
+    },
+    {
+      "labelIndex": 17,
+      "arrayIndex": 17,
+      "labelName": "ui_msg_xmenu_timeline_guide_17",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Battez Pierrick à l’Arène de Charbourg.",
+          "strWidth": 507.578125
+        }
+      ]
+    },
+    {
+      "labelIndex": 18,
+      "arrayIndex": 18,
+      "labelName": "ui_msg_xmenu_timeline_guide_18",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Lancez-vous dans votre prochaine aventure.",
+          "strWidth": 567.71875
+        }
+      ]
+    },
+    {
+      "labelIndex": 19,
+      "arrayIndex": 19,
+      "labelName": "ui_msg_xmenu_timeline_guide_19",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Retournez à Féli-Cité.",
+          "strWidth": 283.75
+        }
+      ]
+    },
+    {
+      "labelIndex": 20,
+      "arrayIndex": 20,
+      "labelName": "ui_msg_xmenu_timeline_guide_20",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "[Non utilisé]",
+          "strWidth": 161.359375
+        }
+      ]
+    },
+    {
+      "labelIndex": 21,
+      "arrayIndex": 21,
+      "labelName": "ui_msg_xmenu_timeline_guide_21",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Allez à Vestigion, comme ",
+          "strWidth": 337.6875
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": ".",
+          "strWidth": 7.90625
+        }
+      ]
+    },
+    {
+      "labelIndex": 22,
+      "arrayIndex": 22,
+      "labelName": "ui_msg_xmenu_timeline_guide_22",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Rendez-vous au Parc Éolien.",
+          "strWidth": 364.90625
+        }
+      ]
+    },
+    {
+      "labelIndex": 23,
+      "arrayIndex": 23,
+      "labelName": "ui_msg_xmenu_timeline_guide_23",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Cherchez la Clé Parc Éolien.",
+          "strWidth": 364.78125
+        }
+      ]
+    },
+    {
+      "labelIndex": 24,
+      "arrayIndex": 24,
+      "labelName": "ui_msg_xmenu_timeline_guide_24",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Entrez dans la centrale du Parc Éolien.",
+          "strWidth": 495.046875
+        }
+      ]
+    },
+    {
+      "labelIndex": 25,
+      "arrayIndex": 25,
+      "labelName": "ui_msg_xmenu_timeline_guide_25",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Battez les membres de la Team Galaxie qui",
+          "strWidth": 561.125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "se trouvent dans la centrale du Parc Éolien.",
+          "strWidth": 559.1875
+        }
+      ]
+    },
+    {
+      "labelIndex": 26,
+      "arrayIndex": 26,
+      "labelName": "ui_msg_xmenu_timeline_guide_27",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Accompagnez Sara afin de sortir de la forêt.",
+          "strWidth": 571.59375
+        }
+      ]
+    },
+    {
+      "labelIndex": 27,
+      "arrayIndex": 27,
+      "labelName": "ui_msg_xmenu_timeline_guide_80",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Visitez Vestigion.",
+          "strWidth": 224.03125
+        }
+      ]
+    },
+    {
+      "labelIndex": 28,
+      "arrayIndex": 28,
+      "labelName": "ui_msg_xmenu_timeline_guide_29",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Battez Flo à l’Arène de Vestigion.",
+          "strWidth": 438.1875
+        }
+      ]
+    },
+    {
+      "labelIndex": 29,
+      "arrayIndex": 29,
+      "labelName": "ui_msg_xmenu_timeline_guide_30",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Trouvez toutes les Dresseuses cachées",
+          "strWidth": 496.40625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "dans l’Arène.",
+          "strWidth": 170.15625
+        }
+      ]
+    },
+    {
+      "labelIndex": 31,
+      "arrayIndex": 30,
+      "labelName": "ui_msg_xmenu_timeline_guide_31",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Arrêtez la Team Galaxie.",
+          "strWidth": 322.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 32,
+      "arrayIndex": 31,
+      "labelName": "ui_msg_xmenu_timeline_guide_81",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Parlez à l’homme d’un certain âge qui se trouve",
+          "strWidth": 616.703125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "au Centre Galaxie de Vestigion.",
+          "strWidth": 415.609375
+        }
+      ]
+    },
+    {
+      "labelIndex": 33,
+      "arrayIndex": 32,
+      "labelName": "ui_msg_xmenu_timeline_guide_32",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Talk to the owner of the Cycle Shop!",
+          "strWidth": 412.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 34,
+      "arrayIndex": 33,
+      "labelName": "ui_msg_xmenu_timeline_guide_33",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Allez rendre visite à l’Homme des Souterrains.",
+          "strWidth": 596.328125
+        }
+      ]
+    },
+    {
+      "labelIndex": 35,
+      "arrayIndex": 34,
+      "labelName": "ui_msg_xmenu_timeline_guide_34",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Dirigez-vous vers le sud en empruntant",
+          "strWidth": 503.671875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "la Piste Cyclable.",
+          "strWidth": 222.40625
+        }
+      ]
+    },
+    {
+      "labelIndex": 36,
+      "arrayIndex": 35,
+      "labelName": "ui_msg_xmenu_timeline_guide_35",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Allez à Unionpolis.",
+          "strWidth": 243.8125
+        }
+      ]
+    },
+    {
+      "labelIndex": 37,
+      "arrayIndex": 36,
+      "labelName": "ui_msg_xmenu_timeline_guide_36",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Rendez-vous à la Salle de Concours.",
+          "strWidth": 471.0
+        }
+      ]
+    },
+    {
+      "labelIndex": 38,
+      "arrayIndex": 37,
+      "labelName": "ui_msg_xmenu_timeline_guide_37",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Visitez Unionpolis.",
+          "strWidth": 240.9375
+        }
+      ]
+    },
+    {
+      "labelIndex": 39,
+      "arrayIndex": 38,
+      "labelName": "ui_msg_xmenu_timeline_guide_38",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Help the lady in distress!",
+          "strWidth": 275.515625
+        }
+      ]
+    },
+    {
+      "labelIndex": 40,
+      "arrayIndex": 39,
+      "labelName": "ui_msg_xmenu_timeline_guide_82",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Visitez Voilaroc.",
+          "strWidth": 210.96875
+        }
+      ]
+    },
+    {
+      "labelIndex": 41,
+      "arrayIndex": 40,
+      "labelName": "ui_msg_xmenu_timeline_guide_39",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Battez la Championne de l’Arène de Voilaroc.",
+          "strWidth": 596.71875
+        }
+      ]
+    },
+    {
+      "labelIndex": 42,
+      "arrayIndex": 41,
+      "labelName": "ui_msg_xmenu_timeline_guide_40",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Go to Route 209.",
+          "strWidth": 269.59375
+        }
+      ]
+    },
+    {
+      "labelIndex": 43,
+      "arrayIndex": 42,
+      "labelName": "ui_msg_xmenu_timeline_guide_41",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": -1,
+          "groupID": 20,
+          "tagID": 11,
+          "tagPatternID": 5,
+          "forceArticle": 1,
+          "tagParameter": 2,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 2,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Récupérez le Pokédex ",
+          "strWidth": 296.703125
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": ".",
+          "strWidth": 7.90625
+        }
+      ]
+    },
+    {
+      "labelIndex": 44,
+      "arrayIndex": 43,
+      "labelName": "ui_msg_xmenu_timeline_guide_83",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Allez à Verchamps.",
+          "strWidth": 247.171875
+        }
+      ]
+    },
+    {
+      "labelIndex": 45,
+      "arrayIndex": 44,
+      "labelName": "ui_msg_xmenu_timeline_guide_42",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Battez le Champion de l’Arène de Verchamps.",
+          "strWidth": 599.171875
+        }
+      ]
+    },
+    {
+      "labelIndex": 46,
+      "arrayIndex": 45,
+      "labelName": "ui_msg_xmenu_timeline_guide_43",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Visitez Verchamps.",
+          "strWidth": 244.296875
+        }
+      ]
+    },
+    {
+      "labelIndex": 47,
+      "arrayIndex": 46,
+      "labelName": "ui_msg_xmenu_timeline_guide_44",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Poursuivez le Sbire qui s’est enfui vers l’est",
+          "strWidth": 555.046875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "de Verchamps.",
+          "strWidth": 191.765625
+        }
+      ]
+    },
+    {
+      "labelIndex": 49,
+      "arrayIndex": 47,
+      "labelName": "ui_msg_xmenu_timeline_guide_46",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Aidez les Psykokwak de la Route 210.",
+          "strWidth": 490.75
+        }
+      ]
+    },
+    {
+      "labelIndex": 50,
+      "arrayIndex": 48,
+      "labelName": "ui_msg_xmenu_timeline_guide_47",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Livrez le Vieux Grigri à Célestia.",
+          "strWidth": 417.734375
+        }
+      ]
+    },
+    {
+      "labelIndex": 51,
+      "arrayIndex": 49,
+      "labelName": "ui_msg_xmenu_timeline_guide_84",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Battez le membre de la Team Galaxie",
+          "strWidth": 488.953125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "qui se trouve devant les ruines.",
+          "strWidth": 401.125
+        }
+      ]
+    },
+    {
+      "labelIndex": 52,
+      "arrayIndex": 50,
+      "labelName": "ui_msg_xmenu_timeline_guide_85",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Explorez les ruines.",
+          "strWidth": 247.578125
+        }
+      ]
+    },
+    {
+      "labelIndex": 53,
+      "arrayIndex": 51,
+      "labelName": "ui_msg_xmenu_timeline_guide_48",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Battez Kiméra à l’Arène d’Unionpolis.",
+          "strWidth": 488.484375
+        }
+      ]
+    },
+    {
+      "labelIndex": 54,
+      "arrayIndex": 52,
+      "labelName": "ui_msg_xmenu_timeline_guide_49",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Allez à Joliberges.",
+          "strWidth": 236.96875
+        }
+      ]
+    },
+    {
+      "labelIndex": 55,
+      "arrayIndex": 53,
+      "labelName": "ui_msg_xmenu_timeline_guide_86",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Visitez Joliberges.",
+          "strWidth": 234.09375
+        }
+      ]
+    },
+    {
+      "labelIndex": 56,
+      "arrayIndex": 54,
+      "labelName": "ui_msg_xmenu_timeline_guide_50",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Battez le Champion de l’Arène de Joliberges.",
+          "strWidth": 588.96875
+        }
+      ]
+    },
+    {
+      "labelIndex": 57,
+      "arrayIndex": 55,
+      "labelName": "ui_msg_xmenu_timeline_guide_51",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Suivez ",
+          "strWidth": 90.390625
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " jusqu’à la Bibliothèque",
+          "strWidth": 305.640625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "de Joliberges.",
+          "strWidth": 181.5625
+        }
+      ]
+    },
+    {
+      "labelIndex": 58,
+      "arrayIndex": 56,
+      "labelName": "ui_msg_xmenu_timeline_guide_52",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Sortez de la bibliothèque.",
+          "strWidth": 336.640625
+        }
+      ]
+    },
+    {
+      "labelIndex": 59,
+      "arrayIndex": 57,
+      "labelName": "ui_msg_xmenu_timeline_guide_53",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Rendez-vous au Lac Courage pour voir",
+          "strWidth": 501.671875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "ce qu’il s’y passe.",
+          "strWidth": 227.1875
+        }
+      ]
+    },
+    {
+      "labelIndex": 60,
+      "arrayIndex": 58,
+      "labelName": "ui_msg_xmenu_timeline_guide_54",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Allez voir ce qu’il se passe au Lac Vérité.",
+          "strWidth": 530.84375
+        }
+      ]
+    },
+    {
+      "labelIndex": 61,
+      "arrayIndex": 59,
+      "labelName": "ui_msg_xmenu_timeline_guide_87",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Arrêtez les membres de la Team Galaxie",
+          "strWidth": 524.734375
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "qui sont au Lac Vérité.",
+          "strWidth": 291.703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 62,
+      "arrayIndex": 60,
+      "labelName": "ui_msg_xmenu_timeline_guide_55",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Allez voir ce qu’il se passe au Lac Savoir.",
+          "strWidth": 530.84375
+        }
+      ]
+    },
+    {
+      "labelIndex": 63,
+      "arrayIndex": 61,
+      "labelName": "ui_msg_xmenu_timeline_guide_88",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Obtain the TM Strength at Iron Island!",
+          "strWidth": 551.703125
+        }
+      ]
+    },
+    {
+      "labelIndex": 64,
+      "arrayIndex": 62,
+      "labelName": "ui_msg_xmenu_timeline_guide_56",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Allez à l’Arène de Frimapic.",
+          "strWidth": 359.984375
+        }
+      ]
+    },
+    {
+      "labelIndex": 66,
+      "arrayIndex": 63,
+      "labelName": "ui_msg_xmenu_timeline_guide_89",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Dirigez-vous vers le QG de la Team Galaxie.",
+          "strWidth": 580.1875
+        }
+      ]
+    },
+    {
+      "labelIndex": 67,
+      "arrayIndex": 64,
+      "labelName": "ui_msg_xmenu_timeline_guide_58",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Trouvez un moyen d’entrer dans le QG",
+          "strWidth": 505.703125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "de la Team Galaxie.",
+          "strWidth": 261.109375
+        }
+      ]
+    },
+    {
+      "labelIndex": 68,
+      "arrayIndex": 65,
+      "labelName": "ui_msg_xmenu_timeline_guide_59",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Allez ouvrir la porte du hangar de la Team",
+          "strWidth": 548.84375
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Galaxie.",
+          "strWidth": 107.65625
+        }
+      ]
+    },
+    {
+      "labelIndex": 69,
+      "arrayIndex": 66,
+      "labelName": "ui_msg_xmenu_timeline_guide_90",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Explorez le QG de la Team Galaxie.",
+          "strWidth": 469.75
+        }
+      ]
+    },
+    {
+      "labelIndex": 70,
+      "arrayIndex": 67,
+      "labelName": "ui_msg_xmenu_timeline_guide_60",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Entrez dans le Centre Galaxie de Voilaroc.",
+          "strWidth": 552.5625
+        }
+      ]
+    },
+    {
+      "labelIndex": 71,
+      "arrayIndex": 68,
+      "labelName": "ui_msg_xmenu_timeline_guide_61",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Sauvez les Pokémon qui ont été capturés.",
+          "strWidth": 538.78125
+        }
+      ]
+    },
+    {
+      "labelIndex": 72,
+      "arrayIndex": 69,
+      "labelName": "ui_msg_xmenu_timeline_guide_62",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Appuyez sur le bouton pour libérer les Pokémon.",
+          "strWidth": 633.921875
+        }
+      ]
+    },
+    {
+      "labelIndex": 73,
+      "arrayIndex": 70,
+      "labelName": "ui_msg_xmenu_timeline_guide_63",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Arrêtez les membres de la Team Galaxie qui",
+          "strWidth": 573.875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "se trouvent au sommet du Mont Couronné.",
+          "strWidth": 555.078125
+        }
+      ]
+    },
+    {
+      "labelIndex": 74,
+      "arrayIndex": 71,
+      "labelName": "ui_msg_xmenu_timeline_guide_91",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Trouvez la CT Escalade sur la Route 217.",
+          "strWidth": 530.75
+        }
+      ]
+    },
+    {
+      "labelIndex": 75,
+      "arrayIndex": 72,
+      "labelName": "ui_msg_xmenu_timeline_guide_64",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Apaisez la fureur du Pokémon légendaire.",
+          "strWidth": 541.171875
+        }
+      ]
+    },
+    {
+      "labelIndex": 76,
+      "arrayIndex": 73,
+      "labelName": "ui_msg_xmenu_timeline_guide_65",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Allez à Rivamar.",
+          "strWidth": 207.515625
+        }
+      ]
+    },
+    {
+      "labelIndex": 77,
+      "arrayIndex": 74,
+      "labelName": "ui_msg_xmenu_timeline_guide_66",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Trouvez le Champion de l’Arène de Rivamar.",
+          "strWidth": 580.40625
+        }
+      ]
+    },
+    {
+      "labelIndex": 78,
+      "arrayIndex": 75,
+      "labelName": "ui_msg_xmenu_timeline_guide_67",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Battez le Champion de l’Arène de Rivamar.",
+          "strWidth": 559.515625
+        }
+      ]
+    },
+    {
+      "labelIndex": 79,
+      "arrayIndex": 76,
+      "labelName": "ui_msg_xmenu_timeline_guide_68",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Dirigez-vous vers la Ligue Pokémon.",
+          "strWidth": 468.578125
+        }
+      ]
+    },
+    {
+      "labelIndex": 80,
+      "arrayIndex": 77,
+      "labelName": "ui_msg_xmenu_timeline_guide_92",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Battez les membres de la Ligue Pokémon.",
+          "strWidth": 539.015625
+        }
+      ]
+    },
+    {
+      "labelIndex": 81,
+      "arrayIndex": 78,
+      "labelName": "ui_msg_xmenu_timeline_guide_74",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Descendez au rez-de-chaussée.",
+          "strWidth": 407.1875
+        }
+      ]
+    },
+    {
+      "labelIndex": 82,
+      "arrayIndex": 79,
+      "labelName": "ui_msg_xmenu_timeline_guide_75",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 1
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 0,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Rendez-vous à l’endroit où ",
+          "strWidth": 357.609375
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": 0.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "vous a demandé d’aller.",
+          "strWidth": 310.234375
+        }
+      ]
+    },
+    {
+      "labelIndex": 83,
+      "arrayIndex": 80,
+      "labelName": "ui_msg_xmenu_timeline_guide_76",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Help battle Flint & Volkner!",
+          "strWidth": 399.625
+        }
+      ]
+    },
+    {
+      "labelIndex": 84,
+      "arrayIndex": 81,
+      "labelName": "ui_msg_xmenu_timeline_guide_77",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Rendez-vous à la Tour de Combat.",
+          "strWidth": 450.109375
+        }
+      ]
+    },
+    {
+      "labelIndex": 85,
+      "arrayIndex": 82,
+      "labelName": "ui_msg_xmenu_timeline_guide_78",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Complétez votre Pokédex, puis allez annoncer",
+          "strWidth": 601.78125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "la bonne nouvelle au Professeur.",
+          "strWidth": 421.03125
+        }
+      ]
+    },
+    {
+      "labelIndex": 86,
+      "arrayIndex": 83,
+      "labelName": "ui_msg_xmenu_timeline_guide_79",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Explorez chaque recoin de la région de Sinnoh.",
+          "strWidth": 612.03125
+        }
+      ]
+    },
+    {
+      "labelIndex": 87,
+      "arrayIndex": 84,
+      "labelName": "ui_msg_xmenu_timeline_communication_01",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Une personne pouvant jouer par communication",
+          "strWidth": 622.75
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "sans fil locale semble se trouver près de vous.",
+          "strWidth": 591.078125
+        }
+      ]
+    },
+    {
+      "labelIndex": 88,
+      "arrayIndex": 85,
+      "labelName": "ui_msg_xmenu_timeline_pokeoutbreak_00",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 1
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [
+        {
+          "tagIndex": 1,
+          "groupID": 1,
+          "tagID": 1,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        },
+        {
+          "tagIndex": 0,
+          "groupID": 1,
+          "tagID": 71,
+          "tagPatternID": 0,
+          "forceArticle": 0,
+          "tagParameter": 0,
+          "tagWordArray": [],
+          "forceGrmID": 0
+        }
+      ],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 0,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "De nombreux ",
+          "strWidth": 183.796875
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 0,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": " sont apparus",
+          "strWidth": 173.484375
+        },
+        {
+          "patternID": 5,
+          "eventID": 0,
+          "tagIndex": 1,
+          "tagValue": 0.0,
+          "str": "",
+          "strWidth": -1.0
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": ".",
+          "strWidth": 7.90625
+        }
+      ]
+    },
+    {
+      "labelIndex": 30,
+      "arrayIndex": 86,
+      "labelName": "ui_msg_xmenu_timeline_guide_93",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Explorez le Centre Galaxie de Vestigion.",
+          "strWidth": 528.3125
+        }
+      ]
+    },
+    {
+      "labelIndex": 48,
+      "arrayIndex": 87,
+      "labelName": "ui_msg_xmenu_timeline_guide_94",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Explorez l’entrée du Lac Courage.",
+          "strWidth": 440.71875
+        }
+      ]
+    },
+    {
+      "labelIndex": 65,
+      "arrayIndex": 88,
+      "labelName": "ui_msg_xmenu_timeline_guide_95",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Battez la Championne de l’Arène de Frimapic.",
+          "strWidth": 598.359375
+        }
+      ]
+    },
+    {
+      "labelIndex": 89,
+      "arrayIndex": 89,
+      "labelName": "ui_msg_xmenu_timeline_guide_49_1",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Make your way to Renegade Park.",
+          "strWidth": 426.15625
+        }
+      ]
+    },
+    {
+      "labelIndex": 90,
+      "arrayIndex": 90,
+      "labelName": "ui_msg_xmenu_timeline_guide_86_1",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Go train on Iron Island!",
+          "strWidth": 371.75
+        }
+      ]
+    },
+    {
+      "labelIndex": 91,
+      "arrayIndex": 91,
+      "labelName": "ui_msg_xmenu_timeline_guide_86_2",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Explore Iron Island!",
+          "strWidth": 371.75
+        }
+      ]
+    },
+    {
+      "labelIndex": 92,
+      "arrayIndex": 92,
+      "labelName": "ui_msg_xmenu_timeline_guide_48_1",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Go to Canalave City!",
+          "strWidth": 371.75
+        }
+      ]
+    },
+    {
+      "labelIndex": 93,
+      "arrayIndex": 93,
+      "labelName": "ui_msg_xmenu_timeline_guide_64_1",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Go visit Professor Rowan!",
+          "strWidth": 371.75
+        }
+      ]
+    },
+    {
+      "labelIndex": 94,
+      "arrayIndex": 94,
+      "labelName": "ui_msg_xmenu_timeline_guide_38_1",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Go to Veilstone City!",
+          "strWidth": 371.75
+        }
+      ]
+    },
+    {
+      "labelIndex": 95,
+      "arrayIndex": 95,
+      "labelName": "ui_msg_xmenu_timeline_guide_34_1",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Go to the psychic signal!",
+          "strWidth": 371.75
+        }
+      ]
+    },
+    {
+      "labelIndex": 96,
+      "arrayIndex": 96,
+      "labelName": "ui_msg_xmenu_timeline_guide_80_1",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Find Gardenia on Route 216!",
+          "strWidth": 371.75
+        }
+      ]
+    },
+    {
+      "labelIndex": 97,
+      "arrayIndex": 97,
+      "labelName": "ui_msg_xmenu_timeline_guide_post_riley",
+      "styleInfo": {
+        "styleIndex": 20,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        0,
+        0,
+        -1,
+        0
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Talk to Byron on Iron Island!",
+          "strWidth": 371.75
+        }
+      ]
+    }
+  ]
 }

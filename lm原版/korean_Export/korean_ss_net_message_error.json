@@ -1,935 +1,935 @@
 {
-    "m_GameObject": {
-        "m_FileID": 0,
-        "m_PathID": 0
-    },
-    "m_Enabled": 1,
-    "m_Script": {
-        "m_FileID": 0,
-        "m_PathID": 3652094840918934080
-    },
-    "m_Name": "korean_ss_net_message_error",
-    "hash": -677861697,
-    "langID": 8,
-    "isResident": 0,
-    "isKanji": 0,
-    "labelDataArray": [
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3652094840918934080
+  },
+  "m_Name": "korean_ss_net_message_error",
+  "hash": -677861697,
+  "langID": 8,
+  "isResident": 0,
+  "isKanji": 0,
+  "labelDataArray": [
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "error_o_serial_0031",
+      "styleInfo": {
+        "styleIndex": 26,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
         {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "error_o_serial_0031",
-            "styleInfo": {
-                "styleIndex": 26,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "시리얼 코드 인증 서버에서",
-                    "strWidth": 383.96875
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "에러가 발생했습니다.",
-                    "strWidth": 307.25
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "잠시 시간을 두고",
-                    "strWidth": 245.3125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "다시 한번 시도해 주십시오.",
-                    "strWidth": 392.5625
-                }
-            ]
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "시리얼 코드 인증 서버에서",
+          "strWidth": 383.96875
         },
         {
-            "labelIndex": 18,
-            "arrayIndex": 1,
-            "labelName": "error_comm_28",
-            "styleInfo": {
-                "styleIndex": 26,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "서버에 접속하지 못했습니다.",
-                    "strWidth": 413.90625
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "다시 한번",
-                    "strWidth": 138.65625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "처음부터 시도해 주십시오.",
-                    "strWidth": 381.90625
-                }
-            ]
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "에러가 발생했습니다.",
+          "strWidth": 307.25
         },
         {
-            "labelIndex": 1,
-            "arrayIndex": 2,
-            "labelName": "error_o_serial_0091",
-            "styleInfo": {
-                "styleIndex": 26,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "시리얼 코드 인증 서버는",
-                    "strWidth": 351.96875
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "점검 중이므로 통신할 수 없습니다.",
-                    "strWidth": 499.21875
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "잠시 시간을 두고",
-                    "strWidth": 245.3125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "다시 한번 시도해 주십시오.",
-                    "strWidth": 392.5625
-                }
-            ]
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "잠시 시간을 두고",
+          "strWidth": 245.3125
         },
         {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": 0,
-                "fontSize": 0,
-                "maxWidth": 0,
-                "controlID": 0
-            },
-            "attributeValueArray": [],
-            "tagDataArray": [],
-            "wordDataArray": []
-        },
-        {
-            "labelIndex": 2,
-            "arrayIndex": 4,
-            "labelName": "error_o_serial_0092",
-            "styleInfo": {
-                "styleIndex": 26,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "이용하시려는 서비스는 종료되었습니다.",
-                    "strWidth": 573.90625
-                }
-            ]
-        },
-        {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": 0,
-                "fontSize": 0,
-                "maxWidth": 0,
-                "controlID": 0
-            },
-            "attributeValueArray": [],
-            "tagDataArray": [],
-            "wordDataArray": []
-        },
-        {
-            "labelIndex": 3,
-            "arrayIndex": 6,
-            "labelName": "error_o_serial_0098",
-            "styleInfo": {
-                "styleIndex": 26,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "시리얼 코드 인증 서버에서",
-                    "strWidth": 383.96875
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "에러가 발생했습니다.",
-                    "strWidth": 307.25
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "잠시 시간을 두고",
-                    "strWidth": 245.3125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "다시 한번 시도해 주십시오.",
-                    "strWidth": 392.5625
-                }
-            ]
-        },
-        {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": 0,
-                "fontSize": 0,
-                "maxWidth": 0,
-                "controlID": 0
-            },
-            "attributeValueArray": [],
-            "tagDataArray": [],
-            "wordDataArray": []
-        },
-        {
-            "labelIndex": 4,
-            "arrayIndex": 8,
-            "labelName": "error_o_serial_0099",
-            "styleInfo": {
-                "styleIndex": 26,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "시리얼 코드 인증 서버에서",
-                    "strWidth": 383.96875
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "에러가 발생했습니다.",
-                    "strWidth": 307.25
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "잠시 시간을 두고",
-                    "strWidth": 245.3125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "다시 한번 시도해 주십시오.",
-                    "strWidth": 392.5625
-                }
-            ]
-        },
-        {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": 0,
-                "fontSize": 0,
-                "maxWidth": 0,
-                "controlID": 0
-            },
-            "attributeValueArray": [],
-            "tagDataArray": [],
-            "wordDataArray": []
-        },
-        {
-            "labelIndex": 5,
-            "arrayIndex": 10,
-            "labelName": "error_o_serial_http500",
-            "styleInfo": {
-                "styleIndex": 26,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "시리얼 코드 인증 서버가",
-                    "strWidth": 351.96875
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "혼잡한 상태입니다.",
-                    "strWidth": 275.25
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "잠시 시간을 두고",
-                    "strWidth": 245.3125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "다시 한번 시도해 주십시오.",
-                    "strWidth": 392.5625
-                }
-            ]
-        },
-        {
-            "labelIndex": 0,
-            "arrayIndex": 0,
-            "labelName": "",
-            "styleInfo": {
-                "styleIndex": 0,
-                "colorIndex": 0,
-                "fontSize": 0,
-                "maxWidth": 0,
-                "controlID": 0
-            },
-            "attributeValueArray": [],
-            "tagDataArray": [],
-            "wordDataArray": []
-        },
-        {
-            "labelIndex": 6,
-            "arrayIndex": 12,
-            "labelName": "error_comm_03",
-            "styleInfo": {
-                "styleIndex": 26,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "서버와의 통신이",
-                    "strWidth": 234.65625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "끊겼습니다.",
-                    "strWidth": 168.59375
-                }
-            ]
-        },
-        {
-            "labelIndex": 8,
-            "arrayIndex": 13,
-            "labelName": "error_comm_07",
-            "styleInfo": {
-                "styleIndex": 26,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "상대와의 통신이",
-                    "strWidth": 234.65625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "끊겼습니다.",
-                    "strWidth": 168.59375
-                }
-            ]
-        },
-        {
-            "labelIndex": 9,
-            "arrayIndex": 14,
-            "labelName": "error_fatal_save_00",
-            "styleInfo": {
-                "styleIndex": 26,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "에러가 발생했습니다.",
-                    "strWidth": 307.25
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "포켓몬 교환을",
-                    "strWidth": 202.65625
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "진행하지 못했습니다.",
-                    "strWidth": 307.25
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "HOME 버튼을 눌러",
-                    "strWidth": 284.6875
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "종료해 주십시오.",
-                    "strWidth": 243.25
-                }
-            ]
-        },
-        {
-            "labelIndex": 10,
-            "arrayIndex": 15,
-            "labelName": "erro_fatal_storage",
-            "styleInfo": {
-                "styleIndex": 26,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "Nintendo Switch에서",
-                    "strWidth": 329.125
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "저장 데이터를",
-                    "strWidth": 202.65625
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "인식하지 못했습니다.",
-                    "strWidth": 307.25
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "본체의 전원을 끄고",
-                    "strWidth": 277.3125
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "다시 한번 시도해 주십시오.",
-                    "strWidth": 392.5625
-                }
-            ]
-        },
-        {
-            "labelIndex": 11,
-            "arrayIndex": 16,
-            "labelName": "error_comm_21",
-            "styleInfo": {
-                "styleIndex": 26,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "패스워드가 틀렸습니다.",
-                    "strWidth": 339.25
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "다시 한번 시도해 주십시오.",
-                    "strWidth": 392.5625
-                }
-            ]
-        },
-        {
-            "labelIndex": 12,
-            "arrayIndex": 17,
-            "labelName": "error_comm_24",
-            "styleInfo": {
-                "styleIndex": 26,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "참가자가 가득 차서 참가할 수 없습니다.",
-                    "strWidth": 573.875
-                }
-            ]
-        },
-        {
-            "labelIndex": 13,
-            "arrayIndex": 18,
-            "labelName": "error_comm_25",
-            "styleInfo": {
-                "styleIndex": 26,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "통신 상대를 찾지 못했습니다.",
-                    "strWidth": 424.5625
-                }
-            ]
-        },
-        {
-            "labelIndex": 14,
-            "arrayIndex": 19,
-            "labelName": "error_validation_common",
-            "styleInfo": {
-                "styleIndex": 26,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "서버에서 에러가 발생했습니다.",
-                    "strWidth": 445.90625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "다시 한번 시도해 주십시오.",
-                    "strWidth": 392.5625
-                }
-            ]
-        },
-        {
-            "labelIndex": 15,
-            "arrayIndex": 20,
-            "labelName": "error_validation_http503",
-            "styleInfo": {
-                "styleIndex": 26,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "현재 점검 중입니다.",
-                    "strWidth": 285.90625
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "잠시 후에",
-                    "strWidth": 138.65625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "다시 한번 시도해 주십시오.",
-                    "strWidth": 392.5625
-                }
-            ]
-        },
-        {
-            "labelIndex": 16,
-            "arrayIndex": 21,
-            "labelName": "error_comm_26",
-            "styleInfo": {
-                "styleIndex": 26,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "통신이 끊겼습니다.",
-                    "strWidth": 275.25
-                }
-            ]
-        },
-        {
-            "labelIndex": 17,
-            "arrayIndex": 22,
-            "labelName": "error_comm_27",
-            "styleInfo": {
-                "styleIndex": 26,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "참가자가 한 명이 되었습니다.",
-                    "strWidth": 424.5625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "통신 콘테스트 쇼를 종료합니다.",
-                    "strWidth": 456.5625
-                }
-            ]
-        },
-        {
-            "labelIndex": 7,
-            "arrayIndex": 23,
-            "labelName": "error_comm_05",
-            "styleInfo": {
-                "styleIndex": 26,
-                "colorIndex": -1,
-                "fontSize": 54,
-                "maxWidth": 1080,
-                "controlID": 0
-            },
-            "attributeValueArray": [
-                -1,
-                -1,
-                -1,
-                -1,
-                -1
-            ],
-            "tagDataArray": [],
-            "wordDataArray": [
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "상대와 접속하지 못했습니다.",
-                    "strWidth": 413.90625
-                },
-                {
-                    "patternID": 7,
-                    "eventID": 1,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "다시 한번",
-                    "strWidth": 138.65625
-                },
-                {
-                    "patternID": 0,
-                    "eventID": 7,
-                    "tagIndex": -1,
-                    "tagValue": 0.0,
-                    "str": "처음부터 시도해 주십시오.",
-                    "strWidth": 381.90625
-                }
-            ]
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "다시 한번 시도해 주십시오.",
+          "strWidth": 392.5625
         }
-    ]
+      ]
+    },
+    {
+      "labelIndex": 18,
+      "arrayIndex": 1,
+      "labelName": "error_comm_28",
+      "styleInfo": {
+        "styleIndex": 26,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "서버에 접속하지 못했습니다.",
+          "strWidth": 413.90625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "다시 한번",
+          "strWidth": 138.65625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "처음부터 시도해 주십시오.",
+          "strWidth": 381.90625
+        }
+      ]
+    },
+    {
+      "labelIndex": 1,
+      "arrayIndex": 2,
+      "labelName": "error_o_serial_0091",
+      "styleInfo": {
+        "styleIndex": 26,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "시리얼 코드 인증 서버는",
+          "strWidth": 351.96875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "점검 중이므로 통신할 수 없습니다.",
+          "strWidth": 499.21875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "잠시 시간을 두고",
+          "strWidth": 245.3125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "다시 한번 시도해 주십시오.",
+          "strWidth": 392.5625
+        }
+      ]
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 2,
+      "arrayIndex": 4,
+      "labelName": "error_o_serial_0092",
+      "styleInfo": {
+        "styleIndex": 26,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "이용하시려는 서비스는 종료되었습니다.",
+          "strWidth": 573.90625
+        }
+      ]
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 3,
+      "arrayIndex": 6,
+      "labelName": "error_o_serial_0098",
+      "styleInfo": {
+        "styleIndex": 26,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "시리얼 코드 인증 서버에서",
+          "strWidth": 383.96875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "에러가 발생했습니다.",
+          "strWidth": 307.25
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "잠시 시간을 두고",
+          "strWidth": 245.3125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "다시 한번 시도해 주십시오.",
+          "strWidth": 392.5625
+        }
+      ]
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 4,
+      "arrayIndex": 8,
+      "labelName": "error_o_serial_0099",
+      "styleInfo": {
+        "styleIndex": 26,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "시리얼 코드 인증 서버에서",
+          "strWidth": 383.96875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "에러가 발생했습니다.",
+          "strWidth": 307.25
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "잠시 시간을 두고",
+          "strWidth": 245.3125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "다시 한번 시도해 주십시오.",
+          "strWidth": 392.5625
+        }
+      ]
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 5,
+      "arrayIndex": 10,
+      "labelName": "error_o_serial_http500",
+      "styleInfo": {
+        "styleIndex": 26,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "시리얼 코드 인증 서버가",
+          "strWidth": 351.96875
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "혼잡한 상태입니다.",
+          "strWidth": 275.25
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "잠시 시간을 두고",
+          "strWidth": 245.3125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "다시 한번 시도해 주십시오.",
+          "strWidth": 392.5625
+        }
+      ]
+    },
+    {
+      "labelIndex": 0,
+      "arrayIndex": 0,
+      "labelName": "",
+      "styleInfo": {
+        "styleIndex": 0,
+        "colorIndex": 0,
+        "fontSize": 0,
+        "maxWidth": 0,
+        "controlID": 0
+      },
+      "attributeValueArray": [],
+      "tagDataArray": [],
+      "wordDataArray": []
+    },
+    {
+      "labelIndex": 6,
+      "arrayIndex": 12,
+      "labelName": "error_comm_03",
+      "styleInfo": {
+        "styleIndex": 26,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "서버와의 통신이",
+          "strWidth": 234.65625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "끊겼습니다.",
+          "strWidth": 168.59375
+        }
+      ]
+    },
+    {
+      "labelIndex": 8,
+      "arrayIndex": 13,
+      "labelName": "error_comm_07",
+      "styleInfo": {
+        "styleIndex": 26,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "상대와의 통신이",
+          "strWidth": 234.65625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "끊겼습니다.",
+          "strWidth": 168.59375
+        }
+      ]
+    },
+    {
+      "labelIndex": 9,
+      "arrayIndex": 14,
+      "labelName": "error_fatal_save_00",
+      "styleInfo": {
+        "styleIndex": 26,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "에러가 발생했습니다.",
+          "strWidth": 307.25
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "포켓몬 교환을",
+          "strWidth": 202.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "진행하지 못했습니다.",
+          "strWidth": 307.25
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "HOME 버튼을 눌러",
+          "strWidth": 284.6875
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "종료해 주십시오.",
+          "strWidth": 243.25
+        }
+      ]
+    },
+    {
+      "labelIndex": 10,
+      "arrayIndex": 15,
+      "labelName": "erro_fatal_storage",
+      "styleInfo": {
+        "styleIndex": 26,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "Nintendo Switch에서",
+          "strWidth": 329.125
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "저장 데이터를",
+          "strWidth": 202.65625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "인식하지 못했습니다.",
+          "strWidth": 307.25
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "본체의 전원을 끄고",
+          "strWidth": 277.3125
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "다시 한번 시도해 주십시오.",
+          "strWidth": 392.5625
+        }
+      ]
+    },
+    {
+      "labelIndex": 11,
+      "arrayIndex": 16,
+      "labelName": "error_comm_21",
+      "styleInfo": {
+        "styleIndex": 26,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "패스워드가 틀렸습니다.",
+          "strWidth": 339.25
+        },
+        {
+          "patternID": 7,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "다시 한번 시도해 주십시오.",
+          "strWidth": 392.5625
+        }
+      ]
+    },
+    {
+      "labelIndex": 12,
+      "arrayIndex": 17,
+      "labelName": "error_comm_24",
+      "styleInfo": {
+        "styleIndex": 26,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "참가자가 가득 차서 참가할 수 없습니다.",
+          "strWidth": 573.875
+        }
+      ]
+    },
+    {
+      "labelIndex": 13,
+      "arrayIndex": 18,
+      "labelName": "error_comm_25",
+      "styleInfo": {
+        "styleIndex": 26,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "통신 상대를 찾지 못했습니다.",
+          "strWidth": 424.5625
+        }
+      ]
+    },
+    {
+      "labelIndex": 14,
+      "arrayIndex": 19,
+      "labelName": "error_validation_common",
+      "styleInfo": {
+        "styleIndex": 26,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "서버에서 에러가 발생했습니다.",
+          "strWidth": 445.90625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "다시 한번 시도해 주십시오.",
+          "strWidth": 392.5625
+        }
+      ]
+    },
+    {
+      "labelIndex": 15,
+      "arrayIndex": 20,
+      "labelName": "error_validation_http503",
+      "styleInfo": {
+        "styleIndex": 26,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "현재 점검 중입니다.",
+          "strWidth": 285.90625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "잠시 후에",
+          "strWidth": 138.65625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "다시 한번 시도해 주십시오.",
+          "strWidth": 392.5625
+        }
+      ]
+    },
+    {
+      "labelIndex": 16,
+      "arrayIndex": 21,
+      "labelName": "error_comm_26",
+      "styleInfo": {
+        "styleIndex": 26,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "통신이 끊겼습니다.",
+          "strWidth": 275.25
+        }
+      ]
+    },
+    {
+      "labelIndex": 17,
+      "arrayIndex": 22,
+      "labelName": "error_comm_27",
+      "styleInfo": {
+        "styleIndex": 26,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "참가자가 한 명이 되었습니다.",
+          "strWidth": 424.5625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "통신 콘테스트 쇼를 종료합니다.",
+          "strWidth": 456.5625
+        }
+      ]
+    },
+    {
+      "labelIndex": 7,
+      "arrayIndex": 23,
+      "labelName": "error_comm_05",
+      "styleInfo": {
+        "styleIndex": 26,
+        "colorIndex": -1,
+        "fontSize": 54,
+        "maxWidth": 1080,
+        "controlID": 0
+      },
+      "attributeValueArray": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "tagDataArray": [],
+      "wordDataArray": [
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "상대와 접속하지 못했습니다.",
+          "strWidth": 413.90625
+        },
+        {
+          "patternID": 7,
+          "eventID": 1,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "다시 한번",
+          "strWidth": 138.65625
+        },
+        {
+          "patternID": 0,
+          "eventID": 7,
+          "tagIndex": -1,
+          "tagValue": 0.0,
+          "str": "처음부터 시도해 주십시오.",
+          "strWidth": 381.90625
+        }
+      ]
+    }
+  ]
 }
